@@ -1,0 +1,1509 @@
+{
+  "dua_id": "dua_kumayl",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 973.575,
+  "bytes": 4477233,
+  "sha256": "63d9f1050fd1f063b2d8bcb8148ec64c9043e1d416efaf605b264e486773eebd",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_kumayl",
+      "start": 0.0,
+      "end": 4.629
+    },
+    {
+      "id": 2,
+      "section": "dua_kumayl",
+      "start": 4.979,
+      "end": 9.366
+    },
+    {
+      "id": 3,
+      "section": "dua_kumayl",
+      "start": 9.716,
+      "end": 11.852
+    },
+    {
+      "id": 4,
+      "section": "dua_kumayl",
+      "start": 12.202,
+      "end": 14.165
+    },
+    {
+      "id": 5,
+      "section": "dua_kumayl",
+      "start": 14.515,
+      "end": 19.054
+    },
+    {
+      "id": 6,
+      "section": "dua_kumayl",
+      "start": 19.404,
+      "end": 23.073
+    },
+    {
+      "id": 7,
+      "section": "dua_kumayl",
+      "start": 23.423,
+      "end": 26.987
+    },
+    {
+      "id": 8,
+      "section": "dua_kumayl",
+      "start": 27.337,
+      "end": 31.029
+    },
+    {
+      "id": 9,
+      "section": "dua_kumayl",
+      "start": 31.379,
+      "end": 36.36
+    },
+    {
+      "id": 10,
+      "section": "dua_kumayl",
+      "start": 36.71,
+      "end": 41.029
+    },
+    {
+      "id": 11,
+      "section": "dua_kumayl",
+      "start": 41.379,
+      "end": 44.966
+    },
+    {
+      "id": 12,
+      "section": "dua_kumayl",
+      "start": 45.316,
+      "end": 48.672
+    },
+    {
+      "id": 13,
+      "section": "dua_kumayl",
+      "start": 49.022,
+      "end": 50.624
+    },
+    {
+      "id": 14,
+      "section": "dua_kumayl",
+      "start": 50.974,
+      "end": 52.506
+    },
+    {
+      "id": 15,
+      "section": "dua_kumayl",
+      "start": 52.856,
+      "end": 55.19
+    },
+    {
+      "id": 16,
+      "section": "dua_kumayl",
+      "start": 55.54,
+      "end": 60.441
+    },
+    {
+      "id": 17,
+      "section": "dua_kumayl",
+      "start": 60.791,
+      "end": 64.252
+    },
+    {
+      "id": 18,
+      "section": "dua_kumayl",
+      "start": 64.602,
+      "end": 68.064
+    },
+    {
+      "id": 19,
+      "section": "dua_kumayl",
+      "start": 68.414,
+      "end": 72.022
+    },
+    {
+      "id": 20,
+      "section": "dua_kumayl",
+      "start": 72.372,
+      "end": 76.482
+    },
+    {
+      "id": 21,
+      "section": "dua_kumayl",
+      "start": 76.832,
+      "end": 80.176
+    },
+    {
+      "id": 22,
+      "section": "dua_kumayl",
+      "start": 80.526,
+      "end": 86.215
+    },
+    {
+      "id": 23,
+      "section": "dua_kumayl",
+      "start": 86.565,
+      "end": 89.945
+    },
+    {
+      "id": 24,
+      "section": "dua_kumayl",
+      "start": 90.295,
+      "end": 93.709
+    },
+    {
+      "id": 25,
+      "section": "dua_kumayl",
+      "start": 94.059,
+      "end": 99.132
+    },
+    {
+      "id": 26,
+      "section": "dua_kumayl",
+      "start": 99.482,
+      "end": 103.058
+    },
+    {
+      "id": 27,
+      "section": "dua_kumayl",
+      "start": 103.408,
+      "end": 105.672
+    },
+    {
+      "id": 28,
+      "section": "dua_kumayl",
+      "start": 106.022,
+      "end": 116.529
+    },
+    {
+      "id": 29,
+      "section": "dua_kumayl",
+      "start": 116.879,
+      "end": 122.474
+    },
+    {
+      "id": 30,
+      "section": "dua_kumayl",
+      "start": 122.824,
+      "end": 127.294
+    },
+    {
+      "id": 31,
+      "section": "dua_kumayl",
+      "start": 127.644,
+      "end": 130.929
+    },
+    {
+      "id": 32,
+      "section": "dua_kumayl",
+      "start": 131.279,
+      "end": 134.771
+    },
+    {
+      "id": 33,
+      "section": "dua_kumayl",
+      "start": 135.121,
+      "end": 139.323
+    },
+    {
+      "id": 34,
+      "section": "dua_kumayl",
+      "start": 139.673,
+      "end": 142.622
+    },
+    {
+      "id": 35,
+      "section": "dua_kumayl",
+      "start": 142.972,
+      "end": 146.293
+    },
+    {
+      "id": 36,
+      "section": "dua_kumayl",
+      "start": 146.643,
+      "end": 149.127
+    },
+    {
+      "id": 37,
+      "section": "dua_kumayl",
+      "start": 149.477,
+      "end": 152.775
+    },
+    {
+      "id": 38,
+      "section": "dua_kumayl",
+      "start": 153.125,
+      "end": 155.992
+    },
+    {
+      "id": 39,
+      "section": "dua_kumayl",
+      "start": 156.342,
+      "end": 160.615
+    },
+    {
+      "id": 40,
+      "section": "dua_kumayl",
+      "start": 160.965,
+      "end": 162.532
+    },
+    {
+      "id": 41,
+      "section": "dua_kumayl",
+      "start": 162.882,
+      "end": 165.088
+    },
+    {
+      "id": 42,
+      "section": "dua_kumayl",
+      "start": 165.438,
+      "end": 167.249
+    },
+    {
+      "id": 43,
+      "section": "dua_kumayl",
+      "start": 167.599,
+      "end": 169.979
+    },
+    {
+      "id": 44,
+      "section": "dua_kumayl",
+      "start": 170.329,
+      "end": 176.053
+    },
+    {
+      "id": 45,
+      "section": "dua_kumayl",
+      "start": 176.403,
+      "end": 178.242
+    },
+    {
+      "id": 46,
+      "section": "dua_kumayl",
+      "start": 178.592,
+      "end": 181.17
+    },
+    {
+      "id": 47,
+      "section": "dua_kumayl",
+      "start": 181.52,
+      "end": 185.734
+    },
+    {
+      "id": 48,
+      "section": "dua_kumayl",
+      "start": 186.084,
+      "end": 188.871
+    },
+    {
+      "id": 49,
+      "section": "dua_kumayl",
+      "start": 189.221,
+      "end": 192.031
+    },
+    {
+      "id": 50,
+      "section": "dua_kumayl",
+      "start": 192.381,
+      "end": 196.99
+    },
+    {
+      "id": 51,
+      "section": "dua_kumayl",
+      "start": 197.34,
+      "end": 199.975
+    },
+    {
+      "id": 52,
+      "section": "dua_kumayl",
+      "start": 200.325,
+      "end": 202.554
+    },
+    {
+      "id": 53,
+      "section": "dua_kumayl",
+      "start": 202.904,
+      "end": 205.296
+    },
+    {
+      "id": 54,
+      "section": "dua_kumayl",
+      "start": 205.646,
+      "end": 208.247
+    },
+    {
+      "id": 55,
+      "section": "dua_kumayl",
+      "start": 208.597,
+      "end": 211.731
+    },
+    {
+      "id": 56,
+      "section": "dua_kumayl",
+      "start": 212.081,
+      "end": 217.944
+    },
+    {
+      "id": 57,
+      "section": "dua_kumayl",
+      "start": 218.294,
+      "end": 226.224
+    },
+    {
+      "id": 58,
+      "section": "dua_kumayl",
+      "start": 226.574,
+      "end": 230.777
+    },
+    {
+      "id": 59,
+      "section": "dua_kumayl",
+      "start": 231.127,
+      "end": 235.186
+    },
+    {
+      "id": 60,
+      "section": "dua_kumayl",
+      "start": 235.536,
+      "end": 238.304
+    },
+    {
+      "id": 61,
+      "section": "dua_kumayl",
+      "start": 238.654,
+      "end": 240.813
+    },
+    {
+      "id": 62,
+      "section": "dua_kumayl",
+      "start": 241.163,
+      "end": 243.902
+    },
+    {
+      "id": 63,
+      "section": "dua_kumayl",
+      "start": 244.252,
+      "end": 248.553
+    },
+    {
+      "id": 64,
+      "section": "dua_kumayl",
+      "start": 248.903,
+      "end": 251.445
+    },
+    {
+      "id": 65,
+      "section": "dua_kumayl",
+      "start": 251.795,
+      "end": 259.986
+    },
+    {
+      "id": 66,
+      "section": "dua_kumayl",
+      "start": 260.336,
+      "end": 266.919
+    },
+    {
+      "id": 67,
+      "section": "dua_kumayl",
+      "start": 267.269,
+      "end": 270.311
+    },
+    {
+      "id": 68,
+      "section": "dua_kumayl",
+      "start": 270.661,
+      "end": 275.56
+    },
+    {
+      "id": 69,
+      "section": "dua_kumayl",
+      "start": 275.91,
+      "end": 280.345
+    },
+    {
+      "id": 70,
+      "section": "dua_kumayl",
+      "start": 280.695,
+      "end": 283.11
+    },
+    {
+      "id": 71,
+      "section": "dua_kumayl",
+      "start": 283.46,
+      "end": 286.258
+    },
+    {
+      "id": 72,
+      "section": "dua_kumayl",
+      "start": 286.608,
+      "end": 291.272
+    },
+    {
+      "id": 73,
+      "section": "dua_kumayl",
+      "start": 291.622,
+      "end": 295.245
+    },
+    {
+      "id": 74,
+      "section": "dua_kumayl",
+      "start": 295.595,
+      "end": 300.854
+    },
+    {
+      "id": 75,
+      "section": "dua_kumayl",
+      "start": 301.204,
+      "end": 303.317
+    },
+    {
+      "id": 76,
+      "section": "dua_kumayl",
+      "start": 303.667,
+      "end": 306.047
+    },
+    {
+      "id": 77,
+      "section": "dua_kumayl",
+      "start": 306.397,
+      "end": 308.692
+    },
+    {
+      "id": 78,
+      "section": "dua_kumayl",
+      "start": 309.042,
+      "end": 313.05
+    },
+    {
+      "id": 79,
+      "section": "dua_kumayl",
+      "start": 313.4,
+      "end": 316.5
+    },
+    {
+      "id": 80,
+      "section": "dua_kumayl",
+      "start": 316.85,
+      "end": 320.09
+    },
+    {
+      "id": 81,
+      "section": "dua_kumayl",
+      "start": 320.44,
+      "end": 324.96
+    },
+    {
+      "id": 82,
+      "section": "dua_kumayl",
+      "start": 325.31,
+      "end": 327.783
+    },
+    {
+      "id": 83,
+      "section": "dua_kumayl",
+      "start": 328.133,
+      "end": 330.502
+    },
+    {
+      "id": 84,
+      "section": "dua_kumayl",
+      "start": 330.852,
+      "end": 333.661
+    },
+    {
+      "id": 85,
+      "section": "dua_kumayl",
+      "start": 334.011,
+      "end": 339.071
+    },
+    {
+      "id": 86,
+      "section": "dua_kumayl",
+      "start": 339.421,
+      "end": 344.866
+    },
+    {
+      "id": 87,
+      "section": "dua_kumayl",
+      "start": 345.216,
+      "end": 349.895
+    },
+    {
+      "id": 88,
+      "section": "dua_kumayl",
+      "start": 350.245,
+      "end": 352.509
+    },
+    {
+      "id": 89,
+      "section": "dua_kumayl",
+      "start": 352.859,
+      "end": 357.294
+    },
+    {
+      "id": 90,
+      "section": "dua_kumayl",
+      "start": 357.644,
+      "end": 360.999
+    },
+    {
+      "id": 91,
+      "section": "dua_kumayl",
+      "start": 361.349,
+      "end": 363.508
+    },
+    {
+      "id": 92,
+      "section": "dua_kumayl",
+      "start": 363.858,
+      "end": 367.922
+    },
+    {
+      "id": 93,
+      "section": "dua_kumayl",
+      "start": 368.272,
+      "end": 372.858
+    },
+    {
+      "id": 94,
+      "section": "dua_kumayl",
+      "start": 373.208,
+      "end": 378.235
+    },
+    {
+      "id": 95,
+      "section": "dua_kumayl",
+      "start": 378.585,
+      "end": 381.592
+    },
+    {
+      "id": 96,
+      "section": "dua_kumayl",
+      "start": 381.942,
+      "end": 384.943
+    },
+    {
+      "id": 97,
+      "section": "dua_kumayl",
+      "start": 385.293,
+      "end": 390.042
+    },
+    {
+      "id": 98,
+      "section": "dua_kumayl",
+      "start": 390.392,
+      "end": 394.42
+    },
+    {
+      "id": 99,
+      "section": "dua_kumayl",
+      "start": 394.77,
+      "end": 400.238
+    },
+    {
+      "id": 100,
+      "section": "dua_kumayl",
+      "start": 400.588,
+      "end": 406.86
+    },
+    {
+      "id": 101,
+      "section": "dua_kumayl",
+      "start": 407.21,
+      "end": 411.308
+    },
+    {
+      "id": 102,
+      "section": "dua_kumayl",
+      "start": 411.658,
+      "end": 416.244
+    },
+    {
+      "id": 103,
+      "section": "dua_kumayl",
+      "start": 416.594,
+      "end": 424.953
+    },
+    {
+      "id": 104,
+      "section": "dua_kumayl",
+      "start": 425.303,
+      "end": 430.528
+    },
+    {
+      "id": 105,
+      "section": "dua_kumayl",
+      "start": 430.878,
+      "end": 432.341
+    },
+    {
+      "id": 106,
+      "section": "dua_kumayl",
+      "start": 432.691,
+      "end": 437.497
+    },
+    {
+      "id": 107,
+      "section": "dua_kumayl",
+      "start": 437.847,
+      "end": 441.365
+    },
+    {
+      "id": 108,
+      "section": "dua_kumayl",
+      "start": 441.715,
+      "end": 449.679
+    },
+    {
+      "id": 109,
+      "section": "dua_kumayl",
+      "start": 450.029,
+      "end": 455.997
+    },
+    {
+      "id": 110,
+      "section": "dua_kumayl",
+      "start": 456.347,
+      "end": 463.568
+    },
+    {
+      "id": 111,
+      "section": "dua_kumayl",
+      "start": 463.918,
+      "end": 468.128
+    },
+    {
+      "id": 112,
+      "section": "dua_kumayl",
+      "start": 468.478,
+      "end": 472.332
+    },
+    {
+      "id": 113,
+      "section": "dua_kumayl",
+      "start": 472.682,
+      "end": 475.562
+    },
+    {
+      "id": 114,
+      "section": "dua_kumayl",
+      "start": 475.912,
+      "end": 479.902
+    },
+    {
+      "id": 115,
+      "section": "dua_kumayl",
+      "start": 480.252,
+      "end": 483.433
+    },
+    {
+      "id": 116,
+      "section": "dua_kumayl",
+      "start": 483.783,
+      "end": 486.059
+    },
+    {
+      "id": 117,
+      "section": "dua_kumayl",
+      "start": 486.409,
+      "end": 488.731
+    },
+    {
+      "id": 118,
+      "section": "dua_kumayl",
+      "start": 489.081,
+      "end": 491.298
+    },
+    {
+      "id": 119,
+      "section": "dua_kumayl",
+      "start": 491.648,
+      "end": 494.969
+    },
+    {
+      "id": 120,
+      "section": "dua_kumayl",
+      "start": 495.319,
+      "end": 498.732
+    },
+    {
+      "id": 121,
+      "section": "dua_kumayl",
+      "start": 499.082,
+      "end": 502.403
+    },
+    {
+      "id": 122,
+      "section": "dua_kumayl",
+      "start": 502.753,
+      "end": 506.619
+    },
+    {
+      "id": 123,
+      "section": "dua_kumayl",
+      "start": 506.969,
+      "end": 513.279
+    },
+    {
+      "id": 124,
+      "section": "dua_kumayl",
+      "start": 513.629,
+      "end": 515.87
+    },
+    {
+      "id": 125,
+      "section": "dua_kumayl",
+      "start": 516.22,
+      "end": 519.331
+    },
+    {
+      "id": 126,
+      "section": "dua_kumayl",
+      "start": 519.681,
+      "end": 522.886
+    },
+    {
+      "id": 127,
+      "section": "dua_kumayl",
+      "start": 523.236,
+      "end": 526.893
+    },
+    {
+      "id": 128,
+      "section": "dua_kumayl",
+      "start": 527.243,
+      "end": 534.708
+    },
+    {
+      "id": 129,
+      "section": "dua_kumayl",
+      "start": 535.058,
+      "end": 540.817
+    },
+    {
+      "id": 130,
+      "section": "dua_kumayl",
+      "start": 541.167,
+      "end": 546.396
+    },
+    {
+      "id": 131,
+      "section": "dua_kumayl",
+      "start": 546.746,
+      "end": 551.02
+    },
+    {
+      "id": 132,
+      "section": "dua_kumayl",
+      "start": 551.37,
+      "end": 555.633
+    },
+    {
+      "id": 133,
+      "section": "dua_kumayl",
+      "start": 555.983,
+      "end": 558.48
+    },
+    {
+      "id": 134,
+      "section": "dua_kumayl",
+      "start": 558.83,
+      "end": 560.873
+    },
+    {
+      "id": 135,
+      "section": "dua_kumayl",
+      "start": 561.223,
+      "end": 562.93
+    },
+    {
+      "id": 136,
+      "section": "dua_kumayl",
+      "start": 563.28,
+      "end": 565.26
+    },
+    {
+      "id": 137,
+      "section": "dua_kumayl",
+      "start": 565.61,
+      "end": 572.98
+    },
+    {
+      "id": 138,
+      "section": "dua_kumayl",
+      "start": 573.33,
+      "end": 576.976
+    },
+    {
+      "id": 139,
+      "section": "dua_kumayl",
+      "start": 577.326,
+      "end": 580.368
+    },
+    {
+      "id": 140,
+      "section": "dua_kumayl",
+      "start": 580.718,
+      "end": 584.909
+    },
+    {
+      "id": 141,
+      "section": "dua_kumayl",
+      "start": 585.259,
+      "end": 590.924
+    },
+    {
+      "id": 142,
+      "section": "dua_kumayl",
+      "start": 591.274,
+      "end": 594.235
+    },
+    {
+      "id": 143,
+      "section": "dua_kumayl",
+      "start": 594.585,
+      "end": 597.789
+    },
+    {
+      "id": 144,
+      "section": "dua_kumayl",
+      "start": 598.139,
+      "end": 602.934
+    },
+    {
+      "id": 145,
+      "section": "dua_kumayl",
+      "start": 603.284,
+      "end": 608.411
+    },
+    {
+      "id": 146,
+      "section": "dua_kumayl",
+      "start": 608.761,
+      "end": 613.509
+    },
+    {
+      "id": 147,
+      "section": "dua_kumayl",
+      "start": 613.859,
+      "end": 618.434
+    },
+    {
+      "id": 148,
+      "section": "dua_kumayl",
+      "start": 618.784,
+      "end": 622.796
+    },
+    {
+      "id": 149,
+      "section": "dua_kumayl",
+      "start": 623.146,
+      "end": 628.069
+    },
+    {
+      "id": 150,
+      "section": "dua_kumayl",
+      "start": 628.419,
+      "end": 634.224
+    },
+    {
+      "id": 151,
+      "section": "dua_kumayl",
+      "start": 634.574,
+      "end": 637.279
+    },
+    {
+      "id": 152,
+      "section": "dua_kumayl",
+      "start": 637.629,
+      "end": 641.355
+    },
+    {
+      "id": 153,
+      "section": "dua_kumayl",
+      "start": 641.705,
+      "end": 647.592
+    },
+    {
+      "id": 154,
+      "section": "dua_kumayl",
+      "start": 647.942,
+      "end": 652.992
+    },
+    {
+      "id": 155,
+      "section": "dua_kumayl",
+      "start": 653.342,
+      "end": 658.149
+    },
+    {
+      "id": 156,
+      "section": "dua_kumayl",
+      "start": 658.499,
+      "end": 662.527
+    },
+    {
+      "id": 157,
+      "section": "dua_kumayl",
+      "start": 662.877,
+      "end": 666.546
+    },
+    {
+      "id": 158,
+      "section": "dua_kumayl",
+      "start": 666.896,
+      "end": 670.472
+    },
+    {
+      "id": 159,
+      "section": "dua_kumayl",
+      "start": 670.822,
+      "end": 672.819
+    },
+    {
+      "id": 160,
+      "section": "dua_kumayl",
+      "start": 673.169,
+      "end": 676.803
+    },
+    {
+      "id": 161,
+      "section": "dua_kumayl",
+      "start": 677.153,
+      "end": 684.735
+    },
+    {
+      "id": 162,
+      "section": "dua_kumayl",
+      "start": 685.085,
+      "end": 691.832
+    },
+    {
+      "id": 163,
+      "section": "dua_kumayl",
+      "start": 692.182,
+      "end": 698.103
+    },
+    {
+      "id": 164,
+      "section": "dua_kumayl",
+      "start": 698.453,
+      "end": 706.963
+    },
+    {
+      "id": 165,
+      "section": "dua_kumayl",
+      "start": 707.313,
+      "end": 709.844
+    },
+    {
+      "id": 166,
+      "section": "dua_kumayl",
+      "start": 710.194,
+      "end": 711.68
+    },
+    {
+      "id": 167,
+      "section": "dua_kumayl",
+      "start": 712.03,
+      "end": 713.853
+    },
+    {
+      "id": 168,
+      "section": "dua_kumayl",
+      "start": 714.203,
+      "end": 716.234
+    },
+    {
+      "id": 169,
+      "section": "dua_kumayl",
+      "start": 716.584,
+      "end": 718.512
+    },
+    {
+      "id": 170,
+      "section": "dua_kumayl",
+      "start": 718.862,
+      "end": 721.358
+    },
+    {
+      "id": 171,
+      "section": "dua_kumayl",
+      "start": 721.708,
+      "end": 724.308
+    },
+    {
+      "id": 172,
+      "section": "dua_kumayl",
+      "start": 724.658,
+      "end": 729.09
+    },
+    {
+      "id": 173,
+      "section": "dua_kumayl",
+      "start": 729.44,
+      "end": 732.47
+    },
+    {
+      "id": 174,
+      "section": "dua_kumayl",
+      "start": 732.82,
+      "end": 736.257
+    },
+    {
+      "id": 175,
+      "section": "dua_kumayl",
+      "start": 736.607,
+      "end": 739.254
+    },
+    {
+      "id": 176,
+      "section": "dua_kumayl",
+      "start": 739.604,
+      "end": 742.344
+    },
+    {
+      "id": 177,
+      "section": "dua_kumayl",
+      "start": 742.694,
+      "end": 744.958
+    },
+    {
+      "id": 178,
+      "section": "dua_kumayl",
+      "start": 745.308,
+      "end": 747.455
+    },
+    {
+      "id": 179,
+      "section": "dua_kumayl",
+      "start": 747.805,
+      "end": 751.822
+    },
+    {
+      "id": 180,
+      "section": "dua_kumayl",
+      "start": 752.172,
+      "end": 754.402
+    },
+    {
+      "id": 181,
+      "section": "dua_kumayl",
+      "start": 754.752,
+      "end": 756.725
+    },
+    {
+      "id": 182,
+      "section": "dua_kumayl",
+      "start": 757.075,
+      "end": 759.014
+    },
+    {
+      "id": 183,
+      "section": "dua_kumayl",
+      "start": 759.364,
+      "end": 761.295
+    },
+    {
+      "id": 184,
+      "section": "dua_kumayl",
+      "start": 761.645,
+      "end": 763.63
+    },
+    {
+      "id": 185,
+      "section": "dua_kumayl",
+      "start": 763.98,
+      "end": 766.445
+    },
+    {
+      "id": 186,
+      "section": "dua_kumayl",
+      "start": 766.795,
+      "end": 770.284
+    },
+    {
+      "id": 187,
+      "section": "dua_kumayl",
+      "start": 770.634,
+      "end": 772.782
+    },
+    {
+      "id": 188,
+      "section": "dua_kumayl",
+      "start": 773.132,
+      "end": 776.29
+    },
+    {
+      "id": 189,
+      "section": "dua_kumayl",
+      "start": 776.64,
+      "end": 780.32
+    },
+    {
+      "id": 190,
+      "section": "dua_kumayl",
+      "start": 780.67,
+      "end": 783.491
+    },
+    {
+      "id": 191,
+      "section": "dua_kumayl",
+      "start": 783.841,
+      "end": 787.138
+    },
+    {
+      "id": 192,
+      "section": "dua_kumayl",
+      "start": 787.488,
+      "end": 790.623
+    },
+    {
+      "id": 193,
+      "section": "dua_kumayl",
+      "start": 790.973,
+      "end": 794.642
+    },
+    {
+      "id": 194,
+      "section": "dua_kumayl",
+      "start": 794.992,
+      "end": 797.221
+    },
+    {
+      "id": 195,
+      "section": "dua_kumayl",
+      "start": 797.571,
+      "end": 799.974
+    },
+    {
+      "id": 196,
+      "section": "dua_kumayl",
+      "start": 800.324,
+      "end": 805.128
+    },
+    {
+      "id": 197,
+      "section": "dua_kumayl",
+      "start": 805.478,
+      "end": 807.905
+    },
+    {
+      "id": 198,
+      "section": "dua_kumayl",
+      "start": 808.255,
+      "end": 811.25
+    },
+    {
+      "id": 199,
+      "section": "dua_kumayl",
+      "start": 811.6,
+      "end": 814.398
+    },
+    {
+      "id": 200,
+      "section": "dua_kumayl",
+      "start": 814.748,
+      "end": 817.174
+    },
+    {
+      "id": 201,
+      "section": "dua_kumayl",
+      "start": 817.524,
+      "end": 820.035
+    },
+    {
+      "id": 202,
+      "section": "dua_kumayl",
+      "start": 820.385,
+      "end": 822.741
+    },
+    {
+      "id": 203,
+      "section": "dua_kumayl",
+      "start": 823.091,
+      "end": 825.355
+    },
+    {
+      "id": 204,
+      "section": "dua_kumayl",
+      "start": 825.705,
+      "end": 828.097
+    },
+    {
+      "id": 205,
+      "section": "dua_kumayl",
+      "start": 828.447,
+      "end": 831.744
+    },
+    {
+      "id": 206,
+      "section": "dua_kumayl",
+      "start": 832.094,
+      "end": 835.624
+    },
+    {
+      "id": 207,
+      "section": "dua_kumayl",
+      "start": 835.974,
+      "end": 838.992
+    },
+    {
+      "id": 208,
+      "section": "dua_kumayl",
+      "start": 839.342,
+      "end": 843.592
+    },
+    {
+      "id": 209,
+      "section": "dua_kumayl",
+      "start": 843.942,
+      "end": 847.214
+    },
+    {
+      "id": 210,
+      "section": "dua_kumayl",
+      "start": 847.564,
+      "end": 850.443
+    },
+    {
+      "id": 211,
+      "section": "dua_kumayl",
+      "start": 850.793,
+      "end": 855.787
+    },
+    {
+      "id": 212,
+      "section": "dua_kumayl",
+      "start": 856.137,
+      "end": 860.015
+    },
+    {
+      "id": 213,
+      "section": "dua_kumayl",
+      "start": 860.365,
+      "end": 864.387
+    },
+    {
+      "id": 214,
+      "section": "dua_kumayl",
+      "start": 864.737,
+      "end": 867.686
+    },
+    {
+      "id": 215,
+      "section": "dua_kumayl",
+      "start": 868.036,
+      "end": 871.414
+    },
+    {
+      "id": 216,
+      "section": "dua_kumayl",
+      "start": 871.764,
+      "end": 875.456
+    },
+    {
+      "id": 217,
+      "section": "dua_kumayl",
+      "start": 875.806,
+      "end": 877.85
+    },
+    {
+      "id": 218,
+      "section": "dua_kumayl",
+      "start": 878.2,
+      "end": 881.346
+    },
+    {
+      "id": 219,
+      "section": "dua_kumayl",
+      "start": 881.696,
+      "end": 883.925
+    },
+    {
+      "id": 220,
+      "section": "dua_kumayl",
+      "start": 884.275,
+      "end": 887.143
+    },
+    {
+      "id": 221,
+      "section": "dua_kumayl",
+      "start": 887.493,
+      "end": 889.641
+    },
+    {
+      "id": 222,
+      "section": "dua_kumayl",
+      "start": 889.991,
+      "end": 893.427
+    },
+    {
+      "id": 223,
+      "section": "dua_kumayl",
+      "start": 893.777,
+      "end": 895.96
+    },
+    {
+      "id": 224,
+      "section": "dua_kumayl",
+      "start": 896.31,
+      "end": 898.121
+    },
+    {
+      "id": 225,
+      "section": "dua_kumayl",
+      "start": 898.471,
+      "end": 901.745
+    },
+    {
+      "id": 226,
+      "section": "dua_kumayl",
+      "start": 902.095,
+      "end": 904.637
+    },
+    {
+      "id": 227,
+      "section": "dua_kumayl",
+      "start": 904.987,
+      "end": 908.458
+    },
+    {
+      "id": 228,
+      "section": "dua_kumayl",
+      "start": 908.808,
+      "end": 912.047
+    },
+    {
+      "id": 229,
+      "section": "dua_kumayl",
+      "start": 912.397,
+      "end": 915.544
+    },
+    {
+      "id": 230,
+      "section": "dua_kumayl",
+      "start": 915.894,
+      "end": 918.692
+    },
+    {
+      "id": 231,
+      "section": "dua_kumayl",
+      "start": 919.042,
+      "end": 920.899
+    },
+    {
+      "id": 232,
+      "section": "dua_kumayl",
+      "start": 921.249,
+      "end": 923.49
+    },
+    {
+      "id": 233,
+      "section": "dua_kumayl",
+      "start": 923.84,
+      "end": 927.021
+    },
+    {
+      "id": 234,
+      "section": "dua_kumayl",
+      "start": 927.371,
+      "end": 929.205
+    },
+    {
+      "id": 235,
+      "section": "dua_kumayl",
+      "start": 929.555,
+      "end": 932.795
+    },
+    {
+      "id": 236,
+      "section": "dua_kumayl",
+      "start": 933.145,
+      "end": 935.699
+    },
+    {
+      "id": 237,
+      "section": "dua_kumayl",
+      "start": 936.049,
+      "end": 937.628
+    },
+    {
+      "id": 238,
+      "section": "dua_kumayl",
+      "start": 937.978,
+      "end": 939.475
+    },
+    {
+      "id": 239,
+      "section": "dua_kumayl",
+      "start": 939.825,
+      "end": 941.799
+    },
+    {
+      "id": 240,
+      "section": "dua_kumayl",
+      "start": 942.149,
+      "end": 945.408
+    },
+    {
+      "id": 241,
+      "section": "dua_kumayl",
+      "start": 945.758,
+      "end": 947.279
+    },
+    {
+      "id": 242,
+      "section": "dua_kumayl",
+      "start": 947.629,
+      "end": 949.695
+    },
+    {
+      "id": 243,
+      "section": "dua_kumayl",
+      "start": 950.045,
+      "end": 952.82
+    },
+    {
+      "id": 244,
+      "section": "dua_kumayl",
+      "start": 953.17,
+      "end": 956.103
+    },
+    {
+      "id": 245,
+      "section": "dua_kumayl",
+      "start": 956.453,
+      "end": 958.798
+    },
+    {
+      "id": 246,
+      "section": "dua_kumayl",
+      "start": 959.148,
+      "end": 962.387
+    },
+    {
+      "id": 247,
+      "section": "dua_kumayl",
+      "start": 962.737,
+      "end": 965.233
+    },
+    {
+      "id": 248,
+      "section": "dua_kumayl",
+      "start": 965.583,
+      "end": 970.657
+    },
+    {
+      "id": 249,
+      "section": "dua_kumayl",
+      "start": 971.007,
+      "end": 973.225
+    }
+  ]
+}
