@@ -1,0 +1,33 @@
+{
+  "dua_id": "dua_2_when_leaving_home",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 5.648,
+  "bytes": 23874,
+  "sha256": "448ad44d2f679e9ac37d146d41183b7a55e71636d7b18590ead914647840a007",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_2_when_leaving_home",
+      "start": 0.0,
+      "end": 1.254
+    },
+    {
+      "id": 2,
+      "section": "dua_2_when_leaving_home",
+      "start": 1.604,
+      "end": 3.09
+    },
+    {
+      "id": 3,
+      "section": "dua_2_when_leaving_home",
+      "start": 3.44,
+      "end": 5.298
+    }
+  ]
+}

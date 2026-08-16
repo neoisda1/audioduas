@@ -1,0 +1,1755 @@
+{
+  "dua_id": "dua_umm_dawood",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 721.494,
+  "bytes": 3484991,
+  "sha256": "ab66a1e20dbab5213cfb607eae536ba6556336c75f74852e55028994976ba63c",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_umm_dawood",
+      "start": 0.0,
+      "end": 3.281
+    },
+    {
+      "id": 2,
+      "section": "dua_umm_dawood",
+      "start": 3.631,
+      "end": 7.278
+    },
+    {
+      "id": 3,
+      "section": "dua_umm_dawood",
+      "start": 7.628,
+      "end": 9.677
+    },
+    {
+      "id": 4,
+      "section": "dua_umm_dawood",
+      "start": 10.027,
+      "end": 12.337
+    },
+    {
+      "id": 5,
+      "section": "dua_umm_dawood",
+      "start": 12.687,
+      "end": 14.527
+    },
+    {
+      "id": 6,
+      "section": "dua_umm_dawood",
+      "start": 14.877,
+      "end": 16.943
+    },
+    {
+      "id": 7,
+      "section": "dua_umm_dawood",
+      "start": 17.293,
+      "end": 19.597
+    },
+    {
+      "id": 8,
+      "section": "dua_umm_dawood",
+      "start": 19.947,
+      "end": 21.625
+    },
+    {
+      "id": 9,
+      "section": "dua_umm_dawood",
+      "start": 21.975,
+      "end": 23.647
+    },
+    {
+      "id": 10,
+      "section": "dua_umm_dawood",
+      "start": 23.997,
+      "end": 25.873
+    },
+    {
+      "id": 11,
+      "section": "dua_umm_dawood",
+      "start": 26.223,
+      "end": 27.689
+    },
+    {
+      "id": 12,
+      "section": "dua_umm_dawood",
+      "start": 28.039,
+      "end": 30.988
+    },
+    {
+      "id": 13,
+      "section": "dua_umm_dawood",
+      "start": 31.338,
+      "end": 33.822
+    },
+    {
+      "id": 14,
+      "section": "dua_umm_dawood",
+      "start": 34.172,
+      "end": 35.414
+    },
+    {
+      "id": 15,
+      "section": "dua_umm_dawood",
+      "start": 35.764,
+      "end": 38.628
+    },
+    {
+      "id": 16,
+      "section": "dua_umm_dawood",
+      "start": 38.978,
+      "end": 41.625
+    },
+    {
+      "id": 17,
+      "section": "dua_umm_dawood",
+      "start": 41.975,
+      "end": 44.286
+    },
+    {
+      "id": 18,
+      "section": "dua_umm_dawood",
+      "start": 44.636,
+      "end": 46.9
+    },
+    {
+      "id": 19,
+      "section": "dua_umm_dawood",
+      "start": 47.25,
+      "end": 49.003
+    },
+    {
+      "id": 20,
+      "section": "dua_umm_dawood",
+      "start": 49.353,
+      "end": 50.909
+    },
+    {
+      "id": 21,
+      "section": "dua_umm_dawood",
+      "start": 51.259,
+      "end": 52.838
+    },
+    {
+      "id": 22,
+      "section": "dua_umm_dawood",
+      "start": 53.188,
+      "end": 54.836
+    },
+    {
+      "id": 23,
+      "section": "dua_umm_dawood",
+      "start": 55.186,
+      "end": 56.904
+    },
+    {
+      "id": 24,
+      "section": "dua_umm_dawood",
+      "start": 57.254,
+      "end": 59.077
+    },
+    {
+      "id": 25,
+      "section": "dua_umm_dawood",
+      "start": 59.427,
+      "end": 61.111
+    },
+    {
+      "id": 26,
+      "section": "dua_umm_dawood",
+      "start": 61.461,
+      "end": 63.272
+    },
+    {
+      "id": 27,
+      "section": "dua_umm_dawood",
+      "start": 63.622,
+      "end": 65.352
+    },
+    {
+      "id": 28,
+      "section": "dua_umm_dawood",
+      "start": 65.702,
+      "end": 67.49
+    },
+    {
+      "id": 29,
+      "section": "dua_umm_dawood",
+      "start": 67.84,
+      "end": 69.523
+    },
+    {
+      "id": 30,
+      "section": "dua_umm_dawood",
+      "start": 69.873,
+      "end": 72.137
+    },
+    {
+      "id": 31,
+      "section": "dua_umm_dawood",
+      "start": 72.487,
+      "end": 74.6
+    },
+    {
+      "id": 32,
+      "section": "dua_umm_dawood",
+      "start": 74.95,
+      "end": 77.702
+    },
+    {
+      "id": 33,
+      "section": "dua_umm_dawood",
+      "start": 78.052,
+      "end": 80.246
+    },
+    {
+      "id": 34,
+      "section": "dua_umm_dawood",
+      "start": 80.596,
+      "end": 82.465
+    },
+    {
+      "id": 35,
+      "section": "dua_umm_dawood",
+      "start": 82.815,
+      "end": 84.835
+    },
+    {
+      "id": 36,
+      "section": "dua_umm_dawood",
+      "start": 85.185,
+      "end": 88.065
+    },
+    {
+      "id": 37,
+      "section": "dua_umm_dawood",
+      "start": 88.415,
+      "end": 90.672
+    },
+    {
+      "id": 38,
+      "section": "dua_umm_dawood",
+      "start": 91.022,
+      "end": 93.089
+    },
+    {
+      "id": 39,
+      "section": "dua_umm_dawood",
+      "start": 93.439,
+      "end": 95.811
+    },
+    {
+      "id": 40,
+      "section": "dua_umm_dawood",
+      "start": 96.161,
+      "end": 99.481
+    },
+    {
+      "id": 41,
+      "section": "dua_umm_dawood",
+      "start": 99.831,
+      "end": 101.608
+    },
+    {
+      "id": 42,
+      "section": "dua_umm_dawood",
+      "start": 101.958,
+      "end": 104.441
+    },
+    {
+      "id": 43,
+      "section": "dua_umm_dawood",
+      "start": 104.791,
+      "end": 106.683
+    },
+    {
+      "id": 44,
+      "section": "dua_umm_dawood",
+      "start": 107.033,
+      "end": 109.402
+    },
+    {
+      "id": 45,
+      "section": "dua_umm_dawood",
+      "start": 109.752,
+      "end": 112.654
+    },
+    {
+      "id": 46,
+      "section": "dua_umm_dawood",
+      "start": 113.004,
+      "end": 114.235
+    },
+    {
+      "id": 47,
+      "section": "dua_umm_dawood",
+      "start": 114.585,
+      "end": 116.222
+    },
+    {
+      "id": 48,
+      "section": "dua_umm_dawood",
+      "start": 116.572,
+      "end": 118.232
+    },
+    {
+      "id": 49,
+      "section": "dua_umm_dawood",
+      "start": 118.582,
+      "end": 121.007
+    },
+    {
+      "id": 50,
+      "section": "dua_umm_dawood",
+      "start": 121.357,
+      "end": 122.681
+    },
+    {
+      "id": 51,
+      "section": "dua_umm_dawood",
+      "start": 123.031,
+      "end": 124.807
+    },
+    {
+      "id": 52,
+      "section": "dua_umm_dawood",
+      "start": 125.157,
+      "end": 128.199
+    },
+    {
+      "id": 53,
+      "section": "dua_umm_dawood",
+      "start": 128.549,
+      "end": 131.216
+    },
+    {
+      "id": 54,
+      "section": "dua_umm_dawood",
+      "start": 131.566,
+      "end": 132.808
+    },
+    {
+      "id": 55,
+      "section": "dua_umm_dawood",
+      "start": 133.158,
+      "end": 134.539
+    },
+    {
+      "id": 56,
+      "section": "dua_umm_dawood",
+      "start": 134.889,
+      "end": 136.352
+    },
+    {
+      "id": 57,
+      "section": "dua_umm_dawood",
+      "start": 136.702,
+      "end": 139.106
+    },
+    {
+      "id": 58,
+      "section": "dua_umm_dawood",
+      "start": 139.456,
+      "end": 142.825
+    },
+    {
+      "id": 59,
+      "section": "dua_umm_dawood",
+      "start": 143.175,
+      "end": 145.66
+    },
+    {
+      "id": 60,
+      "section": "dua_umm_dawood",
+      "start": 146.01,
+      "end": 147.612
+    },
+    {
+      "id": 61,
+      "section": "dua_umm_dawood",
+      "start": 147.962,
+      "end": 150.226
+    },
+    {
+      "id": 62,
+      "section": "dua_umm_dawood",
+      "start": 150.576,
+      "end": 152.596
+    },
+    {
+      "id": 63,
+      "section": "dua_umm_dawood",
+      "start": 152.946,
+      "end": 154.409
+    },
+    {
+      "id": 64,
+      "section": "dua_umm_dawood",
+      "start": 154.759,
+      "end": 157.104
+    },
+    {
+      "id": 65,
+      "section": "dua_umm_dawood",
+      "start": 157.454,
+      "end": 159.625
+    },
+    {
+      "id": 66,
+      "section": "dua_umm_dawood",
+      "start": 159.975,
+      "end": 162.952
+    },
+    {
+      "id": 67,
+      "section": "dua_umm_dawood",
+      "start": 163.302,
+      "end": 165.032
+    },
+    {
+      "id": 68,
+      "section": "dua_umm_dawood",
+      "start": 165.382,
+      "end": 168.04
+    },
+    {
+      "id": 69,
+      "section": "dua_umm_dawood",
+      "start": 168.39,
+      "end": 170.654
+    },
+    {
+      "id": 70,
+      "section": "dua_umm_dawood",
+      "start": 171.004,
+      "end": 173.867
+    },
+    {
+      "id": 71,
+      "section": "dua_umm_dawood",
+      "start": 174.217,
+      "end": 176.051
+    },
+    {
+      "id": 72,
+      "section": "dua_umm_dawood",
+      "start": 176.401,
+      "end": 177.756
+    },
+    {
+      "id": 73,
+      "section": "dua_umm_dawood",
+      "start": 178.106,
+      "end": 180.393
+    },
+    {
+      "id": 74,
+      "section": "dua_umm_dawood",
+      "start": 180.743,
+      "end": 183.402
+    },
+    {
+      "id": 75,
+      "section": "dua_umm_dawood",
+      "start": 183.752,
+      "end": 186.636
+    },
+    {
+      "id": 76,
+      "section": "dua_umm_dawood",
+      "start": 186.986,
+      "end": 188.286
+    },
+    {
+      "id": 77,
+      "section": "dua_umm_dawood",
+      "start": 188.636,
+      "end": 189.832
+    },
+    {
+      "id": 78,
+      "section": "dua_umm_dawood",
+      "start": 190.182,
+      "end": 191.784
+    },
+    {
+      "id": 79,
+      "section": "dua_umm_dawood",
+      "start": 192.134,
+      "end": 193.334
+    },
+    {
+      "id": 80,
+      "section": "dua_umm_dawood",
+      "start": 193.684,
+      "end": 195.239
+    },
+    {
+      "id": 81,
+      "section": "dua_umm_dawood",
+      "start": 195.589,
+      "end": 196.781
+    },
+    {
+      "id": 82,
+      "section": "dua_umm_dawood",
+      "start": 197.131,
+      "end": 198.431
+    },
+    {
+      "id": 83,
+      "section": "dua_umm_dawood",
+      "start": 198.781,
+      "end": 200.186
+    },
+    {
+      "id": 84,
+      "section": "dua_umm_dawood",
+      "start": 200.536,
+      "end": 201.72
+    },
+    {
+      "id": 85,
+      "section": "dua_umm_dawood",
+      "start": 202.07,
+      "end": 203.847
+    },
+    {
+      "id": 86,
+      "section": "dua_umm_dawood",
+      "start": 204.197,
+      "end": 205.694
+    },
+    {
+      "id": 87,
+      "section": "dua_umm_dawood",
+      "start": 206.044,
+      "end": 207.623
+    },
+    {
+      "id": 88,
+      "section": "dua_umm_dawood",
+      "start": 207.973,
+      "end": 209.575
+    },
+    {
+      "id": 89,
+      "section": "dua_umm_dawood",
+      "start": 209.925,
+      "end": 211.774
+    },
+    {
+      "id": 90,
+      "section": "dua_umm_dawood",
+      "start": 212.124,
+      "end": 213.413
+    },
+    {
+      "id": 91,
+      "section": "dua_umm_dawood",
+      "start": 213.763,
+      "end": 215.295
+    },
+    {
+      "id": 92,
+      "section": "dua_umm_dawood",
+      "start": 215.645,
+      "end": 217.154
+    },
+    {
+      "id": 93,
+      "section": "dua_umm_dawood",
+      "start": 217.504,
+      "end": 218.898
+    },
+    {
+      "id": 94,
+      "section": "dua_umm_dawood",
+      "start": 219.248,
+      "end": 220.525
+    },
+    {
+      "id": 95,
+      "section": "dua_umm_dawood",
+      "start": 220.875,
+      "end": 222.814
+    },
+    {
+      "id": 96,
+      "section": "dua_umm_dawood",
+      "start": 223.164,
+      "end": 225.369
+    },
+    {
+      "id": 97,
+      "section": "dua_umm_dawood",
+      "start": 225.719,
+      "end": 229.437
+    },
+    {
+      "id": 98,
+      "section": "dua_umm_dawood",
+      "start": 229.787,
+      "end": 232.829
+    },
+    {
+      "id": 99,
+      "section": "dua_umm_dawood",
+      "start": 233.179,
+      "end": 236.441
+    },
+    {
+      "id": 100,
+      "section": "dua_umm_dawood",
+      "start": 236.791,
+      "end": 241.982
+    },
+    {
+      "id": 101,
+      "section": "dua_umm_dawood",
+      "start": 242.332,
+      "end": 244.754
+    },
+    {
+      "id": 102,
+      "section": "dua_umm_dawood",
+      "start": 245.104,
+      "end": 249.03
+    },
+    {
+      "id": 103,
+      "section": "dua_umm_dawood",
+      "start": 249.38,
+      "end": 251.517
+    },
+    {
+      "id": 104,
+      "section": "dua_umm_dawood",
+      "start": 251.867,
+      "end": 255.501
+    },
+    {
+      "id": 105,
+      "section": "dua_umm_dawood",
+      "start": 255.851,
+      "end": 257.778
+    },
+    {
+      "id": 106,
+      "section": "dua_umm_dawood",
+      "start": 258.128,
+      "end": 260.31
+    },
+    {
+      "id": 107,
+      "section": "dua_umm_dawood",
+      "start": 260.66,
+      "end": 262.948
+    },
+    {
+      "id": 108,
+      "section": "dua_umm_dawood",
+      "start": 263.298,
+      "end": 266.99
+    },
+    {
+      "id": 109,
+      "section": "dua_umm_dawood",
+      "start": 267.34,
+      "end": 269.174
+    },
+    {
+      "id": 110,
+      "section": "dua_umm_dawood",
+      "start": 269.524,
+      "end": 272.74
+    },
+    {
+      "id": 111,
+      "section": "dua_umm_dawood",
+      "start": 273.09,
+      "end": 275.659
+    },
+    {
+      "id": 112,
+      "section": "dua_umm_dawood",
+      "start": 276.009,
+      "end": 278.609
+    },
+    {
+      "id": 113,
+      "section": "dua_umm_dawood",
+      "start": 278.959,
+      "end": 280.979
+    },
+    {
+      "id": 114,
+      "section": "dua_umm_dawood",
+      "start": 281.329,
+      "end": 283.326
+    },
+    {
+      "id": 115,
+      "section": "dua_umm_dawood",
+      "start": 283.676,
+      "end": 287.939
+    },
+    {
+      "id": 116,
+      "section": "dua_umm_dawood",
+      "start": 288.289,
+      "end": 290.414
+    },
+    {
+      "id": 117,
+      "section": "dua_umm_dawood",
+      "start": 290.764,
+      "end": 293.167
+    },
+    {
+      "id": 118,
+      "section": "dua_umm_dawood",
+      "start": 293.517,
+      "end": 296.292
+    },
+    {
+      "id": 119,
+      "section": "dua_umm_dawood",
+      "start": 296.642,
+      "end": 298.128
+    },
+    {
+      "id": 120,
+      "section": "dua_umm_dawood",
+      "start": 298.478,
+      "end": 300.51
+    },
+    {
+      "id": 121,
+      "section": "dua_umm_dawood",
+      "start": 300.86,
+      "end": 302.954
+    },
+    {
+      "id": 122,
+      "section": "dua_umm_dawood",
+      "start": 303.304,
+      "end": 305.696
+    },
+    {
+      "id": 123,
+      "section": "dua_umm_dawood",
+      "start": 306.046,
+      "end": 307.752
+    },
+    {
+      "id": 124,
+      "section": "dua_umm_dawood",
+      "start": 308.102,
+      "end": 309.867
+    },
+    {
+      "id": 125,
+      "section": "dua_umm_dawood",
+      "start": 310.217,
+      "end": 312.562
+    },
+    {
+      "id": 126,
+      "section": "dua_umm_dawood",
+      "start": 312.912,
+      "end": 316.731
+    },
+    {
+      "id": 127,
+      "section": "dua_umm_dawood",
+      "start": 317.081,
+      "end": 319.345
+    },
+    {
+      "id": 128,
+      "section": "dua_umm_dawood",
+      "start": 319.695,
+      "end": 324.024
+    },
+    {
+      "id": 129,
+      "section": "dua_umm_dawood",
+      "start": 324.374,
+      "end": 327.281
+    },
+    {
+      "id": 130,
+      "section": "dua_umm_dawood",
+      "start": 327.631,
+      "end": 329.954
+    },
+    {
+      "id": 131,
+      "section": "dua_umm_dawood",
+      "start": 330.304,
+      "end": 332.703
+    },
+    {
+      "id": 132,
+      "section": "dua_umm_dawood",
+      "start": 333.053,
+      "end": 335.274
+    },
+    {
+      "id": 133,
+      "section": "dua_umm_dawood",
+      "start": 335.624,
+      "end": 337.218
+    },
+    {
+      "id": 134,
+      "section": "dua_umm_dawood",
+      "start": 337.568,
+      "end": 339.457
+    },
+    {
+      "id": 135,
+      "section": "dua_umm_dawood",
+      "start": 339.807,
+      "end": 342.727
+    },
+    {
+      "id": 136,
+      "section": "dua_umm_dawood",
+      "start": 343.077,
+      "end": 345.069
+    },
+    {
+      "id": 137,
+      "section": "dua_umm_dawood",
+      "start": 345.419,
+      "end": 347.244
+    },
+    {
+      "id": 138,
+      "section": "dua_umm_dawood",
+      "start": 347.594,
+      "end": 349.254
+    },
+    {
+      "id": 139,
+      "section": "dua_umm_dawood",
+      "start": 349.604,
+      "end": 351.323
+    },
+    {
+      "id": 140,
+      "section": "dua_umm_dawood",
+      "start": 351.673,
+      "end": 353.13
+    },
+    {
+      "id": 141,
+      "section": "dua_umm_dawood",
+      "start": 353.48,
+      "end": 355.192
+    },
+    {
+      "id": 142,
+      "section": "dua_umm_dawood",
+      "start": 355.542,
+      "end": 357.198
+    },
+    {
+      "id": 143,
+      "section": "dua_umm_dawood",
+      "start": 357.548,
+      "end": 358.646
+    },
+    {
+      "id": 144,
+      "section": "dua_umm_dawood",
+      "start": 358.996,
+      "end": 360.854
+    },
+    {
+      "id": 145,
+      "section": "dua_umm_dawood",
+      "start": 361.204,
+      "end": 363.764
+    },
+    {
+      "id": 146,
+      "section": "dua_umm_dawood",
+      "start": 364.114,
+      "end": 365.957
+    },
+    {
+      "id": 147,
+      "section": "dua_umm_dawood",
+      "start": 366.307,
+      "end": 368.608
+    },
+    {
+      "id": 148,
+      "section": "dua_umm_dawood",
+      "start": 368.958,
+      "end": 370.613
+    },
+    {
+      "id": 149,
+      "section": "dua_umm_dawood",
+      "start": 370.963,
+      "end": 372.321
+    },
+    {
+      "id": 150,
+      "section": "dua_umm_dawood",
+      "start": 372.671,
+      "end": 374.292
+    },
+    {
+      "id": 151,
+      "section": "dua_umm_dawood",
+      "start": 374.642,
+      "end": 376.116
+    },
+    {
+      "id": 152,
+      "section": "dua_umm_dawood",
+      "start": 376.466,
+      "end": 378.145
+    },
+    {
+      "id": 153,
+      "section": "dua_umm_dawood",
+      "start": 378.495,
+      "end": 380.366
+    },
+    {
+      "id": 154,
+      "section": "dua_umm_dawood",
+      "start": 380.716,
+      "end": 382.399
+    },
+    {
+      "id": 155,
+      "section": "dua_umm_dawood",
+      "start": 382.749,
+      "end": 385.043
+    },
+    {
+      "id": 156,
+      "section": "dua_umm_dawood",
+      "start": 385.393,
+      "end": 387.182
+    },
+    {
+      "id": 157,
+      "section": "dua_umm_dawood",
+      "start": 387.532,
+      "end": 389.54
+    },
+    {
+      "id": 158,
+      "section": "dua_umm_dawood",
+      "start": 389.89,
+      "end": 392.991
+    },
+    {
+      "id": 159,
+      "section": "dua_umm_dawood",
+      "start": 393.341,
+      "end": 394.809
+    },
+    {
+      "id": 160,
+      "section": "dua_umm_dawood",
+      "start": 395.159,
+      "end": 397.392
+    },
+    {
+      "id": 161,
+      "section": "dua_umm_dawood",
+      "start": 397.742,
+      "end": 399.051
+    },
+    {
+      "id": 162,
+      "section": "dua_umm_dawood",
+      "start": 399.401,
+      "end": 400.811
+    },
+    {
+      "id": 163,
+      "section": "dua_umm_dawood",
+      "start": 401.161,
+      "end": 403.796
+    },
+    {
+      "id": 164,
+      "section": "dua_umm_dawood",
+      "start": 404.146,
+      "end": 405.451
+    },
+    {
+      "id": 165,
+      "section": "dua_umm_dawood",
+      "start": 405.801,
+      "end": 407.326
+    },
+    {
+      "id": 166,
+      "section": "dua_umm_dawood",
+      "start": 407.676,
+      "end": 409.025
+    },
+    {
+      "id": 167,
+      "section": "dua_umm_dawood",
+      "start": 409.375,
+      "end": 410.778
+    },
+    {
+      "id": 168,
+      "section": "dua_umm_dawood",
+      "start": 411.128,
+      "end": 413.551
+    },
+    {
+      "id": 169,
+      "section": "dua_umm_dawood",
+      "start": 413.901,
+      "end": 415.229
+    },
+    {
+      "id": 170,
+      "section": "dua_umm_dawood",
+      "start": 415.579,
+      "end": 417.387
+    },
+    {
+      "id": 171,
+      "section": "dua_umm_dawood",
+      "start": 417.737,
+      "end": 420.197
+    },
+    {
+      "id": 172,
+      "section": "dua_umm_dawood",
+      "start": 420.547,
+      "end": 422.198
+    },
+    {
+      "id": 173,
+      "section": "dua_umm_dawood",
+      "start": 422.548,
+      "end": 424.214
+    },
+    {
+      "id": 174,
+      "section": "dua_umm_dawood",
+      "start": 424.564,
+      "end": 426.161
+    },
+    {
+      "id": 175,
+      "section": "dua_umm_dawood",
+      "start": 426.511,
+      "end": 428.151
+    },
+    {
+      "id": 176,
+      "section": "dua_umm_dawood",
+      "start": 428.501,
+      "end": 429.912
+    },
+    {
+      "id": 177,
+      "section": "dua_umm_dawood",
+      "start": 430.262,
+      "end": 432.58
+    },
+    {
+      "id": 178,
+      "section": "dua_umm_dawood",
+      "start": 432.93,
+      "end": 434.682
+    },
+    {
+      "id": 179,
+      "section": "dua_umm_dawood",
+      "start": 435.032,
+      "end": 436.473
+    },
+    {
+      "id": 180,
+      "section": "dua_umm_dawood",
+      "start": 436.823,
+      "end": 438.433
+    },
+    {
+      "id": 181,
+      "section": "dua_umm_dawood",
+      "start": 438.783,
+      "end": 441.209
+    },
+    {
+      "id": 182,
+      "section": "dua_umm_dawood",
+      "start": 441.559,
+      "end": 443.599
+    },
+    {
+      "id": 183,
+      "section": "dua_umm_dawood",
+      "start": 443.949,
+      "end": 445.637
+    },
+    {
+      "id": 184,
+      "section": "dua_umm_dawood",
+      "start": 445.987,
+      "end": 447.467
+    },
+    {
+      "id": 185,
+      "section": "dua_umm_dawood",
+      "start": 447.817,
+      "end": 450.36
+    },
+    {
+      "id": 186,
+      "section": "dua_umm_dawood",
+      "start": 450.71,
+      "end": 452.852
+    },
+    {
+      "id": 187,
+      "section": "dua_umm_dawood",
+      "start": 453.202,
+      "end": 454.704
+    },
+    {
+      "id": 188,
+      "section": "dua_umm_dawood",
+      "start": 455.054,
+      "end": 456.523
+    },
+    {
+      "id": 189,
+      "section": "dua_umm_dawood",
+      "start": 456.873,
+      "end": 458.909
+    },
+    {
+      "id": 190,
+      "section": "dua_umm_dawood",
+      "start": 459.259,
+      "end": 461.453
+    },
+    {
+      "id": 191,
+      "section": "dua_umm_dawood",
+      "start": 461.803,
+      "end": 463.777
+    },
+    {
+      "id": 192,
+      "section": "dua_umm_dawood",
+      "start": 464.127,
+      "end": 466.217
+    },
+    {
+      "id": 193,
+      "section": "dua_umm_dawood",
+      "start": 466.567,
+      "end": 468.053
+    },
+    {
+      "id": 194,
+      "section": "dua_umm_dawood",
+      "start": 468.403,
+      "end": 470.643
+    },
+    {
+      "id": 195,
+      "section": "dua_umm_dawood",
+      "start": 470.993,
+      "end": 474.198
+    },
+    {
+      "id": 196,
+      "section": "dua_umm_dawood",
+      "start": 474.548,
+      "end": 477.079
+    },
+    {
+      "id": 197,
+      "section": "dua_umm_dawood",
+      "start": 477.429,
+      "end": 480.18
+    },
+    {
+      "id": 198,
+      "section": "dua_umm_dawood",
+      "start": 480.53,
+      "end": 481.854
+    },
+    {
+      "id": 199,
+      "section": "dua_umm_dawood",
+      "start": 482.204,
+      "end": 483.423
+    },
+    {
+      "id": 200,
+      "section": "dua_umm_dawood",
+      "start": 483.773,
+      "end": 485.305
+    },
+    {
+      "id": 201,
+      "section": "dua_umm_dawood",
+      "start": 485.655,
+      "end": 488.326
+    },
+    {
+      "id": 202,
+      "section": "dua_umm_dawood",
+      "start": 488.676,
+      "end": 490.928
+    },
+    {
+      "id": 203,
+      "section": "dua_umm_dawood",
+      "start": 491.278,
+      "end": 492.787
+    },
+    {
+      "id": 204,
+      "section": "dua_umm_dawood",
+      "start": 493.137,
+      "end": 494.74
+    },
+    {
+      "id": 205,
+      "section": "dua_umm_dawood",
+      "start": 495.09,
+      "end": 497.272
+    },
+    {
+      "id": 206,
+      "section": "dua_umm_dawood",
+      "start": 497.622,
+      "end": 499.712
+    },
+    {
+      "id": 207,
+      "section": "dua_umm_dawood",
+      "start": 500.062,
+      "end": 502.303
+    },
+    {
+      "id": 208,
+      "section": "dua_umm_dawood",
+      "start": 502.653,
+      "end": 504.696
+    },
+    {
+      "id": 209,
+      "section": "dua_umm_dawood",
+      "start": 505.046,
+      "end": 507.31
+    },
+    {
+      "id": 210,
+      "section": "dua_umm_dawood",
+      "start": 507.66,
+      "end": 510.174
+    },
+    {
+      "id": 211,
+      "section": "dua_umm_dawood",
+      "start": 510.524,
+      "end": 513.023
+    },
+    {
+      "id": 212,
+      "section": "dua_umm_dawood",
+      "start": 513.373,
+      "end": 515.46
+    },
+    {
+      "id": 213,
+      "section": "dua_umm_dawood",
+      "start": 515.81,
+      "end": 517.377
+    },
+    {
+      "id": 214,
+      "section": "dua_umm_dawood",
+      "start": 517.727,
+      "end": 520.851
+    },
+    {
+      "id": 215,
+      "section": "dua_umm_dawood",
+      "start": 521.201,
+      "end": 524.277
+    },
+    {
+      "id": 216,
+      "section": "dua_umm_dawood",
+      "start": 524.627,
+      "end": 527.994
+    },
+    {
+      "id": 217,
+      "section": "dua_umm_dawood",
+      "start": 528.344,
+      "end": 533.545
+    },
+    {
+      "id": 218,
+      "section": "dua_umm_dawood",
+      "start": 533.895,
+      "end": 536.338
+    },
+    {
+      "id": 219,
+      "section": "dua_umm_dawood",
+      "start": 536.688,
+      "end": 539.312
+    },
+    {
+      "id": 220,
+      "section": "dua_umm_dawood",
+      "start": 539.662,
+      "end": 542.831
+    },
+    {
+      "id": 221,
+      "section": "dua_umm_dawood",
+      "start": 543.181,
+      "end": 544.667
+    },
+    {
+      "id": 222,
+      "section": "dua_umm_dawood",
+      "start": 545.017,
+      "end": 546.631
+    },
+    {
+      "id": 223,
+      "section": "dua_umm_dawood",
+      "start": 546.981,
+      "end": 548.386
+    },
+    {
+      "id": 224,
+      "section": "dua_umm_dawood",
+      "start": 548.736,
+      "end": 552.532
+    },
+    {
+      "id": 225,
+      "section": "dua_umm_dawood",
+      "start": 552.882,
+      "end": 554.299
+    },
+    {
+      "id": 226,
+      "section": "dua_umm_dawood",
+      "start": 554.649,
+      "end": 556.077
+    },
+    {
+      "id": 227,
+      "section": "dua_umm_dawood",
+      "start": 556.427,
+      "end": 557.971
+    },
+    {
+      "id": 228,
+      "section": "dua_umm_dawood",
+      "start": 558.321,
+      "end": 559.401
+    },
+    {
+      "id": 229,
+      "section": "dua_umm_dawood",
+      "start": 559.751,
+      "end": 561.481
+    },
+    {
+      "id": 230,
+      "section": "dua_umm_dawood",
+      "start": 561.831,
+      "end": 563.386
+    },
+    {
+      "id": 231,
+      "section": "dua_umm_dawood",
+      "start": 563.736,
+      "end": 565.153
+    },
+    {
+      "id": 232,
+      "section": "dua_umm_dawood",
+      "start": 565.503,
+      "end": 566.722
+    },
+    {
+      "id": 233,
+      "section": "dua_umm_dawood",
+      "start": 567.072,
+      "end": 570.404
+    },
+    {
+      "id": 234,
+      "section": "dua_umm_dawood",
+      "start": 570.754,
+      "end": 572.879
+    },
+    {
+      "id": 235,
+      "section": "dua_umm_dawood",
+      "start": 573.229,
+      "end": 575.204
+    },
+    {
+      "id": 236,
+      "section": "dua_umm_dawood",
+      "start": 575.554,
+      "end": 577.983
+    },
+    {
+      "id": 237,
+      "section": "dua_umm_dawood",
+      "start": 578.333,
+      "end": 579.544
+    },
+    {
+      "id": 238,
+      "section": "dua_umm_dawood",
+      "start": 579.894,
+      "end": 581.357
+    },
+    {
+      "id": 239,
+      "section": "dua_umm_dawood",
+      "start": 581.707,
+      "end": 582.891
+    },
+    {
+      "id": 240,
+      "section": "dua_umm_dawood",
+      "start": 583.241,
+      "end": 585.915
+    },
+    {
+      "id": 241,
+      "section": "dua_umm_dawood",
+      "start": 586.265,
+      "end": 588.718
+    },
+    {
+      "id": 242,
+      "section": "dua_umm_dawood",
+      "start": 589.068,
+      "end": 591.112
+    },
+    {
+      "id": 243,
+      "section": "dua_umm_dawood",
+      "start": 591.462,
+      "end": 594.132
+    },
+    {
+      "id": 244,
+      "section": "dua_umm_dawood",
+      "start": 594.482,
+      "end": 595.566
+    },
+    {
+      "id": 245,
+      "section": "dua_umm_dawood",
+      "start": 595.916,
+      "end": 597.112
+    },
+    {
+      "id": 246,
+      "section": "dua_umm_dawood",
+      "start": 597.462,
+      "end": 599.099
+    },
+    {
+      "id": 247,
+      "section": "dua_umm_dawood",
+      "start": 599.449,
+      "end": 600.646
+    },
+    {
+      "id": 248,
+      "section": "dua_umm_dawood",
+      "start": 600.996,
+      "end": 604.727
+    },
+    {
+      "id": 249,
+      "section": "dua_umm_dawood",
+      "start": 605.077,
+      "end": 607.04
+    },
+    {
+      "id": 250,
+      "section": "dua_umm_dawood",
+      "start": 607.39,
+      "end": 609.468
+    },
+    {
+      "id": 251,
+      "section": "dua_umm_dawood",
+      "start": 609.818,
+      "end": 612.151
+    },
+    {
+      "id": 252,
+      "section": "dua_umm_dawood",
+      "start": 612.501,
+      "end": 615.996
+    },
+    {
+      "id": 253,
+      "section": "dua_umm_dawood",
+      "start": 616.346,
+      "end": 618.598
+    },
+    {
+      "id": 254,
+      "section": "dua_umm_dawood",
+      "start": 618.948,
+      "end": 620.864
+    },
+    {
+      "id": 255,
+      "section": "dua_umm_dawood",
+      "start": 621.214,
+      "end": 623.547
+    },
+    {
+      "id": 256,
+      "section": "dua_umm_dawood",
+      "start": 623.897,
+      "end": 625.407
+    },
+    {
+      "id": 257,
+      "section": "dua_umm_dawood",
+      "start": 625.757,
+      "end": 627.045
+    },
+    {
+      "id": 258,
+      "section": "dua_umm_dawood",
+      "start": 627.395,
+      "end": 629.404
+    },
+    {
+      "id": 259,
+      "section": "dua_umm_dawood",
+      "start": 629.754,
+      "end": 632.18
+    },
+    {
+      "id": 260,
+      "section": "dua_umm_dawood",
+      "start": 632.53,
+      "end": 636.176
+    },
+    {
+      "id": 261,
+      "section": "dua_umm_dawood",
+      "start": 636.526,
+      "end": 638.337
+    },
+    {
+      "id": 262,
+      "section": "dua_umm_dawood",
+      "start": 638.687,
+      "end": 640.58
+    },
+    {
+      "id": 263,
+      "section": "dua_umm_dawood",
+      "start": 640.93,
+      "end": 642.563
+    },
+    {
+      "id": 264,
+      "section": "dua_umm_dawood",
+      "start": 642.913,
+      "end": 646.532
+    },
+    {
+      "id": 265,
+      "section": "dua_umm_dawood",
+      "start": 646.882,
+      "end": 648.856
+    },
+    {
+      "id": 266,
+      "section": "dua_umm_dawood",
+      "start": 649.206,
+      "end": 651.017
+    },
+    {
+      "id": 267,
+      "section": "dua_umm_dawood",
+      "start": 651.367,
+      "end": 653.271
+    },
+    {
+      "id": 268,
+      "section": "dua_umm_dawood",
+      "start": 653.621,
+      "end": 655.908
+    },
+    {
+      "id": 269,
+      "section": "dua_umm_dawood",
+      "start": 656.258,
+      "end": 658.487
+    },
+    {
+      "id": 270,
+      "section": "dua_umm_dawood",
+      "start": 658.837,
+      "end": 661.472
+    },
+    {
+      "id": 271,
+      "section": "dua_umm_dawood",
+      "start": 661.822,
+      "end": 664.4
+    },
+    {
+      "id": 272,
+      "section": "dua_umm_dawood",
+      "start": 664.75,
+      "end": 667.629
+    },
+    {
+      "id": 273,
+      "section": "dua_umm_dawood",
+      "start": 667.979,
+      "end": 669.999
+    },
+    {
+      "id": 274,
+      "section": "dua_umm_dawood",
+      "start": 670.349,
+      "end": 674.436
+    },
+    {
+      "id": 275,
+      "section": "dua_umm_dawood",
+      "start": 674.786,
+      "end": 677.468
+    },
+    {
+      "id": 276,
+      "section": "dua_umm_dawood",
+      "start": 677.818,
+      "end": 679.803
+    },
+    {
+      "id": 277,
+      "section": "dua_umm_dawood",
+      "start": 680.153,
+      "end": 682.347
+    },
+    {
+      "id": 278,
+      "section": "dua_umm_dawood",
+      "start": 682.697,
+      "end": 684.741
+    },
+    {
+      "id": 279,
+      "section": "dua_umm_dawood",
+      "start": 685.091,
+      "end": 686.972
+    },
+    {
+      "id": 280,
+      "section": "dua_umm_dawood",
+      "start": 687.322,
+      "end": 690.213
+    },
+    {
+      "id": 281,
+      "section": "dua_umm_dawood",
+      "start": 690.563,
+      "end": 692.919
+    },
+    {
+      "id": 282,
+      "section": "dua_umm_dawood",
+      "start": 693.269,
+      "end": 696.067
+    },
+    {
+      "id": 283,
+      "section": "dua_umm_dawood",
+      "start": 696.417,
+      "end": 698.925
+    },
+    {
+      "id": 284,
+      "section": "dua_umm_dawood",
+      "start": 699.275,
+      "end": 703.672
+    },
+    {
+      "id": 285,
+      "section": "dua_umm_dawood",
+      "start": 704.022,
+      "end": 706.205
+    },
+    {
+      "id": 286,
+      "section": "dua_umm_dawood",
+      "start": 706.555,
+      "end": 707.909
+    },
+    {
+      "id": 287,
+      "section": "dua_umm_dawood",
+      "start": 708.259,
+      "end": 710.825
+    },
+    {
+      "id": 288,
+      "section": "dua_umm_dawood",
+      "start": 711.175,
+      "end": 713.067
+    },
+    {
+      "id": 289,
+      "section": "dua_umm_dawood",
+      "start": 713.417,
+      "end": 716.415
+    },
+    {
+      "id": 290,
+      "section": "dua_umm_dawood",
+      "start": 716.765,
+      "end": 721.144
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "dua_id": "ayat_ushshahadah_31819",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 24.488,
+  "bytes": 104166,
+  "sha256": "223d68195fb258e6711281cf0b6e97e60499973ff060f6693c3fa87356ebf95b",
+  "lines": [
+    {
+      "id": 1,
+      "section": "ayat_ushshahadah_31819",
+      "start": 0.0,
+      "end": 2.875
+    },
+    {
+      "id": 2,
+      "section": "ayat_ushshahadah_31819",
+      "start": 3.225,
+      "end": 12.385
+    },
+    {
+      "id": 3,
+      "section": "ayat_ushshahadah_31819",
+      "start": 12.735,
+      "end": 24.138
+    }
+  ]
+}

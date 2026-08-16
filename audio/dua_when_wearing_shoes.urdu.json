@@ -1,0 +1,33 @@
+{
+  "dua_id": "dua_when_wearing_shoes",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 9.665,
+  "bytes": 44480,
+  "sha256": "01db6177846bdd7e0d6ac3a54cce0773d2cf416e7d62bc021829b54acf42a5e4",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_wearing_shoes",
+      "start": 0.0,
+      "end": 3.251
+    },
+    {
+      "id": 2,
+      "section": "dua_when_wearing_shoes",
+      "start": 3.601,
+      "end": 6.596
+    },
+    {
+      "id": 3,
+      "section": "dua_when_wearing_shoes",
+      "start": 6.946,
+      "end": 9.315
+    }
+  ]
+}

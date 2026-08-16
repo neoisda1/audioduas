@@ -1,0 +1,183 @@
+{
+  "dua_id": "dua_for_the_betterment_of_society",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 81.586,
+  "bytes": 389240,
+  "sha256": "4b99feb07ec6b30dd52a5a60411c4501a525c91cdb532da9a427d3fb10ec1233",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 0.0,
+      "end": 2.989
+    },
+    {
+      "id": 2,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 3.339,
+      "end": 5.452
+    },
+    {
+      "id": 3,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 5.802,
+      "end": 7.451
+    },
+    {
+      "id": 4,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 7.801,
+      "end": 9.414
+    },
+    {
+      "id": 5,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 9.764,
+      "end": 12.423
+    },
+    {
+      "id": 6,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 12.773,
+      "end": 15.339
+    },
+    {
+      "id": 7,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 15.689,
+      "end": 18.138
+    },
+    {
+      "id": 8,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 18.488,
+      "end": 21.507
+    },
+    {
+      "id": 9,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 21.857,
+      "end": 24.248
+    },
+    {
+      "id": 10,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 24.598,
+      "end": 27.176
+    },
+    {
+      "id": 11,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 27.526,
+      "end": 30.126
+    },
+    {
+      "id": 12,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 30.476,
+      "end": 33.576
+    },
+    {
+      "id": 13,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 33.926,
+      "end": 36.806
+    },
+    {
+      "id": 14,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 37.156,
+      "end": 40.43
+    },
+    {
+      "id": 15,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 40.78,
+      "end": 43.148
+    },
+    {
+      "id": 16,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 43.498,
+      "end": 45.867
+    },
+    {
+      "id": 17,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 46.217,
+      "end": 48.794
+    },
+    {
+      "id": 18,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 49.144,
+      "end": 51.454
+    },
+    {
+      "id": 19,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 51.804,
+      "end": 53.999
+    },
+    {
+      "id": 20,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 54.349,
+      "end": 56.798
+    },
+    {
+      "id": 21,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 57.148,
+      "end": 59.285
+    },
+    {
+      "id": 22,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 59.635,
+      "end": 61.759
+    },
+    {
+      "id": 23,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 62.109,
+      "end": 64.206
+    },
+    {
+      "id": 24,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 64.556,
+      "end": 66.843
+    },
+    {
+      "id": 25,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 67.193,
+      "end": 69.572
+    },
+    {
+      "id": 26,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 69.922,
+      "end": 73.626
+    },
+    {
+      "id": 27,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 73.976,
+      "end": 77.865
+    },
+    {
+      "id": 28,
+      "section": "dua_for_the_betterment_of_society",
+      "start": 78.215,
+      "end": 81.236
+    }
+  ]
+}

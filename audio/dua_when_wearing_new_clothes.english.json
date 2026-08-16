@@ -1,0 +1,51 @@
+{
+  "dua_id": "dua_when_wearing_new_clothes",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 19.315,
+  "bytes": 85503,
+  "sha256": "4d04b47ac008dcf96ef9e542bd86b2c395db264045bed18b4a9b99755f3d23f9",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_wearing_new_clothes",
+      "start": 0.0,
+      "end": 3.435
+    },
+    {
+      "id": 2,
+      "section": "dua_when_wearing_new_clothes",
+      "start": 3.785,
+      "end": 6.675
+    },
+    {
+      "id": 3,
+      "section": "dua_when_wearing_new_clothes",
+      "start": 7.025,
+      "end": 8.86
+    },
+    {
+      "id": 4,
+      "section": "dua_when_wearing_new_clothes",
+      "start": 9.21,
+      "end": 11.717
+    },
+    {
+      "id": 5,
+      "section": "dua_when_wearing_new_clothes",
+      "start": 12.067,
+      "end": 16.073
+    },
+    {
+      "id": 6,
+      "section": "dua_when_wearing_new_clothes",
+      "start": 16.423,
+      "end": 18.965
+    }
+  ]
+}

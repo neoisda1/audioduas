@@ -1,0 +1,51 @@
+{
+  "dua_id": "dua_for_dawn_and_dusk",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 20.5,
+  "bytes": 99184,
+  "sha256": "fcef8ba65d38673f33b0b2e296e9833b656ed08ea47d7c36795e6a12f4e29e8a",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_for_dawn_and_dusk",
+      "start": 0.0,
+      "end": 3.537
+    },
+    {
+      "id": 2,
+      "section": "dua_for_dawn_and_dusk",
+      "start": 3.887,
+      "end": 6.128
+    },
+    {
+      "id": 3,
+      "section": "dua_for_dawn_and_dusk",
+      "start": 6.478,
+      "end": 7.685
+    },
+    {
+      "id": 4,
+      "section": "dua_for_dawn_and_dusk",
+      "start": 8.035,
+      "end": 11.077
+    },
+    {
+      "id": 5,
+      "section": "dua_for_dawn_and_dusk",
+      "start": 11.427,
+      "end": 16.538
+    },
+    {
+      "id": 6,
+      "section": "dua_for_dawn_and_dusk",
+      "start": 16.888,
+      "end": 20.15
+    }
+  ]
+}

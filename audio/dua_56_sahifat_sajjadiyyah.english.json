@@ -1,0 +1,357 @@
+{
+  "dua_id": "dua_56_sahifat_sajjadiyyah",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 131.883,
+  "bytes": 628693,
+  "sha256": "f30d259d8169779a8194468ffa87a5479a80037aa6b47ed521736d1b9b5bae62",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 0.0,
+      "end": 3.281
+    },
+    {
+      "id": 2,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 3.631,
+      "end": 7.273
+    },
+    {
+      "id": 3,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 7.623,
+      "end": 9.271
+    },
+    {
+      "id": 4,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 9.621,
+      "end": 12.303
+    },
+    {
+      "id": 5,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 12.653,
+      "end": 15.103
+    },
+    {
+      "id": 6,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 15.453,
+      "end": 18.355
+    },
+    {
+      "id": 7,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 18.705,
+      "end": 20.702
+    },
+    {
+      "id": 8,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 21.052,
+      "end": 24.686
+    },
+    {
+      "id": 9,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 25.036,
+      "end": 27.103
+    },
+    {
+      "id": 10,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 27.453,
+      "end": 30.196
+    },
+    {
+      "id": 11,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 30.546,
+      "end": 32.973
+    },
+    {
+      "id": 12,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 33.323,
+      "end": 35.819
+    },
+    {
+      "id": 13,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 36.169,
+      "end": 38.491
+    },
+    {
+      "id": 14,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 38.841,
+      "end": 41.291
+    },
+    {
+      "id": 15,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 41.641,
+      "end": 43.545
+    },
+    {
+      "id": 16,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 43.895,
+      "end": 45.381
+    },
+    {
+      "id": 17,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 45.731,
+      "end": 47.461
+    },
+    {
+      "id": 18,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 47.811,
+      "end": 49.61
+    },
+    {
+      "id": 19,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 49.96,
+      "end": 51.911
+    },
+    {
+      "id": 20,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 52.261,
+      "end": 54.06
+    },
+    {
+      "id": 21,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 54.41,
+      "end": 55.896
+    },
+    {
+      "id": 22,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 56.246,
+      "end": 57.709
+    },
+    {
+      "id": 23,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 58.059,
+      "end": 59.627
+    },
+    {
+      "id": 24,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 59.977,
+      "end": 61.544
+    },
+    {
+      "id": 25,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 61.894,
+      "end": 64.019
+    },
+    {
+      "id": 26,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 64.369,
+      "end": 65.936
+    },
+    {
+      "id": 27,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 66.286,
+      "end": 68.004
+    },
+    {
+      "id": 28,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 68.354,
+      "end": 69.956
+    },
+    {
+      "id": 29,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 70.306,
+      "end": 71.874
+    },
+    {
+      "id": 30,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 72.224,
+      "end": 73.698
+    },
+    {
+      "id": 31,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 74.048,
+      "end": 75.755
+    },
+    {
+      "id": 32,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 76.105,
+      "end": 77.498
+    },
+    {
+      "id": 33,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 77.848,
+      "end": 81.532
+    },
+    {
+      "id": 34,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 81.882,
+      "end": 84.612
+    },
+    {
+      "id": 35,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 84.962,
+      "end": 86.583
+    },
+    {
+      "id": 36,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 86.933,
+      "end": 88.611
+    },
+    {
+      "id": 37,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 88.961,
+      "end": 89.623
+    },
+    {
+      "id": 38,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 89.973,
+      "end": 91.947
+    },
+    {
+      "id": 39,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 92.297,
+      "end": 94.177
+    },
+    {
+      "id": 40,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 94.527,
+      "end": 96.257
+    },
+    {
+      "id": 41,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 96.607,
+      "end": 97.257
+    },
+    {
+      "id": 42,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 97.607,
+      "end": 99.546
+    },
+    {
+      "id": 43,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 99.896,
+      "end": 101.707
+    },
+    {
+      "id": 44,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 102.057,
+      "end": 103.845
+    },
+    {
+      "id": 45,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 104.195,
+      "end": 104.892
+    },
+    {
+      "id": 46,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 105.242,
+      "end": 107.262
+    },
+    {
+      "id": 47,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 107.612,
+      "end": 109.412
+    },
+    {
+      "id": 48,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 109.762,
+      "end": 111.538
+    },
+    {
+      "id": 49,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 111.888,
+      "end": 112.561
+    },
+    {
+      "id": 50,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 112.911,
+      "end": 114.026
+    },
+    {
+      "id": 51,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 114.376,
+      "end": 117.011
+    },
+    {
+      "id": 52,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 117.361,
+      "end": 119.672
+    },
+    {
+      "id": 53,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 120.022,
+      "end": 121.0
+    },
+    {
+      "id": 54,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 121.35,
+      "end": 123.738
+    },
+    {
+      "id": 55,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 124.088,
+      "end": 126.038
+    },
+    {
+      "id": 56,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 126.388,
+      "end": 129.906
+    },
+    {
+      "id": 57,
+      "section": "dua_56_sahifat_sajjadiyyah",
+      "start": 130.256,
+      "end": 131.533
+    }
+  ]
+}

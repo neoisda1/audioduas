@@ -1,0 +1,75 @@
+{
+  "dua_id": "dua_al_hujjah",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 51.638,
+  "bytes": 243155,
+  "sha256": "f20aea72a3189c8eb80e875b91cf3b6e7fcf61f408525539c073902e13f82eb5",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_al_hujjah",
+      "start": 0.0,
+      "end": 3.696
+    },
+    {
+      "id": 2,
+      "section": "dua_al_hujjah",
+      "start": 4.046,
+      "end": 7.994
+    },
+    {
+      "id": 3,
+      "section": "dua_al_hujjah",
+      "start": 8.344,
+      "end": 12.25
+    },
+    {
+      "id": 4,
+      "section": "dua_al_hujjah",
+      "start": 12.6,
+      "end": 16.292
+    },
+    {
+      "id": 5,
+      "section": "dua_al_hujjah",
+      "start": 16.642,
+      "end": 22.761
+    },
+    {
+      "id": 6,
+      "section": "dua_al_hujjah",
+      "start": 23.111,
+      "end": 28.577
+    },
+    {
+      "id": 7,
+      "section": "dua_al_hujjah",
+      "start": 28.927,
+      "end": 34.443
+    },
+    {
+      "id": 8,
+      "section": "dua_al_hujjah",
+      "start": 34.793,
+      "end": 40.481
+    },
+    {
+      "id": 9,
+      "section": "dua_al_hujjah",
+      "start": 40.831,
+      "end": 48.442
+    },
+    {
+      "id": 10,
+      "section": "dua_al_hujjah",
+      "start": 48.792,
+      "end": 51.288
+    }
+  ]
+}

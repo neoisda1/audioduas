@@ -1,0 +1,27 @@
+{
+  "dua_id": "salawaat_when_going_to_bed",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 6.869,
+  "bytes": 30170,
+  "sha256": "16a2a28dabf849c99c6dbd0a7f3bb6f1667b4e8f6f9607d522579ba248c0ae7a",
+  "lines": [
+    {
+      "id": 1,
+      "section": "salawaat_when_going_to_bed",
+      "start": 0.0,
+      "end": 3.696
+    },
+    {
+      "id": 2,
+      "section": "salawaat_when_going_to_bed",
+      "start": 4.046,
+      "end": 6.519
+    }
+  ]
+}

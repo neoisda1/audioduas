@@ -1,0 +1,33 @@
+{
+  "dua_id": "dua_2_when_leaving_home",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 5.311,
+  "bytes": 23075,
+  "sha256": "bc81152c15e506767edc4c84238263a9029b6c6a09fcd1c8da934a1d61dc6a2e",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_2_when_leaving_home",
+      "start": 0.0,
+      "end": 1.277
+    },
+    {
+      "id": 2,
+      "section": "dua_2_when_leaving_home",
+      "start": 1.627,
+      "end": 2.858
+    },
+    {
+      "id": 3,
+      "section": "dua_2_when_leaving_home",
+      "start": 3.208,
+      "end": 4.961
+    }
+  ]
+}

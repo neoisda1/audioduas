@@ -1,0 +1,33 @@
+{
+  "dua_id": "ayat_ushshahadah_31819",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 28.803,
+  "bytes": 120991,
+  "sha256": "7c7ec2359fa5a9f5a2d21c38237b4e5410897dfa2fe5ae160c241980c468327d",
+  "lines": [
+    {
+      "id": 1,
+      "section": "ayat_ushshahadah_31819",
+      "start": 0.0,
+      "end": 3.32
+    },
+    {
+      "id": 2,
+      "section": "ayat_ushshahadah_31819",
+      "start": 3.67,
+      "end": 12.874
+    },
+    {
+      "id": 3,
+      "section": "ayat_ushshahadah_31819",
+      "start": 13.224,
+      "end": 28.453
+    }
+  ]
+}

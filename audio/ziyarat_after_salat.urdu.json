@@ -1,0 +1,105 @@
+{
+  "dua_id": "ziyarat_after_salat",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 54.117,
+  "bytes": 242307,
+  "sha256": "a8ed16799f3d41d2e6931444eb6799c58a47e28c70d6efbe332b9119eac47d38",
+  "lines": [
+    {
+      "id": 1,
+      "section": "ziyarat_after_salat_hussain",
+      "start": 0.0,
+      "end": 2.577
+    },
+    {
+      "id": 2,
+      "section": "ziyarat_after_salat_hussain",
+      "start": 2.927,
+      "end": 5.76
+    },
+    {
+      "id": 3,
+      "section": "ziyarat_after_salat_hussain",
+      "start": 6.11,
+      "end": 10.499
+    },
+    {
+      "id": 4,
+      "section": "ziyarat_after_salat_hussain",
+      "start": 10.849,
+      "end": 13.879
+    },
+    {
+      "id": 5,
+      "section": "ziyarat_after_salat_hussain",
+      "start": 14.229,
+      "end": 18.943
+    },
+    {
+      "id": 6,
+      "section": "ziyarat_after_salat_hussain",
+      "start": 19.293,
+      "end": 22.985
+    },
+    {
+      "id": 1,
+      "section": "ziyarat_after_salat_ridha",
+      "start": 23.335,
+      "end": 25.68
+    },
+    {
+      "id": 2,
+      "section": "ziyarat_after_salat_ridha",
+      "start": 26.03,
+      "end": 30.696
+    },
+    {
+      "id": 3,
+      "section": "ziyarat_after_salat_ridha",
+      "start": 31.046,
+      "end": 34.448
+    },
+    {
+      "id": 1,
+      "section": "ziyarat_after_salat_mahdi",
+      "start": 34.798,
+      "end": 37.538
+    },
+    {
+      "id": 2,
+      "section": "ziyarat_after_salat_mahdi",
+      "start": 37.888,
+      "end": 40.971
+    },
+    {
+      "id": 3,
+      "section": "ziyarat_after_salat_mahdi",
+      "start": 41.321,
+      "end": 43.794
+    },
+    {
+      "id": 4,
+      "section": "ziyarat_after_salat_mahdi",
+      "start": 44.144,
+      "end": 45.858
+    },
+    {
+      "id": 5,
+      "section": "ziyarat_after_salat_mahdi",
+      "start": 46.208,
+      "end": 49.853
+    },
+    {
+      "id": 6,
+      "section": "ziyarat_after_salat_mahdi",
+      "start": 50.203,
+      "end": 53.767
+    }
+  ]
+}

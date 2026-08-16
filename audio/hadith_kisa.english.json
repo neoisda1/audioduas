@@ -1,0 +1,699 @@
+{
+  "dua_id": "hadith_kisa",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 397.393,
+  "bytes": 1884261,
+  "sha256": "a687c143454dbb622f0a63fd97bf507c662423d322ab3f0dfccfc593c84f83e5",
+  "lines": [
+    {
+      "id": 1,
+      "section": "hadith_kisa",
+      "start": 0.0,
+      "end": 3.055
+    },
+    {
+      "id": 2,
+      "section": "hadith_kisa",
+      "start": 3.405,
+      "end": 6.336
+    },
+    {
+      "id": 3,
+      "section": "hadith_kisa",
+      "start": 6.686,
+      "end": 10.501
+    },
+    {
+      "id": 4,
+      "section": "hadith_kisa",
+      "start": 10.851,
+      "end": 14.976
+    },
+    {
+      "id": 5,
+      "section": "hadith_kisa",
+      "start": 15.326,
+      "end": 17.271
+    },
+    {
+      "id": 6,
+      "section": "hadith_kisa",
+      "start": 17.621,
+      "end": 19.678
+    },
+    {
+      "id": 7,
+      "section": "hadith_kisa",
+      "start": 20.028,
+      "end": 22.446
+    },
+    {
+      "id": 8,
+      "section": "hadith_kisa",
+      "start": 22.796,
+      "end": 26.645
+    },
+    {
+      "id": 9,
+      "section": "hadith_kisa",
+      "start": 26.995,
+      "end": 30.759
+    },
+    {
+      "id": 10,
+      "section": "hadith_kisa",
+      "start": 31.109,
+      "end": 33.431
+    },
+    {
+      "id": 11,
+      "section": "hadith_kisa",
+      "start": 33.781,
+      "end": 35.776
+    },
+    {
+      "id": 12,
+      "section": "hadith_kisa",
+      "start": 36.126,
+      "end": 39.112
+    },
+    {
+      "id": 13,
+      "section": "hadith_kisa",
+      "start": 39.462,
+      "end": 42.203
+    },
+    {
+      "id": 14,
+      "section": "hadith_kisa",
+      "start": 42.553,
+      "end": 44.357
+    },
+    {
+      "id": 15,
+      "section": "hadith_kisa",
+      "start": 44.707,
+      "end": 49.142
+    },
+    {
+      "id": 16,
+      "section": "hadith_kisa",
+      "start": 49.492,
+      "end": 52.419
+    },
+    {
+      "id": 17,
+      "section": "hadith_kisa",
+      "start": 52.769,
+      "end": 56.462
+    },
+    {
+      "id": 18,
+      "section": "hadith_kisa",
+      "start": 56.812,
+      "end": 60.42
+    },
+    {
+      "id": 19,
+      "section": "hadith_kisa",
+      "start": 60.77,
+      "end": 65.929
+    },
+    {
+      "id": 20,
+      "section": "hadith_kisa",
+      "start": 66.279,
+      "end": 68.035
+    },
+    {
+      "id": 21,
+      "section": "hadith_kisa",
+      "start": 68.385,
+      "end": 72.166
+    },
+    {
+      "id": 22,
+      "section": "hadith_kisa",
+      "start": 72.516,
+      "end": 74.592
+    },
+    {
+      "id": 23,
+      "section": "hadith_kisa",
+      "start": 74.942,
+      "end": 77.563
+    },
+    {
+      "id": 24,
+      "section": "hadith_kisa",
+      "start": 77.913,
+      "end": 81.091
+    },
+    {
+      "id": 25,
+      "section": "hadith_kisa",
+      "start": 81.441,
+      "end": 83.421
+    },
+    {
+      "id": 26,
+      "section": "hadith_kisa",
+      "start": 83.771,
+      "end": 88.759
+    },
+    {
+      "id": 27,
+      "section": "hadith_kisa",
+      "start": 89.109,
+      "end": 92.376
+    },
+    {
+      "id": 28,
+      "section": "hadith_kisa",
+      "start": 92.726,
+      "end": 96.442
+    },
+    {
+      "id": 29,
+      "section": "hadith_kisa",
+      "start": 96.792,
+      "end": 100.803
+    },
+    {
+      "id": 30,
+      "section": "hadith_kisa",
+      "start": 101.153,
+      "end": 102.863
+    },
+    {
+      "id": 31,
+      "section": "hadith_kisa",
+      "start": 103.213,
+      "end": 107.809
+    },
+    {
+      "id": 32,
+      "section": "hadith_kisa",
+      "start": 108.159,
+      "end": 110.272
+    },
+    {
+      "id": 33,
+      "section": "hadith_kisa",
+      "start": 110.622,
+      "end": 113.362
+    },
+    {
+      "id": 34,
+      "section": "hadith_kisa",
+      "start": 113.712,
+      "end": 117.496
+    },
+    {
+      "id": 35,
+      "section": "hadith_kisa",
+      "start": 117.846,
+      "end": 120.27
+    },
+    {
+      "id": 36,
+      "section": "hadith_kisa",
+      "start": 120.62,
+      "end": 124.268
+    },
+    {
+      "id": 37,
+      "section": "hadith_kisa",
+      "start": 124.618,
+      "end": 128.781
+    },
+    {
+      "id": 38,
+      "section": "hadith_kisa",
+      "start": 129.131,
+      "end": 134.146
+    },
+    {
+      "id": 39,
+      "section": "hadith_kisa",
+      "start": 134.496,
+      "end": 137.256
+    },
+    {
+      "id": 40,
+      "section": "hadith_kisa",
+      "start": 137.606,
+      "end": 141.193
+    },
+    {
+      "id": 41,
+      "section": "hadith_kisa",
+      "start": 141.543,
+      "end": 145.438
+    },
+    {
+      "id": 42,
+      "section": "hadith_kisa",
+      "start": 145.788,
+      "end": 147.436
+    },
+    {
+      "id": 43,
+      "section": "hadith_kisa",
+      "start": 147.786,
+      "end": 150.788
+    },
+    {
+      "id": 44,
+      "section": "hadith_kisa",
+      "start": 151.138,
+      "end": 153.147
+    },
+    {
+      "id": 45,
+      "section": "hadith_kisa",
+      "start": 153.497,
+      "end": 157.712
+    },
+    {
+      "id": 46,
+      "section": "hadith_kisa",
+      "start": 158.062,
+      "end": 161.65
+    },
+    {
+      "id": 47,
+      "section": "hadith_kisa",
+      "start": 162.0,
+      "end": 163.956
+    },
+    {
+      "id": 48,
+      "section": "hadith_kisa",
+      "start": 164.306,
+      "end": 166.05
+    },
+    {
+      "id": 49,
+      "section": "hadith_kisa",
+      "start": 166.4,
+      "end": 170.343
+    },
+    {
+      "id": 50,
+      "section": "hadith_kisa",
+      "start": 170.693,
+      "end": 173.05
+    },
+    {
+      "id": 51,
+      "section": "hadith_kisa",
+      "start": 173.4,
+      "end": 179.034
+    },
+    {
+      "id": 52,
+      "section": "hadith_kisa",
+      "start": 179.384,
+      "end": 182.125
+    },
+    {
+      "id": 53,
+      "section": "hadith_kisa",
+      "start": 182.475,
+      "end": 186.885
+    },
+    {
+      "id": 54,
+      "section": "hadith_kisa",
+      "start": 187.235,
+      "end": 189.757
+    },
+    {
+      "id": 55,
+      "section": "hadith_kisa",
+      "start": 190.107,
+      "end": 195.041
+    },
+    {
+      "id": 56,
+      "section": "hadith_kisa",
+      "start": 195.391,
+      "end": 198.104
+    },
+    {
+      "id": 57,
+      "section": "hadith_kisa",
+      "start": 198.454,
+      "end": 200.472
+    },
+    {
+      "id": 58,
+      "section": "hadith_kisa",
+      "start": 200.822,
+      "end": 203.366
+    },
+    {
+      "id": 59,
+      "section": "hadith_kisa",
+      "start": 203.716,
+      "end": 206.37
+    },
+    {
+      "id": 60,
+      "section": "hadith_kisa",
+      "start": 206.72,
+      "end": 209.635
+    },
+    {
+      "id": 61,
+      "section": "hadith_kisa",
+      "start": 209.985,
+      "end": 212.68
+    },
+    {
+      "id": 62,
+      "section": "hadith_kisa",
+      "start": 213.03,
+      "end": 214.957
+    },
+    {
+      "id": 63,
+      "section": "hadith_kisa",
+      "start": 215.307,
+      "end": 217.561
+    },
+    {
+      "id": 64,
+      "section": "hadith_kisa",
+      "start": 217.911,
+      "end": 221.478
+    },
+    {
+      "id": 65,
+      "section": "hadith_kisa",
+      "start": 221.828,
+      "end": 224.401
+    },
+    {
+      "id": 66,
+      "section": "hadith_kisa",
+      "start": 224.751,
+      "end": 228.906
+    },
+    {
+      "id": 67,
+      "section": "hadith_kisa",
+      "start": 229.256,
+      "end": 231.679
+    },
+    {
+      "id": 68,
+      "section": "hadith_kisa",
+      "start": 232.029,
+      "end": 234.792
+    },
+    {
+      "id": 69,
+      "section": "hadith_kisa",
+      "start": 235.142,
+      "end": 238.414
+    },
+    {
+      "id": 70,
+      "section": "hadith_kisa",
+      "start": 238.764,
+      "end": 242.888
+    },
+    {
+      "id": 71,
+      "section": "hadith_kisa",
+      "start": 243.238,
+      "end": 247.406
+    },
+    {
+      "id": 72,
+      "section": "hadith_kisa",
+      "start": 247.756,
+      "end": 251.821
+    },
+    {
+      "id": 73,
+      "section": "hadith_kisa",
+      "start": 252.171,
+      "end": 253.686
+    },
+    {
+      "id": 74,
+      "section": "hadith_kisa",
+      "start": 254.036,
+      "end": 257.24
+    },
+    {
+      "id": 75,
+      "section": "hadith_kisa",
+      "start": 257.59,
+      "end": 260.647
+    },
+    {
+      "id": 76,
+      "section": "hadith_kisa",
+      "start": 260.997,
+      "end": 264.808
+    },
+    {
+      "id": 77,
+      "section": "hadith_kisa",
+      "start": 265.158,
+      "end": 267.341
+    },
+    {
+      "id": 78,
+      "section": "hadith_kisa",
+      "start": 267.691,
+      "end": 270.013
+    },
+    {
+      "id": 79,
+      "section": "hadith_kisa",
+      "start": 270.363,
+      "end": 274.974
+    },
+    {
+      "id": 80,
+      "section": "hadith_kisa",
+      "start": 275.324,
+      "end": 278.847
+    },
+    {
+      "id": 81,
+      "section": "hadith_kisa",
+      "start": 279.197,
+      "end": 281.814
+    },
+    {
+      "id": 82,
+      "section": "hadith_kisa",
+      "start": 282.164,
+      "end": 284.033
+    },
+    {
+      "id": 83,
+      "section": "hadith_kisa",
+      "start": 284.383,
+      "end": 286.924
+    },
+    {
+      "id": 84,
+      "section": "hadith_kisa",
+      "start": 287.274,
+      "end": 290.421
+    },
+    {
+      "id": 85,
+      "section": "hadith_kisa",
+      "start": 290.771,
+      "end": 293.201
+    },
+    {
+      "id": 86,
+      "section": "hadith_kisa",
+      "start": 293.551,
+      "end": 295.853
+    },
+    {
+      "id": 87,
+      "section": "hadith_kisa",
+      "start": 296.203,
+      "end": 299.484
+    },
+    {
+      "id": 88,
+      "section": "hadith_kisa",
+      "start": 299.834,
+      "end": 305.334
+    },
+    {
+      "id": 89,
+      "section": "hadith_kisa",
+      "start": 305.684,
+      "end": 307.832
+    },
+    {
+      "id": 90,
+      "section": "hadith_kisa",
+      "start": 308.182,
+      "end": 310.995
+    },
+    {
+      "id": 91,
+      "section": "hadith_kisa",
+      "start": 311.345,
+      "end": 315.767
+    },
+    {
+      "id": 92,
+      "section": "hadith_kisa",
+      "start": 316.117,
+      "end": 318.893
+    },
+    {
+      "id": 93,
+      "section": "hadith_kisa",
+      "start": 319.243,
+      "end": 322.014
+    },
+    {
+      "id": 94,
+      "section": "hadith_kisa",
+      "start": 322.364,
+      "end": 325.932
+    },
+    {
+      "id": 95,
+      "section": "hadith_kisa",
+      "start": 326.282,
+      "end": 330.227
+    },
+    {
+      "id": 96,
+      "section": "hadith_kisa",
+      "start": 330.577,
+      "end": 333.547
+    },
+    {
+      "id": 97,
+      "section": "hadith_kisa",
+      "start": 333.897,
+      "end": 336.521
+    },
+    {
+      "id": 98,
+      "section": "hadith_kisa",
+      "start": 336.871,
+      "end": 338.74
+    },
+    {
+      "id": 99,
+      "section": "hadith_kisa",
+      "start": 339.09,
+      "end": 341.934
+    },
+    {
+      "id": 100,
+      "section": "hadith_kisa",
+      "start": 342.284,
+      "end": 345.239
+    },
+    {
+      "id": 101,
+      "section": "hadith_kisa",
+      "start": 345.589,
+      "end": 347.934
+    },
+    {
+      "id": 102,
+      "section": "hadith_kisa",
+      "start": 348.284,
+      "end": 351.988
+    },
+    {
+      "id": 103,
+      "section": "hadith_kisa",
+      "start": 352.338,
+      "end": 356.687
+    },
+    {
+      "id": 104,
+      "section": "hadith_kisa",
+      "start": 357.037,
+      "end": 359.429
+    },
+    {
+      "id": 105,
+      "section": "hadith_kisa",
+      "start": 359.779,
+      "end": 363.03
+    },
+    {
+      "id": 106,
+      "section": "hadith_kisa",
+      "start": 363.38,
+      "end": 365.152
+    },
+    {
+      "id": 107,
+      "section": "hadith_kisa",
+      "start": 365.502,
+      "end": 368.5
+    },
+    {
+      "id": 108,
+      "section": "hadith_kisa",
+      "start": 368.85,
+      "end": 371.399
+    },
+    {
+      "id": 109,
+      "section": "hadith_kisa",
+      "start": 371.749,
+      "end": 375.004
+    },
+    {
+      "id": 110,
+      "section": "hadith_kisa",
+      "start": 375.354,
+      "end": 378.629
+    },
+    {
+      "id": 111,
+      "section": "hadith_kisa",
+      "start": 378.979,
+      "end": 382.747
+    },
+    {
+      "id": 112,
+      "section": "hadith_kisa",
+      "start": 383.097,
+      "end": 388.765
+    },
+    {
+      "id": 113,
+      "section": "hadith_kisa",
+      "start": 389.115,
+      "end": 393.573
+    },
+    {
+      "id": 114,
+      "section": "hadith_kisa",
+      "start": 393.923,
+      "end": 397.043
+    }
+  ]
+}

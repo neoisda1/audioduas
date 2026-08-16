@@ -1,0 +1,39 @@
+{
+  "dua_id": "dua_when_combing_hair",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 7.727,
+  "bytes": 41834,
+  "sha256": "77ee5d8e80c6ab07fb7cdc5cc1744bcae2c4bf27b19c6ab742d08c394c7a8466",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_combing_hair",
+      "start": 0.0,
+      "end": 2.067
+    },
+    {
+      "id": 2,
+      "section": "dua_when_combing_hair",
+      "start": 2.417,
+      "end": 3.845
+    },
+    {
+      "id": 3,
+      "section": "dua_when_combing_hair",
+      "start": 4.195,
+      "end": 5.448
+    },
+    {
+      "id": 4,
+      "section": "dua_when_combing_hair",
+      "start": 5.798,
+      "end": 7.377
+    }
+  ]
+}

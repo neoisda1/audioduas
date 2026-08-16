@@ -1,0 +1,2649 @@
+{
+  "dua_id": "dua_jawshan_sagheer",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 1335.635,
+  "bytes": 6346719,
+  "sha256": "26eb19645782d4d5fa22c9029929ee688b8435c9f1264e8b43d691249891cf26",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_jawshan_sagheer",
+      "start": 0.0,
+      "end": 3.696
+    },
+    {
+      "id": 2,
+      "section": "dua_jawshan_sagheer",
+      "start": 4.046,
+      "end": 6.31
+    },
+    {
+      "id": 3,
+      "section": "dua_jawshan_sagheer",
+      "start": 6.66,
+      "end": 9.412
+    },
+    {
+      "id": 4,
+      "section": "dua_jawshan_sagheer",
+      "start": 9.762,
+      "end": 12.757
+    },
+    {
+      "id": 5,
+      "section": "dua_jawshan_sagheer",
+      "start": 13.107,
+      "end": 15.859
+    },
+    {
+      "id": 6,
+      "section": "dua_jawshan_sagheer",
+      "start": 16.209,
+      "end": 18.67
+    },
+    {
+      "id": 7,
+      "section": "dua_jawshan_sagheer",
+      "start": 19.02,
+      "end": 22.608
+    },
+    {
+      "id": 8,
+      "section": "dua_jawshan_sagheer",
+      "start": 22.958,
+      "end": 26.475
+    },
+    {
+      "id": 9,
+      "section": "dua_jawshan_sagheer",
+      "start": 26.825,
+      "end": 31.934
+    },
+    {
+      "id": 10,
+      "section": "dua_jawshan_sagheer",
+      "start": 32.284,
+      "end": 34.768
+    },
+    {
+      "id": 11,
+      "section": "dua_jawshan_sagheer",
+      "start": 35.118,
+      "end": 38.95
+    },
+    {
+      "id": 12,
+      "section": "dua_jawshan_sagheer",
+      "start": 39.3,
+      "end": 43.561
+    },
+    {
+      "id": 13,
+      "section": "dua_jawshan_sagheer",
+      "start": 43.911,
+      "end": 49.185
+    },
+    {
+      "id": 14,
+      "section": "dua_jawshan_sagheer",
+      "start": 49.535,
+      "end": 55.038
+    },
+    {
+      "id": 15,
+      "section": "dua_jawshan_sagheer",
+      "start": 55.388,
+      "end": 57.583
+    },
+    {
+      "id": 16,
+      "section": "dua_jawshan_sagheer",
+      "start": 57.933,
+      "end": 60.626
+    },
+    {
+      "id": 17,
+      "section": "dua_jawshan_sagheer",
+      "start": 60.976,
+      "end": 63.345
+    },
+    {
+      "id": 18,
+      "section": "dua_jawshan_sagheer",
+      "start": 63.695,
+      "end": 68.096
+    },
+    {
+      "id": 19,
+      "section": "dua_jawshan_sagheer",
+      "start": 68.446,
+      "end": 71.441
+    },
+    {
+      "id": 20,
+      "section": "dua_jawshan_sagheer",
+      "start": 71.791,
+      "end": 76.688
+    },
+    {
+      "id": 21,
+      "section": "dua_jawshan_sagheer",
+      "start": 77.038,
+      "end": 79.14
+    },
+    {
+      "id": 22,
+      "section": "dua_jawshan_sagheer",
+      "start": 79.49,
+      "end": 81.37
+    },
+    {
+      "id": 23,
+      "section": "dua_jawshan_sagheer",
+      "start": 81.72,
+      "end": 83.729
+    },
+    {
+      "id": 24,
+      "section": "dua_jawshan_sagheer",
+      "start": 84.079,
+      "end": 87.365
+    },
+    {
+      "id": 25,
+      "section": "dua_jawshan_sagheer",
+      "start": 87.715,
+      "end": 91.718
+    },
+    {
+      "id": 26,
+      "section": "dua_jawshan_sagheer",
+      "start": 92.068,
+      "end": 94.1
+    },
+    {
+      "id": 27,
+      "section": "dua_jawshan_sagheer",
+      "start": 94.45,
+      "end": 97.167
+    },
+    {
+      "id": 28,
+      "section": "dua_jawshan_sagheer",
+      "start": 97.517,
+      "end": 100.339
+    },
+    {
+      "id": 29,
+      "section": "dua_jawshan_sagheer",
+      "start": 100.689,
+      "end": 103.847
+    },
+    {
+      "id": 30,
+      "section": "dua_jawshan_sagheer",
+      "start": 104.197,
+      "end": 107.529
+    },
+    {
+      "id": 31,
+      "section": "dua_jawshan_sagheer",
+      "start": 107.879,
+      "end": 110.236
+    },
+    {
+      "id": 32,
+      "section": "dua_jawshan_sagheer",
+      "start": 110.586,
+      "end": 113.349
+    },
+    {
+      "id": 33,
+      "section": "dua_jawshan_sagheer",
+      "start": 113.699,
+      "end": 115.882
+    },
+    {
+      "id": 34,
+      "section": "dua_jawshan_sagheer",
+      "start": 116.232,
+      "end": 119.575
+    },
+    {
+      "id": 35,
+      "section": "dua_jawshan_sagheer",
+      "start": 119.925,
+      "end": 122.932
+    },
+    {
+      "id": 36,
+      "section": "dua_jawshan_sagheer",
+      "start": 123.282,
+      "end": 128.716
+    },
+    {
+      "id": 37,
+      "section": "dua_jawshan_sagheer",
+      "start": 129.066,
+      "end": 131.167
+    },
+    {
+      "id": 38,
+      "section": "dua_jawshan_sagheer",
+      "start": 131.517,
+      "end": 134.222
+    },
+    {
+      "id": 39,
+      "section": "dua_jawshan_sagheer",
+      "start": 134.572,
+      "end": 138.044
+    },
+    {
+      "id": 40,
+      "section": "dua_jawshan_sagheer",
+      "start": 138.394,
+      "end": 141.192
+    },
+    {
+      "id": 41,
+      "section": "dua_jawshan_sagheer",
+      "start": 141.542,
+      "end": 146.592
+    },
+    {
+      "id": 42,
+      "section": "dua_jawshan_sagheer",
+      "start": 146.942,
+      "end": 149.125
+    },
+    {
+      "id": 43,
+      "section": "dua_jawshan_sagheer",
+      "start": 149.475,
+      "end": 151.135
+    },
+    {
+      "id": 44,
+      "section": "dua_jawshan_sagheer",
+      "start": 151.485,
+      "end": 154.434
+    },
+    {
+      "id": 45,
+      "section": "dua_jawshan_sagheer",
+      "start": 154.784,
+      "end": 157.524
+    },
+    {
+      "id": 46,
+      "section": "dua_jawshan_sagheer",
+      "start": 157.874,
+      "end": 160.985
+    },
+    {
+      "id": 47,
+      "section": "dua_jawshan_sagheer",
+      "start": 161.335,
+      "end": 164.946
+    },
+    {
+      "id": 48,
+      "section": "dua_jawshan_sagheer",
+      "start": 165.296,
+      "end": 168.64
+    },
+    {
+      "id": 49,
+      "section": "dua_jawshan_sagheer",
+      "start": 168.99,
+      "end": 171.381
+    },
+    {
+      "id": 50,
+      "section": "dua_jawshan_sagheer",
+      "start": 171.731,
+      "end": 174.994
+    },
+    {
+      "id": 51,
+      "section": "dua_jawshan_sagheer",
+      "start": 175.344,
+      "end": 178.467
+    },
+    {
+      "id": 52,
+      "section": "dua_jawshan_sagheer",
+      "start": 178.817,
+      "end": 181.986
+    },
+    {
+      "id": 53,
+      "section": "dua_jawshan_sagheer",
+      "start": 182.336,
+      "end": 185.285
+    },
+    {
+      "id": 54,
+      "section": "dua_jawshan_sagheer",
+      "start": 185.635,
+      "end": 188.398
+    },
+    {
+      "id": 55,
+      "section": "dua_jawshan_sagheer",
+      "start": 188.748,
+      "end": 191.535
+    },
+    {
+      "id": 56,
+      "section": "dua_jawshan_sagheer",
+      "start": 191.885,
+      "end": 195.96
+    },
+    {
+      "id": 57,
+      "section": "dua_jawshan_sagheer",
+      "start": 196.31,
+      "end": 198.795
+    },
+    {
+      "id": 58,
+      "section": "dua_jawshan_sagheer",
+      "start": 199.145,
+      "end": 202.221
+    },
+    {
+      "id": 59,
+      "section": "dua_jawshan_sagheer",
+      "start": 202.571,
+      "end": 205.892
+    },
+    {
+      "id": 60,
+      "section": "dua_jawshan_sagheer",
+      "start": 206.242,
+      "end": 209.899
+    },
+    {
+      "id": 61,
+      "section": "dua_jawshan_sagheer",
+      "start": 210.249,
+      "end": 213.36
+    },
+    {
+      "id": 62,
+      "section": "dua_jawshan_sagheer",
+      "start": 213.71,
+      "end": 216.391
+    },
+    {
+      "id": 63,
+      "section": "dua_jawshan_sagheer",
+      "start": 216.741,
+      "end": 219.121
+    },
+    {
+      "id": 64,
+      "section": "dua_jawshan_sagheer",
+      "start": 219.471,
+      "end": 221.817
+    },
+    {
+      "id": 65,
+      "section": "dua_jawshan_sagheer",
+      "start": 222.167,
+      "end": 225.232
+    },
+    {
+      "id": 66,
+      "section": "dua_jawshan_sagheer",
+      "start": 225.582,
+      "end": 228.612
+    },
+    {
+      "id": 67,
+      "section": "dua_jawshan_sagheer",
+      "start": 228.962,
+      "end": 231.516
+    },
+    {
+      "id": 68,
+      "section": "dua_jawshan_sagheer",
+      "start": 231.866,
+      "end": 236.22
+    },
+    {
+      "id": 69,
+      "section": "dua_jawshan_sagheer",
+      "start": 236.57,
+      "end": 238.927
+    },
+    {
+      "id": 70,
+      "section": "dua_jawshan_sagheer",
+      "start": 239.277,
+      "end": 242.226
+    },
+    {
+      "id": 71,
+      "section": "dua_jawshan_sagheer",
+      "start": 242.576,
+      "end": 245.06
+    },
+    {
+      "id": 72,
+      "section": "dua_jawshan_sagheer",
+      "start": 245.41,
+      "end": 247.453
+    },
+    {
+      "id": 73,
+      "section": "dua_jawshan_sagheer",
+      "start": 247.803,
+      "end": 251.83
+    },
+    {
+      "id": 74,
+      "section": "dua_jawshan_sagheer",
+      "start": 252.18,
+      "end": 255.485
+    },
+    {
+      "id": 75,
+      "section": "dua_jawshan_sagheer",
+      "start": 255.835,
+      "end": 258.9
+    },
+    {
+      "id": 76,
+      "section": "dua_jawshan_sagheer",
+      "start": 259.25,
+      "end": 262.617
+    },
+    {
+      "id": 77,
+      "section": "dua_jawshan_sagheer",
+      "start": 262.967,
+      "end": 264.593
+    },
+    {
+      "id": 78,
+      "section": "dua_jawshan_sagheer",
+      "start": 264.943,
+      "end": 269.148
+    },
+    {
+      "id": 79,
+      "section": "dua_jawshan_sagheer",
+      "start": 269.498,
+      "end": 274.46
+    },
+    {
+      "id": 80,
+      "section": "dua_jawshan_sagheer",
+      "start": 274.81,
+      "end": 278.374
+    },
+    {
+      "id": 81,
+      "section": "dua_jawshan_sagheer",
+      "start": 278.724,
+      "end": 281.266
+    },
+    {
+      "id": 82,
+      "section": "dua_jawshan_sagheer",
+      "start": 281.616,
+      "end": 284.391
+    },
+    {
+      "id": 83,
+      "section": "dua_jawshan_sagheer",
+      "start": 284.741,
+      "end": 286.761
+    },
+    {
+      "id": 84,
+      "section": "dua_jawshan_sagheer",
+      "start": 287.111,
+      "end": 289.642
+    },
+    {
+      "id": 85,
+      "section": "dua_jawshan_sagheer",
+      "start": 289.992,
+      "end": 292.605
+    },
+    {
+      "id": 86,
+      "section": "dua_jawshan_sagheer",
+      "start": 292.955,
+      "end": 295.3
+    },
+    {
+      "id": 87,
+      "section": "dua_jawshan_sagheer",
+      "start": 295.65,
+      "end": 299.377
+    },
+    {
+      "id": 88,
+      "section": "dua_jawshan_sagheer",
+      "start": 299.727,
+      "end": 302.258
+    },
+    {
+      "id": 89,
+      "section": "dua_jawshan_sagheer",
+      "start": 302.608,
+      "end": 305.15
+    },
+    {
+      "id": 90,
+      "section": "dua_jawshan_sagheer",
+      "start": 305.5,
+      "end": 308.345
+    },
+    {
+      "id": 91,
+      "section": "dua_jawshan_sagheer",
+      "start": 308.695,
+      "end": 311.156
+    },
+    {
+      "id": 92,
+      "section": "dua_jawshan_sagheer",
+      "start": 311.506,
+      "end": 313.758
+    },
+    {
+      "id": 93,
+      "section": "dua_jawshan_sagheer",
+      "start": 314.108,
+      "end": 317.835
+    },
+    {
+      "id": 94,
+      "section": "dua_jawshan_sagheer",
+      "start": 318.185,
+      "end": 320.832
+    },
+    {
+      "id": 95,
+      "section": "dua_jawshan_sagheer",
+      "start": 321.182,
+      "end": 323.98
+    },
+    {
+      "id": 96,
+      "section": "dua_jawshan_sagheer",
+      "start": 324.33,
+      "end": 327.326
+    },
+    {
+      "id": 97,
+      "section": "dua_jawshan_sagheer",
+      "start": 327.676,
+      "end": 329.696
+    },
+    {
+      "id": 98,
+      "section": "dua_jawshan_sagheer",
+      "start": 330.046,
+      "end": 333.193
+    },
+    {
+      "id": 99,
+      "section": "dua_jawshan_sagheer",
+      "start": 333.543,
+      "end": 335.865
+    },
+    {
+      "id": 100,
+      "section": "dua_jawshan_sagheer",
+      "start": 336.215,
+      "end": 339.605
+    },
+    {
+      "id": 101,
+      "section": "dua_jawshan_sagheer",
+      "start": 339.955,
+      "end": 343.113
+    },
+    {
+      "id": 102,
+      "section": "dua_jawshan_sagheer",
+      "start": 343.463,
+      "end": 345.982
+    },
+    {
+      "id": 103,
+      "section": "dua_jawshan_sagheer",
+      "start": 346.332,
+      "end": 350.129
+    },
+    {
+      "id": 104,
+      "section": "dua_jawshan_sagheer",
+      "start": 350.479,
+      "end": 353.358
+    },
+    {
+      "id": 105,
+      "section": "dua_jawshan_sagheer",
+      "start": 353.708,
+      "end": 357.029
+    },
+    {
+      "id": 106,
+      "section": "dua_jawshan_sagheer",
+      "start": 357.379,
+      "end": 360.374
+    },
+    {
+      "id": 107,
+      "section": "dua_jawshan_sagheer",
+      "start": 360.724,
+      "end": 362.942
+    },
+    {
+      "id": 108,
+      "section": "dua_jawshan_sagheer",
+      "start": 363.292,
+      "end": 366.519
+    },
+    {
+      "id": 109,
+      "section": "dua_jawshan_sagheer",
+      "start": 366.869,
+      "end": 368.135
+    },
+    {
+      "id": 110,
+      "section": "dua_jawshan_sagheer",
+      "start": 368.485,
+      "end": 371.016
+    },
+    {
+      "id": 111,
+      "section": "dua_jawshan_sagheer",
+      "start": 371.366,
+      "end": 374.663
+    },
+    {
+      "id": 112,
+      "section": "dua_jawshan_sagheer",
+      "start": 375.013,
+      "end": 378.905
+    },
+    {
+      "id": 113,
+      "section": "dua_jawshan_sagheer",
+      "start": 379.255,
+      "end": 383.62
+    },
+    {
+      "id": 114,
+      "section": "dua_jawshan_sagheer",
+      "start": 383.97,
+      "end": 386.989
+    },
+    {
+      "id": 115,
+      "section": "dua_jawshan_sagheer",
+      "start": 387.339,
+      "end": 390.473
+    },
+    {
+      "id": 116,
+      "section": "dua_jawshan_sagheer",
+      "start": 390.823,
+      "end": 394.864
+    },
+    {
+      "id": 117,
+      "section": "dua_jawshan_sagheer",
+      "start": 395.214,
+      "end": 397.743
+    },
+    {
+      "id": 118,
+      "section": "dua_jawshan_sagheer",
+      "start": 398.093,
+      "end": 400.572
+    },
+    {
+      "id": 119,
+      "section": "dua_jawshan_sagheer",
+      "start": 400.922,
+      "end": 402.582
+    },
+    {
+      "id": 120,
+      "section": "dua_jawshan_sagheer",
+      "start": 402.932,
+      "end": 405.416
+    },
+    {
+      "id": 121,
+      "section": "dua_jawshan_sagheer",
+      "start": 405.766,
+      "end": 410.639
+    },
+    {
+      "id": 122,
+      "section": "dua_jawshan_sagheer",
+      "start": 410.989,
+      "end": 412.835
+    },
+    {
+      "id": 123,
+      "section": "dua_jawshan_sagheer",
+      "start": 413.185,
+      "end": 417.271
+    },
+    {
+      "id": 124,
+      "section": "dua_jawshan_sagheer",
+      "start": 417.621,
+      "end": 420.466
+    },
+    {
+      "id": 125,
+      "section": "dua_jawshan_sagheer",
+      "start": 420.816,
+      "end": 423.114
+    },
+    {
+      "id": 126,
+      "section": "dua_jawshan_sagheer",
+      "start": 423.464,
+      "end": 427.307
+    },
+    {
+      "id": 127,
+      "section": "dua_jawshan_sagheer",
+      "start": 427.657,
+      "end": 431.857
+    },
+    {
+      "id": 128,
+      "section": "dua_jawshan_sagheer",
+      "start": 432.207,
+      "end": 434.657
+    },
+    {
+      "id": 129,
+      "section": "dua_jawshan_sagheer",
+      "start": 435.007,
+      "end": 436.493
+    },
+    {
+      "id": 130,
+      "section": "dua_jawshan_sagheer",
+      "start": 436.843,
+      "end": 440.985
+    },
+    {
+      "id": 131,
+      "section": "dua_jawshan_sagheer",
+      "start": 441.335,
+      "end": 443.471
+    },
+    {
+      "id": 132,
+      "section": "dua_jawshan_sagheer",
+      "start": 443.821,
+      "end": 447.849
+    },
+    {
+      "id": 133,
+      "section": "dua_jawshan_sagheer",
+      "start": 448.199,
+      "end": 450.614
+    },
+    {
+      "id": 134,
+      "section": "dua_jawshan_sagheer",
+      "start": 450.964,
+      "end": 453.433
+    },
+    {
+      "id": 135,
+      "section": "dua_jawshan_sagheer",
+      "start": 453.783,
+      "end": 456.012
+    },
+    {
+      "id": 136,
+      "section": "dua_jawshan_sagheer",
+      "start": 456.362,
+      "end": 459.591
+    },
+    {
+      "id": 137,
+      "section": "dua_jawshan_sagheer",
+      "start": 459.941,
+      "end": 462.588
+    },
+    {
+      "id": 138,
+      "section": "dua_jawshan_sagheer",
+      "start": 462.938,
+      "end": 465.272
+    },
+    {
+      "id": 139,
+      "section": "dua_jawshan_sagheer",
+      "start": 465.622,
+      "end": 468.246
+    },
+    {
+      "id": 140,
+      "section": "dua_jawshan_sagheer",
+      "start": 468.596,
+      "end": 471.185
+    },
+    {
+      "id": 141,
+      "section": "dua_jawshan_sagheer",
+      "start": 471.535,
+      "end": 474.112
+    },
+    {
+      "id": 142,
+      "section": "dua_jawshan_sagheer",
+      "start": 474.462,
+      "end": 476.912
+    },
+    {
+      "id": 143,
+      "section": "dua_jawshan_sagheer",
+      "start": 477.262,
+      "end": 479.781
+    },
+    {
+      "id": 144,
+      "section": "dua_jawshan_sagheer",
+      "start": 480.131,
+      "end": 482.72
+    },
+    {
+      "id": 145,
+      "section": "dua_jawshan_sagheer",
+      "start": 483.07,
+      "end": 484.51
+    },
+    {
+      "id": 146,
+      "section": "dua_jawshan_sagheer",
+      "start": 484.86,
+      "end": 487.565
+    },
+    {
+      "id": 147,
+      "section": "dua_jawshan_sagheer",
+      "start": 487.915,
+      "end": 489.459
+    },
+    {
+      "id": 148,
+      "section": "dua_jawshan_sagheer",
+      "start": 489.809,
+      "end": 491.237
+    },
+    {
+      "id": 149,
+      "section": "dua_jawshan_sagheer",
+      "start": 491.587,
+      "end": 494.246
+    },
+    {
+      "id": 150,
+      "section": "dua_jawshan_sagheer",
+      "start": 494.596,
+      "end": 497.591
+    },
+    {
+      "id": 151,
+      "section": "dua_jawshan_sagheer",
+      "start": 497.941,
+      "end": 500.414
+    },
+    {
+      "id": 152,
+      "section": "dua_jawshan_sagheer",
+      "start": 500.764,
+      "end": 503.806
+    },
+    {
+      "id": 153,
+      "section": "dua_jawshan_sagheer",
+      "start": 504.156,
+      "end": 507.128
+    },
+    {
+      "id": 154,
+      "section": "dua_jawshan_sagheer",
+      "start": 507.478,
+      "end": 509.835
+    },
+    {
+      "id": 155,
+      "section": "dua_jawshan_sagheer",
+      "start": 510.185,
+      "end": 512.774
+    },
+    {
+      "id": 156,
+      "section": "dua_jawshan_sagheer",
+      "start": 513.124,
+      "end": 516.154
+    },
+    {
+      "id": 157,
+      "section": "dua_jawshan_sagheer",
+      "start": 516.504,
+      "end": 518.71
+    },
+    {
+      "id": 158,
+      "section": "dua_jawshan_sagheer",
+      "start": 519.06,
+      "end": 520.535
+    },
+    {
+      "id": 159,
+      "section": "dua_jawshan_sagheer",
+      "start": 520.885,
+      "end": 522.789
+    },
+    {
+      "id": 160,
+      "section": "dua_jawshan_sagheer",
+      "start": 523.139,
+      "end": 525.913
+    },
+    {
+      "id": 161,
+      "section": "dua_jawshan_sagheer",
+      "start": 526.263,
+      "end": 527.97
+    },
+    {
+      "id": 162,
+      "section": "dua_jawshan_sagheer",
+      "start": 528.32,
+      "end": 529.795
+    },
+    {
+      "id": 163,
+      "section": "dua_jawshan_sagheer",
+      "start": 530.145,
+      "end": 531.991
+    },
+    {
+      "id": 164,
+      "section": "dua_jawshan_sagheer",
+      "start": 532.341,
+      "end": 534.976
+    },
+    {
+      "id": 165,
+      "section": "dua_jawshan_sagheer",
+      "start": 535.326,
+      "end": 538.194
+    },
+    {
+      "id": 166,
+      "section": "dua_jawshan_sagheer",
+      "start": 538.544,
+      "end": 540.761
+    },
+    {
+      "id": 167,
+      "section": "dua_jawshan_sagheer",
+      "start": 541.111,
+      "end": 544.432
+    },
+    {
+      "id": 168,
+      "section": "dua_jawshan_sagheer",
+      "start": 544.782,
+      "end": 547.742
+    },
+    {
+      "id": 169,
+      "section": "dua_jawshan_sagheer",
+      "start": 548.092,
+      "end": 550.577
+    },
+    {
+      "id": 170,
+      "section": "dua_jawshan_sagheer",
+      "start": 550.927,
+      "end": 553.249
+    },
+    {
+      "id": 171,
+      "section": "dua_jawshan_sagheer",
+      "start": 553.599,
+      "end": 556.826
+    },
+    {
+      "id": 172,
+      "section": "dua_jawshan_sagheer",
+      "start": 557.176,
+      "end": 558.372
+    },
+    {
+      "id": 173,
+      "section": "dua_jawshan_sagheer",
+      "start": 558.722,
+      "end": 560.789
+    },
+    {
+      "id": 174,
+      "section": "dua_jawshan_sagheer",
+      "start": 561.139,
+      "end": 563.24
+    },
+    {
+      "id": 175,
+      "section": "dua_jawshan_sagheer",
+      "start": 563.59,
+      "end": 566.098
+    },
+    {
+      "id": 176,
+      "section": "dua_jawshan_sagheer",
+      "start": 566.448,
+      "end": 569.443
+    },
+    {
+      "id": 177,
+      "section": "dua_jawshan_sagheer",
+      "start": 569.793,
+      "end": 570.978
+    },
+    {
+      "id": 178,
+      "section": "dua_jawshan_sagheer",
+      "start": 571.328,
+      "end": 573.87
+    },
+    {
+      "id": 179,
+      "section": "dua_jawshan_sagheer",
+      "start": 574.22,
+      "end": 576.809
+    },
+    {
+      "id": 180,
+      "section": "dua_jawshan_sagheer",
+      "start": 577.159,
+      "end": 578.088
+    },
+    {
+      "id": 181,
+      "section": "dua_jawshan_sagheer",
+      "start": 578.438,
+      "end": 581.015
+    },
+    {
+      "id": 182,
+      "section": "dua_jawshan_sagheer",
+      "start": 581.365,
+      "end": 584.57
+    },
+    {
+      "id": 183,
+      "section": "dua_jawshan_sagheer",
+      "start": 584.92,
+      "end": 587.555
+    },
+    {
+      "id": 184,
+      "section": "dua_jawshan_sagheer",
+      "start": 587.905,
+      "end": 590.448
+    },
+    {
+      "id": 185,
+      "section": "dua_jawshan_sagheer",
+      "start": 590.798,
+      "end": 593.886
+    },
+    {
+      "id": 186,
+      "section": "dua_jawshan_sagheer",
+      "start": 594.236,
+      "end": 596.662
+    },
+    {
+      "id": 187,
+      "section": "dua_jawshan_sagheer",
+      "start": 597.012,
+      "end": 598.951
+    },
+    {
+      "id": 188,
+      "section": "dua_jawshan_sagheer",
+      "start": 599.301,
+      "end": 600.567
+    },
+    {
+      "id": 189,
+      "section": "dua_jawshan_sagheer",
+      "start": 600.917,
+      "end": 604.285
+    },
+    {
+      "id": 190,
+      "section": "dua_jawshan_sagheer",
+      "start": 604.635,
+      "end": 606.481
+    },
+    {
+      "id": 191,
+      "section": "dua_jawshan_sagheer",
+      "start": 606.831,
+      "end": 609.466
+    },
+    {
+      "id": 192,
+      "section": "dua_jawshan_sagheer",
+      "start": 609.816,
+      "end": 611.952
+    },
+    {
+      "id": 193,
+      "section": "dua_jawshan_sagheer",
+      "start": 612.302,
+      "end": 614.659
+    },
+    {
+      "id": 194,
+      "section": "dua_jawshan_sagheer",
+      "start": 615.009,
+      "end": 619.177
+    },
+    {
+      "id": 195,
+      "section": "dua_jawshan_sagheer",
+      "start": 619.527,
+      "end": 622.534
+    },
+    {
+      "id": 196,
+      "section": "dua_jawshan_sagheer",
+      "start": 622.884,
+      "end": 624.718
+    },
+    {
+      "id": 197,
+      "section": "dua_jawshan_sagheer",
+      "start": 625.068,
+      "end": 627.669
+    },
+    {
+      "id": 198,
+      "section": "dua_jawshan_sagheer",
+      "start": 628.019,
+      "end": 630.318
+    },
+    {
+      "id": 199,
+      "section": "dua_jawshan_sagheer",
+      "start": 630.668,
+      "end": 633.338
+    },
+    {
+      "id": 200,
+      "section": "dua_jawshan_sagheer",
+      "start": 633.688,
+      "end": 636.44
+    },
+    {
+      "id": 201,
+      "section": "dua_jawshan_sagheer",
+      "start": 636.79,
+      "end": 639.669
+    },
+    {
+      "id": 202,
+      "section": "dua_jawshan_sagheer",
+      "start": 640.019,
+      "end": 642.399
+    },
+    {
+      "id": 203,
+      "section": "dua_jawshan_sagheer",
+      "start": 642.749,
+      "end": 645.175
+    },
+    {
+      "id": 204,
+      "section": "dua_jawshan_sagheer",
+      "start": 645.525,
+      "end": 648.649
+    },
+    {
+      "id": 205,
+      "section": "dua_jawshan_sagheer",
+      "start": 648.999,
+      "end": 650.786
+    },
+    {
+      "id": 206,
+      "section": "dua_jawshan_sagheer",
+      "start": 651.136,
+      "end": 653.342
+    },
+    {
+      "id": 207,
+      "section": "dua_jawshan_sagheer",
+      "start": 653.692,
+      "end": 656.595
+    },
+    {
+      "id": 208,
+      "section": "dua_jawshan_sagheer",
+      "start": 656.945,
+      "end": 659.151
+    },
+    {
+      "id": 209,
+      "section": "dua_jawshan_sagheer",
+      "start": 659.501,
+      "end": 661.753
+    },
+    {
+      "id": 210,
+      "section": "dua_jawshan_sagheer",
+      "start": 662.103,
+      "end": 663.682
+    },
+    {
+      "id": 211,
+      "section": "dua_jawshan_sagheer",
+      "start": 664.032,
+      "end": 666.308
+    },
+    {
+      "id": 212,
+      "section": "dua_jawshan_sagheer",
+      "start": 666.658,
+      "end": 669.189
+    },
+    {
+      "id": 213,
+      "section": "dua_jawshan_sagheer",
+      "start": 669.539,
+      "end": 671.222
+    },
+    {
+      "id": 214,
+      "section": "dua_jawshan_sagheer",
+      "start": 671.572,
+      "end": 673.302
+    },
+    {
+      "id": 215,
+      "section": "dua_jawshan_sagheer",
+      "start": 673.652,
+      "end": 675.869
+    },
+    {
+      "id": 216,
+      "section": "dua_jawshan_sagheer",
+      "start": 676.219,
+      "end": 678.959
+    },
+    {
+      "id": 217,
+      "section": "dua_jawshan_sagheer",
+      "start": 679.309,
+      "end": 680.438
+    },
+    {
+      "id": 218,
+      "section": "dua_jawshan_sagheer",
+      "start": 680.788,
+      "end": 682.425
+    },
+    {
+      "id": 219,
+      "section": "dua_jawshan_sagheer",
+      "start": 682.775,
+      "end": 685.364
+    },
+    {
+      "id": 220,
+      "section": "dua_jawshan_sagheer",
+      "start": 685.714,
+      "end": 689.185
+    },
+    {
+      "id": 221,
+      "section": "dua_jawshan_sagheer",
+      "start": 689.535,
+      "end": 691.845
+    },
+    {
+      "id": 222,
+      "section": "dua_jawshan_sagheer",
+      "start": 692.195,
+      "end": 695.574
+    },
+    {
+      "id": 223,
+      "section": "dua_jawshan_sagheer",
+      "start": 695.924,
+      "end": 698.467
+    },
+    {
+      "id": 224,
+      "section": "dua_jawshan_sagheer",
+      "start": 698.817,
+      "end": 701.197
+    },
+    {
+      "id": 225,
+      "section": "dua_jawshan_sagheer",
+      "start": 701.547,
+      "end": 703.915
+    },
+    {
+      "id": 226,
+      "section": "dua_jawshan_sagheer",
+      "start": 704.265,
+      "end": 706.842
+    },
+    {
+      "id": 227,
+      "section": "dua_jawshan_sagheer",
+      "start": 707.192,
+      "end": 708.795
+    },
+    {
+      "id": 228,
+      "section": "dua_jawshan_sagheer",
+      "start": 709.145,
+      "end": 710.689
+    },
+    {
+      "id": 229,
+      "section": "dua_jawshan_sagheer",
+      "start": 711.039,
+      "end": 713.361
+    },
+    {
+      "id": 230,
+      "section": "dua_jawshan_sagheer",
+      "start": 713.711,
+      "end": 715.406
+    },
+    {
+      "id": 231,
+      "section": "dua_jawshan_sagheer",
+      "start": 715.756,
+      "end": 717.869
+    },
+    {
+      "id": 232,
+      "section": "dua_jawshan_sagheer",
+      "start": 718.219,
+      "end": 719.925
+    },
+    {
+      "id": 233,
+      "section": "dua_jawshan_sagheer",
+      "start": 720.275,
+      "end": 723.108
+    },
+    {
+      "id": 234,
+      "section": "dua_jawshan_sagheer",
+      "start": 723.458,
+      "end": 726.804
+    },
+    {
+      "id": 235,
+      "section": "dua_jawshan_sagheer",
+      "start": 727.154,
+      "end": 729.836
+    },
+    {
+      "id": 236,
+      "section": "dua_jawshan_sagheer",
+      "start": 730.186,
+      "end": 732.676
+    },
+    {
+      "id": 237,
+      "section": "dua_jawshan_sagheer",
+      "start": 733.026,
+      "end": 736.079
+    },
+    {
+      "id": 238,
+      "section": "dua_jawshan_sagheer",
+      "start": 736.429,
+      "end": 739.181
+    },
+    {
+      "id": 239,
+      "section": "dua_jawshan_sagheer",
+      "start": 739.531,
+      "end": 748.447
+    },
+    {
+      "id": 240,
+      "section": "dua_jawshan_sagheer",
+      "start": 748.797,
+      "end": 752.129
+    },
+    {
+      "id": 241,
+      "section": "dua_jawshan_sagheer",
+      "start": 752.479,
+      "end": 754.999
+    },
+    {
+      "id": 242,
+      "section": "dua_jawshan_sagheer",
+      "start": 755.349,
+      "end": 757.52
+    },
+    {
+      "id": 243,
+      "section": "dua_jawshan_sagheer",
+      "start": 757.87,
+      "end": 760.61
+    },
+    {
+      "id": 244,
+      "section": "dua_jawshan_sagheer",
+      "start": 760.96,
+      "end": 763.955
+    },
+    {
+      "id": 245,
+      "section": "dua_jawshan_sagheer",
+      "start": 764.305,
+      "end": 766.778
+    },
+    {
+      "id": 246,
+      "section": "dua_jawshan_sagheer",
+      "start": 767.128,
+      "end": 771.395
+    },
+    {
+      "id": 247,
+      "section": "dua_jawshan_sagheer",
+      "start": 771.745,
+      "end": 773.08
+    },
+    {
+      "id": 248,
+      "section": "dua_jawshan_sagheer",
+      "start": 773.43,
+      "end": 774.974
+    },
+    {
+      "id": 249,
+      "section": "dua_jawshan_sagheer",
+      "start": 775.324,
+      "end": 776.915
+    },
+    {
+      "id": 250,
+      "section": "dua_jawshan_sagheer",
+      "start": 777.265,
+      "end": 779.866
+    },
+    {
+      "id": 251,
+      "section": "dua_jawshan_sagheer",
+      "start": 780.216,
+      "end": 781.934
+    },
+    {
+      "id": 252,
+      "section": "dua_jawshan_sagheer",
+      "start": 782.284,
+      "end": 784.722
+    },
+    {
+      "id": 253,
+      "section": "dua_jawshan_sagheer",
+      "start": 785.072,
+      "end": 786.686
+    },
+    {
+      "id": 254,
+      "section": "dua_jawshan_sagheer",
+      "start": 787.036,
+      "end": 788.441
+    },
+    {
+      "id": 255,
+      "section": "dua_jawshan_sagheer",
+      "start": 788.791,
+      "end": 791.623
+    },
+    {
+      "id": 256,
+      "section": "dua_jawshan_sagheer",
+      "start": 791.973,
+      "end": 794.632
+    },
+    {
+      "id": 257,
+      "section": "dua_jawshan_sagheer",
+      "start": 794.982,
+      "end": 797.443
+    },
+    {
+      "id": 258,
+      "section": "dua_jawshan_sagheer",
+      "start": 797.793,
+      "end": 800.777
+    },
+    {
+      "id": 259,
+      "section": "dua_jawshan_sagheer",
+      "start": 801.127,
+      "end": 804.094
+    },
+    {
+      "id": 260,
+      "section": "dua_jawshan_sagheer",
+      "start": 804.444,
+      "end": 806.847
+    },
+    {
+      "id": 261,
+      "section": "dua_jawshan_sagheer",
+      "start": 807.197,
+      "end": 809.4
+    },
+    {
+      "id": 262,
+      "section": "dua_jawshan_sagheer",
+      "start": 809.75,
+      "end": 812.641
+    },
+    {
+      "id": 263,
+      "section": "dua_jawshan_sagheer",
+      "start": 812.991,
+      "end": 814.512
+    },
+    {
+      "id": 264,
+      "section": "dua_jawshan_sagheer",
+      "start": 814.862,
+      "end": 816.151
+    },
+    {
+      "id": 265,
+      "section": "dua_jawshan_sagheer",
+      "start": 816.501,
+      "end": 818.544
+    },
+    {
+      "id": 266,
+      "section": "dua_jawshan_sagheer",
+      "start": 818.894,
+      "end": 820.16
+    },
+    {
+      "id": 267,
+      "section": "dua_jawshan_sagheer",
+      "start": 820.51,
+      "end": 823.942
+    },
+    {
+      "id": 268,
+      "section": "dua_jawshan_sagheer",
+      "start": 824.292,
+      "end": 828.355
+    },
+    {
+      "id": 269,
+      "section": "dua_jawshan_sagheer",
+      "start": 828.705,
+      "end": 831.178
+    },
+    {
+      "id": 270,
+      "section": "dua_jawshan_sagheer",
+      "start": 831.528,
+      "end": 834.129
+    },
+    {
+      "id": 271,
+      "section": "dua_jawshan_sagheer",
+      "start": 834.479,
+      "end": 837.103
+    },
+    {
+      "id": 272,
+      "section": "dua_jawshan_sagheer",
+      "start": 837.453,
+      "end": 840.483
+    },
+    {
+      "id": 273,
+      "section": "dua_jawshan_sagheer",
+      "start": 840.833,
+      "end": 842.273
+    },
+    {
+      "id": 274,
+      "section": "dua_jawshan_sagheer",
+      "start": 842.623,
+      "end": 843.98
+    },
+    {
+      "id": 275,
+      "section": "dua_jawshan_sagheer",
+      "start": 844.33,
+      "end": 845.573
+    },
+    {
+      "id": 276,
+      "section": "dua_jawshan_sagheer",
+      "start": 845.923,
+      "end": 848.14
+    },
+    {
+      "id": 277,
+      "section": "dua_jawshan_sagheer",
+      "start": 848.49,
+      "end": 852.412
+    },
+    {
+      "id": 278,
+      "section": "dua_jawshan_sagheer",
+      "start": 852.762,
+      "end": 856.245
+    },
+    {
+      "id": 279,
+      "section": "dua_jawshan_sagheer",
+      "start": 856.595,
+      "end": 858.104
+    },
+    {
+      "id": 280,
+      "section": "dua_jawshan_sagheer",
+      "start": 858.454,
+      "end": 860.997
+    },
+    {
+      "id": 281,
+      "section": "dua_jawshan_sagheer",
+      "start": 861.347,
+      "end": 863.971
+    },
+    {
+      "id": 282,
+      "section": "dua_jawshan_sagheer",
+      "start": 864.321,
+      "end": 867.571
+    },
+    {
+      "id": 283,
+      "section": "dua_jawshan_sagheer",
+      "start": 867.921,
+      "end": 870.534
+    },
+    {
+      "id": 284,
+      "section": "dua_jawshan_sagheer",
+      "start": 870.884,
+      "end": 874.251
+    },
+    {
+      "id": 285,
+      "section": "dua_jawshan_sagheer",
+      "start": 874.601,
+      "end": 877.086
+    },
+    {
+      "id": 286,
+      "section": "dua_jawshan_sagheer",
+      "start": 877.436,
+      "end": 879.955
+    },
+    {
+      "id": 287,
+      "section": "dua_jawshan_sagheer",
+      "start": 880.305,
+      "end": 882.232
+    },
+    {
+      "id": 288,
+      "section": "dua_jawshan_sagheer",
+      "start": 882.582,
+      "end": 885.477
+    },
+    {
+      "id": 289,
+      "section": "dua_jawshan_sagheer",
+      "start": 885.827,
+      "end": 887.128
+    },
+    {
+      "id": 290,
+      "section": "dua_jawshan_sagheer",
+      "start": 887.478,
+      "end": 888.917
+    },
+    {
+      "id": 291,
+      "section": "dua_jawshan_sagheer",
+      "start": 889.267,
+      "end": 891.938
+    },
+    {
+      "id": 292,
+      "section": "dua_jawshan_sagheer",
+      "start": 892.288,
+      "end": 894.354
+    },
+    {
+      "id": 293,
+      "section": "dua_jawshan_sagheer",
+      "start": 894.704,
+      "end": 897.038
+    },
+    {
+      "id": 294,
+      "section": "dua_jawshan_sagheer",
+      "start": 897.388,
+      "end": 899.083
+    },
+    {
+      "id": 295,
+      "section": "dua_jawshan_sagheer",
+      "start": 899.433,
+      "end": 901.372
+    },
+    {
+      "id": 296,
+      "section": "dua_jawshan_sagheer",
+      "start": 901.722,
+      "end": 904.833
+    },
+    {
+      "id": 297,
+      "section": "dua_jawshan_sagheer",
+      "start": 905.183,
+      "end": 906.6
+    },
+    {
+      "id": 298,
+      "section": "dua_jawshan_sagheer",
+      "start": 906.95,
+      "end": 908.726
+    },
+    {
+      "id": 299,
+      "section": "dua_jawshan_sagheer",
+      "start": 909.076,
+      "end": 911.495
+    },
+    {
+      "id": 300,
+      "section": "dua_jawshan_sagheer",
+      "start": 911.845,
+      "end": 915.188
+    },
+    {
+      "id": 301,
+      "section": "dua_jawshan_sagheer",
+      "start": 915.538,
+      "end": 917.987
+    },
+    {
+      "id": 302,
+      "section": "dua_jawshan_sagheer",
+      "start": 918.337,
+      "end": 920.739
+    },
+    {
+      "id": 303,
+      "section": "dua_jawshan_sagheer",
+      "start": 921.089,
+      "end": 923.596
+    },
+    {
+      "id": 304,
+      "section": "dua_jawshan_sagheer",
+      "start": 923.946,
+      "end": 926.245
+    },
+    {
+      "id": 305,
+      "section": "dua_jawshan_sagheer",
+      "start": 926.595,
+      "end": 928.929
+    },
+    {
+      "id": 306,
+      "section": "dua_jawshan_sagheer",
+      "start": 929.279,
+      "end": 931.601
+    },
+    {
+      "id": 307,
+      "section": "dua_jawshan_sagheer",
+      "start": 931.951,
+      "end": 934.917
+    },
+    {
+      "id": 308,
+      "section": "dua_jawshan_sagheer",
+      "start": 935.267,
+      "end": 937.055
+    },
+    {
+      "id": 309,
+      "section": "dua_jawshan_sagheer",
+      "start": 937.405,
+      "end": 940.473
+    },
+    {
+      "id": 310,
+      "section": "dua_jawshan_sagheer",
+      "start": 940.823,
+      "end": 942.924
+    },
+    {
+      "id": 311,
+      "section": "dua_jawshan_sagheer",
+      "start": 943.274,
+      "end": 946.734
+    },
+    {
+      "id": 312,
+      "section": "dua_jawshan_sagheer",
+      "start": 947.084,
+      "end": 950.254
+    },
+    {
+      "id": 313,
+      "section": "dua_jawshan_sagheer",
+      "start": 950.604,
+      "end": 952.856
+    },
+    {
+      "id": 314,
+      "section": "dua_jawshan_sagheer",
+      "start": 953.206,
+      "end": 956.817
+    },
+    {
+      "id": 315,
+      "section": "dua_jawshan_sagheer",
+      "start": 957.167,
+      "end": 959.28
+    },
+    {
+      "id": 316,
+      "section": "dua_jawshan_sagheer",
+      "start": 959.63,
+      "end": 962.3
+    },
+    {
+      "id": 317,
+      "section": "dua_jawshan_sagheer",
+      "start": 962.65,
+      "end": 965.111
+    },
+    {
+      "id": 318,
+      "section": "dua_jawshan_sagheer",
+      "start": 965.461,
+      "end": 970.465
+    },
+    {
+      "id": 319,
+      "section": "dua_jawshan_sagheer",
+      "start": 970.815,
+      "end": 972.081
+    },
+    {
+      "id": 320,
+      "section": "dua_jawshan_sagheer",
+      "start": 972.431,
+      "end": 974.474
+    },
+    {
+      "id": 321,
+      "section": "dua_jawshan_sagheer",
+      "start": 974.824,
+      "end": 977.285
+    },
+    {
+      "id": 322,
+      "section": "dua_jawshan_sagheer",
+      "start": 977.635,
+      "end": 981.536
+    },
+    {
+      "id": 323,
+      "section": "dua_jawshan_sagheer",
+      "start": 981.886,
+      "end": 984.127
+    },
+    {
+      "id": 324,
+      "section": "dua_jawshan_sagheer",
+      "start": 984.477,
+      "end": 988.03
+    },
+    {
+      "id": 325,
+      "section": "dua_jawshan_sagheer",
+      "start": 988.38,
+      "end": 991.282
+    },
+    {
+      "id": 326,
+      "section": "dua_jawshan_sagheer",
+      "start": 991.632,
+      "end": 994.047
+    },
+    {
+      "id": 327,
+      "section": "dua_jawshan_sagheer",
+      "start": 994.397,
+      "end": 996.893
+    },
+    {
+      "id": 328,
+      "section": "dua_jawshan_sagheer",
+      "start": 997.243,
+      "end": 999.995
+    },
+    {
+      "id": 329,
+      "section": "dua_jawshan_sagheer",
+      "start": 1000.345,
+      "end": 1002.725
+    },
+    {
+      "id": 330,
+      "section": "dua_jawshan_sagheer",
+      "start": 1003.075,
+      "end": 1005.954
+    },
+    {
+      "id": 331,
+      "section": "dua_jawshan_sagheer",
+      "start": 1006.304,
+      "end": 1008.649
+    },
+    {
+      "id": 332,
+      "section": "dua_jawshan_sagheer",
+      "start": 1008.999,
+      "end": 1011.577
+    },
+    {
+      "id": 333,
+      "section": "dua_jawshan_sagheer",
+      "start": 1011.927,
+      "end": 1015.7
+    },
+    {
+      "id": 334,
+      "section": "dua_jawshan_sagheer",
+      "start": 1016.05,
+      "end": 1019.254
+    },
+    {
+      "id": 335,
+      "section": "dua_jawshan_sagheer",
+      "start": 1019.604,
+      "end": 1022.263
+    },
+    {
+      "id": 336,
+      "section": "dua_jawshan_sagheer",
+      "start": 1022.613,
+      "end": 1025.481
+    },
+    {
+      "id": 337,
+      "section": "dua_jawshan_sagheer",
+      "start": 1025.831,
+      "end": 1027.514
+    },
+    {
+      "id": 338,
+      "section": "dua_jawshan_sagheer",
+      "start": 1027.864,
+      "end": 1029.629
+    },
+    {
+      "id": 339,
+      "section": "dua_jawshan_sagheer",
+      "start": 1029.979,
+      "end": 1034.019
+    },
+    {
+      "id": 340,
+      "section": "dua_jawshan_sagheer",
+      "start": 1034.369,
+      "end": 1035.751
+    },
+    {
+      "id": 341,
+      "section": "dua_jawshan_sagheer",
+      "start": 1036.101,
+      "end": 1038.156
+    },
+    {
+      "id": 342,
+      "section": "dua_jawshan_sagheer",
+      "start": 1038.506,
+      "end": 1041.27
+    },
+    {
+      "id": 343,
+      "section": "dua_jawshan_sagheer",
+      "start": 1041.62,
+      "end": 1044.812
+    },
+    {
+      "id": 344,
+      "section": "dua_jawshan_sagheer",
+      "start": 1045.162,
+      "end": 1047.206
+    },
+    {
+      "id": 345,
+      "section": "dua_jawshan_sagheer",
+      "start": 1047.556,
+      "end": 1050.29
+    },
+    {
+      "id": 346,
+      "section": "dua_jawshan_sagheer",
+      "start": 1050.64,
+      "end": 1053.159
+    },
+    {
+      "id": 347,
+      "section": "dua_jawshan_sagheer",
+      "start": 1053.509,
+      "end": 1056.284
+    },
+    {
+      "id": 348,
+      "section": "dua_jawshan_sagheer",
+      "start": 1056.634,
+      "end": 1059.072
+    },
+    {
+      "id": 349,
+      "section": "dua_jawshan_sagheer",
+      "start": 1059.422,
+      "end": 1061.907
+    },
+    {
+      "id": 350,
+      "section": "dua_jawshan_sagheer",
+      "start": 1062.257,
+      "end": 1065.055
+    },
+    {
+      "id": 351,
+      "section": "dua_jawshan_sagheer",
+      "start": 1065.405,
+      "end": 1067.46
+    },
+    {
+      "id": 352,
+      "section": "dua_jawshan_sagheer",
+      "start": 1067.81,
+      "end": 1070.933
+    },
+    {
+      "id": 353,
+      "section": "dua_jawshan_sagheer",
+      "start": 1071.283,
+      "end": 1074.267
+    },
+    {
+      "id": 354,
+      "section": "dua_jawshan_sagheer",
+      "start": 1074.617,
+      "end": 1076.23
+    },
+    {
+      "id": 355,
+      "section": "dua_jawshan_sagheer",
+      "start": 1076.58,
+      "end": 1080.145
+    },
+    {
+      "id": 356,
+      "section": "dua_jawshan_sagheer",
+      "start": 1080.495,
+      "end": 1083.422
+    },
+    {
+      "id": 357,
+      "section": "dua_jawshan_sagheer",
+      "start": 1083.772,
+      "end": 1085.665
+    },
+    {
+      "id": 358,
+      "section": "dua_jawshan_sagheer",
+      "start": 1086.015,
+      "end": 1088.012
+    },
+    {
+      "id": 359,
+      "section": "dua_jawshan_sagheer",
+      "start": 1088.362,
+      "end": 1090.974
+    },
+    {
+      "id": 360,
+      "section": "dua_jawshan_sagheer",
+      "start": 1091.324,
+      "end": 1093.286
+    },
+    {
+      "id": 361,
+      "section": "dua_jawshan_sagheer",
+      "start": 1093.636,
+      "end": 1096.028
+    },
+    {
+      "id": 362,
+      "section": "dua_jawshan_sagheer",
+      "start": 1096.378,
+      "end": 1097.922
+    },
+    {
+      "id": 363,
+      "section": "dua_jawshan_sagheer",
+      "start": 1098.272,
+      "end": 1100.756
+    },
+    {
+      "id": 364,
+      "section": "dua_jawshan_sagheer",
+      "start": 1101.106,
+      "end": 1104.113
+    },
+    {
+      "id": 365,
+      "section": "dua_jawshan_sagheer",
+      "start": 1104.463,
+      "end": 1106.135
+    },
+    {
+      "id": 366,
+      "section": "dua_jawshan_sagheer",
+      "start": 1106.485,
+      "end": 1108.215
+    },
+    {
+      "id": 367,
+      "section": "dua_jawshan_sagheer",
+      "start": 1108.565,
+      "end": 1110.516
+    },
+    {
+      "id": 368,
+      "section": "dua_jawshan_sagheer",
+      "start": 1110.866,
+      "end": 1114.873
+    },
+    {
+      "id": 369,
+      "section": "dua_jawshan_sagheer",
+      "start": 1115.223,
+      "end": 1117.452
+    },
+    {
+      "id": 370,
+      "section": "dua_jawshan_sagheer",
+      "start": 1117.802,
+      "end": 1121.052
+    },
+    {
+      "id": 371,
+      "section": "dua_jawshan_sagheer",
+      "start": 1121.402,
+      "end": 1124.015
+    },
+    {
+      "id": 372,
+      "section": "dua_jawshan_sagheer",
+      "start": 1124.365,
+      "end": 1126.756
+    },
+    {
+      "id": 373,
+      "section": "dua_jawshan_sagheer",
+      "start": 1127.106,
+      "end": 1129.301
+    },
+    {
+      "id": 374,
+      "section": "dua_jawshan_sagheer",
+      "start": 1129.651,
+      "end": 1132.054
+    },
+    {
+      "id": 375,
+      "section": "dua_jawshan_sagheer",
+      "start": 1132.404,
+      "end": 1135.167
+    },
+    {
+      "id": 376,
+      "section": "dua_jawshan_sagheer",
+      "start": 1135.517,
+      "end": 1137.839
+    },
+    {
+      "id": 377,
+      "section": "dua_jawshan_sagheer",
+      "start": 1138.189,
+      "end": 1141.242
+    },
+    {
+      "id": 378,
+      "section": "dua_jawshan_sagheer",
+      "start": 1141.592,
+      "end": 1144.158
+    },
+    {
+      "id": 379,
+      "section": "dua_jawshan_sagheer",
+      "start": 1144.508,
+      "end": 1147.155
+    },
+    {
+      "id": 380,
+      "section": "dua_jawshan_sagheer",
+      "start": 1147.505,
+      "end": 1149.676
+    },
+    {
+      "id": 381,
+      "section": "dua_jawshan_sagheer",
+      "start": 1150.026,
+      "end": 1152.383
+    },
+    {
+      "id": 382,
+      "section": "dua_jawshan_sagheer",
+      "start": 1152.733,
+      "end": 1154.301
+    },
+    {
+      "id": 383,
+      "section": "dua_jawshan_sagheer",
+      "start": 1154.651,
+      "end": 1156.311
+    },
+    {
+      "id": 384,
+      "section": "dua_jawshan_sagheer",
+      "start": 1156.661,
+      "end": 1159.575
+    },
+    {
+      "id": 385,
+      "section": "dua_jawshan_sagheer",
+      "start": 1159.925,
+      "end": 1161.608
+    },
+    {
+      "id": 386,
+      "section": "dua_jawshan_sagheer",
+      "start": 1161.958,
+      "end": 1167.683
+    },
+    {
+      "id": 387,
+      "section": "dua_jawshan_sagheer",
+      "start": 1168.033,
+      "end": 1169.902
+    },
+    {
+      "id": 388,
+      "section": "dua_jawshan_sagheer",
+      "start": 1170.252,
+      "end": 1172.597
+    },
+    {
+      "id": 389,
+      "section": "dua_jawshan_sagheer",
+      "start": 1172.947,
+      "end": 1175.002
+    },
+    {
+      "id": 390,
+      "section": "dua_jawshan_sagheer",
+      "start": 1175.352,
+      "end": 1178.208
+    },
+    {
+      "id": 391,
+      "section": "dua_jawshan_sagheer",
+      "start": 1178.558,
+      "end": 1181.809
+    },
+    {
+      "id": 392,
+      "section": "dua_jawshan_sagheer",
+      "start": 1182.159,
+      "end": 1184.911
+    },
+    {
+      "id": 393,
+      "section": "dua_jawshan_sagheer",
+      "start": 1185.261,
+      "end": 1187.293
+    },
+    {
+      "id": 394,
+      "section": "dua_jawshan_sagheer",
+      "start": 1187.643,
+      "end": 1189.326
+    },
+    {
+      "id": 395,
+      "section": "dua_jawshan_sagheer",
+      "start": 1189.676,
+      "end": 1192.195
+    },
+    {
+      "id": 396,
+      "section": "dua_jawshan_sagheer",
+      "start": 1192.545,
+      "end": 1195.266
+    },
+    {
+      "id": 397,
+      "section": "dua_jawshan_sagheer",
+      "start": 1195.616,
+      "end": 1198.425
+    },
+    {
+      "id": 398,
+      "section": "dua_jawshan_sagheer",
+      "start": 1198.775,
+      "end": 1201.533
+    },
+    {
+      "id": 399,
+      "section": "dua_jawshan_sagheer",
+      "start": 1201.883,
+      "end": 1206.272
+    },
+    {
+      "id": 400,
+      "section": "dua_jawshan_sagheer",
+      "start": 1206.622,
+      "end": 1209.489
+    },
+    {
+      "id": 401,
+      "section": "dua_jawshan_sagheer",
+      "start": 1209.839,
+      "end": 1215.18
+    },
+    {
+      "id": 402,
+      "section": "dua_jawshan_sagheer",
+      "start": 1215.53,
+      "end": 1219.779
+    },
+    {
+      "id": 403,
+      "section": "dua_jawshan_sagheer",
+      "start": 1220.129,
+      "end": 1223.415
+    },
+    {
+      "id": 404,
+      "section": "dua_jawshan_sagheer",
+      "start": 1223.765,
+      "end": 1226.307
+    },
+    {
+      "id": 405,
+      "section": "dua_jawshan_sagheer",
+      "start": 1226.657,
+      "end": 1229.99
+    },
+    {
+      "id": 406,
+      "section": "dua_jawshan_sagheer",
+      "start": 1230.34,
+      "end": 1233.079
+    },
+    {
+      "id": 407,
+      "section": "dua_jawshan_sagheer",
+      "start": 1233.429,
+      "end": 1235.496
+    },
+    {
+      "id": 408,
+      "section": "dua_jawshan_sagheer",
+      "start": 1235.846,
+      "end": 1238.911
+    },
+    {
+      "id": 409,
+      "section": "dua_jawshan_sagheer",
+      "start": 1239.261,
+      "end": 1242.375
+    },
+    {
+      "id": 410,
+      "section": "dua_jawshan_sagheer",
+      "start": 1242.725,
+      "end": 1245.79
+    },
+    {
+      "id": 411,
+      "section": "dua_jawshan_sagheer",
+      "start": 1246.14,
+      "end": 1248.543
+    },
+    {
+      "id": 413,
+      "section": "dua_jawshan_sagheer",
+      "start": 1248.893,
+      "end": 1251.215
+    },
+    {
+      "id": 414,
+      "section": "dua_jawshan_sagheer",
+      "start": 1251.565,
+      "end": 1253.678
+    },
+    {
+      "id": 415,
+      "section": "dua_jawshan_sagheer",
+      "start": 1254.028,
+      "end": 1256.815
+    },
+    {
+      "id": 416,
+      "section": "dua_jawshan_sagheer",
+      "start": 1257.165,
+      "end": 1260.358
+    },
+    {
+      "id": 417,
+      "section": "dua_jawshan_sagheer",
+      "start": 1260.708,
+      "end": 1263.064
+    },
+    {
+      "id": 418,
+      "section": "dua_jawshan_sagheer",
+      "start": 1263.414,
+      "end": 1265.643
+    },
+    {
+      "id": 419,
+      "section": "dua_jawshan_sagheer",
+      "start": 1265.993,
+      "end": 1268.942
+    },
+    {
+      "id": 420,
+      "section": "dua_jawshan_sagheer",
+      "start": 1269.292,
+      "end": 1272.132
+    },
+    {
+      "id": 421,
+      "section": "dua_jawshan_sagheer",
+      "start": 1272.482,
+      "end": 1275.501
+    },
+    {
+      "id": 422,
+      "section": "dua_jawshan_sagheer",
+      "start": 1275.851,
+      "end": 1278.382
+    },
+    {
+      "id": 423,
+      "section": "dua_jawshan_sagheer",
+      "start": 1278.732,
+      "end": 1282.713
+    },
+    {
+      "id": 424,
+      "section": "dua_jawshan_sagheer",
+      "start": 1283.063,
+      "end": 1285.501
+    },
+    {
+      "id": 425,
+      "section": "dua_jawshan_sagheer",
+      "start": 1285.851,
+      "end": 1289.404
+    },
+    {
+      "id": 426,
+      "section": "dua_jawshan_sagheer",
+      "start": 1289.754,
+      "end": 1292.192
+    },
+    {
+      "id": 427,
+      "section": "dua_jawshan_sagheer",
+      "start": 1292.542,
+      "end": 1294.736
+    },
+    {
+      "id": 428,
+      "section": "dua_jawshan_sagheer",
+      "start": 1295.086,
+      "end": 1298.291
+    },
+    {
+      "id": 429,
+      "section": "dua_jawshan_sagheer",
+      "start": 1298.641,
+      "end": 1300.302
+    },
+    {
+      "id": 430,
+      "section": "dua_jawshan_sagheer",
+      "start": 1300.652,
+      "end": 1304.796
+    },
+    {
+      "id": 432,
+      "section": "dua_jawshan_sagheer",
+      "start": 1305.146,
+      "end": 1307.213
+    },
+    {
+      "id": 433,
+      "section": "dua_jawshan_sagheer",
+      "start": 1307.563,
+      "end": 1312.516
+    },
+    {
+      "id": 434,
+      "section": "dua_jawshan_sagheer",
+      "start": 1312.866,
+      "end": 1315.257
+    },
+    {
+      "id": 435,
+      "section": "dua_jawshan_sagheer",
+      "start": 1315.607,
+      "end": 1317.012
+    },
+    {
+      "id": 436,
+      "section": "dua_jawshan_sagheer",
+      "start": 1317.362,
+      "end": 1319.127
+    },
+    {
+      "id": 437,
+      "section": "dua_jawshan_sagheer",
+      "start": 1319.477,
+      "end": 1321.242
+    },
+    {
+      "id": 438,
+      "section": "dua_jawshan_sagheer",
+      "start": 1321.592,
+      "end": 1323.751
+    },
+    {
+      "id": 439,
+      "section": "dua_jawshan_sagheer",
+      "start": 1324.101,
+      "end": 1328.257
+    },
+    {
+      "id": 440,
+      "section": "dua_jawshan_sagheer",
+      "start": 1328.607,
+      "end": 1331.533
+    },
+    {
+      "id": 441,
+      "section": "dua_jawshan_sagheer",
+      "start": 1331.883,
+      "end": 1335.285
+    }
+  ]
+}

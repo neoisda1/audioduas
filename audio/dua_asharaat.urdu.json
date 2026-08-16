@@ -1,0 +1,1059 @@
+{
+  "dua_id": "dua_asharaat",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 650.364,
+  "bytes": 3041591,
+  "sha256": "1e283db87f50f6c98a69c976cf4f2af1ae01dacf8bd68a557531cd48db8f84b9",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_asharaat",
+      "start": 0.0,
+      "end": 3.696
+    },
+    {
+      "id": 2,
+      "section": "dua_asharaat",
+      "start": 4.046,
+      "end": 5.149
+    },
+    {
+      "id": 3,
+      "section": "dua_asharaat",
+      "start": 5.499,
+      "end": 7.706
+    },
+    {
+      "id": 4,
+      "section": "dua_asharaat",
+      "start": 8.056,
+      "end": 9.948
+    },
+    {
+      "id": 5,
+      "section": "dua_asharaat",
+      "start": 10.298,
+      "end": 11.877
+    },
+    {
+      "id": 6,
+      "section": "dua_asharaat",
+      "start": 12.227,
+      "end": 17.695
+    },
+    {
+      "id": 7,
+      "section": "dua_asharaat",
+      "start": 18.045,
+      "end": 21.099
+    },
+    {
+      "id": 8,
+      "section": "dua_asharaat",
+      "start": 21.449,
+      "end": 23.272
+    },
+    {
+      "id": 9,
+      "section": "dua_asharaat",
+      "start": 23.622,
+      "end": 26.106
+    },
+    {
+      "id": 10,
+      "section": "dua_asharaat",
+      "start": 26.456,
+      "end": 30.229
+    },
+    {
+      "id": 11,
+      "section": "dua_asharaat",
+      "start": 30.579,
+      "end": 33.761
+    },
+    {
+      "id": 12,
+      "section": "dua_asharaat",
+      "start": 34.111,
+      "end": 36.552
+    },
+    {
+      "id": 13,
+      "section": "dua_asharaat",
+      "start": 36.902,
+      "end": 38.585
+    },
+    {
+      "id": 14,
+      "section": "dua_asharaat",
+      "start": 38.935,
+      "end": 41.025
+    },
+    {
+      "id": 15,
+      "section": "dua_asharaat",
+      "start": 41.375,
+      "end": 44.219
+    },
+    {
+      "id": 16,
+      "section": "dua_asharaat",
+      "start": 44.569,
+      "end": 46.357
+    },
+    {
+      "id": 17,
+      "section": "dua_asharaat",
+      "start": 46.707,
+      "end": 50.41
+    },
+    {
+      "id": 18,
+      "section": "dua_asharaat",
+      "start": 50.76,
+      "end": 52.292
+    },
+    {
+      "id": 19,
+      "section": "dua_asharaat",
+      "start": 52.642,
+      "end": 56.253
+    },
+    {
+      "id": 20,
+      "section": "dua_asharaat",
+      "start": 56.603,
+      "end": 59.872
+    },
+    {
+      "id": 21,
+      "section": "dua_asharaat",
+      "start": 60.222,
+      "end": 62.521
+    },
+    {
+      "id": 22,
+      "section": "dua_asharaat",
+      "start": 62.871,
+      "end": 65.658
+    },
+    {
+      "id": 23,
+      "section": "dua_asharaat",
+      "start": 66.008,
+      "end": 69.94
+    },
+    {
+      "id": 24,
+      "section": "dua_asharaat",
+      "start": 70.29,
+      "end": 74.203
+    },
+    {
+      "id": 25,
+      "section": "dua_asharaat",
+      "start": 74.553,
+      "end": 79.329
+    },
+    {
+      "id": 26,
+      "section": "dua_asharaat",
+      "start": 79.679,
+      "end": 83.197
+    },
+    {
+      "id": 27,
+      "section": "dua_asharaat",
+      "start": 83.547,
+      "end": 87.541
+    },
+    {
+      "id": 28,
+      "section": "dua_asharaat",
+      "start": 87.891,
+      "end": 90.868
+    },
+    {
+      "id": 29,
+      "section": "dua_asharaat",
+      "start": 91.218,
+      "end": 93.749
+    },
+    {
+      "id": 30,
+      "section": "dua_asharaat",
+      "start": 94.099,
+      "end": 98.198
+    },
+    {
+      "id": 31,
+      "section": "dua_asharaat",
+      "start": 98.548,
+      "end": 101.267
+    },
+    {
+      "id": 32,
+      "section": "dua_asharaat",
+      "start": 101.617,
+      "end": 103.312
+    },
+    {
+      "id": 33,
+      "section": "dua_asharaat",
+      "start": 103.662,
+      "end": 107.559
+    },
+    {
+      "id": 34,
+      "section": "dua_asharaat",
+      "start": 107.909,
+      "end": 110.15
+    },
+    {
+      "id": 35,
+      "section": "dua_asharaat",
+      "start": 110.5,
+      "end": 113.552
+    },
+    {
+      "id": 36,
+      "section": "dua_asharaat",
+      "start": 113.902,
+      "end": 116.781
+    },
+    {
+      "id": 37,
+      "section": "dua_asharaat",
+      "start": 117.131,
+      "end": 121.506
+    },
+    {
+      "id": 38,
+      "section": "dua_asharaat",
+      "start": 121.856,
+      "end": 124.898
+    },
+    {
+      "id": 39,
+      "section": "dua_asharaat",
+      "start": 125.248,
+      "end": 127.024
+    },
+    {
+      "id": 40,
+      "section": "dua_asharaat",
+      "start": 127.374,
+      "end": 130.126
+    },
+    {
+      "id": 41,
+      "section": "dua_asharaat",
+      "start": 130.476,
+      "end": 133.97
+    },
+    {
+      "id": 42,
+      "section": "dua_asharaat",
+      "start": 134.32,
+      "end": 136.027
+    },
+    {
+      "id": 43,
+      "section": "dua_asharaat",
+      "start": 136.377,
+      "end": 139.36
+    },
+    {
+      "id": 44,
+      "section": "dua_asharaat",
+      "start": 139.71,
+      "end": 143.007
+    },
+    {
+      "id": 45,
+      "section": "dua_asharaat",
+      "start": 143.357,
+      "end": 145.876
+    },
+    {
+      "id": 46,
+      "section": "dua_asharaat",
+      "start": 146.226,
+      "end": 147.724
+    },
+    {
+      "id": 47,
+      "section": "dua_asharaat",
+      "start": 148.074,
+      "end": 150.977
+    },
+    {
+      "id": 48,
+      "section": "dua_asharaat",
+      "start": 151.327,
+      "end": 155.556
+    },
+    {
+      "id": 49,
+      "section": "dua_asharaat",
+      "start": 155.906,
+      "end": 158.808
+    },
+    {
+      "id": 50,
+      "section": "dua_asharaat",
+      "start": 159.158,
+      "end": 161.431
+    },
+    {
+      "id": 51,
+      "section": "dua_asharaat",
+      "start": 161.781,
+      "end": 164.405
+    },
+    {
+      "id": 52,
+      "section": "dua_asharaat",
+      "start": 164.755,
+      "end": 169.074
+    },
+    {
+      "id": 53,
+      "section": "dua_asharaat",
+      "start": 169.424,
+      "end": 173.162
+    },
+    {
+      "id": 54,
+      "section": "dua_asharaat",
+      "start": 173.512,
+      "end": 178.435
+    },
+    {
+      "id": 55,
+      "section": "dua_asharaat",
+      "start": 178.785,
+      "end": 180.422
+    },
+    {
+      "id": 56,
+      "section": "dua_asharaat",
+      "start": 180.772,
+      "end": 183.559
+    },
+    {
+      "id": 57,
+      "section": "dua_asharaat",
+      "start": 183.909,
+      "end": 186.056
+    },
+    {
+      "id": 58,
+      "section": "dua_asharaat",
+      "start": 186.406,
+      "end": 190.238
+    },
+    {
+      "id": 59,
+      "section": "dua_asharaat",
+      "start": 190.588,
+      "end": 194.047
+    },
+    {
+      "id": 60,
+      "section": "dua_asharaat",
+      "start": 194.397,
+      "end": 198.438
+    },
+    {
+      "id": 61,
+      "section": "dua_asharaat",
+      "start": 198.788,
+      "end": 200.959
+    },
+    {
+      "id": 62,
+      "section": "dua_asharaat",
+      "start": 201.309,
+      "end": 202.993
+    },
+    {
+      "id": 63,
+      "section": "dua_asharaat",
+      "start": 203.343,
+      "end": 205.328
+    },
+    {
+      "id": 64,
+      "section": "dua_asharaat",
+      "start": 205.678,
+      "end": 208.557
+    },
+    {
+      "id": 65,
+      "section": "dua_asharaat",
+      "start": 208.907,
+      "end": 213.4
+    },
+    {
+      "id": 66,
+      "section": "dua_asharaat",
+      "start": 213.75,
+      "end": 218.761
+    },
+    {
+      "id": 67,
+      "section": "dua_asharaat",
+      "start": 219.111,
+      "end": 223.499
+    },
+    {
+      "id": 68,
+      "section": "dua_asharaat",
+      "start": 223.849,
+      "end": 226.845
+    },
+    {
+      "id": 69,
+      "section": "dua_asharaat",
+      "start": 227.195,
+      "end": 229.586
+    },
+    {
+      "id": 70,
+      "section": "dua_asharaat",
+      "start": 229.936,
+      "end": 231.689
+    },
+    {
+      "id": 71,
+      "section": "dua_asharaat",
+      "start": 232.039,
+      "end": 235.557
+    },
+    {
+      "id": 72,
+      "section": "dua_asharaat",
+      "start": 235.907,
+      "end": 239.504
+    },
+    {
+      "id": 73,
+      "section": "dua_asharaat",
+      "start": 239.854,
+      "end": 243.116
+    },
+    {
+      "id": 74,
+      "section": "dua_asharaat",
+      "start": 243.466,
+      "end": 246.032
+    },
+    {
+      "id": 75,
+      "section": "dua_asharaat",
+      "start": 246.382,
+      "end": 249.157
+    },
+    {
+      "id": 76,
+      "section": "dua_asharaat",
+      "start": 249.507,
+      "end": 254.267
+    },
+    {
+      "id": 77,
+      "section": "dua_asharaat",
+      "start": 254.617,
+      "end": 257.334
+    },
+    {
+      "id": 78,
+      "section": "dua_asharaat",
+      "start": 257.684,
+      "end": 262.75
+    },
+    {
+      "id": 79,
+      "section": "dua_asharaat",
+      "start": 263.1,
+      "end": 265.805
+    },
+    {
+      "id": 80,
+      "section": "dua_asharaat",
+      "start": 266.155,
+      "end": 273.066
+    },
+    {
+      "id": 81,
+      "section": "dua_asharaat",
+      "start": 273.416,
+      "end": 278.98
+    },
+    {
+      "id": 82,
+      "section": "dua_asharaat",
+      "start": 279.33,
+      "end": 282.581
+    },
+    {
+      "id": 83,
+      "section": "dua_asharaat",
+      "start": 282.931,
+      "end": 286.701
+    },
+    {
+      "id": 84,
+      "section": "dua_asharaat",
+      "start": 287.051,
+      "end": 289.755
+    },
+    {
+      "id": 85,
+      "section": "dua_asharaat",
+      "start": 290.105,
+      "end": 293.019
+    },
+    {
+      "id": 86,
+      "section": "dua_asharaat",
+      "start": 293.369,
+      "end": 295.262
+    },
+    {
+      "id": 87,
+      "section": "dua_asharaat",
+      "start": 295.612,
+      "end": 298.239
+    },
+    {
+      "id": 88,
+      "section": "dua_asharaat",
+      "start": 298.589,
+      "end": 301.538
+    },
+    {
+      "id": 89,
+      "section": "dua_asharaat",
+      "start": 301.888,
+      "end": 306.694
+    },
+    {
+      "id": 90,
+      "section": "dua_asharaat",
+      "start": 307.044,
+      "end": 311.734
+    },
+    {
+      "id": 91,
+      "section": "dua_asharaat",
+      "start": 312.084,
+      "end": 313.025
+    },
+    {
+      "id": 92,
+      "section": "dua_asharaat",
+      "start": 313.375,
+      "end": 319.748
+    },
+    {
+      "id": 93,
+      "section": "dua_asharaat",
+      "start": 320.098,
+      "end": 322.583
+    },
+    {
+      "id": 94,
+      "section": "dua_asharaat",
+      "start": 322.933,
+      "end": 329.365
+    },
+    {
+      "id": 95,
+      "section": "dua_asharaat",
+      "start": 329.715,
+      "end": 333.653
+    },
+    {
+      "id": 96,
+      "section": "dua_asharaat",
+      "start": 334.003,
+      "end": 336.255
+    },
+    {
+      "id": 97,
+      "section": "dua_asharaat",
+      "start": 336.605,
+      "end": 339.078
+    },
+    {
+      "id": 98,
+      "section": "dua_asharaat",
+      "start": 339.428,
+      "end": 345.674
+    },
+    {
+      "id": 99,
+      "section": "dua_asharaat",
+      "start": 346.024,
+      "end": 350.791
+    },
+    {
+      "id": 100,
+      "section": "dua_asharaat",
+      "start": 351.141,
+      "end": 356.293
+    },
+    {
+      "id": 101,
+      "section": "dua_asharaat",
+      "start": 356.643,
+      "end": 362.457
+    },
+    {
+      "id": 102,
+      "section": "dua_asharaat",
+      "start": 362.807,
+      "end": 368.89
+    },
+    {
+      "id": 103,
+      "section": "dua_asharaat",
+      "start": 369.24,
+      "end": 374.382
+    },
+    {
+      "id": 104,
+      "section": "dua_asharaat",
+      "start": 374.732,
+      "end": 378.446
+    },
+    {
+      "id": 105,
+      "section": "dua_asharaat",
+      "start": 378.796,
+      "end": 381.942
+    },
+    {
+      "id": 106,
+      "section": "dua_asharaat",
+      "start": 382.292,
+      "end": 386.926
+    },
+    {
+      "id": 107,
+      "section": "dua_asharaat",
+      "start": 387.276,
+      "end": 390.608
+    },
+    {
+      "id": 108,
+      "section": "dua_asharaat",
+      "start": 390.958,
+      "end": 394.58
+    },
+    {
+      "id": 109,
+      "section": "dua_asharaat",
+      "start": 394.93,
+      "end": 397.903
+    },
+    {
+      "id": 110,
+      "section": "dua_asharaat",
+      "start": 398.253,
+      "end": 401.192
+    },
+    {
+      "id": 111,
+      "section": "dua_asharaat",
+      "start": 401.542,
+      "end": 404.98
+    },
+    {
+      "id": 112,
+      "section": "dua_asharaat",
+      "start": 405.33,
+      "end": 409.347
+    },
+    {
+      "id": 113,
+      "section": "dua_asharaat",
+      "start": 409.697,
+      "end": 413.857
+    },
+    {
+      "id": 114,
+      "section": "dua_asharaat",
+      "start": 414.207,
+      "end": 419.211
+    },
+    {
+      "id": 115,
+      "section": "dua_asharaat",
+      "start": 419.561,
+      "end": 422.893
+    },
+    {
+      "id": 116,
+      "section": "dua_asharaat",
+      "start": 423.243,
+      "end": 424.822
+    },
+    {
+      "id": 117,
+      "section": "dua_asharaat",
+      "start": 425.172,
+      "end": 427.436
+    },
+    {
+      "id": 118,
+      "section": "dua_asharaat",
+      "start": 427.786,
+      "end": 431.002
+    },
+    {
+      "id": 119,
+      "section": "dua_asharaat",
+      "start": 431.352,
+      "end": 433.639
+    },
+    {
+      "id": 120,
+      "section": "dua_asharaat",
+      "start": 433.989,
+      "end": 436.067
+    },
+    {
+      "id": 121,
+      "section": "dua_asharaat",
+      "start": 436.417,
+      "end": 441.698
+    },
+    {
+      "id": 122,
+      "section": "dua_asharaat",
+      "start": 442.048,
+      "end": 444.683
+    },
+    {
+      "id": 123,
+      "section": "dua_asharaat",
+      "start": 445.033,
+      "end": 448.431
+    },
+    {
+      "id": 124,
+      "section": "dua_asharaat",
+      "start": 448.781,
+      "end": 452.984
+    },
+    {
+      "id": 125,
+      "section": "dua_asharaat",
+      "start": 453.334,
+      "end": 456.759
+    },
+    {
+      "id": 126,
+      "section": "dua_asharaat",
+      "start": 457.109,
+      "end": 460.72
+    },
+    {
+      "id": 127,
+      "section": "dua_asharaat",
+      "start": 461.07,
+      "end": 465.976
+    },
+    {
+      "id": 128,
+      "section": "dua_asharaat",
+      "start": 466.326,
+      "end": 471.574
+    },
+    {
+      "id": 129,
+      "section": "dua_asharaat",
+      "start": 471.924,
+      "end": 476.695
+    },
+    {
+      "id": 130,
+      "section": "dua_asharaat",
+      "start": 477.045,
+      "end": 482.386
+    },
+    {
+      "id": 131,
+      "section": "dua_asharaat",
+      "start": 482.736,
+      "end": 486.27
+    },
+    {
+      "id": 132,
+      "section": "dua_asharaat",
+      "start": 486.62,
+      "end": 490.185
+    },
+    {
+      "id": 133,
+      "section": "dua_asharaat",
+      "start": 490.535,
+      "end": 495.289
+    },
+    {
+      "id": 134,
+      "section": "dua_asharaat",
+      "start": 495.639,
+      "end": 500.295
+    },
+    {
+      "id": 135,
+      "section": "dua_asharaat",
+      "start": 500.645,
+      "end": 505.265
+    },
+    {
+      "id": 136,
+      "section": "dua_asharaat",
+      "start": 505.615,
+      "end": 510.027
+    },
+    {
+      "id": 137,
+      "section": "dua_asharaat",
+      "start": 510.377,
+      "end": 513.928
+    },
+    {
+      "id": 138,
+      "section": "dua_asharaat",
+      "start": 514.278,
+      "end": 516.17
+    },
+    {
+      "id": 139,
+      "section": "dua_asharaat",
+      "start": 516.52,
+      "end": 521.907
+    },
+    {
+      "id": 140,
+      "section": "dua_asharaat",
+      "start": 522.257,
+      "end": 526.787
+    },
+    {
+      "id": 142,
+      "section": "dua_asharaat",
+      "start": 527.137,
+      "end": 530.922
+    },
+    {
+      "id": 143,
+      "section": "dua_asharaat",
+      "start": 531.272,
+      "end": 534.678
+    },
+    {
+      "id": 144,
+      "section": "dua_asharaat",
+      "start": 535.028,
+      "end": 539.196
+    },
+    {
+      "id": 147,
+      "section": "dua_asharaat",
+      "start": 539.546,
+      "end": 543.573
+    },
+    {
+      "id": 148,
+      "section": "dua_asharaat",
+      "start": 543.923,
+      "end": 547.36
+    },
+    {
+      "id": 149,
+      "section": "dua_asharaat",
+      "start": 547.71,
+      "end": 554.035
+    },
+    {
+      "id": 150,
+      "section": "dua_asharaat",
+      "start": 554.385,
+      "end": 557.694
+    },
+    {
+      "id": 153,
+      "section": "dua_asharaat",
+      "start": 558.044,
+      "end": 565.406
+    },
+    {
+      "id": 156,
+      "section": "dua_asharaat",
+      "start": 565.756,
+      "end": 567.126
+    },
+    {
+      "id": 159,
+      "section": "dua_asharaat",
+      "start": 567.476,
+      "end": 569.182
+    },
+    {
+      "id": 162,
+      "section": "dua_asharaat",
+      "start": 569.532,
+      "end": 571.332
+    },
+    {
+      "id": 165,
+      "section": "dua_asharaat",
+      "start": 571.682,
+      "end": 575.667
+    },
+    {
+      "id": 168,
+      "section": "dua_asharaat",
+      "start": 576.017,
+      "end": 578.153
+    },
+    {
+      "id": 171,
+      "section": "dua_asharaat",
+      "start": 578.503,
+      "end": 583.777
+    },
+    {
+      "id": 174,
+      "section": "dua_asharaat",
+      "start": 584.127,
+      "end": 586.31
+    },
+    {
+      "id": 177,
+      "section": "dua_asharaat",
+      "start": 586.66,
+      "end": 590.259
+    },
+    {
+      "id": 180,
+      "section": "dua_asharaat",
+      "start": 590.609,
+      "end": 593.674
+    },
+    {
+      "id": 183,
+      "section": "dua_asharaat",
+      "start": 594.024,
+      "end": 597.565
+    },
+    {
+      "id": 186,
+      "section": "dua_asharaat",
+      "start": 597.915,
+      "end": 601.712
+    },
+    {
+      "id": 189,
+      "section": "dua_asharaat",
+      "start": 602.062,
+      "end": 605.603
+    },
+    {
+      "id": 192,
+      "section": "dua_asharaat",
+      "start": 605.953,
+      "end": 607.334
+    },
+    {
+      "id": 195,
+      "section": "dua_asharaat",
+      "start": 607.684,
+      "end": 609.498
+    },
+    {
+      "id": 198,
+      "section": "dua_asharaat",
+      "start": 609.848,
+      "end": 613.761
+    },
+    {
+      "id": 199,
+      "section": "dua_asharaat",
+      "start": 614.111,
+      "end": 616.909
+    },
+    {
+      "id": 200,
+      "section": "dua_asharaat",
+      "start": 617.259,
+      "end": 620.463
+    },
+    {
+      "id": 201,
+      "section": "dua_asharaat",
+      "start": 620.813,
+      "end": 623.1
+    },
+    {
+      "id": 202,
+      "section": "dua_asharaat",
+      "start": 623.45,
+      "end": 625.772
+    },
+    {
+      "id": 203,
+      "section": "dua_asharaat",
+      "start": 626.122,
+      "end": 629.094
+    },
+    {
+      "id": 205,
+      "section": "dua_asharaat",
+      "start": 629.444,
+      "end": 632.881
+    },
+    {
+      "id": 206,
+      "section": "dua_asharaat",
+      "start": 633.231,
+      "end": 637.631
+    },
+    {
+      "id": 207,
+      "section": "dua_asharaat",
+      "start": 637.981,
+      "end": 641.766
+    },
+    {
+      "id": 208,
+      "section": "dua_asharaat",
+      "start": 642.116,
+      "end": 644.438
+    },
+    {
+      "id": 209,
+      "section": "dua_asharaat",
+      "start": 644.788,
+      "end": 647.76
+    },
+    {
+      "id": 210,
+      "section": "dua_asharaat",
+      "start": 648.11,
+      "end": 650.014
+    }
+  ]
+}

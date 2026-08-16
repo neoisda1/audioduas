@@ -1,0 +1,231 @@
+{
+  "dua_id": "munajat_kufa",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 147.454,
+  "bytes": 693112,
+  "sha256": "76216e34a57a3374c24fab533141dff4f81ea86a662ac3197c4f215c27c75fcb",
+  "lines": [
+    {
+      "id": 1,
+      "section": "munajat_kufa",
+      "start": 0.0,
+      "end": 4.425
+    },
+    {
+      "id": 2,
+      "section": "munajat_kufa",
+      "start": 4.775,
+      "end": 9.354
+    },
+    {
+      "id": 3,
+      "section": "munajat_kufa",
+      "start": 9.704,
+      "end": 14.046
+    },
+    {
+      "id": 4,
+      "section": "munajat_kufa",
+      "start": 14.396,
+      "end": 18.611
+    },
+    {
+      "id": 5,
+      "section": "munajat_kufa",
+      "start": 18.961,
+      "end": 22.618
+    },
+    {
+      "id": 6,
+      "section": "munajat_kufa",
+      "start": 22.968,
+      "end": 27.043
+    },
+    {
+      "id": 7,
+      "section": "munajat_kufa",
+      "start": 27.393,
+      "end": 32.13
+    },
+    {
+      "id": 8,
+      "section": "munajat_kufa",
+      "start": 32.48,
+      "end": 40.319
+    },
+    {
+      "id": 9,
+      "section": "munajat_kufa",
+      "start": 40.669,
+      "end": 44.033
+    },
+    {
+      "id": 10,
+      "section": "munajat_kufa",
+      "start": 44.383,
+      "end": 48.034
+    },
+    {
+      "id": 11,
+      "section": "munajat_kufa",
+      "start": 48.384,
+      "end": 51.631
+    },
+    {
+      "id": 12,
+      "section": "munajat_kufa",
+      "start": 51.981,
+      "end": 55.503
+    },
+    {
+      "id": 13,
+      "section": "munajat_kufa",
+      "start": 55.853,
+      "end": 59.449
+    },
+    {
+      "id": 14,
+      "section": "munajat_kufa",
+      "start": 59.799,
+      "end": 62.787
+    },
+    {
+      "id": 15,
+      "section": "munajat_kufa",
+      "start": 63.137,
+      "end": 66.346
+    },
+    {
+      "id": 16,
+      "section": "munajat_kufa",
+      "start": 66.696,
+      "end": 69.887
+    },
+    {
+      "id": 17,
+      "section": "munajat_kufa",
+      "start": 70.237,
+      "end": 73.699
+    },
+    {
+      "id": 18,
+      "section": "munajat_kufa",
+      "start": 74.049,
+      "end": 78.006
+    },
+    {
+      "id": 19,
+      "section": "munajat_kufa",
+      "start": 78.356,
+      "end": 81.958
+    },
+    {
+      "id": 20,
+      "section": "munajat_kufa",
+      "start": 82.308,
+      "end": 85.927
+    },
+    {
+      "id": 21,
+      "section": "munajat_kufa",
+      "start": 86.277,
+      "end": 89.736
+    },
+    {
+      "id": 22,
+      "section": "munajat_kufa",
+      "start": 90.086,
+      "end": 93.68
+    },
+    {
+      "id": 23,
+      "section": "munajat_kufa",
+      "start": 94.03,
+      "end": 98.264
+    },
+    {
+      "id": 24,
+      "section": "munajat_kufa",
+      "start": 98.614,
+      "end": 100.948
+    },
+    {
+      "id": 25,
+      "section": "munajat_kufa",
+      "start": 101.298,
+      "end": 104.851
+    },
+    {
+      "id": 26,
+      "section": "munajat_kufa",
+      "start": 105.201,
+      "end": 108.695
+    },
+    {
+      "id": 27,
+      "section": "munajat_kufa",
+      "start": 109.045,
+      "end": 112.759
+    },
+    {
+      "id": 28,
+      "section": "munajat_kufa",
+      "start": 113.109,
+      "end": 116.61
+    },
+    {
+      "id": 29,
+      "section": "munajat_kufa",
+      "start": 116.96,
+      "end": 119.894
+    },
+    {
+      "id": 30,
+      "section": "munajat_kufa",
+      "start": 120.244,
+      "end": 123.645
+    },
+    {
+      "id": 31,
+      "section": "munajat_kufa",
+      "start": 123.995,
+      "end": 128.14
+    },
+    {
+      "id": 32,
+      "section": "munajat_kufa",
+      "start": 128.49,
+      "end": 132.699
+    },
+    {
+      "id": 33,
+      "section": "munajat_kufa",
+      "start": 133.049,
+      "end": 135.814
+    },
+    {
+      "id": 34,
+      "section": "munajat_kufa",
+      "start": 136.164,
+      "end": 139.606
+    },
+    {
+      "id": 35,
+      "section": "munajat_kufa",
+      "start": 139.956,
+      "end": 143.566
+    },
+    {
+      "id": 36,
+      "section": "munajat_kufa",
+      "start": 143.916,
+      "end": 147.104
+    }
+  ]
+}

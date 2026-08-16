@@ -1,0 +1,63 @@
+{
+  "dua_id": "dua_before_meals",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 25.522,
+  "bytes": 114434,
+  "sha256": "053583a195c66be7af86e36ab383225a6886f9cbeed208b832c324b4b0c87104",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_before_meals",
+      "start": 0.0,
+      "end": 3.181
+    },
+    {
+      "id": 2,
+      "section": "dua_before_meals",
+      "start": 3.531,
+      "end": 7.048
+    },
+    {
+      "id": 3,
+      "section": "dua_before_meals",
+      "start": 7.398,
+      "end": 11.336
+    },
+    {
+      "id": 4,
+      "section": "dua_before_meals",
+      "start": 11.686,
+      "end": 13.253
+    },
+    {
+      "id": 5,
+      "section": "dua_before_meals",
+      "start": 13.603,
+      "end": 15.658
+    },
+    {
+      "id": 6,
+      "section": "dua_before_meals",
+      "start": 16.008,
+      "end": 18.11
+    },
+    {
+      "id": 7,
+      "section": "dua_before_meals",
+      "start": 18.46,
+      "end": 21.095
+    },
+    {
+      "id": 8,
+      "section": "dua_before_meals",
+      "start": 21.445,
+      "end": 25.172
+    }
+  ]
+}

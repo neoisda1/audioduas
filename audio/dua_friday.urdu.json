@@ -1,0 +1,153 @@
+{
+  "dua_id": "dua_friday",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 111.373,
+  "bytes": 500872,
+  "sha256": "633f3ca9485a14d7d31c3243db9af348d600dcb2e300e3aff0cc4139c160faba",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_friday",
+      "start": 0.0,
+      "end": 3.696
+    },
+    {
+      "id": 2,
+      "section": "dua_friday",
+      "start": 4.046,
+      "end": 9.677
+    },
+    {
+      "id": 3,
+      "section": "dua_friday",
+      "start": 10.027,
+      "end": 13.272
+    },
+    {
+      "id": 4,
+      "section": "dua_friday",
+      "start": 13.622,
+      "end": 17.809
+    },
+    {
+      "id": 5,
+      "section": "dua_friday",
+      "start": 18.159,
+      "end": 21.891
+    },
+    {
+      "id": 6,
+      "section": "dua_friday",
+      "start": 22.241,
+      "end": 25.167
+    },
+    {
+      "id": 7,
+      "section": "dua_friday",
+      "start": 25.517,
+      "end": 28.536
+    },
+    {
+      "id": 8,
+      "section": "dua_friday",
+      "start": 28.886,
+      "end": 33.077
+    },
+    {
+      "id": 9,
+      "section": "dua_friday",
+      "start": 33.427,
+      "end": 39.511
+    },
+    {
+      "id": 10,
+      "section": "dua_friday",
+      "start": 39.861,
+      "end": 45.441
+    },
+    {
+      "id": 11,
+      "section": "dua_friday",
+      "start": 45.791,
+      "end": 50.725
+    },
+    {
+      "id": 12,
+      "section": "dua_friday",
+      "start": 51.075,
+      "end": 56.309
+    },
+    {
+      "id": 13,
+      "section": "dua_friday",
+      "start": 56.659,
+      "end": 60.769
+    },
+    {
+      "id": 14,
+      "section": "dua_friday",
+      "start": 61.119,
+      "end": 68.619
+    },
+    {
+      "id": 15,
+      "section": "dua_friday",
+      "start": 68.969,
+      "end": 73.299
+    },
+    {
+      "id": 16,
+      "section": "dua_friday",
+      "start": 73.649,
+      "end": 78.119
+    },
+    {
+      "id": 17,
+      "section": "dua_friday",
+      "start": 78.469,
+      "end": 82.531
+    },
+    {
+      "id": 18,
+      "section": "dua_friday",
+      "start": 82.881,
+      "end": 87.398
+    },
+    {
+      "id": 19,
+      "section": "dua_friday",
+      "start": 87.748,
+      "end": 90.999
+    },
+    {
+      "id": 20,
+      "section": "dua_friday",
+      "start": 91.349,
+      "end": 96.085
+    },
+    {
+      "id": 21,
+      "section": "dua_friday",
+      "start": 96.435,
+      "end": 103.098
+    },
+    {
+      "id": 22,
+      "section": "dua_friday",
+      "start": 103.448,
+      "end": 108.131
+    },
+    {
+      "id": 23,
+      "section": "dua_friday",
+      "start": 108.481,
+      "end": 111.023
+    }
+  ]
+}

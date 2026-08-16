@@ -1,0 +1,93 @@
+{
+  "dua_id": "a_gift_from_imam_hussain",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 34.801,
+  "bytes": 157142,
+  "sha256": "c3bf7001be86b337faf0875f9f495f3d3461fda7b8f050331c13186456ad2dc1",
+  "lines": [
+    {
+      "id": 1,
+      "section": "a_gift_from_imam_hussain",
+      "start": 0.0,
+      "end": 3.181
+    },
+    {
+      "id": 2,
+      "section": "a_gift_from_imam_hussain",
+      "start": 3.531,
+      "end": 7.048
+    },
+    {
+      "id": 3,
+      "section": "a_gift_from_imam_hussain",
+      "start": 7.398,
+      "end": 9.581
+    },
+    {
+      "id": 4,
+      "section": "a_gift_from_imam_hussain",
+      "start": 9.931,
+      "end": 12.358
+    },
+    {
+      "id": 5,
+      "section": "a_gift_from_imam_hussain",
+      "start": 12.708,
+      "end": 15.506
+    },
+    {
+      "id": 6,
+      "section": "a_gift_from_imam_hussain",
+      "start": 15.856,
+      "end": 17.818
+    },
+    {
+      "id": 7,
+      "section": "a_gift_from_imam_hussain",
+      "start": 18.168,
+      "end": 20.165
+    },
+    {
+      "id": 8,
+      "section": "a_gift_from_imam_hussain",
+      "start": 20.515,
+      "end": 22.93
+    },
+    {
+      "id": 9,
+      "section": "a_gift_from_imam_hussain",
+      "start": 23.28,
+      "end": 25.323
+    },
+    {
+      "id": 10,
+      "section": "a_gift_from_imam_hussain",
+      "start": 25.673,
+      "end": 27.589
+    },
+    {
+      "id": 11,
+      "section": "a_gift_from_imam_hussain",
+      "start": 27.939,
+      "end": 29.597
+    },
+    {
+      "id": 12,
+      "section": "a_gift_from_imam_hussain",
+      "start": 29.947,
+      "end": 33.639
+    },
+    {
+      "id": 13,
+      "section": "a_gift_from_imam_hussain",
+      "start": 33.989,
+      "end": 34.451
+    }
+  ]
+}

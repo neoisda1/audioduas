@@ -1,0 +1,51 @@
+{
+  "dua_id": "dua_for_dawn_and_dusk",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 16.905,
+  "bytes": 75932,
+  "sha256": "6616b78b10d465ae063a22e317de27e541795c9ebe0d00a720c1d4ccc8f8d212",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_for_dawn_and_dusk",
+      "start": 0.0,
+      "end": 2.776
+    },
+    {
+      "id": 2,
+      "section": "dua_for_dawn_and_dusk",
+      "start": 3.126,
+      "end": 4.891
+    },
+    {
+      "id": 3,
+      "section": "dua_for_dawn_and_dusk",
+      "start": 5.241,
+      "end": 7.407
+    },
+    {
+      "id": 4,
+      "section": "dua_for_dawn_and_dusk",
+      "start": 7.757,
+      "end": 9.911
+    },
+    {
+      "id": 5,
+      "section": "dua_for_dawn_and_dusk",
+      "start": 10.261,
+      "end": 13.512
+    },
+    {
+      "id": 6,
+      "section": "dua_for_dawn_and_dusk",
+      "start": 13.862,
+      "end": 16.555
+    }
+  ]
+}

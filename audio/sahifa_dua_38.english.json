@@ -1,0 +1,111 @@
+{
+  "dua_id": "sahifa_dua_38",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 66.244,
+  "bytes": 298127,
+  "sha256": "22a148da94d4a509cf2a1f2b9e39662139f2afcbfd5014b66bd6704978b702e6",
+  "lines": [
+    {
+      "id": 1,
+      "section": "sahifa_dua_38",
+      "start": 0.0,
+      "end": 3.044
+    },
+    {
+      "id": 2,
+      "section": "sahifa_dua_38",
+      "start": 3.394,
+      "end": 7.144
+    },
+    {
+      "id": 3,
+      "section": "sahifa_dua_38",
+      "start": 7.494,
+      "end": 10.536
+    },
+    {
+      "id": 4,
+      "section": "sahifa_dua_38",
+      "start": 10.886,
+      "end": 15.926
+    },
+    {
+      "id": 5,
+      "section": "sahifa_dua_38",
+      "start": 16.276,
+      "end": 20.415
+    },
+    {
+      "id": 6,
+      "section": "sahifa_dua_38",
+      "start": 20.765,
+      "end": 25.956
+    },
+    {
+      "id": 7,
+      "section": "sahifa_dua_38",
+      "start": 26.306,
+      "end": 31.038
+    },
+    {
+      "id": 8,
+      "section": "sahifa_dua_38",
+      "start": 31.388,
+      "end": 35.238
+    },
+    {
+      "id": 9,
+      "section": "sahifa_dua_38",
+      "start": 35.588,
+      "end": 39.092
+    },
+    {
+      "id": 10,
+      "section": "sahifa_dua_38",
+      "start": 39.442,
+      "end": 42.884
+    },
+    {
+      "id": 11,
+      "section": "sahifa_dua_38",
+      "start": 43.234,
+      "end": 48.377
+    },
+    {
+      "id": 12,
+      "section": "sahifa_dua_38",
+      "start": 48.727,
+      "end": 52.734
+    },
+    {
+      "id": 13,
+      "section": "sahifa_dua_38",
+      "start": 53.084,
+      "end": 55.697
+    },
+    {
+      "id": 14,
+      "section": "sahifa_dua_38",
+      "start": 56.047,
+      "end": 59.87
+    },
+    {
+      "id": 15,
+      "section": "sahifa_dua_38",
+      "start": 60.22,
+      "end": 62.406
+    },
+    {
+      "id": 16,
+      "section": "sahifa_dua_38",
+      "start": 62.756,
+      "end": 65.894
+    }
+  ]
+}

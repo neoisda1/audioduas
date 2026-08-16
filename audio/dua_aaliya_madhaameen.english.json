@@ -1,0 +1,1299 @@
+{
+  "dua_id": "dua_aaliya_madhaameen",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 531.137,
+  "bytes": 2571437,
+  "sha256": "7904e0c535f0c0e52f86deb7f31e35b137dc5d51d4293154d0473490f1d303f1",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_aaliya_madhaameen",
+      "start": 0.0,
+      "end": 3.181
+    },
+    {
+      "id": 2,
+      "section": "dua_aaliya_madhaameen",
+      "start": 3.531,
+      "end": 7.048
+    },
+    {
+      "id": 3,
+      "section": "dua_aaliya_madhaameen",
+      "start": 7.398,
+      "end": 9.613
+    },
+    {
+      "id": 4,
+      "section": "dua_aaliya_madhaameen",
+      "start": 9.963,
+      "end": 11.592
+    },
+    {
+      "id": 5,
+      "section": "dua_aaliya_madhaameen",
+      "start": 11.942,
+      "end": 14.578
+    },
+    {
+      "id": 6,
+      "section": "dua_aaliya_madhaameen",
+      "start": 14.928,
+      "end": 17.853
+    },
+    {
+      "id": 7,
+      "section": "dua_aaliya_madhaameen",
+      "start": 18.203,
+      "end": 20.189
+    },
+    {
+      "id": 8,
+      "section": "dua_aaliya_madhaameen",
+      "start": 20.539,
+      "end": 23.035
+    },
+    {
+      "id": 9,
+      "section": "dua_aaliya_madhaameen",
+      "start": 23.385,
+      "end": 24.685
+    },
+    {
+      "id": 10,
+      "section": "dua_aaliya_madhaameen",
+      "start": 25.035,
+      "end": 26.8
+    },
+    {
+      "id": 11,
+      "section": "dua_aaliya_madhaameen",
+      "start": 27.15,
+      "end": 29.054
+    },
+    {
+      "id": 12,
+      "section": "dua_aaliya_madhaameen",
+      "start": 29.404,
+      "end": 30.6
+    },
+    {
+      "id": 13,
+      "section": "dua_aaliya_madhaameen",
+      "start": 30.95,
+      "end": 32.587
+    },
+    {
+      "id": 14,
+      "section": "dua_aaliya_madhaameen",
+      "start": 32.937,
+      "end": 34.806
+    },
+    {
+      "id": 15,
+      "section": "dua_aaliya_madhaameen",
+      "start": 35.156,
+      "end": 38.592
+    },
+    {
+      "id": 16,
+      "section": "dua_aaliya_madhaameen",
+      "start": 38.942,
+      "end": 41.752
+    },
+    {
+      "id": 17,
+      "section": "dua_aaliya_madhaameen",
+      "start": 42.102,
+      "end": 44.378
+    },
+    {
+      "id": 18,
+      "section": "dua_aaliya_madhaameen",
+      "start": 44.728,
+      "end": 47.293
+    },
+    {
+      "id": 19,
+      "section": "dua_aaliya_madhaameen",
+      "start": 47.643,
+      "end": 50.372
+    },
+    {
+      "id": 20,
+      "section": "dua_aaliya_madhaameen",
+      "start": 50.722,
+      "end": 53.462
+    },
+    {
+      "id": 21,
+      "section": "dua_aaliya_madhaameen",
+      "start": 53.812,
+      "end": 55.603
+    },
+    {
+      "id": 22,
+      "section": "dua_aaliya_madhaameen",
+      "start": 55.953,
+      "end": 58.948
+    },
+    {
+      "id": 23,
+      "section": "dua_aaliya_madhaameen",
+      "start": 59.298,
+      "end": 61.588
+    },
+    {
+      "id": 24,
+      "section": "dua_aaliya_madhaameen",
+      "start": 61.938,
+      "end": 64.48
+    },
+    {
+      "id": 25,
+      "section": "dua_aaliya_madhaameen",
+      "start": 64.83,
+      "end": 66.932
+    },
+    {
+      "id": 26,
+      "section": "dua_aaliya_madhaameen",
+      "start": 67.282,
+      "end": 69.708
+    },
+    {
+      "id": 27,
+      "section": "dua_aaliya_madhaameen",
+      "start": 70.058,
+      "end": 71.811
+    },
+    {
+      "id": 28,
+      "section": "dua_aaliya_madhaameen",
+      "start": 72.161,
+      "end": 74.472
+    },
+    {
+      "id": 29,
+      "section": "dua_aaliya_madhaameen",
+      "start": 74.822,
+      "end": 76.552
+    },
+    {
+      "id": 30,
+      "section": "dua_aaliya_madhaameen",
+      "start": 76.902,
+      "end": 79.2
+    },
+    {
+      "id": 31,
+      "section": "dua_aaliya_madhaameen",
+      "start": 79.55,
+      "end": 81.153
+    },
+    {
+      "id": 32,
+      "section": "dua_aaliya_madhaameen",
+      "start": 81.503,
+      "end": 83.941
+    },
+    {
+      "id": 33,
+      "section": "dua_aaliya_madhaameen",
+      "start": 84.291,
+      "end": 88.099
+    },
+    {
+      "id": 34,
+      "section": "dua_aaliya_madhaameen",
+      "start": 88.449,
+      "end": 92.051
+    },
+    {
+      "id": 35,
+      "section": "dua_aaliya_madhaameen",
+      "start": 92.401,
+      "end": 95.141
+    },
+    {
+      "id": 36,
+      "section": "dua_aaliya_madhaameen",
+      "start": 95.491,
+      "end": 97.186
+    },
+    {
+      "id": 37,
+      "section": "dua_aaliya_madhaameen",
+      "start": 97.536,
+      "end": 100.415
+    },
+    {
+      "id": 38,
+      "section": "dua_aaliya_madhaameen",
+      "start": 100.765,
+      "end": 103.26
+    },
+    {
+      "id": 39,
+      "section": "dua_aaliya_madhaameen",
+      "start": 103.61,
+      "end": 105.305
+    },
+    {
+      "id": 40,
+      "section": "dua_aaliya_madhaameen",
+      "start": 105.655,
+      "end": 107.083
+    },
+    {
+      "id": 41,
+      "section": "dua_aaliya_madhaameen",
+      "start": 107.433,
+      "end": 108.761
+    },
+    {
+      "id": 42,
+      "section": "dua_aaliya_madhaameen",
+      "start": 109.111,
+      "end": 112.223
+    },
+    {
+      "id": 43,
+      "section": "dua_aaliya_madhaameen",
+      "start": 112.573,
+      "end": 114.047
+    },
+    {
+      "id": 44,
+      "section": "dua_aaliya_madhaameen",
+      "start": 114.397,
+      "end": 117.102
+    },
+    {
+      "id": 45,
+      "section": "dua_aaliya_madhaameen",
+      "start": 117.452,
+      "end": 119.008
+    },
+    {
+      "id": 46,
+      "section": "dua_aaliya_madhaameen",
+      "start": 119.358,
+      "end": 120.67
+    },
+    {
+      "id": 47,
+      "section": "dua_aaliya_madhaameen",
+      "start": 121.02,
+      "end": 124.642
+    },
+    {
+      "id": 48,
+      "section": "dua_aaliya_madhaameen",
+      "start": 124.992,
+      "end": 127.07
+    },
+    {
+      "id": 49,
+      "section": "dua_aaliya_madhaameen",
+      "start": 127.42,
+      "end": 129.719
+    },
+    {
+      "id": 50,
+      "section": "dua_aaliya_madhaameen",
+      "start": 130.069,
+      "end": 132.008
+    },
+    {
+      "id": 51,
+      "section": "dua_aaliya_madhaameen",
+      "start": 132.358,
+      "end": 134.018
+    },
+    {
+      "id": 52,
+      "section": "dua_aaliya_madhaameen",
+      "start": 134.368,
+      "end": 136.493
+    },
+    {
+      "id": 53,
+      "section": "dua_aaliya_madhaameen",
+      "start": 136.843,
+      "end": 137.981
+    },
+    {
+      "id": 54,
+      "section": "dua_aaliya_madhaameen",
+      "start": 138.331,
+      "end": 139.759
+    },
+    {
+      "id": 55,
+      "section": "dua_aaliya_madhaameen",
+      "start": 140.109,
+      "end": 142.988
+    },
+    {
+      "id": 56,
+      "section": "dua_aaliya_madhaameen",
+      "start": 143.338,
+      "end": 145.261
+    },
+    {
+      "id": 57,
+      "section": "dua_aaliya_madhaameen",
+      "start": 145.611,
+      "end": 150.243
+    },
+    {
+      "id": 58,
+      "section": "dua_aaliya_madhaameen",
+      "start": 150.593,
+      "end": 152.567
+    },
+    {
+      "id": 59,
+      "section": "dua_aaliya_madhaameen",
+      "start": 152.917,
+      "end": 155.692
+    },
+    {
+      "id": 60,
+      "section": "dua_aaliya_madhaameen",
+      "start": 156.042,
+      "end": 159.45
+    },
+    {
+      "id": 61,
+      "section": "dua_aaliya_madhaameen",
+      "start": 159.8,
+      "end": 161.564
+    },
+    {
+      "id": 62,
+      "section": "dua_aaliya_madhaameen",
+      "start": 161.914,
+      "end": 163.818
+    },
+    {
+      "id": 63,
+      "section": "dua_aaliya_madhaameen",
+      "start": 164.168,
+      "end": 167.535
+    },
+    {
+      "id": 64,
+      "section": "dua_aaliya_madhaameen",
+      "start": 167.885,
+      "end": 169.933
+    },
+    {
+      "id": 65,
+      "section": "dua_aaliya_madhaameen",
+      "start": 170.283,
+      "end": 173.372
+    },
+    {
+      "id": 66,
+      "section": "dua_aaliya_madhaameen",
+      "start": 173.722,
+      "end": 176.09
+    },
+    {
+      "id": 67,
+      "section": "dua_aaliya_madhaameen",
+      "start": 176.44,
+      "end": 178.634
+    },
+    {
+      "id": 68,
+      "section": "dua_aaliya_madhaameen",
+      "start": 178.984,
+      "end": 182.003
+    },
+    {
+      "id": 69,
+      "section": "dua_aaliya_madhaameen",
+      "start": 182.353,
+      "end": 185.035
+    },
+    {
+      "id": 70,
+      "section": "dua_aaliya_madhaameen",
+      "start": 185.385,
+      "end": 187.661
+    },
+    {
+      "id": 71,
+      "section": "dua_aaliya_madhaameen",
+      "start": 188.011,
+      "end": 189.543
+    },
+    {
+      "id": 72,
+      "section": "dua_aaliya_madhaameen",
+      "start": 189.893,
+      "end": 191.751
+    },
+    {
+      "id": 73,
+      "section": "dua_aaliya_madhaameen",
+      "start": 192.101,
+      "end": 193.482
+    },
+    {
+      "id": 74,
+      "section": "dua_aaliya_madhaameen",
+      "start": 193.832,
+      "end": 195.318
+    },
+    {
+      "id": 75,
+      "section": "dua_aaliya_madhaameen",
+      "start": 195.668,
+      "end": 198.408
+    },
+    {
+      "id": 76,
+      "section": "dua_aaliya_madhaameen",
+      "start": 198.758,
+      "end": 200.709
+    },
+    {
+      "id": 77,
+      "section": "dua_aaliya_madhaameen",
+      "start": 201.059,
+      "end": 203.114
+    },
+    {
+      "id": 78,
+      "section": "dua_aaliya_madhaameen",
+      "start": 203.464,
+      "end": 205.089
+    },
+    {
+      "id": 79,
+      "section": "dua_aaliya_madhaameen",
+      "start": 205.439,
+      "end": 207.088
+    },
+    {
+      "id": 80,
+      "section": "dua_aaliya_madhaameen",
+      "start": 207.438,
+      "end": 210.062
+    },
+    {
+      "id": 81,
+      "section": "dua_aaliya_madhaameen",
+      "start": 210.412,
+      "end": 211.677
+    },
+    {
+      "id": 82,
+      "section": "dua_aaliya_madhaameen",
+      "start": 212.027,
+      "end": 214.314
+    },
+    {
+      "id": 83,
+      "section": "dua_aaliya_madhaameen",
+      "start": 214.664,
+      "end": 217.253
+    },
+    {
+      "id": 84,
+      "section": "dua_aaliya_madhaameen",
+      "start": 217.603,
+      "end": 220.273
+    },
+    {
+      "id": 85,
+      "section": "dua_aaliya_madhaameen",
+      "start": 220.623,
+      "end": 223.967
+    },
+    {
+      "id": 86,
+      "section": "dua_aaliya_madhaameen",
+      "start": 224.317,
+      "end": 226.221
+    },
+    {
+      "id": 87,
+      "section": "dua_aaliya_madhaameen",
+      "start": 226.571,
+      "end": 228.672
+    },
+    {
+      "id": 88,
+      "section": "dua_aaliya_madhaameen",
+      "start": 229.022,
+      "end": 230.413
+    },
+    {
+      "id": 89,
+      "section": "dua_aaliya_madhaameen",
+      "start": 230.763,
+      "end": 231.739
+    },
+    {
+      "id": 90,
+      "section": "dua_aaliya_madhaameen",
+      "start": 232.089,
+      "end": 233.711
+    },
+    {
+      "id": 91,
+      "section": "dua_aaliya_madhaameen",
+      "start": 234.061,
+      "end": 235.924
+    },
+    {
+      "id": 92,
+      "section": "dua_aaliya_madhaameen",
+      "start": 236.274,
+      "end": 238.51
+    },
+    {
+      "id": 93,
+      "section": "dua_aaliya_madhaameen",
+      "start": 238.86,
+      "end": 241.4
+    },
+    {
+      "id": 94,
+      "section": "dua_aaliya_madhaameen",
+      "start": 241.75,
+      "end": 244.734
+    },
+    {
+      "id": 95,
+      "section": "dua_aaliya_madhaameen",
+      "start": 245.084,
+      "end": 246.721
+    },
+    {
+      "id": 96,
+      "section": "dua_aaliya_madhaameen",
+      "start": 247.071,
+      "end": 248.75
+    },
+    {
+      "id": 97,
+      "section": "dua_aaliya_madhaameen",
+      "start": 249.1,
+      "end": 251.456
+    },
+    {
+      "id": 98,
+      "section": "dua_aaliya_madhaameen",
+      "start": 251.806,
+      "end": 253.919
+    },
+    {
+      "id": 99,
+      "section": "dua_aaliya_madhaameen",
+      "start": 254.269,
+      "end": 255.871
+    },
+    {
+      "id": 100,
+      "section": "dua_aaliya_madhaameen",
+      "start": 256.221,
+      "end": 258.264
+    },
+    {
+      "id": 101,
+      "section": "dua_aaliya_madhaameen",
+      "start": 258.614,
+      "end": 260.913
+    },
+    {
+      "id": 102,
+      "section": "dua_aaliya_madhaameen",
+      "start": 261.263,
+      "end": 262.888
+    },
+    {
+      "id": 103,
+      "section": "dua_aaliya_madhaameen",
+      "start": 263.238,
+      "end": 266.745
+    },
+    {
+      "id": 104,
+      "section": "dua_aaliya_madhaameen",
+      "start": 267.095,
+      "end": 270.157
+    },
+    {
+      "id": 105,
+      "section": "dua_aaliya_madhaameen",
+      "start": 270.507,
+      "end": 271.969
+    },
+    {
+      "id": 106,
+      "section": "dua_aaliya_madhaameen",
+      "start": 272.319,
+      "end": 273.562
+    },
+    {
+      "id": 107,
+      "section": "dua_aaliya_madhaameen",
+      "start": 273.912,
+      "end": 274.922
+    },
+    {
+      "id": 108,
+      "section": "dua_aaliya_madhaameen",
+      "start": 275.272,
+      "end": 277.257
+    },
+    {
+      "id": 109,
+      "section": "dua_aaliya_madhaameen",
+      "start": 277.607,
+      "end": 279.174
+    },
+    {
+      "id": 110,
+      "section": "dua_aaliya_madhaameen",
+      "start": 279.524,
+      "end": 281.545
+    },
+    {
+      "id": 111,
+      "section": "dua_aaliya_madhaameen",
+      "start": 281.895,
+      "end": 286.539
+    },
+    {
+      "id": 112,
+      "section": "dua_aaliya_madhaameen",
+      "start": 286.889,
+      "end": 289.645
+    },
+    {
+      "id": 113,
+      "section": "dua_aaliya_madhaameen",
+      "start": 289.995,
+      "end": 291.609
+    },
+    {
+      "id": 114,
+      "section": "dua_aaliya_madhaameen",
+      "start": 291.959,
+      "end": 293.967
+    },
+    {
+      "id": 115,
+      "section": "dua_aaliya_madhaameen",
+      "start": 294.317,
+      "end": 296.038
+    },
+    {
+      "id": 116,
+      "section": "dua_aaliya_madhaameen",
+      "start": 296.388,
+      "end": 298.13
+    },
+    {
+      "id": 117,
+      "section": "dua_aaliya_madhaameen",
+      "start": 298.48,
+      "end": 300.816
+    },
+    {
+      "id": 118,
+      "section": "dua_aaliya_madhaameen",
+      "start": 301.166,
+      "end": 304.684
+    },
+    {
+      "id": 119,
+      "section": "dua_aaliya_madhaameen",
+      "start": 305.034,
+      "end": 307.275
+    },
+    {
+      "id": 120,
+      "section": "dua_aaliya_madhaameen",
+      "start": 307.625,
+      "end": 309.355
+    },
+    {
+      "id": 121,
+      "section": "dua_aaliya_madhaameen",
+      "start": 309.705,
+      "end": 313.211
+    },
+    {
+      "id": 122,
+      "section": "dua_aaliya_madhaameen",
+      "start": 313.561,
+      "end": 315.457
+    },
+    {
+      "id": 123,
+      "section": "dua_aaliya_madhaameen",
+      "start": 315.807,
+      "end": 317.293
+    },
+    {
+      "id": 124,
+      "section": "dua_aaliya_madhaameen",
+      "start": 317.643,
+      "end": 319.686
+    },
+    {
+      "id": 125,
+      "section": "dua_aaliya_madhaameen",
+      "start": 320.036,
+      "end": 322.416
+    },
+    {
+      "id": 126,
+      "section": "dua_aaliya_madhaameen",
+      "start": 322.766,
+      "end": 325.018
+    },
+    {
+      "id": 127,
+      "section": "dua_aaliya_madhaameen",
+      "start": 325.368,
+      "end": 327.493
+    },
+    {
+      "id": 128,
+      "section": "dua_aaliya_madhaameen",
+      "start": 327.843,
+      "end": 329.767
+    },
+    {
+      "id": 129,
+      "section": "dua_aaliya_madhaameen",
+      "start": 330.117,
+      "end": 331.603
+    },
+    {
+      "id": 130,
+      "section": "dua_aaliya_madhaameen",
+      "start": 331.953,
+      "end": 333.172
+    },
+    {
+      "id": 131,
+      "section": "dua_aaliya_madhaameen",
+      "start": 333.522,
+      "end": 336.146
+    },
+    {
+      "id": 132,
+      "section": "dua_aaliya_madhaameen",
+      "start": 336.496,
+      "end": 339.341
+    },
+    {
+      "id": 133,
+      "section": "dua_aaliya_madhaameen",
+      "start": 339.691,
+      "end": 342.973
+    },
+    {
+      "id": 134,
+      "section": "dua_aaliya_madhaameen",
+      "start": 343.323,
+      "end": 346.644
+    },
+    {
+      "id": 135,
+      "section": "dua_aaliya_madhaameen",
+      "start": 346.994,
+      "end": 348.55
+    },
+    {
+      "id": 136,
+      "section": "dua_aaliya_madhaameen",
+      "start": 348.9,
+      "end": 351.035
+    },
+    {
+      "id": 137,
+      "section": "dua_aaliya_madhaameen",
+      "start": 351.385,
+      "end": 353.3
+    },
+    {
+      "id": 138,
+      "section": "dua_aaliya_madhaameen",
+      "start": 353.65,
+      "end": 356.339
+    },
+    {
+      "id": 139,
+      "section": "dua_aaliya_madhaameen",
+      "start": 356.689,
+      "end": 358.082
+    },
+    {
+      "id": 140,
+      "section": "dua_aaliya_madhaameen",
+      "start": 358.432,
+      "end": 359.79
+    },
+    {
+      "id": 141,
+      "section": "dua_aaliya_madhaameen",
+      "start": 360.14,
+      "end": 361.789
+    },
+    {
+      "id": 142,
+      "section": "dua_aaliya_madhaameen",
+      "start": 362.139,
+      "end": 364.915
+    },
+    {
+      "id": 143,
+      "section": "dua_aaliya_madhaameen",
+      "start": 365.265,
+      "end": 366.194
+    },
+    {
+      "id": 144,
+      "section": "dua_aaliya_madhaameen",
+      "start": 366.544,
+      "end": 369.075
+    },
+    {
+      "id": 145,
+      "section": "dua_aaliya_madhaameen",
+      "start": 369.425,
+      "end": 371.398
+    },
+    {
+      "id": 146,
+      "section": "dua_aaliya_madhaameen",
+      "start": 371.748,
+      "end": 373.641
+    },
+    {
+      "id": 147,
+      "section": "dua_aaliya_madhaameen",
+      "start": 373.991,
+      "end": 376.615
+    },
+    {
+      "id": 148,
+      "section": "dua_aaliya_madhaameen",
+      "start": 376.965,
+      "end": 377.743
+    },
+    {
+      "id": 149,
+      "section": "dua_aaliya_madhaameen",
+      "start": 378.093,
+      "end": 379.098
+    },
+    {
+      "id": 150,
+      "section": "dua_aaliya_madhaameen",
+      "start": 379.448,
+      "end": 381.109
+    },
+    {
+      "id": 151,
+      "section": "dua_aaliya_madhaameen",
+      "start": 381.459,
+      "end": 383.374
+    },
+    {
+      "id": 152,
+      "section": "dua_aaliya_madhaameen",
+      "start": 383.724,
+      "end": 386.217
+    },
+    {
+      "id": 153,
+      "section": "dua_aaliya_madhaameen",
+      "start": 386.567,
+      "end": 388.331
+    },
+    {
+      "id": 154,
+      "section": "dua_aaliya_madhaameen",
+      "start": 388.681,
+      "end": 390.69
+    },
+    {
+      "id": 155,
+      "section": "dua_aaliya_madhaameen",
+      "start": 391.04,
+      "end": 394.415
+    },
+    {
+      "id": 156,
+      "section": "dua_aaliya_madhaameen",
+      "start": 394.765,
+      "end": 395.995
+    },
+    {
+      "id": 157,
+      "section": "dua_aaliya_madhaameen",
+      "start": 396.345,
+      "end": 397.901
+    },
+    {
+      "id": 158,
+      "section": "dua_aaliya_madhaameen",
+      "start": 398.251,
+      "end": 399.795
+    },
+    {
+      "id": 159,
+      "section": "dua_aaliya_madhaameen",
+      "start": 400.145,
+      "end": 402.723
+    },
+    {
+      "id": 160,
+      "section": "dua_aaliya_madhaameen",
+      "start": 403.073,
+      "end": 404.478
+    },
+    {
+      "id": 161,
+      "section": "dua_aaliya_madhaameen",
+      "start": 404.828,
+      "end": 406.105
+    },
+    {
+      "id": 162,
+      "section": "dua_aaliya_madhaameen",
+      "start": 406.455,
+      "end": 407.825
+    },
+    {
+      "id": 163,
+      "section": "dua_aaliya_madhaameen",
+      "start": 408.175,
+      "end": 410.067
+    },
+    {
+      "id": 164,
+      "section": "dua_aaliya_madhaameen",
+      "start": 410.417,
+      "end": 412.484
+    },
+    {
+      "id": 165,
+      "section": "dua_aaliya_madhaameen",
+      "start": 412.834,
+      "end": 414.529
+    },
+    {
+      "id": 166,
+      "section": "dua_aaliya_madhaameen",
+      "start": 414.879,
+      "end": 416.365
+    },
+    {
+      "id": 167,
+      "section": "dua_aaliya_madhaameen",
+      "start": 416.715,
+      "end": 418.445
+    },
+    {
+      "id": 168,
+      "section": "dua_aaliya_madhaameen",
+      "start": 418.795,
+      "end": 420.516
+    },
+    {
+      "id": 169,
+      "section": "dua_aaliya_madhaameen",
+      "start": 420.866,
+      "end": 422.631
+    },
+    {
+      "id": 170,
+      "section": "dua_aaliya_madhaameen",
+      "start": 422.981,
+      "end": 425.744
+    },
+    {
+      "id": 171,
+      "section": "dua_aaliya_madhaameen",
+      "start": 426.094,
+      "end": 428.764
+    },
+    {
+      "id": 172,
+      "section": "dua_aaliya_madhaameen",
+      "start": 429.114,
+      "end": 430.763
+    },
+    {
+      "id": 173,
+      "section": "dua_aaliya_madhaameen",
+      "start": 431.113,
+      "end": 433.064
+    },
+    {
+      "id": 174,
+      "section": "dua_aaliya_madhaameen",
+      "start": 433.414,
+      "end": 437.006
+    },
+    {
+      "id": 175,
+      "section": "dua_aaliya_madhaameen",
+      "start": 437.356,
+      "end": 439.074
+    },
+    {
+      "id": 176,
+      "section": "dua_aaliya_madhaameen",
+      "start": 439.424,
+      "end": 441.142
+    },
+    {
+      "id": 177,
+      "section": "dua_aaliya_madhaameen",
+      "start": 441.492,
+      "end": 443.501
+    },
+    {
+      "id": 178,
+      "section": "dua_aaliya_madhaameen",
+      "start": 443.851,
+      "end": 445.813
+    },
+    {
+      "id": 179,
+      "section": "dua_aaliya_madhaameen",
+      "start": 446.163,
+      "end": 448.508
+    },
+    {
+      "id": 180,
+      "section": "dua_aaliya_madhaameen",
+      "start": 448.858,
+      "end": 450.89
+    },
+    {
+      "id": 181,
+      "section": "dua_aaliya_madhaameen",
+      "start": 451.24,
+      "end": 453.271
+    },
+    {
+      "id": 182,
+      "section": "dua_aaliya_madhaameen",
+      "start": 453.621,
+      "end": 455.514
+    },
+    {
+      "id": 183,
+      "section": "dua_aaliya_madhaameen",
+      "start": 455.864,
+      "end": 457.78
+    },
+    {
+      "id": 184,
+      "section": "dua_aaliya_madhaameen",
+      "start": 458.13,
+      "end": 460.347
+    },
+    {
+      "id": 185,
+      "section": "dua_aaliya_madhaameen",
+      "start": 460.697,
+      "end": 462.299
+    },
+    {
+      "id": 186,
+      "section": "dua_aaliya_madhaameen",
+      "start": 462.649,
+      "end": 464.228
+    },
+    {
+      "id": 187,
+      "section": "dua_aaliya_madhaameen",
+      "start": 464.578,
+      "end": 466.447
+    },
+    {
+      "id": 188,
+      "section": "dua_aaliya_madhaameen",
+      "start": 466.797,
+      "end": 468.492
+    },
+    {
+      "id": 189,
+      "section": "dua_aaliya_madhaameen",
+      "start": 468.842,
+      "end": 470.12
+    },
+    {
+      "id": 190,
+      "section": "dua_aaliya_madhaameen",
+      "start": 470.47,
+      "end": 473.618
+    },
+    {
+      "id": 191,
+      "section": "dua_aaliya_madhaameen",
+      "start": 473.968,
+      "end": 477.068
+    },
+    {
+      "id": 192,
+      "section": "dua_aaliya_madhaameen",
+      "start": 477.418,
+      "end": 480.204
+    },
+    {
+      "id": 193,
+      "section": "dua_aaliya_madhaameen",
+      "start": 480.554,
+      "end": 483.04
+    },
+    {
+      "id": 194,
+      "section": "dua_aaliya_madhaameen",
+      "start": 483.39,
+      "end": 485.55
+    },
+    {
+      "id": 195,
+      "section": "dua_aaliya_madhaameen",
+      "start": 485.9,
+      "end": 489.511
+    },
+    {
+      "id": 196,
+      "section": "dua_aaliya_madhaameen",
+      "start": 489.861,
+      "end": 491.536
+    },
+    {
+      "id": 197,
+      "section": "dua_aaliya_madhaameen",
+      "start": 491.886,
+      "end": 493.082
+    },
+    {
+      "id": 198,
+      "section": "dua_aaliya_madhaameen",
+      "start": 493.432,
+      "end": 494.918
+    },
+    {
+      "id": 199,
+      "section": "dua_aaliya_madhaameen",
+      "start": 495.268,
+      "end": 496.859
+    },
+    {
+      "id": 200,
+      "section": "dua_aaliya_madhaameen",
+      "start": 497.209,
+      "end": 498.59
+    },
+    {
+      "id": 201,
+      "section": "dua_aaliya_madhaameen",
+      "start": 498.94,
+      "end": 501.669
+    },
+    {
+      "id": 202,
+      "section": "dua_aaliya_madhaameen",
+      "start": 502.019,
+      "end": 504.848
+    },
+    {
+      "id": 203,
+      "section": "dua_aaliya_madhaameen",
+      "start": 505.198,
+      "end": 507.198
+    },
+    {
+      "id": 204,
+      "section": "dua_aaliya_madhaameen",
+      "start": 507.548,
+      "end": 510.694
+    },
+    {
+      "id": 205,
+      "section": "dua_aaliya_madhaameen",
+      "start": 511.044,
+      "end": 513.886
+    },
+    {
+      "id": 206,
+      "section": "dua_aaliya_madhaameen",
+      "start": 514.236,
+      "end": 516.586
+    },
+    {
+      "id": 207,
+      "section": "dua_aaliya_madhaameen",
+      "start": 516.936,
+      "end": 518.062
+    },
+    {
+      "id": 208,
+      "section": "dua_aaliya_madhaameen",
+      "start": 518.412,
+      "end": 519.676
+    },
+    {
+      "id": 209,
+      "section": "dua_aaliya_madhaameen",
+      "start": 520.026,
+      "end": 520.915
+    },
+    {
+      "id": 210,
+      "section": "dua_aaliya_madhaameen",
+      "start": 521.265,
+      "end": 522.902
+    },
+    {
+      "id": 211,
+      "section": "dua_aaliya_madhaameen",
+      "start": 523.252,
+      "end": 524.738
+    },
+    {
+      "id": 212,
+      "section": "dua_aaliya_madhaameen",
+      "start": 525.088,
+      "end": 526.435
+    },
+    {
+      "id": 213,
+      "section": "dua_aaliya_madhaameen",
+      "start": 526.785,
+      "end": 527.946
+    },
+    {
+      "id": 214,
+      "section": "dua_aaliya_madhaameen",
+      "start": 528.296,
+      "end": 530.787
+    }
+  ]
+}

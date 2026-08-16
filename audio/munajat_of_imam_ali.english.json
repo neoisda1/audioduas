@@ -1,0 +1,597 @@
+{
+  "dua_id": "munajat_of_imam_ali",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 276.762,
+  "bytes": 1327859,
+  "sha256": "19ac05dd4060fcc859e8eacdb32784b9a8e13619cfc7242f04f93139f3d9cca6",
+  "lines": [
+    {
+      "id": 1,
+      "section": "munajat_of_imam_ali",
+      "start": 0.0,
+      "end": 3.281
+    },
+    {
+      "id": 2,
+      "section": "munajat_of_imam_ali",
+      "start": 3.631,
+      "end": 7.273
+    },
+    {
+      "id": 3,
+      "section": "munajat_of_imam_ali",
+      "start": 7.623,
+      "end": 11.98
+    },
+    {
+      "id": 4,
+      "section": "munajat_of_imam_ali",
+      "start": 12.33,
+      "end": 15.163
+    },
+    {
+      "id": 5,
+      "section": "munajat_of_imam_ali",
+      "start": 15.513,
+      "end": 19.228
+    },
+    {
+      "id": 6,
+      "section": "munajat_of_imam_ali",
+      "start": 19.578,
+      "end": 22.3
+    },
+    {
+      "id": 7,
+      "section": "munajat_of_imam_ali",
+      "start": 22.65,
+      "end": 26.679
+    },
+    {
+      "id": 8,
+      "section": "munajat_of_imam_ali",
+      "start": 27.029,
+      "end": 29.409
+    },
+    {
+      "id": 9,
+      "section": "munajat_of_imam_ali",
+      "start": 29.759,
+      "end": 33.463
+    },
+    {
+      "id": 10,
+      "section": "munajat_of_imam_ali",
+      "start": 33.813,
+      "end": 36.123
+    },
+    {
+      "id": 11,
+      "section": "munajat_of_imam_ali",
+      "start": 36.473,
+      "end": 38.393
+    },
+    {
+      "id": 12,
+      "section": "munajat_of_imam_ali",
+      "start": 38.743,
+      "end": 43.572
+    },
+    {
+      "id": 13,
+      "section": "munajat_of_imam_ali",
+      "start": 43.922,
+      "end": 46.082
+    },
+    {
+      "id": 14,
+      "section": "munajat_of_imam_ali",
+      "start": 46.432,
+      "end": 50.913
+    },
+    {
+      "id": 15,
+      "section": "munajat_of_imam_ali",
+      "start": 51.263,
+      "end": 53.434
+    },
+    {
+      "id": 16,
+      "section": "munajat_of_imam_ali",
+      "start": 53.784,
+      "end": 57.476
+    },
+    {
+      "id": 17,
+      "section": "munajat_of_imam_ali",
+      "start": 57.826,
+      "end": 61.102
+    },
+    {
+      "id": 18,
+      "section": "munajat_of_imam_ali",
+      "start": 61.452,
+      "end": 65.506
+    },
+    {
+      "id": 19,
+      "section": "munajat_of_imam_ali",
+      "start": 65.856,
+      "end": 71.881
+    },
+    {
+      "id": 20,
+      "section": "munajat_of_imam_ali",
+      "start": 72.231,
+      "end": 75.911
+    },
+    {
+      "id": 21,
+      "section": "munajat_of_imam_ali",
+      "start": 76.261,
+      "end": 78.995
+    },
+    {
+      "id": 22,
+      "section": "munajat_of_imam_ali",
+      "start": 79.345,
+      "end": 82.959
+    },
+    {
+      "id": 23,
+      "section": "munajat_of_imam_ali",
+      "start": 83.309,
+      "end": 85.05
+    },
+    {
+      "id": 24,
+      "section": "munajat_of_imam_ali",
+      "start": 85.4,
+      "end": 87.408
+    },
+    {
+      "id": 25,
+      "section": "munajat_of_imam_ali",
+      "start": 87.758,
+      "end": 90.676
+    },
+    {
+      "id": 26,
+      "section": "munajat_of_imam_ali",
+      "start": 91.026,
+      "end": 92.813
+    },
+    {
+      "id": 27,
+      "section": "munajat_of_imam_ali",
+      "start": 93.163,
+      "end": 94.881
+    },
+    {
+      "id": 28,
+      "section": "munajat_of_imam_ali",
+      "start": 95.231,
+      "end": 97.879
+    },
+    {
+      "id": 29,
+      "section": "munajat_of_imam_ali",
+      "start": 98.229,
+      "end": 99.994
+    },
+    {
+      "id": 30,
+      "section": "munajat_of_imam_ali",
+      "start": 100.344,
+      "end": 102.097
+    },
+    {
+      "id": 31,
+      "section": "munajat_of_imam_ali",
+      "start": 102.447,
+      "end": 105.013
+    },
+    {
+      "id": 32,
+      "section": "munajat_of_imam_ali",
+      "start": 105.363,
+      "end": 107.131
+    },
+    {
+      "id": 33,
+      "section": "munajat_of_imam_ali",
+      "start": 107.481,
+      "end": 109.686
+    },
+    {
+      "id": 34,
+      "section": "munajat_of_imam_ali",
+      "start": 110.036,
+      "end": 113.03
+    },
+    {
+      "id": 35,
+      "section": "munajat_of_imam_ali",
+      "start": 113.38,
+      "end": 115.066
+    },
+    {
+      "id": 36,
+      "section": "munajat_of_imam_ali",
+      "start": 115.416,
+      "end": 117.61
+    },
+    {
+      "id": 37,
+      "section": "munajat_of_imam_ali",
+      "start": 117.96,
+      "end": 121.072
+    },
+    {
+      "id": 38,
+      "section": "munajat_of_imam_ali",
+      "start": 121.422,
+      "end": 123.108
+    },
+    {
+      "id": 39,
+      "section": "munajat_of_imam_ali",
+      "start": 123.458,
+      "end": 125.222
+    },
+    {
+      "id": 40,
+      "section": "munajat_of_imam_ali",
+      "start": 125.572,
+      "end": 128.196
+    },
+    {
+      "id": 41,
+      "section": "munajat_of_imam_ali",
+      "start": 128.546,
+      "end": 130.293
+    },
+    {
+      "id": 42,
+      "section": "munajat_of_imam_ali",
+      "start": 130.643,
+      "end": 132.35
+    },
+    {
+      "id": 43,
+      "section": "munajat_of_imam_ali",
+      "start": 132.7,
+      "end": 135.266
+    },
+    {
+      "id": 44,
+      "section": "munajat_of_imam_ali",
+      "start": 135.616,
+      "end": 137.368
+    },
+    {
+      "id": 45,
+      "section": "munajat_of_imam_ali",
+      "start": 137.718,
+      "end": 139.471
+    },
+    {
+      "id": 46,
+      "section": "munajat_of_imam_ali",
+      "start": 139.821,
+      "end": 142.448
+    },
+    {
+      "id": 47,
+      "section": "munajat_of_imam_ali",
+      "start": 142.798,
+      "end": 144.492
+    },
+    {
+      "id": 48,
+      "section": "munajat_of_imam_ali",
+      "start": 144.842,
+      "end": 146.63
+    },
+    {
+      "id": 49,
+      "section": "munajat_of_imam_ali",
+      "start": 146.98,
+      "end": 149.592
+    },
+    {
+      "id": 50,
+      "section": "munajat_of_imam_ali",
+      "start": 149.942,
+      "end": 151.717
+    },
+    {
+      "id": 51,
+      "section": "munajat_of_imam_ali",
+      "start": 152.067,
+      "end": 154.25
+    },
+    {
+      "id": 52,
+      "section": "munajat_of_imam_ali",
+      "start": 154.6,
+      "end": 157.514
+    },
+    {
+      "id": 53,
+      "section": "munajat_of_imam_ali",
+      "start": 157.864,
+      "end": 159.605
+    },
+    {
+      "id": 54,
+      "section": "munajat_of_imam_ali",
+      "start": 159.955,
+      "end": 162.184
+    },
+    {
+      "id": 55,
+      "section": "munajat_of_imam_ali",
+      "start": 162.534,
+      "end": 165.681
+    },
+    {
+      "id": 56,
+      "section": "munajat_of_imam_ali",
+      "start": 166.031,
+      "end": 167.783
+    },
+    {
+      "id": 57,
+      "section": "munajat_of_imam_ali",
+      "start": 168.133,
+      "end": 170.606
+    },
+    {
+      "id": 58,
+      "section": "munajat_of_imam_ali",
+      "start": 170.956,
+      "end": 173.903
+    },
+    {
+      "id": 59,
+      "section": "munajat_of_imam_ali",
+      "start": 174.253,
+      "end": 176.035
+    },
+    {
+      "id": 60,
+      "section": "munajat_of_imam_ali",
+      "start": 176.385,
+      "end": 178.498
+    },
+    {
+      "id": 61,
+      "section": "munajat_of_imam_ali",
+      "start": 178.848,
+      "end": 181.774
+    },
+    {
+      "id": 62,
+      "section": "munajat_of_imam_ali",
+      "start": 182.124,
+      "end": 183.943
+    },
+    {
+      "id": 63,
+      "section": "munajat_of_imam_ali",
+      "start": 184.293,
+      "end": 186.835
+    },
+    {
+      "id": 64,
+      "section": "munajat_of_imam_ali",
+      "start": 187.185,
+      "end": 190.52
+    },
+    {
+      "id": 65,
+      "section": "munajat_of_imam_ali",
+      "start": 190.87,
+      "end": 192.613
+    },
+    {
+      "id": 66,
+      "section": "munajat_of_imam_ali",
+      "start": 192.963,
+      "end": 194.774
+    },
+    {
+      "id": 67,
+      "section": "munajat_of_imam_ali",
+      "start": 195.124,
+      "end": 197.505
+    },
+    {
+      "id": 68,
+      "section": "munajat_of_imam_ali",
+      "start": 197.855,
+      "end": 199.57
+    },
+    {
+      "id": 69,
+      "section": "munajat_of_imam_ali",
+      "start": 199.92,
+      "end": 201.731
+    },
+    {
+      "id": 70,
+      "section": "munajat_of_imam_ali",
+      "start": 202.081,
+      "end": 204.729
+    },
+    {
+      "id": 71,
+      "section": "munajat_of_imam_ali",
+      "start": 205.079,
+      "end": 206.841
+    },
+    {
+      "id": 72,
+      "section": "munajat_of_imam_ali",
+      "start": 207.191,
+      "end": 209.943
+    },
+    {
+      "id": 73,
+      "section": "munajat_of_imam_ali",
+      "start": 210.293,
+      "end": 213.718
+    },
+    {
+      "id": 74,
+      "section": "munajat_of_imam_ali",
+      "start": 214.068,
+      "end": 215.849
+    },
+    {
+      "id": 75,
+      "section": "munajat_of_imam_ali",
+      "start": 216.199,
+      "end": 218.509
+    },
+    {
+      "id": 76,
+      "section": "munajat_of_imam_ali",
+      "start": 218.859,
+      "end": 221.971
+    },
+    {
+      "id": 77,
+      "section": "munajat_of_imam_ali",
+      "start": 222.321,
+      "end": 224.091
+    },
+    {
+      "id": 78,
+      "section": "munajat_of_imam_ali",
+      "start": 224.441,
+      "end": 226.554
+    },
+    {
+      "id": 79,
+      "section": "munajat_of_imam_ali",
+      "start": 226.904,
+      "end": 229.737
+    },
+    {
+      "id": 80,
+      "section": "munajat_of_imam_ali",
+      "start": 230.087,
+      "end": 231.831
+    },
+    {
+      "id": 81,
+      "section": "munajat_of_imam_ali",
+      "start": 232.181,
+      "end": 234.143
+    },
+    {
+      "id": 82,
+      "section": "munajat_of_imam_ali",
+      "start": 234.493,
+      "end": 237.187
+    },
+    {
+      "id": 83,
+      "section": "munajat_of_imam_ali",
+      "start": 237.537,
+      "end": 239.305
+    },
+    {
+      "id": 84,
+      "section": "munajat_of_imam_ali",
+      "start": 239.655,
+      "end": 241.896
+    },
+    {
+      "id": 85,
+      "section": "munajat_of_imam_ali",
+      "start": 242.246,
+      "end": 245.555
+    },
+    {
+      "id": 86,
+      "section": "munajat_of_imam_ali",
+      "start": 245.905,
+      "end": 247.678
+    },
+    {
+      "id": 87,
+      "section": "munajat_of_imam_ali",
+      "start": 248.028,
+      "end": 249.957
+    },
+    {
+      "id": 88,
+      "section": "munajat_of_imam_ali",
+      "start": 250.307,
+      "end": 253.07
+    },
+    {
+      "id": 89,
+      "section": "munajat_of_imam_ali",
+      "start": 253.42,
+      "end": 255.253
+    },
+    {
+      "id": 90,
+      "section": "munajat_of_imam_ali",
+      "start": 255.603,
+      "end": 257.867
+    },
+    {
+      "id": 91,
+      "section": "munajat_of_imam_ali",
+      "start": 258.217,
+      "end": 261.222
+    },
+    {
+      "id": 92,
+      "section": "munajat_of_imam_ali",
+      "start": 261.572,
+      "end": 263.353
+    },
+    {
+      "id": 93,
+      "section": "munajat_of_imam_ali",
+      "start": 263.703,
+      "end": 265.503
+    },
+    {
+      "id": 94,
+      "section": "munajat_of_imam_ali",
+      "start": 265.853,
+      "end": 269.145
+    },
+    {
+      "id": 95,
+      "section": "munajat_of_imam_ali",
+      "start": 269.495,
+      "end": 272.038
+    },
+    {
+      "id": 96,
+      "section": "munajat_of_imam_ali",
+      "start": 272.388,
+      "end": 273.549
+    },
+    {
+      "id": 97,
+      "section": "munajat_of_imam_ali",
+      "start": 273.899,
+      "end": 276.412
+    }
+  ]
+}

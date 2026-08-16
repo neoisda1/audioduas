@@ -1,0 +1,51 @@
+{
+  "dua_id": "dua_upon_waking_up",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 13.382,
+  "bytes": 60189,
+  "sha256": "d29f60817da424be01c49621dbc6a8d38fbc8e92e9c4e79223652809b3f317e1",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_upon_waking_up",
+      "start": 0.0,
+      "end": 2.772
+    },
+    {
+      "id": 2,
+      "section": "dua_upon_waking_up",
+      "start": 3.122,
+      "end": 4.666
+    },
+    {
+      "id": 3,
+      "section": "dua_upon_waking_up",
+      "start": 5.016,
+      "end": 6.642
+    },
+    {
+      "id": 4,
+      "section": "dua_upon_waking_up",
+      "start": 6.992,
+      "end": 8.803
+    },
+    {
+      "id": 5,
+      "section": "dua_upon_waking_up",
+      "start": 9.153,
+      "end": 10.732
+    },
+    {
+      "id": 6,
+      "section": "dua_upon_waking_up",
+      "start": 11.082,
+      "end": 13.032
+    }
+  ]
+}

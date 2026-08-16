@@ -1,0 +1,63 @@
+{
+  "dua_id": "dua_before_meals",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 31.452,
+  "bytes": 157376,
+  "sha256": "bd9c1e3ee33709a2d8fc496f3ee1e2300aef50bfc861a30ea65bcf5310656162",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_before_meals",
+      "start": 0.0,
+      "end": 3.876
+    },
+    {
+      "id": 2,
+      "section": "dua_before_meals",
+      "start": 4.226,
+      "end": 8.44
+    },
+    {
+      "id": 3,
+      "section": "dua_before_meals",
+      "start": 8.79,
+      "end": 13.48
+    },
+    {
+      "id": 4,
+      "section": "dua_before_meals",
+      "start": 13.83,
+      "end": 17.036
+    },
+    {
+      "id": 5,
+      "section": "dua_before_meals",
+      "start": 17.386,
+      "end": 19.418
+    },
+    {
+      "id": 6,
+      "section": "dua_before_meals",
+      "start": 19.768,
+      "end": 22.113
+    },
+    {
+      "id": 7,
+      "section": "dua_before_meals",
+      "start": 22.463,
+      "end": 26.41
+    },
+    {
+      "id": 8,
+      "section": "dua_before_meals",
+      "start": 26.76,
+      "end": 31.102
+    }
+  ]
+}

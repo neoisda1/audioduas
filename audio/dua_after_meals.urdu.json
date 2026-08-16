@@ -1,0 +1,45 @@
+{
+  "dua_id": "dua_after_meals",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 17.234,
+  "bytes": 74746,
+  "sha256": "636709b406e22627001d32374c199fb0408579369aec8f41162a4adf13a57cd5",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_after_meals",
+      "start": 0.0,
+      "end": 3.283
+    },
+    {
+      "id": 2,
+      "section": "dua_after_meals",
+      "start": 3.633,
+      "end": 6.512
+    },
+    {
+      "id": 3,
+      "section": "dua_after_meals",
+      "start": 6.862,
+      "end": 9.15
+    },
+    {
+      "id": 4,
+      "section": "dua_after_meals",
+      "start": 9.5,
+      "end": 12.263
+    },
+    {
+      "id": 5,
+      "section": "dua_after_meals",
+      "start": 12.613,
+      "end": 16.884
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "dua_id": "dua_monday",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 111.599,
+  "bytes": 503585,
+  "sha256": "34b6ee3b13b7c9e40b910b710668c72517c364085a7ed730f120c9c6c3f33520",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_monday",
+      "start": 0.0,
+      "end": 3.009
+    },
+    {
+      "id": 2,
+      "section": "dua_monday",
+      "start": 3.359,
+      "end": 8.692
+    },
+    {
+      "id": 3,
+      "section": "dua_monday",
+      "start": 9.042,
+      "end": 12.839
+    },
+    {
+      "id": 4,
+      "section": "dua_monday",
+      "start": 13.189,
+      "end": 16.981
+    },
+    {
+      "id": 5,
+      "section": "dua_monday",
+      "start": 17.331,
+      "end": 22.512
+    },
+    {
+      "id": 6,
+      "section": "dua_monday",
+      "start": 22.862,
+      "end": 29.285
+    },
+    {
+      "id": 7,
+      "section": "dua_monday",
+      "start": 29.635,
+      "end": 32.946
+    },
+    {
+      "id": 8,
+      "section": "dua_monday",
+      "start": 33.296,
+      "end": 37.359
+    },
+    {
+      "id": 9,
+      "section": "dua_monday",
+      "start": 37.709,
+      "end": 42.712
+    },
+    {
+      "id": 10,
+      "section": "dua_monday",
+      "start": 43.062,
+      "end": 48.007
+    },
+    {
+      "id": 11,
+      "section": "dua_monday",
+      "start": 48.357,
+      "end": 53.994
+    },
+    {
+      "id": 12,
+      "section": "dua_monday",
+      "start": 54.344,
+      "end": 60.836
+    },
+    {
+      "id": 13,
+      "section": "dua_monday",
+      "start": 61.186,
+      "end": 64.699
+    },
+    {
+      "id": 14,
+      "section": "dua_monday",
+      "start": 65.049,
+      "end": 70.294
+    },
+    {
+      "id": 15,
+      "section": "dua_monday",
+      "start": 70.644,
+      "end": 73.614
+    },
+    {
+      "id": 16,
+      "section": "dua_monday",
+      "start": 73.964,
+      "end": 78.757
+    },
+    {
+      "id": 17,
+      "section": "dua_monday",
+      "start": 79.107,
+      "end": 84.78
+    },
+    {
+      "id": 18,
+      "section": "dua_monday",
+      "start": 85.13,
+      "end": 91.474
+    },
+    {
+      "id": 19,
+      "section": "dua_monday",
+      "start": 91.824,
+      "end": 97.748
+    },
+    {
+      "id": 20,
+      "section": "dua_monday",
+      "start": 98.098,
+      "end": 101.649
+    },
+    {
+      "id": 21,
+      "section": "dua_monday",
+      "start": 101.999,
+      "end": 106.963
+    },
+    {
+      "id": 22,
+      "section": "dua_monday",
+      "start": 107.313,
+      "end": 111.249
+    }
+  ]
+}

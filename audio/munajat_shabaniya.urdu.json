@@ -1,0 +1,789 @@
+{
+  "dua_id": "munajat_shabaniya",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 562.571,
+  "bytes": 2539927,
+  "sha256": "a5bb75c48b7ed727a4ee6766d5b079dd66f52b528ce757288da8b0d2535e3abc",
+  "lines": [
+    {
+      "id": 1,
+      "section": "munajat_shabaniya",
+      "start": 0.0,
+      "end": 3.795
+    },
+    {
+      "id": 2,
+      "section": "munajat_shabaniya",
+      "start": 4.145,
+      "end": 8.139
+    },
+    {
+      "id": 3,
+      "section": "munajat_shabaniya",
+      "start": 8.489,
+      "end": 11.055
+    },
+    {
+      "id": 4,
+      "section": "munajat_shabaniya",
+      "start": 11.405,
+      "end": 13.959
+    },
+    {
+      "id": 5,
+      "section": "munajat_shabaniya",
+      "start": 14.309,
+      "end": 17.653
+    },
+    {
+      "id": 6,
+      "section": "munajat_shabaniya",
+      "start": 18.003,
+      "end": 19.941
+    },
+    {
+      "id": 7,
+      "section": "munajat_shabaniya",
+      "start": 20.291,
+      "end": 23.078
+    },
+    {
+      "id": 8,
+      "section": "munajat_shabaniya",
+      "start": 23.428,
+      "end": 25.158
+    },
+    {
+      "id": 9,
+      "section": "munajat_shabaniya",
+      "start": 25.508,
+      "end": 28.375
+    },
+    {
+      "id": 10,
+      "section": "munajat_shabaniya",
+      "start": 28.725,
+      "end": 30.757
+    },
+    {
+      "id": 11,
+      "section": "munajat_shabaniya",
+      "start": 31.107,
+      "end": 33.104
+    },
+    {
+      "id": 12,
+      "section": "munajat_shabaniya",
+      "start": 33.454,
+      "end": 35.486
+    },
+    {
+      "id": 13,
+      "section": "munajat_shabaniya",
+      "start": 35.836,
+      "end": 40.236
+    },
+    {
+      "id": 14,
+      "section": "munajat_shabaniya",
+      "start": 40.586,
+      "end": 43.187
+    },
+    {
+      "id": 15,
+      "section": "munajat_shabaniya",
+      "start": 43.537,
+      "end": 46.741
+    },
+    {
+      "id": 16,
+      "section": "munajat_shabaniya",
+      "start": 47.091,
+      "end": 49.75
+    },
+    {
+      "id": 17,
+      "section": "munajat_shabaniya",
+      "start": 50.1,
+      "end": 53.654
+    },
+    {
+      "id": 18,
+      "section": "munajat_shabaniya",
+      "start": 54.004,
+      "end": 56.453
+    },
+    {
+      "id": 19,
+      "section": "munajat_shabaniya",
+      "start": 56.803,
+      "end": 58.928
+    },
+    {
+      "id": 20,
+      "section": "munajat_shabaniya",
+      "start": 59.278,
+      "end": 64.187
+    },
+    {
+      "id": 21,
+      "section": "munajat_shabaniya",
+      "start": 64.537,
+      "end": 66.523
+    },
+    {
+      "id": 22,
+      "section": "munajat_shabaniya",
+      "start": 66.873,
+      "end": 71.366
+    },
+    {
+      "id": 23,
+      "section": "munajat_shabaniya",
+      "start": 71.716,
+      "end": 76.487
+    },
+    {
+      "id": 24,
+      "section": "munajat_shabaniya",
+      "start": 76.837,
+      "end": 81.899
+    },
+    {
+      "id": 25,
+      "section": "munajat_shabaniya",
+      "start": 82.249,
+      "end": 85.43
+    },
+    {
+      "id": 26,
+      "section": "munajat_shabaniya",
+      "start": 85.78,
+      "end": 90.204
+    },
+    {
+      "id": 27,
+      "section": "munajat_shabaniya",
+      "start": 90.554,
+      "end": 94.199
+    },
+    {
+      "id": 28,
+      "section": "munajat_shabaniya",
+      "start": 94.549,
+      "end": 97.696
+    },
+    {
+      "id": 29,
+      "section": "munajat_shabaniya",
+      "start": 98.046,
+      "end": 102.783
+    },
+    {
+      "id": 30,
+      "section": "munajat_shabaniya",
+      "start": 103.133,
+      "end": 108.265
+    },
+    {
+      "id": 31,
+      "section": "munajat_shabaniya",
+      "start": 108.615,
+      "end": 112.911
+    },
+    {
+      "id": 32,
+      "section": "munajat_shabaniya",
+      "start": 113.261,
+      "end": 116.837
+    },
+    {
+      "id": 33,
+      "section": "munajat_shabaniya",
+      "start": 117.187,
+      "end": 121.215
+    },
+    {
+      "id": 34,
+      "section": "munajat_shabaniya",
+      "start": 121.565,
+      "end": 124.479
+    },
+    {
+      "id": 35,
+      "section": "munajat_shabaniya",
+      "start": 124.829,
+      "end": 129.437
+    },
+    {
+      "id": 36,
+      "section": "munajat_shabaniya",
+      "start": 129.787,
+      "end": 133.328
+    },
+    {
+      "id": 37,
+      "section": "munajat_shabaniya",
+      "start": 133.678,
+      "end": 140.404
+    },
+    {
+      "id": 38,
+      "section": "munajat_shabaniya",
+      "start": 140.754,
+      "end": 144.355
+    },
+    {
+      "id": 39,
+      "section": "munajat_shabaniya",
+      "start": 144.705,
+      "end": 149.326
+    },
+    {
+      "id": 40,
+      "section": "munajat_shabaniya",
+      "start": 149.676,
+      "end": 154.389
+    },
+    {
+      "id": 41,
+      "section": "munajat_shabaniya",
+      "start": 154.739,
+      "end": 157.897
+    },
+    {
+      "id": 42,
+      "section": "munajat_shabaniya",
+      "start": 158.247,
+      "end": 161.266
+    },
+    {
+      "id": 43,
+      "section": "munajat_shabaniya",
+      "start": 161.616,
+      "end": 167.794
+    },
+    {
+      "id": 44,
+      "section": "munajat_shabaniya",
+      "start": 168.144,
+      "end": 171.557
+    },
+    {
+      "id": 45,
+      "section": "munajat_shabaniya",
+      "start": 171.907,
+      "end": 175.472
+    },
+    {
+      "id": 46,
+      "section": "munajat_shabaniya",
+      "start": 175.822,
+      "end": 178.503
+    },
+    {
+      "id": 47,
+      "section": "munajat_shabaniya",
+      "start": 178.853,
+      "end": 185.307
+    },
+    {
+      "id": 48,
+      "section": "munajat_shabaniya",
+      "start": 185.657,
+      "end": 192.739
+    },
+    {
+      "id": 49,
+      "section": "munajat_shabaniya",
+      "start": 193.089,
+      "end": 198.958
+    },
+    {
+      "id": 50,
+      "section": "munajat_shabaniya",
+      "start": 199.308,
+      "end": 202.129
+    },
+    {
+      "id": 51,
+      "section": "munajat_shabaniya",
+      "start": 202.479,
+      "end": 204.835
+    },
+    {
+      "id": 52,
+      "section": "munajat_shabaniya",
+      "start": 205.185,
+      "end": 208.598
+    },
+    {
+      "id": 53,
+      "section": "munajat_shabaniya",
+      "start": 208.948,
+      "end": 212.686
+    },
+    {
+      "id": 54,
+      "section": "munajat_shabaniya",
+      "start": 213.036,
+      "end": 216.659
+    },
+    {
+      "id": 55,
+      "section": "munajat_shabaniya",
+      "start": 217.009,
+      "end": 224.867
+    },
+    {
+      "id": 56,
+      "section": "munajat_shabaniya",
+      "start": 225.217,
+      "end": 230.406
+    },
+    {
+      "id": 57,
+      "section": "munajat_shabaniya",
+      "start": 230.756,
+      "end": 235.516
+    },
+    {
+      "id": 58,
+      "section": "munajat_shabaniya",
+      "start": 235.866,
+      "end": 241.486
+    },
+    {
+      "id": 59,
+      "section": "munajat_shabaniya",
+      "start": 241.836,
+      "end": 246.712
+    },
+    {
+      "id": 60,
+      "section": "munajat_shabaniya",
+      "start": 247.062,
+      "end": 252.515
+    },
+    {
+      "id": 61,
+      "section": "munajat_shabaniya",
+      "start": 252.865,
+      "end": 257.414
+    },
+    {
+      "id": 62,
+      "section": "munajat_shabaniya",
+      "start": 257.764,
+      "end": 261.433
+    },
+    {
+      "id": 63,
+      "section": "munajat_shabaniya",
+      "start": 261.783,
+      "end": 266.566
+    },
+    {
+      "id": 64,
+      "section": "munajat_shabaniya",
+      "start": 266.916,
+      "end": 273.153
+    },
+    {
+      "id": 65,
+      "section": "munajat_shabaniya",
+      "start": 273.503,
+      "end": 277.682
+    },
+    {
+      "id": 66,
+      "section": "munajat_shabaniya",
+      "start": 278.032,
+      "end": 281.097
+    },
+    {
+      "id": 67,
+      "section": "munajat_shabaniya",
+      "start": 281.447,
+      "end": 285.963
+    },
+    {
+      "id": 68,
+      "section": "munajat_shabaniya",
+      "start": 286.313,
+      "end": 289.111
+    },
+    {
+      "id": 69,
+      "section": "munajat_shabaniya",
+      "start": 289.461,
+      "end": 294.395
+    },
+    {
+      "id": 70,
+      "section": "munajat_shabaniya",
+      "start": 294.745,
+      "end": 298.391
+    },
+    {
+      "id": 71,
+      "section": "munajat_shabaniya",
+      "start": 298.741,
+      "end": 305.87
+    },
+    {
+      "id": 72,
+      "section": "munajat_shabaniya",
+      "start": 306.22,
+      "end": 308.414
+    },
+    {
+      "id": 73,
+      "section": "munajat_shabaniya",
+      "start": 308.764,
+      "end": 312.189
+    },
+    {
+      "id": 74,
+      "section": "munajat_shabaniya",
+      "start": 312.539,
+      "end": 318.037
+    },
+    {
+      "id": 75,
+      "section": "munajat_shabaniya",
+      "start": 318.387,
+      "end": 321.092
+    },
+    {
+      "id": 76,
+      "section": "munajat_shabaniya",
+      "start": 321.442,
+      "end": 325.676
+    },
+    {
+      "id": 77,
+      "section": "munajat_shabaniya",
+      "start": 326.026,
+      "end": 331.005
+    },
+    {
+      "id": 78,
+      "section": "munajat_shabaniya",
+      "start": 331.355,
+      "end": 335.187
+    },
+    {
+      "id": 79,
+      "section": "munajat_shabaniya",
+      "start": 335.537,
+      "end": 342.05
+    },
+    {
+      "id": 80,
+      "section": "munajat_shabaniya",
+      "start": 342.4,
+      "end": 346.557
+    },
+    {
+      "id": 81,
+      "section": "munajat_shabaniya",
+      "start": 346.907,
+      "end": 352.046
+    },
+    {
+      "id": 82,
+      "section": "munajat_shabaniya",
+      "start": 352.396,
+      "end": 356.61
+    },
+    {
+      "id": 83,
+      "section": "munajat_shabaniya",
+      "start": 356.96,
+      "end": 361.511
+    },
+    {
+      "id": 84,
+      "section": "munajat_shabaniya",
+      "start": 361.861,
+      "end": 365.611
+    },
+    {
+      "id": 85,
+      "section": "munajat_shabaniya",
+      "start": 365.961,
+      "end": 368.69
+    },
+    {
+      "id": 86,
+      "section": "munajat_shabaniya",
+      "start": 369.04,
+      "end": 373.432
+    },
+    {
+      "id": 87,
+      "section": "munajat_shabaniya",
+      "start": 373.782,
+      "end": 378.407
+    },
+    {
+      "id": 88,
+      "section": "munajat_shabaniya",
+      "start": 378.757,
+      "end": 382.21
+    },
+    {
+      "id": 89,
+      "section": "munajat_shabaniya",
+      "start": 382.56,
+      "end": 387.982
+    },
+    {
+      "id": 90,
+      "section": "munajat_shabaniya",
+      "start": 388.332,
+      "end": 392.477
+    },
+    {
+      "id": 91,
+      "section": "munajat_shabaniya",
+      "start": 392.827,
+      "end": 399.177
+    },
+    {
+      "id": 92,
+      "section": "munajat_shabaniya",
+      "start": 399.527,
+      "end": 401.548
+    },
+    {
+      "id": 93,
+      "section": "munajat_shabaniya",
+      "start": 401.898,
+      "end": 405.009
+    },
+    {
+      "id": 94,
+      "section": "munajat_shabaniya",
+      "start": 405.359,
+      "end": 408.922
+    },
+    {
+      "id": 95,
+      "section": "munajat_shabaniya",
+      "start": 409.272,
+      "end": 416.1
+    },
+    {
+      "id": 96,
+      "section": "munajat_shabaniya",
+      "start": 416.45,
+      "end": 421.628
+    },
+    {
+      "id": 97,
+      "section": "munajat_shabaniya",
+      "start": 421.978,
+      "end": 428.251
+    },
+    {
+      "id": 98,
+      "section": "munajat_shabaniya",
+      "start": 428.601,
+      "end": 431.109
+    },
+    {
+      "id": 99,
+      "section": "munajat_shabaniya",
+      "start": 431.459,
+      "end": 435.012
+    },
+    {
+      "id": 100,
+      "section": "munajat_shabaniya",
+      "start": 435.362,
+      "end": 437.986
+    },
+    {
+      "id": 101,
+      "section": "munajat_shabaniya",
+      "start": 438.336,
+      "end": 441.888
+    },
+    {
+      "id": 102,
+      "section": "munajat_shabaniya",
+      "start": 442.238,
+      "end": 445.466
+    },
+    {
+      "id": 103,
+      "section": "munajat_shabaniya",
+      "start": 445.816,
+      "end": 449.659
+    },
+    {
+      "id": 104,
+      "section": "munajat_shabaniya",
+      "start": 450.009,
+      "end": 452.993
+    },
+    {
+      "id": 105,
+      "section": "munajat_shabaniya",
+      "start": 453.343,
+      "end": 456.83
+    },
+    {
+      "id": 106,
+      "section": "munajat_shabaniya",
+      "start": 457.18,
+      "end": 461.302
+    },
+    {
+      "id": 107,
+      "section": "munajat_shabaniya",
+      "start": 461.652,
+      "end": 464.763
+    },
+    {
+      "id": 108,
+      "section": "munajat_shabaniya",
+      "start": 465.113,
+      "end": 467.389
+    },
+    {
+      "id": 109,
+      "section": "munajat_shabaniya",
+      "start": 467.739,
+      "end": 471.086
+    },
+    {
+      "id": 110,
+      "section": "munajat_shabaniya",
+      "start": 471.436,
+      "end": 476.962
+    },
+    {
+      "id": 111,
+      "section": "munajat_shabaniya",
+      "start": 477.312,
+      "end": 481.352
+    },
+    {
+      "id": 112,
+      "section": "munajat_shabaniya",
+      "start": 481.702,
+      "end": 486.265
+    },
+    {
+      "id": 113,
+      "section": "munajat_shabaniya",
+      "start": 486.615,
+      "end": 491.41
+    },
+    {
+      "id": 114,
+      "section": "munajat_shabaniya",
+      "start": 491.76,
+      "end": 495.162
+    },
+    {
+      "id": 115,
+      "section": "munajat_shabaniya",
+      "start": 495.512,
+      "end": 499.053
+    },
+    {
+      "id": 116,
+      "section": "munajat_shabaniya",
+      "start": 499.403,
+      "end": 503.339
+    },
+    {
+      "id": 117,
+      "section": "munajat_shabaniya",
+      "start": 503.689,
+      "end": 508.075
+    },
+    {
+      "id": 118,
+      "section": "munajat_shabaniya",
+      "start": 508.425,
+      "end": 511.91
+    },
+    {
+      "id": 119,
+      "section": "munajat_shabaniya",
+      "start": 512.26,
+      "end": 516.87
+    },
+    {
+      "id": 120,
+      "section": "munajat_shabaniya",
+      "start": 517.22,
+      "end": 520.238
+    },
+    {
+      "id": 121,
+      "section": "munajat_shabaniya",
+      "start": 520.588,
+      "end": 524.803
+    },
+    {
+      "id": 122,
+      "section": "munajat_shabaniya",
+      "start": 525.153,
+      "end": 528.113
+    },
+    {
+      "id": 123,
+      "section": "munajat_shabaniya",
+      "start": 528.463,
+      "end": 535.648
+    },
+    {
+      "id": 124,
+      "section": "munajat_shabaniya",
+      "start": 535.998,
+      "end": 545.309
+    },
+    {
+      "id": 125,
+      "section": "munajat_shabaniya",
+      "start": 545.659,
+      "end": 549.711
+    },
+    {
+      "id": 126,
+      "section": "munajat_shabaniya",
+      "start": 550.061,
+      "end": 551.988
+    },
+    {
+      "id": 127,
+      "section": "munajat_shabaniya",
+      "start": 552.338,
+      "end": 554.822
+    },
+    {
+      "id": 128,
+      "section": "munajat_shabaniya",
+      "start": 555.172,
+      "end": 557.378
+    },
+    {
+      "id": 129,
+      "section": "munajat_shabaniya",
+      "start": 557.728,
+      "end": 562.221
+    }
+  ]
+}

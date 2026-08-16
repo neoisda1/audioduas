@@ -1,0 +1,87 @@
+{
+  "dua_id": "dua_before_reciting_the_quran",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 37.4,
+  "bytes": 177006,
+  "sha256": "1a52d2afe78a12f39a90f43a99c0e2d3b847ff64eb611d35cc0f093b0ac0413f",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_before_reciting_the_quran",
+      "start": 0.0,
+      "end": 3.348
+    },
+    {
+      "id": 2,
+      "section": "dua_before_reciting_the_quran",
+      "start": 3.698,
+      "end": 6.268
+    },
+    {
+      "id": 3,
+      "section": "dua_before_reciting_the_quran",
+      "start": 6.618,
+      "end": 8.65
+    },
+    {
+      "id": 4,
+      "section": "dua_before_reciting_the_quran",
+      "start": 9.0,
+      "end": 11.84
+    },
+    {
+      "id": 5,
+      "section": "dua_before_reciting_the_quran",
+      "start": 12.19,
+      "end": 14.593
+    },
+    {
+      "id": 6,
+      "section": "dua_before_reciting_the_quran",
+      "start": 14.943,
+      "end": 17.114
+    },
+    {
+      "id": 7,
+      "section": "dua_before_reciting_the_quran",
+      "start": 17.464,
+      "end": 20.221
+    },
+    {
+      "id": 8,
+      "section": "dua_before_reciting_the_quran",
+      "start": 20.571,
+      "end": 22.5
+    },
+    {
+      "id": 9,
+      "section": "dua_before_reciting_the_quran",
+      "start": 22.85,
+      "end": 26.954
+    },
+    {
+      "id": 10,
+      "section": "dua_before_reciting_the_quran",
+      "start": 27.304,
+      "end": 30.566
+    },
+    {
+      "id": 11,
+      "section": "dua_before_reciting_the_quran",
+      "start": 30.916,
+      "end": 34.226
+    },
+    {
+      "id": 12,
+      "section": "dua_before_reciting_the_quran",
+      "start": 34.576,
+      "end": 37.05
+    }
+  ]
+}

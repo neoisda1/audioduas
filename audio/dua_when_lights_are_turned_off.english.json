@@ -1,0 +1,21 @@
+{
+  "dua_id": "dua_when_lights_are_turned_off",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 3.153,
+  "bytes": 12523,
+  "sha256": "1ab9be9e37adcb169152c320eb166e098392b25d29d6c148d2923e8ba4927801",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_lights_are_turned_off",
+      "start": 0.0,
+      "end": 2.803
+    }
+  ]
+}

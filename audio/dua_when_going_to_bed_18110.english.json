@@ -1,0 +1,27 @@
+{
+  "dua_id": "dua_when_going_to_bed_18110",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 14.303,
+  "bytes": 61213,
+  "sha256": "3226c255c7d582fc63b68f142c72c7b2263115625032a4f5eacf5bb789b22064",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_going_to_bed_18110",
+      "start": 0.0,
+      "end": 3.181
+    },
+    {
+      "id": 2,
+      "section": "dua_when_going_to_bed_18110",
+      "start": 3.531,
+      "end": 13.953
+    }
+  ]
+}

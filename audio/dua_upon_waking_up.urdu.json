@@ -1,0 +1,51 @@
+{
+  "dua_id": "dua_upon_waking_up",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 15.997,
+  "bytes": 72890,
+  "sha256": "d4a0bddd24367630fc926ff3f1b79fa54b513fe22bb3808ac39a4513c57b06be",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_upon_waking_up",
+      "start": 0.0,
+      "end": 3.471
+    },
+    {
+      "id": 2,
+      "section": "dua_upon_waking_up",
+      "start": 3.821,
+      "end": 5.714
+    },
+    {
+      "id": 3,
+      "section": "dua_upon_waking_up",
+      "start": 6.064,
+      "end": 7.701
+    },
+    {
+      "id": 4,
+      "section": "dua_upon_waking_up",
+      "start": 8.051,
+      "end": 10.57
+    },
+    {
+      "id": 5,
+      "section": "dua_upon_waking_up",
+      "start": 10.92,
+      "end": 12.952
+    },
+    {
+      "id": 6,
+      "section": "dua_upon_waking_up",
+      "start": 13.302,
+      "end": 15.647
+    }
+  ]
+}

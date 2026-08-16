@@ -1,0 +1,63 @@
+{
+  "dua_id": "dua_wahdah",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 51.027,
+  "bytes": 221920,
+  "sha256": "b3f392e26d3c436208be5e2edcd4eca9bd3be55b0eb131d81dcdb8fa8ef86294",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_wahdah",
+      "start": 0.0,
+      "end": 3.762
+    },
+    {
+      "id": 2,
+      "section": "dua_wahdah",
+      "start": 4.112,
+      "end": 9.058
+    },
+    {
+      "id": 3,
+      "section": "dua_wahdah",
+      "start": 9.408,
+      "end": 18.348
+    },
+    {
+      "id": 4,
+      "section": "dua_wahdah",
+      "start": 18.698,
+      "end": 23.634
+    },
+    {
+      "id": 5,
+      "section": "dua_wahdah",
+      "start": 23.984,
+      "end": 32.729
+    },
+    {
+      "id": 6,
+      "section": "dua_wahdah",
+      "start": 33.079,
+      "end": 39.342
+    },
+    {
+      "id": 7,
+      "section": "dua_wahdah",
+      "start": 39.692,
+      "end": 44.051
+    },
+    {
+      "id": 8,
+      "section": "dua_wahdah",
+      "start": 44.401,
+      "end": 50.677
+    }
+  ]
+}

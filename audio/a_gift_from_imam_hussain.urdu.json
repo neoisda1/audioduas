@@ -1,0 +1,87 @@
+{
+  "dua_id": "a_gift_from_imam_hussain",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 42.401,
+  "bytes": 197228,
+  "sha256": "ae9b173f55a0a8a02b8cbec7bf204d46ff1758ef4600c602059f637a9c73d775",
+  "lines": [
+    {
+      "id": 1,
+      "section": "a_gift_from_imam_hussain",
+      "start": 0.0,
+      "end": 3.696
+    },
+    {
+      "id": 2,
+      "section": "a_gift_from_imam_hussain",
+      "start": 4.046,
+      "end": 7.971
+    },
+    {
+      "id": 3,
+      "section": "a_gift_from_imam_hussain",
+      "start": 8.321,
+      "end": 12.163
+    },
+    {
+      "id": 4,
+      "section": "a_gift_from_imam_hussain",
+      "start": 12.513,
+      "end": 15.462
+    },
+    {
+      "id": 5,
+      "section": "a_gift_from_imam_hussain",
+      "start": 15.812,
+      "end": 19.156
+    },
+    {
+      "id": 6,
+      "section": "a_gift_from_imam_hussain",
+      "start": 19.506,
+      "end": 21.747
+    },
+    {
+      "id": 7,
+      "section": "a_gift_from_imam_hussain",
+      "start": 22.097,
+      "end": 25.371
+    },
+    {
+      "id": 8,
+      "section": "a_gift_from_imam_hussain",
+      "start": 25.721,
+      "end": 28.043
+    },
+    {
+      "id": 9,
+      "section": "a_gift_from_imam_hussain",
+      "start": 28.393,
+      "end": 31.586
+    },
+    {
+      "id": 10,
+      "section": "a_gift_from_imam_hussain",
+      "start": 31.936,
+      "end": 34.025
+    },
+    {
+      "id": 11,
+      "section": "a_gift_from_imam_hussain",
+      "start": 34.375,
+      "end": 36.848
+    },
+    {
+      "id": 12,
+      "section": "a_gift_from_imam_hussain",
+      "start": 37.198,
+      "end": 42.051
+    }
+  ]
+}

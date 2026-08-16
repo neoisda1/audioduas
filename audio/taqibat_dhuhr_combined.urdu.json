@@ -1,0 +1,189 @@
+{
+  "dua_id": "taqibat_dhuhr_combined",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 101.164,
+  "bytes": 463216,
+  "sha256": "0456c5b8b65b545813f6407d2680daf2eb511717c86bc68ad39a547489a2283f",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dhuhr_mercy_relief",
+      "start": 0.0,
+      "end": 3.227
+    },
+    {
+      "id": 2,
+      "section": "dhuhr_mercy_relief",
+      "start": 3.577,
+      "end": 7.062
+    },
+    {
+      "id": 3,
+      "section": "dhuhr_mercy_relief",
+      "start": 7.412,
+      "end": 11.22
+    },
+    {
+      "id": 4,
+      "section": "dhuhr_mercy_relief",
+      "start": 11.57,
+      "end": 15.695
+    },
+    {
+      "id": 5,
+      "section": "dhuhr_mercy_relief",
+      "start": 16.045,
+      "end": 19.667
+    },
+    {
+      "id": 6,
+      "section": "dhuhr_mercy_relief",
+      "start": 20.017,
+      "end": 21.991
+    },
+    {
+      "id": 7,
+      "section": "dhuhr_mercy_relief",
+      "start": 22.341,
+      "end": 24.407
+    },
+    {
+      "id": 8,
+      "section": "dhuhr_mercy_relief",
+      "start": 24.757,
+      "end": 29.088
+    },
+    {
+      "id": 9,
+      "section": "dhuhr_mercy_relief",
+      "start": 29.438,
+      "end": 32.782
+    },
+    {
+      "id": 10,
+      "section": "dhuhr_mercy_relief",
+      "start": 33.132,
+      "end": 36.034
+    },
+    {
+      "id": 11,
+      "section": "dhuhr_mercy_relief",
+      "start": 36.384,
+      "end": 39.031
+    },
+    {
+      "id": 12,
+      "section": "dhuhr_mercy_relief",
+      "start": 39.381,
+      "end": 42.224
+    },
+    {
+      "id": 13,
+      "section": "dhuhr_mercy_relief",
+      "start": 42.574,
+      "end": 45.801
+    },
+    {
+      "id": 14,
+      "section": "dhuhr_mercy_relief",
+      "start": 46.151,
+      "end": 48.985
+    },
+    {
+      "id": 15,
+      "section": "dhuhr_mercy_relief",
+      "start": 49.335,
+      "end": 55.364
+    },
+    {
+      "id": 16,
+      "section": "dhuhr_mercy_relief",
+      "start": 55.714,
+      "end": 58.884
+    },
+    {
+      "id": 17,
+      "section": "dhuhr_mercy_relief",
+      "start": 59.234,
+      "end": 61.335
+    },
+    {
+      "id": 1,
+      "section": "dhuhr_forgiveness_generosity",
+      "start": 61.685,
+      "end": 65.54
+    },
+    {
+      "id": 2,
+      "section": "dhuhr_forgiveness_generosity",
+      "start": 65.89,
+      "end": 68.804
+    },
+    {
+      "id": 3,
+      "section": "dhuhr_forgiveness_generosity",
+      "start": 69.154,
+      "end": 72.66
+    },
+    {
+      "id": 4,
+      "section": "dhuhr_forgiveness_generosity",
+      "start": 73.01,
+      "end": 77.213
+    },
+    {
+      "id": 5,
+      "section": "dhuhr_forgiveness_generosity",
+      "start": 77.563,
+      "end": 81.127
+    },
+    {
+      "id": 6,
+      "section": "dhuhr_forgiveness_generosity",
+      "start": 81.477,
+      "end": 84.484
+    },
+    {
+      "id": 7,
+      "section": "dhuhr_forgiveness_generosity",
+      "start": 84.834,
+      "end": 88.654
+    },
+    {
+      "id": 8,
+      "section": "dhuhr_forgiveness_generosity",
+      "start": 89.004,
+      "end": 90.567
+    },
+    {
+      "id": 9,
+      "section": "dhuhr_forgiveness_generosity",
+      "start": 90.917,
+      "end": 94.099
+    },
+    {
+      "id": 1,
+      "section": "dhuhr_litany_trust",
+      "start": 94.449,
+      "end": 96.295
+    },
+    {
+      "id": 2,
+      "section": "dhuhr_litany_trust",
+      "start": 96.645,
+      "end": 98.491
+    },
+    {
+      "id": 3,
+      "section": "dhuhr_litany_trust",
+      "start": 98.841,
+      "end": 100.814
+    }
+  ]
+}

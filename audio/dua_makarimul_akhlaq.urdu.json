@@ -1,0 +1,1359 @@
+{
+  "dua_id": "dua_makarimul_akhlaq",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 790.096,
+  "bytes": 3702671,
+  "sha256": "c13cf41d9dcb601891e68fbcdef555b0c6f1a5867d59e23e57a58a3c501cfb58",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_makarimul_akhlaq",
+      "start": 0.0,
+      "end": 3.696
+    },
+    {
+      "id": 2,
+      "section": "dua_makarimul_akhlaq",
+      "start": 4.046,
+      "end": 7.971
+    },
+    {
+      "id": 3,
+      "section": "dua_makarimul_akhlaq",
+      "start": 8.321,
+      "end": 11.362
+    },
+    {
+      "id": 4,
+      "section": "dua_makarimul_akhlaq",
+      "start": 11.712,
+      "end": 14.441
+    },
+    {
+      "id": 5,
+      "section": "dua_makarimul_akhlaq",
+      "start": 14.791,
+      "end": 17.368
+    },
+    {
+      "id": 6,
+      "section": "dua_makarimul_akhlaq",
+      "start": 17.718,
+      "end": 20.621
+    },
+    {
+      "id": 7,
+      "section": "dua_makarimul_akhlaq",
+      "start": 20.971,
+      "end": 24.57
+    },
+    {
+      "id": 8,
+      "section": "dua_makarimul_akhlaq",
+      "start": 24.92,
+      "end": 28.852
+    },
+    {
+      "id": 9,
+      "section": "dua_makarimul_akhlaq",
+      "start": 29.202,
+      "end": 33.977
+    },
+    {
+      "id": 10,
+      "section": "dua_makarimul_akhlaq",
+      "start": 34.327,
+      "end": 37.892
+    },
+    {
+      "id": 11,
+      "section": "dua_makarimul_akhlaq",
+      "start": 38.242,
+      "end": 41.959
+    },
+    {
+      "id": 12,
+      "section": "dua_makarimul_akhlaq",
+      "start": 42.309,
+      "end": 46.315
+    },
+    {
+      "id": 13,
+      "section": "dua_makarimul_akhlaq",
+      "start": 46.665,
+      "end": 50.607
+    },
+    {
+      "id": 14,
+      "section": "dua_makarimul_akhlaq",
+      "start": 50.957,
+      "end": 54.266
+    },
+    {
+      "id": 15,
+      "section": "dua_makarimul_akhlaq",
+      "start": 54.616,
+      "end": 56.601
+    },
+    {
+      "id": 16,
+      "section": "dua_makarimul_akhlaq",
+      "start": 56.951,
+      "end": 60.805
+    },
+    {
+      "id": 17,
+      "section": "dua_makarimul_akhlaq",
+      "start": 61.155,
+      "end": 66.241
+    },
+    {
+      "id": 18,
+      "section": "dua_makarimul_akhlaq",
+      "start": 66.591,
+      "end": 69.4
+    },
+    {
+      "id": 19,
+      "section": "dua_makarimul_akhlaq",
+      "start": 69.75,
+      "end": 72.026
+    },
+    {
+      "id": 20,
+      "section": "dua_makarimul_akhlaq",
+      "start": 72.376,
+      "end": 74.826
+    },
+    {
+      "id": 21,
+      "section": "dua_makarimul_akhlaq",
+      "start": 75.176,
+      "end": 77.242
+    },
+    {
+      "id": 22,
+      "section": "dua_makarimul_akhlaq",
+      "start": 77.592,
+      "end": 81.145
+    },
+    {
+      "id": 23,
+      "section": "dua_makarimul_akhlaq",
+      "start": 81.495,
+      "end": 86.709
+    },
+    {
+      "id": 24,
+      "section": "dua_makarimul_akhlaq",
+      "start": 87.059,
+      "end": 93.068
+    },
+    {
+      "id": 25,
+      "section": "dua_makarimul_akhlaq",
+      "start": 93.418,
+      "end": 97.536
+    },
+    {
+      "id": 26,
+      "section": "dua_makarimul_akhlaq",
+      "start": 97.886,
+      "end": 101.775
+    },
+    {
+      "id": 27,
+      "section": "dua_makarimul_akhlaq",
+      "start": 102.125,
+      "end": 104.737
+    },
+    {
+      "id": 28,
+      "section": "dua_makarimul_akhlaq",
+      "start": 105.087,
+      "end": 107.827
+    },
+    {
+      "id": 29,
+      "section": "dua_makarimul_akhlaq",
+      "start": 108.177,
+      "end": 112.45
+    },
+    {
+      "id": 30,
+      "section": "dua_makarimul_akhlaq",
+      "start": 112.8,
+      "end": 116.82
+    },
+    {
+      "id": 31,
+      "section": "dua_makarimul_akhlaq",
+      "start": 117.17,
+      "end": 120.49
+    },
+    {
+      "id": 32,
+      "section": "dua_makarimul_akhlaq",
+      "start": 120.84,
+      "end": 123.476
+    },
+    {
+      "id": 33,
+      "section": "dua_makarimul_akhlaq",
+      "start": 123.826,
+      "end": 130.21
+    },
+    {
+      "id": 34,
+      "section": "dua_makarimul_akhlaq",
+      "start": 130.56,
+      "end": 135.959
+    },
+    {
+      "id": 35,
+      "section": "dua_makarimul_akhlaq",
+      "start": 136.309,
+      "end": 140.355
+    },
+    {
+      "id": 36,
+      "section": "dua_makarimul_akhlaq",
+      "start": 140.705,
+      "end": 144.864
+    },
+    {
+      "id": 37,
+      "section": "dua_makarimul_akhlaq",
+      "start": 145.214,
+      "end": 148.662
+    },
+    {
+      "id": 38,
+      "section": "dua_makarimul_akhlaq",
+      "start": 149.012,
+      "end": 152.205
+    },
+    {
+      "id": 39,
+      "section": "dua_makarimul_akhlaq",
+      "start": 152.555,
+      "end": 156.003
+    },
+    {
+      "id": 40,
+      "section": "dua_makarimul_akhlaq",
+      "start": 156.353,
+      "end": 158.664
+    },
+    {
+      "id": 41,
+      "section": "dua_makarimul_akhlaq",
+      "start": 159.014,
+      "end": 162.875
+    },
+    {
+      "id": 42,
+      "section": "dua_makarimul_akhlaq",
+      "start": 163.225,
+      "end": 166.012
+    },
+    {
+      "id": 43,
+      "section": "dua_makarimul_akhlaq",
+      "start": 166.362,
+      "end": 170.448
+    },
+    {
+      "id": 44,
+      "section": "dua_makarimul_akhlaq",
+      "start": 170.798,
+      "end": 175.605
+    },
+    {
+      "id": 45,
+      "section": "dua_makarimul_akhlaq",
+      "start": 175.955,
+      "end": 179.182
+    },
+    {
+      "id": 46,
+      "section": "dua_makarimul_akhlaq",
+      "start": 179.532,
+      "end": 184.222
+    },
+    {
+      "id": 47,
+      "section": "dua_makarimul_akhlaq",
+      "start": 184.572,
+      "end": 187.695
+    },
+    {
+      "id": 48,
+      "section": "dua_makarimul_akhlaq",
+      "start": 188.045,
+      "end": 191.134
+    },
+    {
+      "id": 49,
+      "section": "dua_makarimul_akhlaq",
+      "start": 191.484,
+      "end": 194.943
+    },
+    {
+      "id": 50,
+      "section": "dua_makarimul_akhlaq",
+      "start": 195.293,
+      "end": 199.368
+    },
+    {
+      "id": 51,
+      "section": "dua_makarimul_akhlaq",
+      "start": 199.718,
+      "end": 201.855
+    },
+    {
+      "id": 52,
+      "section": "dua_makarimul_akhlaq",
+      "start": 202.205,
+      "end": 205.455
+    },
+    {
+      "id": 53,
+      "section": "dua_makarimul_akhlaq",
+      "start": 205.805,
+      "end": 209.262
+    },
+    {
+      "id": 54,
+      "section": "dua_makarimul_akhlaq",
+      "start": 209.612,
+      "end": 213.919
+    },
+    {
+      "id": 55,
+      "section": "dua_makarimul_akhlaq",
+      "start": 214.269,
+      "end": 217.16
+    },
+    {
+      "id": 56,
+      "section": "dua_makarimul_akhlaq",
+      "start": 217.51,
+      "end": 221.876
+    },
+    {
+      "id": 57,
+      "section": "dua_makarimul_akhlaq",
+      "start": 222.226,
+      "end": 228.472
+    },
+    {
+      "id": 58,
+      "section": "dua_makarimul_akhlaq",
+      "start": 228.822,
+      "end": 232.351
+    },
+    {
+      "id": 59,
+      "section": "dua_makarimul_akhlaq",
+      "start": 232.701,
+      "end": 235.999
+    },
+    {
+      "id": 60,
+      "section": "dua_makarimul_akhlaq",
+      "start": 236.349,
+      "end": 240.09
+    },
+    {
+      "id": 61,
+      "section": "dua_makarimul_akhlaq",
+      "start": 240.44,
+      "end": 243.954
+    },
+    {
+      "id": 62,
+      "section": "dua_makarimul_akhlaq",
+      "start": 244.304,
+      "end": 246.208
+    },
+    {
+      "id": 63,
+      "section": "dua_makarimul_akhlaq",
+      "start": 246.558,
+      "end": 248.776
+    },
+    {
+      "id": 64,
+      "section": "dua_makarimul_akhlaq",
+      "start": 249.126,
+      "end": 252.864
+    },
+    {
+      "id": 65,
+      "section": "dua_makarimul_akhlaq",
+      "start": 253.214,
+      "end": 255.908
+    },
+    {
+      "id": 66,
+      "section": "dua_makarimul_akhlaq",
+      "start": 256.258,
+      "end": 258.498
+    },
+    {
+      "id": 67,
+      "section": "dua_makarimul_akhlaq",
+      "start": 258.848,
+      "end": 260.067
+    },
+    {
+      "id": 68,
+      "section": "dua_makarimul_akhlaq",
+      "start": 260.417,
+      "end": 261.845
+    },
+    {
+      "id": 69,
+      "section": "dua_makarimul_akhlaq",
+      "start": 262.195,
+      "end": 264.007
+    },
+    {
+      "id": 70,
+      "section": "dua_makarimul_akhlaq",
+      "start": 264.357,
+      "end": 266.621
+    },
+    {
+      "id": 71,
+      "section": "dua_makarimul_akhlaq",
+      "start": 266.971,
+      "end": 268.724
+    },
+    {
+      "id": 72,
+      "section": "dua_makarimul_akhlaq",
+      "start": 269.074,
+      "end": 270.467
+    },
+    {
+      "id": 73,
+      "section": "dua_makarimul_akhlaq",
+      "start": 270.817,
+      "end": 272.407
+    },
+    {
+      "id": 74,
+      "section": "dua_makarimul_akhlaq",
+      "start": 272.757,
+      "end": 274.104
+    },
+    {
+      "id": 75,
+      "section": "dua_makarimul_akhlaq",
+      "start": 274.454,
+      "end": 276.184
+    },
+    {
+      "id": 76,
+      "section": "dua_makarimul_akhlaq",
+      "start": 276.534,
+      "end": 277.823
+    },
+    {
+      "id": 77,
+      "section": "dua_makarimul_akhlaq",
+      "start": 278.173,
+      "end": 279.496
+    },
+    {
+      "id": 78,
+      "section": "dua_makarimul_akhlaq",
+      "start": 279.846,
+      "end": 281.762
+    },
+    {
+      "id": 79,
+      "section": "dua_makarimul_akhlaq",
+      "start": 282.112,
+      "end": 284.62
+    },
+    {
+      "id": 80,
+      "section": "dua_makarimul_akhlaq",
+      "start": 284.97,
+      "end": 286.711
+    },
+    {
+      "id": 81,
+      "section": "dua_makarimul_akhlaq",
+      "start": 287.061,
+      "end": 288.721
+    },
+    {
+      "id": 82,
+      "section": "dua_makarimul_akhlaq",
+      "start": 289.071,
+      "end": 292.171
+    },
+    {
+      "id": 83,
+      "section": "dua_makarimul_akhlaq",
+      "start": 292.521,
+      "end": 296.143
+    },
+    {
+      "id": 84,
+      "section": "dua_makarimul_akhlaq",
+      "start": 296.493,
+      "end": 301.497
+    },
+    {
+      "id": 85,
+      "section": "dua_makarimul_akhlaq",
+      "start": 301.847,
+      "end": 306.317
+    },
+    {
+      "id": 86,
+      "section": "dua_makarimul_akhlaq",
+      "start": 306.667,
+      "end": 308.408
+    },
+    {
+      "id": 87,
+      "section": "dua_makarimul_akhlaq",
+      "start": 308.758,
+      "end": 310.21
+    },
+    {
+      "id": 88,
+      "section": "dua_makarimul_akhlaq",
+      "start": 310.56,
+      "end": 312.348
+    },
+    {
+      "id": 89,
+      "section": "dua_makarimul_akhlaq",
+      "start": 312.698,
+      "end": 314.59
+    },
+    {
+      "id": 90,
+      "section": "dua_makarimul_akhlaq",
+      "start": 314.94,
+      "end": 317.239
+    },
+    {
+      "id": 91,
+      "section": "dua_makarimul_akhlaq",
+      "start": 317.589,
+      "end": 321.29
+    },
+    {
+      "id": 92,
+      "section": "dua_makarimul_akhlaq",
+      "start": 321.64,
+      "end": 326.116
+    },
+    {
+      "id": 93,
+      "section": "dua_makarimul_akhlaq",
+      "start": 326.466,
+      "end": 330.018
+    },
+    {
+      "id": 94,
+      "section": "dua_makarimul_akhlaq",
+      "start": 330.368,
+      "end": 333.12
+    },
+    {
+      "id": 95,
+      "section": "dua_makarimul_akhlaq",
+      "start": 333.47,
+      "end": 335.676
+    },
+    {
+      "id": 96,
+      "section": "dua_makarimul_akhlaq",
+      "start": 336.026,
+      "end": 339.626
+    },
+    {
+      "id": 97,
+      "section": "dua_makarimul_akhlaq",
+      "start": 339.976,
+      "end": 342.414
+    },
+    {
+      "id": 98,
+      "section": "dua_makarimul_akhlaq",
+      "start": 342.764,
+      "end": 345.342
+    },
+    {
+      "id": 99,
+      "section": "dua_makarimul_akhlaq",
+      "start": 345.692,
+      "end": 350.732
+    },
+    {
+      "id": 100,
+      "section": "dua_makarimul_akhlaq",
+      "start": 351.082,
+      "end": 353.369
+    },
+    {
+      "id": 101,
+      "section": "dua_makarimul_akhlaq",
+      "start": 353.719,
+      "end": 357.69
+    },
+    {
+      "id": 102,
+      "section": "dua_makarimul_akhlaq",
+      "start": 358.04,
+      "end": 363.547
+    },
+    {
+      "id": 103,
+      "section": "dua_makarimul_akhlaq",
+      "start": 363.897,
+      "end": 369.969
+    },
+    {
+      "id": 104,
+      "section": "dua_makarimul_akhlaq",
+      "start": 370.319,
+      "end": 374.311
+    },
+    {
+      "id": 105,
+      "section": "dua_makarimul_akhlaq",
+      "start": 374.661,
+      "end": 379.653
+    },
+    {
+      "id": 106,
+      "section": "dua_makarimul_akhlaq",
+      "start": 380.003,
+      "end": 382.79
+    },
+    {
+      "id": 107,
+      "section": "dua_makarimul_akhlaq",
+      "start": 383.14,
+      "end": 386.994
+    },
+    {
+      "id": 108,
+      "section": "dua_makarimul_akhlaq",
+      "start": 387.344,
+      "end": 390.289
+    },
+    {
+      "id": 109,
+      "section": "dua_makarimul_akhlaq",
+      "start": 390.639,
+      "end": 392.717
+    },
+    {
+      "id": 110,
+      "section": "dua_makarimul_akhlaq",
+      "start": 393.067,
+      "end": 395.018
+    },
+    {
+      "id": 111,
+      "section": "dua_makarimul_akhlaq",
+      "start": 395.368,
+      "end": 397.62
+    },
+    {
+      "id": 112,
+      "section": "dua_makarimul_akhlaq",
+      "start": 397.97,
+      "end": 401.077
+    },
+    {
+      "id": 113,
+      "section": "dua_makarimul_akhlaq",
+      "start": 401.427,
+      "end": 404.526
+    },
+    {
+      "id": 114,
+      "section": "dua_makarimul_akhlaq",
+      "start": 404.876,
+      "end": 406.13
+    },
+    {
+      "id": 115,
+      "section": "dua_makarimul_akhlaq",
+      "start": 406.48,
+      "end": 410.277
+    },
+    {
+      "id": 116,
+      "section": "dua_makarimul_akhlaq",
+      "start": 410.627,
+      "end": 412.589
+    },
+    {
+      "id": 117,
+      "section": "dua_makarimul_akhlaq",
+      "start": 412.939,
+      "end": 414.378
+    },
+    {
+      "id": 118,
+      "section": "dua_makarimul_akhlaq",
+      "start": 414.728,
+      "end": 417.538
+    },
+    {
+      "id": 119,
+      "section": "dua_makarimul_akhlaq",
+      "start": 417.888,
+      "end": 420.756
+    },
+    {
+      "id": 120,
+      "section": "dua_makarimul_akhlaq",
+      "start": 421.106,
+      "end": 423.335
+    },
+    {
+      "id": 121,
+      "section": "dua_makarimul_akhlaq",
+      "start": 423.685,
+      "end": 426.007
+    },
+    {
+      "id": 122,
+      "section": "dua_makarimul_akhlaq",
+      "start": 426.357,
+      "end": 428.307
+    },
+    {
+      "id": 123,
+      "section": "dua_makarimul_akhlaq",
+      "start": 428.657,
+      "end": 434.016
+    },
+    {
+      "id": 124,
+      "section": "dua_makarimul_akhlaq",
+      "start": 434.366,
+      "end": 438.836
+    },
+    {
+      "id": 125,
+      "section": "dua_makarimul_akhlaq",
+      "start": 439.186,
+      "end": 442.431
+    },
+    {
+      "id": 126,
+      "section": "dua_makarimul_akhlaq",
+      "start": 442.781,
+      "end": 446.357
+    },
+    {
+      "id": 127,
+      "section": "dua_makarimul_akhlaq",
+      "start": 446.707,
+      "end": 450.51
+    },
+    {
+      "id": 128,
+      "section": "dua_makarimul_akhlaq",
+      "start": 450.86,
+      "end": 454.714
+    },
+    {
+      "id": 129,
+      "section": "dua_makarimul_akhlaq",
+      "start": 455.064,
+      "end": 457.932
+    },
+    {
+      "id": 130,
+      "section": "dua_makarimul_akhlaq",
+      "start": 458.282,
+      "end": 460.464
+    },
+    {
+      "id": 131,
+      "section": "dua_makarimul_akhlaq",
+      "start": 460.814,
+      "end": 462.753
+    },
+    {
+      "id": 132,
+      "section": "dua_makarimul_akhlaq",
+      "start": 463.103,
+      "end": 465.205
+    },
+    {
+      "id": 133,
+      "section": "dua_makarimul_akhlaq",
+      "start": 465.555,
+      "end": 469.374
+    },
+    {
+      "id": 134,
+      "section": "dua_makarimul_akhlaq",
+      "start": 469.724,
+      "end": 474.252
+    },
+    {
+      "id": 135,
+      "section": "dua_makarimul_akhlaq",
+      "start": 474.602,
+      "end": 479.539
+    },
+    {
+      "id": 136,
+      "section": "dua_makarimul_akhlaq",
+      "start": 479.889,
+      "end": 482.761
+    },
+    {
+      "id": 137,
+      "section": "dua_makarimul_akhlaq",
+      "start": 483.111,
+      "end": 484.586
+    },
+    {
+      "id": 138,
+      "section": "dua_makarimul_akhlaq",
+      "start": 484.936,
+      "end": 488.187
+    },
+    {
+      "id": 139,
+      "section": "dua_makarimul_akhlaq",
+      "start": 488.537,
+      "end": 490.522
+    },
+    {
+      "id": 140,
+      "section": "dua_makarimul_akhlaq",
+      "start": 490.872,
+      "end": 494.099
+    },
+    {
+      "id": 141,
+      "section": "dua_makarimul_akhlaq",
+      "start": 494.449,
+      "end": 498.21
+    },
+    {
+      "id": 142,
+      "section": "dua_makarimul_akhlaq",
+      "start": 498.56,
+      "end": 501.811
+    },
+    {
+      "id": 143,
+      "section": "dua_makarimul_akhlaq",
+      "start": 502.161,
+      "end": 505.981
+    },
+    {
+      "id": 144,
+      "section": "dua_makarimul_akhlaq",
+      "start": 506.331,
+      "end": 510.128
+    },
+    {
+      "id": 145,
+      "section": "dua_makarimul_akhlaq",
+      "start": 510.478,
+      "end": 512.788
+    },
+    {
+      "id": 146,
+      "section": "dua_makarimul_akhlaq",
+      "start": 513.138,
+      "end": 515.089
+    },
+    {
+      "id": 147,
+      "section": "dua_makarimul_akhlaq",
+      "start": 515.439,
+      "end": 517.308
+    },
+    {
+      "id": 148,
+      "section": "dua_makarimul_akhlaq",
+      "start": 517.658,
+      "end": 519.132
+    },
+    {
+      "id": 149,
+      "section": "dua_makarimul_akhlaq",
+      "start": 519.482,
+      "end": 523.824
+    },
+    {
+      "id": 150,
+      "section": "dua_makarimul_akhlaq",
+      "start": 524.174,
+      "end": 527.042
+    },
+    {
+      "id": 151,
+      "section": "dua_makarimul_akhlaq",
+      "start": 527.392,
+      "end": 531.177
+    },
+    {
+      "id": 152,
+      "section": "dua_makarimul_akhlaq",
+      "start": 531.527,
+      "end": 535.149
+    },
+    {
+      "id": 153,
+      "section": "dua_makarimul_akhlaq",
+      "start": 535.499,
+      "end": 539.493
+    },
+    {
+      "id": 154,
+      "section": "dua_makarimul_akhlaq",
+      "start": 539.843,
+      "end": 543.57
+    },
+    {
+      "id": 155,
+      "section": "dua_makarimul_akhlaq",
+      "start": 543.92,
+      "end": 546.834
+    },
+    {
+      "id": 156,
+      "section": "dua_makarimul_akhlaq",
+      "start": 547.184,
+      "end": 550.402
+    },
+    {
+      "id": 157,
+      "section": "dua_makarimul_akhlaq",
+      "start": 550.752,
+      "end": 553.468
+    },
+    {
+      "id": 158,
+      "section": "dua_makarimul_akhlaq",
+      "start": 553.818,
+      "end": 556.489
+    },
+    {
+      "id": 159,
+      "section": "dua_makarimul_akhlaq",
+      "start": 556.839,
+      "end": 559.648
+    },
+    {
+      "id": 160,
+      "section": "dua_makarimul_akhlaq",
+      "start": 559.998,
+      "end": 563.458
+    },
+    {
+      "id": 161,
+      "section": "dua_makarimul_akhlaq",
+      "start": 563.808,
+      "end": 566.234
+    },
+    {
+      "id": 162,
+      "section": "dua_makarimul_akhlaq",
+      "start": 566.584,
+      "end": 569.046
+    },
+    {
+      "id": 163,
+      "section": "dua_makarimul_akhlaq",
+      "start": 569.396,
+      "end": 572.89
+    },
+    {
+      "id": 164,
+      "section": "dua_makarimul_akhlaq",
+      "start": 573.24,
+      "end": 576.898
+    },
+    {
+      "id": 165,
+      "section": "dua_makarimul_akhlaq",
+      "start": 577.248,
+      "end": 579.604
+    },
+    {
+      "id": 166,
+      "section": "dua_makarimul_akhlaq",
+      "start": 579.954,
+      "end": 585.69
+    },
+    {
+      "id": 167,
+      "section": "dua_makarimul_akhlaq",
+      "start": 586.04,
+      "end": 588.025
+    },
+    {
+      "id": 168,
+      "section": "dua_makarimul_akhlaq",
+      "start": 588.375,
+      "end": 591.103
+    },
+    {
+      "id": 169,
+      "section": "dua_makarimul_akhlaq",
+      "start": 591.453,
+      "end": 593.45
+    },
+    {
+      "id": 170,
+      "section": "dua_makarimul_akhlaq",
+      "start": 593.8,
+      "end": 596.227
+    },
+    {
+      "id": 171,
+      "section": "dua_makarimul_akhlaq",
+      "start": 596.577,
+      "end": 598.376
+    },
+    {
+      "id": 172,
+      "section": "dua_makarimul_akhlaq",
+      "start": 598.726,
+      "end": 600.642
+    },
+    {
+      "id": 173,
+      "section": "dua_makarimul_akhlaq",
+      "start": 600.992,
+      "end": 607.157
+    },
+    {
+      "id": 174,
+      "section": "dua_makarimul_akhlaq",
+      "start": 607.507,
+      "end": 613.139
+    },
+    {
+      "id": 175,
+      "section": "dua_makarimul_akhlaq",
+      "start": 613.489,
+      "end": 619.224
+    },
+    {
+      "id": 176,
+      "section": "dua_makarimul_akhlaq",
+      "start": 619.574,
+      "end": 623.15
+    },
+    {
+      "id": 177,
+      "section": "dua_makarimul_akhlaq",
+      "start": 623.5,
+      "end": 625.381
+    },
+    {
+      "id": 178,
+      "section": "dua_makarimul_akhlaq",
+      "start": 625.731,
+      "end": 627.914
+    },
+    {
+      "id": 179,
+      "section": "dua_makarimul_akhlaq",
+      "start": 628.264,
+      "end": 630.4
+    },
+    {
+      "id": 180,
+      "section": "dua_makarimul_akhlaq",
+      "start": 630.75,
+      "end": 633.978
+    },
+    {
+      "id": 181,
+      "section": "dua_makarimul_akhlaq",
+      "start": 634.328,
+      "end": 636.835
+    },
+    {
+      "id": 182,
+      "section": "dua_makarimul_akhlaq",
+      "start": 637.185,
+      "end": 639.554
+    },
+    {
+      "id": 183,
+      "section": "dua_makarimul_akhlaq",
+      "start": 639.904,
+      "end": 642.621
+    },
+    {
+      "id": 184,
+      "section": "dua_makarimul_akhlaq",
+      "start": 642.971,
+      "end": 645.583
+    },
+    {
+      "id": 185,
+      "section": "dua_makarimul_akhlaq",
+      "start": 645.933,
+      "end": 649.439
+    },
+    {
+      "id": 186,
+      "section": "dua_makarimul_akhlaq",
+      "start": 649.789,
+      "end": 653.611
+    },
+    {
+      "id": 187,
+      "section": "dua_makarimul_akhlaq",
+      "start": 653.961,
+      "end": 655.946
+    },
+    {
+      "id": 188,
+      "section": "dua_makarimul_akhlaq",
+      "start": 656.296,
+      "end": 658.491
+    },
+    {
+      "id": 189,
+      "section": "dua_makarimul_akhlaq",
+      "start": 658.841,
+      "end": 661.871
+    },
+    {
+      "id": 190,
+      "section": "dua_makarimul_akhlaq",
+      "start": 662.221,
+      "end": 667.515
+    },
+    {
+      "id": 191,
+      "section": "dua_makarimul_akhlaq",
+      "start": 667.865,
+      "end": 671.534
+    },
+    {
+      "id": 192,
+      "section": "dua_makarimul_akhlaq",
+      "start": 671.884,
+      "end": 674.101
+    },
+    {
+      "id": 193,
+      "section": "dua_makarimul_akhlaq",
+      "start": 674.451,
+      "end": 676.483
+    },
+    {
+      "id": 194,
+      "section": "dua_makarimul_akhlaq",
+      "start": 676.833,
+      "end": 680.966
+    },
+    {
+      "id": 195,
+      "section": "dua_makarimul_akhlaq",
+      "start": 681.316,
+      "end": 683.94
+    },
+    {
+      "id": 196,
+      "section": "dua_makarimul_akhlaq",
+      "start": 684.29,
+      "end": 688.713
+    },
+    {
+      "id": 197,
+      "section": "dua_makarimul_akhlaq",
+      "start": 689.063,
+      "end": 692.709
+    },
+    {
+      "id": 198,
+      "section": "dua_makarimul_akhlaq",
+      "start": 693.059,
+      "end": 696.821
+    },
+    {
+      "id": 199,
+      "section": "dua_makarimul_akhlaq",
+      "start": 697.171,
+      "end": 700.677
+    },
+    {
+      "id": 200,
+      "section": "dua_makarimul_akhlaq",
+      "start": 701.027,
+      "end": 703.871
+    },
+    {
+      "id": 201,
+      "section": "dua_makarimul_akhlaq",
+      "start": 704.221,
+      "end": 706.903
+    },
+    {
+      "id": 202,
+      "section": "dua_makarimul_akhlaq",
+      "start": 707.253,
+      "end": 710.55
+    },
+    {
+      "id": 203,
+      "section": "dua_makarimul_akhlaq",
+      "start": 710.9,
+      "end": 714.14
+    },
+    {
+      "id": 204,
+      "section": "dua_makarimul_akhlaq",
+      "start": 714.49,
+      "end": 718.158
+    },
+    {
+      "id": 205,
+      "section": "dua_makarimul_akhlaq",
+      "start": 718.508,
+      "end": 721.522
+    },
+    {
+      "id": 206,
+      "section": "dua_makarimul_akhlaq",
+      "start": 721.872,
+      "end": 726.012
+    },
+    {
+      "id": 207,
+      "section": "dua_makarimul_akhlaq",
+      "start": 726.362,
+      "end": 728.452
+    },
+    {
+      "id": 208,
+      "section": "dua_makarimul_akhlaq",
+      "start": 728.802,
+      "end": 730.23
+    },
+    {
+      "id": 209,
+      "section": "dua_makarimul_akhlaq",
+      "start": 730.58,
+      "end": 732.6
+    },
+    {
+      "id": 210,
+      "section": "dua_makarimul_akhlaq",
+      "start": 732.95,
+      "end": 735.202
+    },
+    {
+      "id": 211,
+      "section": "dua_makarimul_akhlaq",
+      "start": 735.552,
+      "end": 739.442
+    },
+    {
+      "id": 212,
+      "section": "dua_makarimul_akhlaq",
+      "start": 739.792,
+      "end": 742.648
+    },
+    {
+      "id": 213,
+      "section": "dua_makarimul_akhlaq",
+      "start": 742.998,
+      "end": 746.774
+    },
+    {
+      "id": 214,
+      "section": "dua_makarimul_akhlaq",
+      "start": 747.124,
+      "end": 749.946
+    },
+    {
+      "id": 215,
+      "section": "dua_makarimul_akhlaq",
+      "start": 750.296,
+      "end": 754.162
+    },
+    {
+      "id": 216,
+      "section": "dua_makarimul_akhlaq",
+      "start": 754.512,
+      "end": 757.391
+    },
+    {
+      "id": 217,
+      "section": "dua_makarimul_akhlaq",
+      "start": 757.741,
+      "end": 760.551
+    },
+    {
+      "id": 218,
+      "section": "dua_makarimul_akhlaq",
+      "start": 760.901,
+      "end": 764.488
+    },
+    {
+      "id": 219,
+      "section": "dua_makarimul_akhlaq",
+      "start": 764.838,
+      "end": 768.565
+    },
+    {
+      "id": 220,
+      "section": "dua_makarimul_akhlaq",
+      "start": 768.915,
+      "end": 772.671
+    },
+    {
+      "id": 221,
+      "section": "dua_makarimul_akhlaq",
+      "start": 773.021,
+      "end": 777.758
+    },
+    {
+      "id": 222,
+      "section": "dua_makarimul_akhlaq",
+      "start": 778.108,
+      "end": 781.115
+    },
+    {
+      "id": 223,
+      "section": "dua_makarimul_akhlaq",
+      "start": 781.465,
+      "end": 786.361
+    },
+    {
+      "id": 224,
+      "section": "dua_makarimul_akhlaq",
+      "start": 786.711,
+      "end": 789.746
+    }
+  ]
+}

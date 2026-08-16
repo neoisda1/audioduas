@@ -1,0 +1,27 @@
+{
+  "dua_id": "salawaat_when_going_to_bed",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 6.969,
+  "bytes": 29258,
+  "sha256": "eb3c55d7e616c7b3289df64f4b9068a5477ceaf0a280df6a7794926d58574762",
+  "lines": [
+    {
+      "id": 1,
+      "section": "salawaat_when_going_to_bed",
+      "start": 0.0,
+      "end": 3.727
+    },
+    {
+      "id": 2,
+      "section": "salawaat_when_going_to_bed",
+      "start": 4.077,
+      "end": 6.619
+    }
+  ]
+}

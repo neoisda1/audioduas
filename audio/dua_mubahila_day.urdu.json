@@ -1,0 +1,1131 @@
+{
+  "dua_id": "dua_mubahila_day",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 671.299,
+  "bytes": 3153188,
+  "sha256": "dc64f94a3e8e948a1349fa96f669a6acb63268398c50717975239e4425d956ae",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_mubahila_day",
+      "start": 0.0,
+      "end": 3.696
+    },
+    {
+      "id": 2,
+      "section": "dua_mubahila_day",
+      "start": 4.046,
+      "end": 7.971
+    },
+    {
+      "id": 3,
+      "section": "dua_mubahila_day",
+      "start": 8.321,
+      "end": 13.383
+    },
+    {
+      "id": 4,
+      "section": "dua_mubahila_day",
+      "start": 13.733,
+      "end": 16.008
+    },
+    {
+      "id": 5,
+      "section": "dua_mubahila_day",
+      "start": 16.358,
+      "end": 20.405
+    },
+    {
+      "id": 6,
+      "section": "dua_mubahila_day",
+      "start": 20.755,
+      "end": 26.049
+    },
+    {
+      "id": 7,
+      "section": "dua_mubahila_day",
+      "start": 26.399,
+      "end": 28.477
+    },
+    {
+      "id": 8,
+      "section": "dua_mubahila_day",
+      "start": 28.827,
+      "end": 32.844
+    },
+    {
+      "id": 9,
+      "section": "dua_mubahila_day",
+      "start": 33.194,
+      "end": 38.699
+    },
+    {
+      "id": 10,
+      "section": "dua_mubahila_day",
+      "start": 39.049,
+      "end": 40.942
+    },
+    {
+      "id": 11,
+      "section": "dua_mubahila_day",
+      "start": 41.292,
+      "end": 45.019
+    },
+    {
+      "id": 12,
+      "section": "dua_mubahila_day",
+      "start": 45.369,
+      "end": 49.351
+    },
+    {
+      "id": 13,
+      "section": "dua_mubahila_day",
+      "start": 49.701,
+      "end": 53.161
+    },
+    {
+      "id": 14,
+      "section": "dua_mubahila_day",
+      "start": 53.511,
+      "end": 58.41
+    },
+    {
+      "id": 15,
+      "section": "dua_mubahila_day",
+      "start": 58.76,
+      "end": 60.873
+    },
+    {
+      "id": 16,
+      "section": "dua_mubahila_day",
+      "start": 61.223,
+      "end": 64.923
+    },
+    {
+      "id": 17,
+      "section": "dua_mubahila_day",
+      "start": 65.273,
+      "end": 70.172
+    },
+    {
+      "id": 18,
+      "section": "dua_mubahila_day",
+      "start": 70.522,
+      "end": 72.17
+    },
+    {
+      "id": 19,
+      "section": "dua_mubahila_day",
+      "start": 72.52,
+      "end": 76.294
+    },
+    {
+      "id": 20,
+      "section": "dua_mubahila_day",
+      "start": 76.644,
+      "end": 80.661
+    },
+    {
+      "id": 21,
+      "section": "dua_mubahila_day",
+      "start": 81.011,
+      "end": 83.182
+    },
+    {
+      "id": 22,
+      "section": "dua_mubahila_day",
+      "start": 83.532,
+      "end": 89.766
+    },
+    {
+      "id": 23,
+      "section": "dua_mubahila_day",
+      "start": 90.116,
+      "end": 94.442
+    },
+    {
+      "id": 24,
+      "section": "dua_mubahila_day",
+      "start": 94.792,
+      "end": 98.497
+    },
+    {
+      "id": 25,
+      "section": "dua_mubahila_day",
+      "start": 98.847,
+      "end": 103.247
+    },
+    {
+      "id": 26,
+      "section": "dua_mubahila_day",
+      "start": 103.597,
+      "end": 105.455
+    },
+    {
+      "id": 27,
+      "section": "dua_mubahila_day",
+      "start": 105.805,
+      "end": 111.505
+    },
+    {
+      "id": 28,
+      "section": "dua_mubahila_day",
+      "start": 111.855,
+      "end": 116.465
+    },
+    {
+      "id": 29,
+      "section": "dua_mubahila_day",
+      "start": 116.815,
+      "end": 118.881
+    },
+    {
+      "id": 30,
+      "section": "dua_mubahila_day",
+      "start": 119.231,
+      "end": 123.329
+    },
+    {
+      "id": 31,
+      "section": "dua_mubahila_day",
+      "start": 123.679,
+      "end": 128.416
+    },
+    {
+      "id": 32,
+      "section": "dua_mubahila_day",
+      "start": 128.766,
+      "end": 130.566
+    },
+    {
+      "id": 33,
+      "section": "dua_mubahila_day",
+      "start": 130.916,
+      "end": 134.492
+    },
+    {
+      "id": 34,
+      "section": "dua_mubahila_day",
+      "start": 134.842,
+      "end": 138.464
+    },
+    {
+      "id": 35,
+      "section": "dua_mubahila_day",
+      "start": 138.814,
+      "end": 142.68
+    },
+    {
+      "id": 36,
+      "section": "dua_mubahila_day",
+      "start": 143.03,
+      "end": 149.416
+    },
+    {
+      "id": 37,
+      "section": "dua_mubahila_day",
+      "start": 149.766,
+      "end": 151.786
+    },
+    {
+      "id": 38,
+      "section": "dua_mubahila_day",
+      "start": 152.136,
+      "end": 156.385
+    },
+    {
+      "id": 39,
+      "section": "dua_mubahila_day",
+      "start": 156.735,
+      "end": 162.25
+    },
+    {
+      "id": 40,
+      "section": "dua_mubahila_day",
+      "start": 162.6,
+      "end": 165.026
+    },
+    {
+      "id": 41,
+      "section": "dua_mubahila_day",
+      "start": 165.376,
+      "end": 171.135
+    },
+    {
+      "id": 42,
+      "section": "dua_mubahila_day",
+      "start": 171.485,
+      "end": 177.859
+    },
+    {
+      "id": 43,
+      "section": "dua_mubahila_day",
+      "start": 178.209,
+      "end": 180.182
+    },
+    {
+      "id": 44,
+      "section": "dua_mubahila_day",
+      "start": 180.532,
+      "end": 184.345
+    },
+    {
+      "id": 45,
+      "section": "dua_mubahila_day",
+      "start": 184.695,
+      "end": 188.886
+    },
+    {
+      "id": 46,
+      "section": "dua_mubahila_day",
+      "start": 189.236,
+      "end": 192.808
+    },
+    {
+      "id": 47,
+      "section": "dua_mubahila_day",
+      "start": 193.158,
+      "end": 198.606
+    },
+    {
+      "id": 48,
+      "section": "dua_mubahila_day",
+      "start": 198.956,
+      "end": 200.872
+    },
+    {
+      "id": 49,
+      "section": "dua_mubahila_day",
+      "start": 201.222,
+      "end": 204.972
+    },
+    {
+      "id": 50,
+      "section": "dua_mubahila_day",
+      "start": 205.322,
+      "end": 211.208
+    },
+    {
+      "id": 51,
+      "section": "dua_mubahila_day",
+      "start": 211.558,
+      "end": 213.613
+    },
+    {
+      "id": 52,
+      "section": "dua_mubahila_day",
+      "start": 213.963,
+      "end": 217.945
+    },
+    {
+      "id": 53,
+      "section": "dua_mubahila_day",
+      "start": 218.295,
+      "end": 223.458
+    },
+    {
+      "id": 54,
+      "section": "dua_mubahila_day",
+      "start": 223.808,
+      "end": 226.025
+    },
+    {
+      "id": 55,
+      "section": "dua_mubahila_day",
+      "start": 226.375,
+      "end": 229.863
+    },
+    {
+      "id": 56,
+      "section": "dua_mubahila_day",
+      "start": 230.213,
+      "end": 234.137
+    },
+    {
+      "id": 57,
+      "section": "dua_mubahila_day",
+      "start": 234.487,
+      "end": 238.146
+    },
+    {
+      "id": 58,
+      "section": "dua_mubahila_day",
+      "start": 238.496,
+      "end": 243.703
+    },
+    {
+      "id": 59,
+      "section": "dua_mubahila_day",
+      "start": 244.053,
+      "end": 245.632
+    },
+    {
+      "id": 60,
+      "section": "dua_mubahila_day",
+      "start": 245.982,
+      "end": 249.581
+    },
+    {
+      "id": 61,
+      "section": "dua_mubahila_day",
+      "start": 249.931,
+      "end": 254.714
+    },
+    {
+      "id": 62,
+      "section": "dua_mubahila_day",
+      "start": 255.064,
+      "end": 258.131
+    },
+    {
+      "id": 63,
+      "section": "dua_mubahila_day",
+      "start": 258.481,
+      "end": 262.301
+    },
+    {
+      "id": 64,
+      "section": "dua_mubahila_day",
+      "start": 262.651,
+      "end": 268.072
+    },
+    {
+      "id": 65,
+      "section": "dua_mubahila_day",
+      "start": 268.422,
+      "end": 270.779
+    },
+    {
+      "id": 66,
+      "section": "dua_mubahila_day",
+      "start": 271.129,
+      "end": 275.297
+    },
+    {
+      "id": 67,
+      "section": "dua_mubahila_day",
+      "start": 275.647,
+      "end": 279.734
+    },
+    {
+      "id": 68,
+      "section": "dua_mubahila_day",
+      "start": 280.084,
+      "end": 283.927
+    },
+    {
+      "id": 69,
+      "section": "dua_mubahila_day",
+      "start": 284.277,
+      "end": 288.863
+    },
+    {
+      "id": 70,
+      "section": "dua_mubahila_day",
+      "start": 289.213,
+      "end": 291.117
+    },
+    {
+      "id": 71,
+      "section": "dua_mubahila_day",
+      "start": 291.467,
+      "end": 295.798
+    },
+    {
+      "id": 72,
+      "section": "dua_mubahila_day",
+      "start": 296.148,
+      "end": 301.349
+    },
+    {
+      "id": 73,
+      "section": "dua_mubahila_day",
+      "start": 301.699,
+      "end": 304.857
+    },
+    {
+      "id": 74,
+      "section": "dua_mubahila_day",
+      "start": 305.207,
+      "end": 308.945
+    },
+    {
+      "id": 75,
+      "section": "dua_mubahila_day",
+      "start": 309.295,
+      "end": 313.51
+    },
+    {
+      "id": 76,
+      "section": "dua_mubahila_day",
+      "start": 313.86,
+      "end": 315.683
+    },
+    {
+      "id": 77,
+      "section": "dua_mubahila_day",
+      "start": 316.033,
+      "end": 320.05
+    },
+    {
+      "id": 78,
+      "section": "dua_mubahila_day",
+      "start": 320.4,
+      "end": 324.312
+    },
+    {
+      "id": 79,
+      "section": "dua_mubahila_day",
+      "start": 324.662,
+      "end": 328.319
+    },
+    {
+      "id": 80,
+      "section": "dua_mubahila_day",
+      "start": 328.669,
+      "end": 333.557
+    },
+    {
+      "id": 81,
+      "section": "dua_mubahila_day",
+      "start": 333.907,
+      "end": 338.458
+    },
+    {
+      "id": 82,
+      "section": "dua_mubahila_day",
+      "start": 338.808,
+      "end": 345.819
+    },
+    {
+      "id": 83,
+      "section": "dua_mubahila_day",
+      "start": 346.169,
+      "end": 349.223
+    },
+    {
+      "id": 84,
+      "section": "dua_mubahila_day",
+      "start": 349.573,
+      "end": 358.644
+    },
+    {
+      "id": 85,
+      "section": "dua_mubahila_day",
+      "start": 358.994,
+      "end": 361.177
+    },
+    {
+      "id": 86,
+      "section": "dua_mubahila_day",
+      "start": 361.527,
+      "end": 367.32
+    },
+    {
+      "id": 87,
+      "section": "dua_mubahila_day",
+      "start": 367.67,
+      "end": 369.527
+    },
+    {
+      "id": 88,
+      "section": "dua_mubahila_day",
+      "start": 369.877,
+      "end": 374.182
+    },
+    {
+      "id": 89,
+      "section": "dua_mubahila_day",
+      "start": 374.532,
+      "end": 378.288
+    },
+    {
+      "id": 90,
+      "section": "dua_mubahila_day",
+      "start": 378.638,
+      "end": 381.923
+    },
+    {
+      "id": 91,
+      "section": "dua_mubahila_day",
+      "start": 382.273,
+      "end": 387.153
+    },
+    {
+      "id": 92,
+      "section": "dua_mubahila_day",
+      "start": 387.503,
+      "end": 389.616
+    },
+    {
+      "id": 93,
+      "section": "dua_mubahila_day",
+      "start": 389.966,
+      "end": 393.46
+    },
+    {
+      "id": 94,
+      "section": "dua_mubahila_day",
+      "start": 393.81,
+      "end": 398.315
+    },
+    {
+      "id": 95,
+      "section": "dua_mubahila_day",
+      "start": 398.665,
+      "end": 400.546
+    },
+    {
+      "id": 96,
+      "section": "dua_mubahila_day",
+      "start": 400.896,
+      "end": 404.959
+    },
+    {
+      "id": 97,
+      "section": "dua_mubahila_day",
+      "start": 405.309,
+      "end": 409.593
+    },
+    {
+      "id": 98,
+      "section": "dua_mubahila_day",
+      "start": 409.943,
+      "end": 412.219
+    },
+    {
+      "id": 99,
+      "section": "dua_mubahila_day",
+      "start": 412.569,
+      "end": 416.203
+    },
+    {
+      "id": 100,
+      "section": "dua_mubahila_day",
+      "start": 416.553,
+      "end": 421.301
+    },
+    {
+      "id": 101,
+      "section": "dua_mubahila_day",
+      "start": 421.651,
+      "end": 423.811
+    },
+    {
+      "id": 102,
+      "section": "dua_mubahila_day",
+      "start": 424.161,
+      "end": 427.855
+    },
+    {
+      "id": 103,
+      "section": "dua_mubahila_day",
+      "start": 428.205,
+      "end": 432.315
+    },
+    {
+      "id": 104,
+      "section": "dua_mubahila_day",
+      "start": 432.665,
+      "end": 436.213
+    },
+    {
+      "id": 105,
+      "section": "dua_mubahila_day",
+      "start": 436.563,
+      "end": 440.539
+    },
+    {
+      "id": 106,
+      "section": "dua_mubahila_day",
+      "start": 440.889,
+      "end": 443.28
+    },
+    {
+      "id": 107,
+      "section": "dua_mubahila_day",
+      "start": 443.63,
+      "end": 447.851
+    },
+    {
+      "id": 108,
+      "section": "dua_mubahila_day",
+      "start": 448.201,
+      "end": 450.628
+    },
+    {
+      "id": 109,
+      "section": "dua_mubahila_day",
+      "start": 450.978,
+      "end": 452.731
+    },
+    {
+      "id": 110,
+      "section": "dua_mubahila_day",
+      "start": 453.081,
+      "end": 455.484
+    },
+    {
+      "id": 111,
+      "section": "dua_mubahila_day",
+      "start": 455.834,
+      "end": 457.146
+    },
+    {
+      "id": 112,
+      "section": "dua_mubahila_day",
+      "start": 457.496,
+      "end": 460.387
+    },
+    {
+      "id": 113,
+      "section": "dua_mubahila_day",
+      "start": 460.737,
+      "end": 464.011
+    },
+    {
+      "id": 114,
+      "section": "dua_mubahila_day",
+      "start": 464.361,
+      "end": 466.833
+    },
+    {
+      "id": 115,
+      "section": "dua_mubahila_day",
+      "start": 467.183,
+      "end": 471.36
+    },
+    {
+      "id": 116,
+      "section": "dua_mubahila_day",
+      "start": 471.71,
+      "end": 474.787
+    },
+    {
+      "id": 117,
+      "section": "dua_mubahila_day",
+      "start": 475.137,
+      "end": 479.699
+    },
+    {
+      "id": 118,
+      "section": "dua_mubahila_day",
+      "start": 480.049,
+      "end": 484.411
+    },
+    {
+      "id": 119,
+      "section": "dua_mubahila_day",
+      "start": 484.761,
+      "end": 487.071
+    },
+    {
+      "id": 120,
+      "section": "dua_mubahila_day",
+      "start": 487.421,
+      "end": 488.664
+    },
+    {
+      "id": 121,
+      "section": "dua_mubahila_day",
+      "start": 489.014,
+      "end": 493.076
+    },
+    {
+      "id": 122,
+      "section": "dua_mubahila_day",
+      "start": 493.426,
+      "end": 496.871
+    },
+    {
+      "id": 123,
+      "section": "dua_mubahila_day",
+      "start": 497.221,
+      "end": 500.512
+    },
+    {
+      "id": 124,
+      "section": "dua_mubahila_day",
+      "start": 500.862,
+      "end": 503.672
+    },
+    {
+      "id": 125,
+      "section": "dua_mubahila_day",
+      "start": 504.022,
+      "end": 506.263
+    },
+    {
+      "id": 126,
+      "section": "dua_mubahila_day",
+      "start": 506.613,
+      "end": 510.421
+    },
+    {
+      "id": 127,
+      "section": "dua_mubahila_day",
+      "start": 510.771,
+      "end": 513.22
+    },
+    {
+      "id": 128,
+      "section": "dua_mubahila_day",
+      "start": 513.57,
+      "end": 515.161
+    },
+    {
+      "id": 129,
+      "section": "dua_mubahila_day",
+      "start": 515.511,
+      "end": 519.595
+    },
+    {
+      "id": 130,
+      "section": "dua_mubahila_day",
+      "start": 519.945,
+      "end": 524.194
+    },
+    {
+      "id": 131,
+      "section": "dua_mubahila_day",
+      "start": 524.544,
+      "end": 528.979
+    },
+    {
+      "id": 132,
+      "section": "dua_mubahila_day",
+      "start": 529.329,
+      "end": 533.254
+    },
+    {
+      "id": 133,
+      "section": "dua_mubahila_day",
+      "start": 533.604,
+      "end": 535.624
+    },
+    {
+      "id": 134,
+      "section": "dua_mubahila_day",
+      "start": 535.974,
+      "end": 537.367
+    },
+    {
+      "id": 135,
+      "section": "dua_mubahila_day",
+      "start": 537.717,
+      "end": 539.122
+    },
+    {
+      "id": 136,
+      "section": "dua_mubahila_day",
+      "start": 539.472,
+      "end": 540.842
+    },
+    {
+      "id": 137,
+      "section": "dua_mubahila_day",
+      "start": 541.192,
+      "end": 542.469
+    },
+    {
+      "id": 138,
+      "section": "dua_mubahila_day",
+      "start": 542.819,
+      "end": 544.015
+    },
+    {
+      "id": 139,
+      "section": "dua_mubahila_day",
+      "start": 544.365,
+      "end": 546.187
+    },
+    {
+      "id": 140,
+      "section": "dua_mubahila_day",
+      "start": 546.537,
+      "end": 547.954
+    },
+    {
+      "id": 141,
+      "section": "dua_mubahila_day",
+      "start": 548.304,
+      "end": 550.289
+    },
+    {
+      "id": 142,
+      "section": "dua_mubahila_day",
+      "start": 550.639,
+      "end": 553.205
+    },
+    {
+      "id": 143,
+      "section": "dua_mubahila_day",
+      "start": 553.555,
+      "end": 554.495
+    },
+    {
+      "id": 144,
+      "section": "dua_mubahila_day",
+      "start": 554.845,
+      "end": 555.879
+    },
+    {
+      "id": 145,
+      "section": "dua_mubahila_day",
+      "start": 556.229,
+      "end": 557.25
+    },
+    {
+      "id": 146,
+      "section": "dua_mubahila_day",
+      "start": 557.6,
+      "end": 558.68
+    },
+    {
+      "id": 147,
+      "section": "dua_mubahila_day",
+      "start": 559.03,
+      "end": 559.97
+    },
+    {
+      "id": 148,
+      "section": "dua_mubahila_day",
+      "start": 560.32,
+      "end": 563.62
+    },
+    {
+      "id": 149,
+      "section": "dua_mubahila_day",
+      "start": 563.97,
+      "end": 566.466
+    },
+    {
+      "id": 150,
+      "section": "dua_mubahila_day",
+      "start": 566.816,
+      "end": 568.0
+    },
+    {
+      "id": 151,
+      "section": "dua_mubahila_day",
+      "start": 568.35,
+      "end": 569.859
+    },
+    {
+      "id": 152,
+      "section": "dua_mubahila_day",
+      "start": 570.209,
+      "end": 571.684
+    },
+    {
+      "id": 153,
+      "section": "dua_mubahila_day",
+      "start": 572.034,
+      "end": 573.833
+    },
+    {
+      "id": 154,
+      "section": "dua_mubahila_day",
+      "start": 574.183,
+      "end": 575.739
+    },
+    {
+      "id": 155,
+      "section": "dua_mubahila_day",
+      "start": 576.089,
+      "end": 577.912
+    },
+    {
+      "id": 156,
+      "section": "dua_mubahila_day",
+      "start": 578.262,
+      "end": 579.992
+    },
+    {
+      "id": 157,
+      "section": "dua_mubahila_day",
+      "start": 580.342,
+      "end": 581.677
+    },
+    {
+      "id": 158,
+      "section": "dua_mubahila_day",
+      "start": 582.027,
+      "end": 583.153
+    },
+    {
+      "id": 159,
+      "section": "dua_mubahila_day",
+      "start": 583.503,
+      "end": 585.512
+    },
+    {
+      "id": 160,
+      "section": "dua_mubahila_day",
+      "start": 585.862,
+      "end": 588.683
+    },
+    {
+      "id": 161,
+      "section": "dua_mubahila_day",
+      "start": 589.033,
+      "end": 589.915
+    },
+    {
+      "id": 162,
+      "section": "dua_mubahila_day",
+      "start": 590.265,
+      "end": 591.357
+    },
+    {
+      "id": 163,
+      "section": "dua_mubahila_day",
+      "start": 591.707,
+      "end": 592.705
+    },
+    {
+      "id": 164,
+      "section": "dua_mubahila_day",
+      "start": 593.055,
+      "end": 594.181
+    },
+    {
+      "id": 165,
+      "section": "dua_mubahila_day",
+      "start": 594.531,
+      "end": 595.483
+    },
+    {
+      "id": 166,
+      "section": "dua_mubahila_day",
+      "start": 595.833,
+      "end": 597.935
+    },
+    {
+      "id": 167,
+      "section": "dua_mubahila_day",
+      "start": 598.285,
+      "end": 600.293
+    },
+    {
+      "id": 168,
+      "section": "dua_mubahila_day",
+      "start": 600.643,
+      "end": 603.046
+    },
+    {
+      "id": 169,
+      "section": "dua_mubahila_day",
+      "start": 603.396,
+      "end": 605.556
+    },
+    {
+      "id": 170,
+      "section": "dua_mubahila_day",
+      "start": 605.906,
+      "end": 610.527
+    },
+    {
+      "id": 171,
+      "section": "dua_mubahila_day",
+      "start": 610.877,
+      "end": 614.847
+    },
+    {
+      "id": 172,
+      "section": "dua_mubahila_day",
+      "start": 615.197,
+      "end": 618.436
+    },
+    {
+      "id": 173,
+      "section": "dua_mubahila_day",
+      "start": 618.786,
+      "end": 622.711
+    },
+    {
+      "id": 174,
+      "section": "dua_mubahila_day",
+      "start": 623.061,
+      "end": 626.771
+    },
+    {
+      "id": 175,
+      "section": "dua_mubahila_day",
+      "start": 627.121,
+      "end": 630.027
+    },
+    {
+      "id": 176,
+      "section": "dua_mubahila_day",
+      "start": 630.377,
+      "end": 634.046
+    },
+    {
+      "id": 177,
+      "section": "dua_mubahila_day",
+      "start": 634.396,
+      "end": 637.101
+    },
+    {
+      "id": 178,
+      "section": "dua_mubahila_day",
+      "start": 637.451,
+      "end": 641.387
+    },
+    {
+      "id": 179,
+      "section": "dua_mubahila_day",
+      "start": 641.737,
+      "end": 645.765
+    },
+    {
+      "id": 180,
+      "section": "dua_mubahila_day",
+      "start": 646.115,
+      "end": 649.239
+    },
+    {
+      "id": 181,
+      "section": "dua_mubahila_day",
+      "start": 649.589,
+      "end": 653.188
+    },
+    {
+      "id": 182,
+      "section": "dua_mubahila_day",
+      "start": 653.538,
+      "end": 655.755
+    },
+    {
+      "id": 183,
+      "section": "dua_mubahila_day",
+      "start": 656.105,
+      "end": 658.95
+    },
+    {
+      "id": 184,
+      "section": "dua_mubahila_day",
+      "start": 659.3,
+      "end": 662.051
+    },
+    {
+      "id": 185,
+      "section": "dua_mubahila_day",
+      "start": 662.401,
+      "end": 665.385
+    },
+    {
+      "id": 186,
+      "section": "dua_mubahila_day",
+      "start": 665.735,
+      "end": 670.949
+    }
+  ]
+}

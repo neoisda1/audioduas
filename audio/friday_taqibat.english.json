@@ -1,0 +1,111 @@
+{
+  "dua_id": "friday_taqibat",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 56.803,
+  "bytes": 260687,
+  "sha256": "af8dee7fcfa4ab0add5b1b35ee140e252ba3282a15bb87db990439e5fd821fa7",
+  "lines": [
+    {
+      "id": 1,
+      "section": "friday_ghusl_imam_sadiq",
+      "start": 0.0,
+      "end": 2.415
+    },
+    {
+      "id": 2,
+      "section": "friday_ghusl_imam_sadiq",
+      "start": 2.765,
+      "end": 4.069
+    },
+    {
+      "id": 3,
+      "section": "friday_ghusl_imam_sadiq",
+      "start": 4.419,
+      "end": 7.914
+    },
+    {
+      "id": 4,
+      "section": "friday_ghusl_imam_sadiq",
+      "start": 8.264,
+      "end": 11.789
+    },
+    {
+      "id": 5,
+      "section": "friday_ghusl_imam_sadiq",
+      "start": 12.139,
+      "end": 14.485
+    },
+    {
+      "id": 6,
+      "section": "friday_ghusl_imam_sadiq",
+      "start": 14.835,
+      "end": 17.238
+    },
+    {
+      "id": 1,
+      "section": "friday_ghusl_imam_reza",
+      "start": 17.588,
+      "end": 21.309
+    },
+    {
+      "id": 2,
+      "section": "friday_ghusl_imam_reza",
+      "start": 21.659,
+      "end": 27.353
+    },
+    {
+      "id": 3,
+      "section": "friday_ghusl_imam_reza",
+      "start": 27.703,
+      "end": 30.578
+    },
+    {
+      "id": 1,
+      "section": "friday_great_salawat",
+      "start": 30.928,
+      "end": 35.988
+    },
+    {
+      "id": 2,
+      "section": "friday_great_salawat",
+      "start": 36.338,
+      "end": 40.031
+    },
+    {
+      "id": 3,
+      "section": "friday_great_salawat",
+      "start": 40.381,
+      "end": 42.981
+    },
+    {
+      "id": 1,
+      "section": "friday_etiquettes_nails",
+      "start": 43.331,
+      "end": 45.39
+    },
+    {
+      "id": 2,
+      "section": "friday_etiquettes_nails",
+      "start": 45.74,
+      "end": 49.003
+    },
+    {
+      "id": 1,
+      "section": "friday_imam_mahdi",
+      "start": 49.353,
+      "end": 53.036
+    },
+    {
+      "id": 2,
+      "section": "friday_imam_mahdi",
+      "start": 53.386,
+      "end": 56.453
+    }
+  ]
+}

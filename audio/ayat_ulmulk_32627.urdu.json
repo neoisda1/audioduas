@@ -1,0 +1,33 @@
+{
+  "dua_id": "ayat_ulmulk_32627",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 30.653,
+  "bytes": 130760,
+  "sha256": "a386eb3a7c013569d740af46d2d0c0d838a3820ffd462ad85bfcbfed99187a7f",
+  "lines": [
+    {
+      "id": 1,
+      "section": "ayat_ulmulk_32627",
+      "start": 0.0,
+      "end": 3.696
+    },
+    {
+      "id": 2,
+      "section": "ayat_ulmulk_32627",
+      "start": 4.046,
+      "end": 19.688
+    },
+    {
+      "id": 3,
+      "section": "ayat_ulmulk_32627",
+      "start": 20.038,
+      "end": 30.303
+    }
+  ]
+}

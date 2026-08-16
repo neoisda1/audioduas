@@ -1,0 +1,51 @@
+{
+  "dua_id": "dua_in_the_evening",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 21.876,
+  "bytes": 94325,
+  "sha256": "0966931332082f6915021dbeb6767f94a9ed5d0f8235570da05799f7161dea33",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_in_the_evening",
+      "start": 0.0,
+      "end": 4.264
+    },
+    {
+      "id": 2,
+      "section": "dua_in_the_evening",
+      "start": 4.614,
+      "end": 6.17
+    },
+    {
+      "id": 3,
+      "section": "dua_in_the_evening",
+      "start": 6.52,
+      "end": 7.878
+    },
+    {
+      "id": 4,
+      "section": "dua_in_the_evening",
+      "start": 8.228,
+      "end": 13.116
+    },
+    {
+      "id": 5,
+      "section": "dua_in_the_evening",
+      "start": 13.466,
+      "end": 18.111
+    },
+    {
+      "id": 6,
+      "section": "dua_in_the_evening",
+      "start": 18.461,
+      "end": 21.526
+    }
+  ]
+}

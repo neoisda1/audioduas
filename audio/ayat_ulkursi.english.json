@@ -1,0 +1,33 @@
+{
+  "dua_id": "ayat_ulkursi",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 50.444,
+  "bytes": 217414,
+  "sha256": "48d8eda048a537d8c0779ab976393d65b016ffa3746dec35e45b415e00af37f2",
+  "lines": [
+    {
+      "id": 1,
+      "section": "ayat_ulkursi",
+      "start": 0.0,
+      "end": 25.362
+    },
+    {
+      "id": 2,
+      "section": "ayat_ulkursi",
+      "start": 25.712,
+      "end": 37.891
+    },
+    {
+      "id": 3,
+      "section": "ayat_ulkursi",
+      "start": 38.241,
+      "end": 50.094
+    }
+  ]
+}

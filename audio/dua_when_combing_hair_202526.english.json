@@ -1,0 +1,33 @@
+{
+  "dua_id": "dua_when_combing_hair_202526",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 7.866,
+  "bytes": 35924,
+  "sha256": "f5e4d79c00c8ef90aa25ead7af3be7bd1e7bb457682acfc0ce5c289eeed4f5ce",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_combing_hair_202526",
+      "start": 0.0,
+      "end": 3.181
+    },
+    {
+      "id": 2,
+      "section": "dua_when_combing_hair_202526",
+      "start": 3.531,
+      "end": 5.622
+    },
+    {
+      "id": 3,
+      "section": "dua_when_combing_hair_202526",
+      "start": 5.972,
+      "end": 7.516
+    }
+  ]
+}

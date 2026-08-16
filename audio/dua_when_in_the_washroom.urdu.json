@@ -1,0 +1,57 @@
+{
+  "dua_id": "dua_when_in_the_washroom",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 17.179,
+  "bytes": 74883,
+  "sha256": "70eaebb86007a60ec03d672e31eb95815c57ffd9f95e344d4201e6e657c0bb7e",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_in_the_washroom",
+      "start": 0.0,
+      "end": 3.793
+    },
+    {
+      "id": 2,
+      "section": "dua_when_in_the_washroom",
+      "start": 4.143,
+      "end": 6.523
+    },
+    {
+      "id": 3,
+      "section": "dua_when_in_the_washroom",
+      "start": 6.873,
+      "end": 8.719
+    },
+    {
+      "id": 4,
+      "section": "dua_when_in_the_washroom",
+      "start": 9.069,
+      "end": 10.636
+    },
+    {
+      "id": 5,
+      "section": "dua_when_in_the_washroom",
+      "start": 10.986,
+      "end": 12.449
+    },
+    {
+      "id": 6,
+      "section": "dua_when_in_the_washroom",
+      "start": 12.799,
+      "end": 14.064
+    },
+    {
+      "id": 7,
+      "section": "dua_when_in_the_washroom",
+      "start": 14.414,
+      "end": 16.829
+    }
+  ]
+}

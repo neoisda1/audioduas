@@ -1,0 +1,33 @@
+{
+  "dua_id": "ayat_ulkursi",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 57.389,
+  "bytes": 237811,
+  "sha256": "ba87fd1151a14051b40634bd4fc0ccacab14b6dfda0e74d22c48e14fd0a77a89",
+  "lines": [
+    {
+      "id": 1,
+      "section": "ayat_ulkursi",
+      "start": 0.0,
+      "end": 28.733
+    },
+    {
+      "id": 2,
+      "section": "ayat_ulkursi",
+      "start": 29.083,
+      "end": 41.969
+    },
+    {
+      "id": 3,
+      "section": "ayat_ulkursi",
+      "start": 42.319,
+      "end": 57.039
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "dua_id": "sahifa_dua_6",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 339.101,
+  "bytes": 1485685,
+  "sha256": "aba4663e416e57bd5a5ad696011b5127aa016ecb6c11c5ef7b22553eeedf4e88",
+  "lines": [
+    {
+      "id": 1,
+      "section": "sahifa_dua_6",
+      "start": 0.0,
+      "end": 4.495
+    },
+    {
+      "id": 2,
+      "section": "sahifa_dua_6",
+      "start": 4.845,
+      "end": 7.457
+    },
+    {
+      "id": 3,
+      "section": "sahifa_dua_6",
+      "start": 7.807,
+      "end": 12.625
+    },
+    {
+      "id": 4,
+      "section": "sahifa_dua_6",
+      "start": 12.975,
+      "end": 24.803
+    },
+    {
+      "id": 5,
+      "section": "sahifa_dua_6",
+      "start": 25.153,
+      "end": 31.051
+    },
+    {
+      "id": 6,
+      "section": "sahifa_dua_6",
+      "start": 31.401,
+      "end": 36.127
+    },
+    {
+      "id": 7,
+      "section": "sahifa_dua_6",
+      "start": 36.477,
+      "end": 42.073
+    },
+    {
+      "id": 8,
+      "section": "sahifa_dua_6",
+      "start": 42.423,
+      "end": 46.61
+    },
+    {
+      "id": 9,
+      "section": "sahifa_dua_6",
+      "start": 46.96,
+      "end": 56.081
+    },
+    {
+      "id": 10,
+      "section": "sahifa_dua_6",
+      "start": 56.431,
+      "end": 67.356
+    },
+    {
+      "id": 11,
+      "section": "sahifa_dua_6",
+      "start": 67.706,
+      "end": 74.871
+    },
+    {
+      "id": 12,
+      "section": "sahifa_dua_6",
+      "start": 75.221,
+      "end": 88.992
+    },
+    {
+      "id": 13,
+      "section": "sahifa_dua_6",
+      "start": 89.342,
+      "end": 93.934
+    },
+    {
+      "id": 14,
+      "section": "sahifa_dua_6",
+      "start": 94.284,
+      "end": 107.651
+    },
+    {
+      "id": 15,
+      "section": "sahifa_dua_6",
+      "start": 108.001,
+      "end": 118.562
+    },
+    {
+      "id": 16,
+      "section": "sahifa_dua_6",
+      "start": 118.912,
+      "end": 126.565
+    },
+    {
+      "id": 17,
+      "section": "sahifa_dua_6",
+      "start": 126.915,
+      "end": 131.559
+    },
+    {
+      "id": 18,
+      "section": "sahifa_dua_6",
+      "start": 131.909,
+      "end": 138.376
+    },
+    {
+      "id": 19,
+      "section": "sahifa_dua_6",
+      "start": 138.726,
+      "end": 149.791
+    },
+    {
+      "id": 20,
+      "section": "sahifa_dua_6",
+      "start": 150.141,
+      "end": 155.389
+    },
+    {
+      "id": 21,
+      "section": "sahifa_dua_6",
+      "start": 155.739,
+      "end": 162.751
+    },
+    {
+      "id": 22,
+      "section": "sahifa_dua_6",
+      "start": 163.101,
+      "end": 169.231
+    },
+    {
+      "id": 23,
+      "section": "sahifa_dua_6",
+      "start": 169.581,
+      "end": 172.529
+    },
+    {
+      "id": 24,
+      "section": "sahifa_dua_6",
+      "start": 172.879,
+      "end": 176.583
+    },
+    {
+      "id": 25,
+      "section": "sahifa_dua_6",
+      "start": 176.933,
+      "end": 185.717
+    },
+    {
+      "id": 26,
+      "section": "sahifa_dua_6",
+      "start": 186.067,
+      "end": 197.609
+    },
+    {
+      "id": 27,
+      "section": "sahifa_dua_6",
+      "start": 197.959,
+      "end": 205.157
+    },
+    {
+      "id": 28,
+      "section": "sahifa_dua_6",
+      "start": 205.507,
+      "end": 215.287
+    },
+    {
+      "id": 29,
+      "section": "sahifa_dua_6",
+      "start": 215.637,
+      "end": 224.042
+    },
+    {
+      "id": 30,
+      "section": "sahifa_dua_6",
+      "start": 224.392,
+      "end": 235.16
+    },
+    {
+      "id": 31,
+      "section": "sahifa_dua_6",
+      "start": 235.51,
+      "end": 248.644
+    },
+    {
+      "id": 32,
+      "section": "sahifa_dua_6",
+      "start": 248.994,
+      "end": 256.002
+    },
+    {
+      "id": 33,
+      "section": "sahifa_dua_6",
+      "start": 256.352,
+      "end": 267.83
+    },
+    {
+      "id": 34,
+      "section": "sahifa_dua_6",
+      "start": 268.18,
+      "end": 283.893
+    },
+    {
+      "id": 35,
+      "section": "sahifa_dua_6",
+      "start": 284.243,
+      "end": 295.784
+    },
+    {
+      "id": 36,
+      "section": "sahifa_dua_6",
+      "start": 296.134,
+      "end": 308.542
+    },
+    {
+      "id": 37,
+      "section": "sahifa_dua_6",
+      "start": 308.892,
+      "end": 326.095
+    },
+    {
+      "id": 38,
+      "section": "sahifa_dua_6",
+      "start": 326.445,
+      "end": 338.751
+    }
+  ]
+}

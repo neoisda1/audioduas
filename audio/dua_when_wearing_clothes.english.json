@@ -1,0 +1,27 @@
+{
+  "dua_id": "dua_when_wearing_clothes",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 6.842,
+  "bytes": 29978,
+  "sha256": "d0adeb4d4b42e503f4a43b843c507822531c41ee4eb3557762e43ace552bdd49",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_wearing_clothes",
+      "start": 0.0,
+      "end": 3.646
+    },
+    {
+      "id": 2,
+      "section": "dua_when_wearing_clothes",
+      "start": 3.996,
+      "end": 6.492
+    }
+  ]
+}

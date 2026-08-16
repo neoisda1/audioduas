@@ -1,0 +1,309 @@
+{
+  "dua_id": "munajat_11_sahifat_sajjadiyyah",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 139.875,
+  "bytes": 673806,
+  "sha256": "4fcb14870fb016999aea8a17e19bde0efb6bc6c7ddc99635aa9c1a72f347e802",
+  "lines": [
+    {
+      "id": 1,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 0.0,
+      "end": 3.281
+    },
+    {
+      "id": 2,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 3.631,
+      "end": 6.412
+    },
+    {
+      "id": 3,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 6.762,
+      "end": 11.213
+    },
+    {
+      "id": 4,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 11.563,
+      "end": 15.267
+    },
+    {
+      "id": 5,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 15.617,
+      "end": 18.427
+    },
+    {
+      "id": 6,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 18.777,
+      "end": 21.888
+    },
+    {
+      "id": 7,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 22.238,
+      "end": 25.106
+    },
+    {
+      "id": 8,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 25.456,
+      "end": 28.881
+    },
+    {
+      "id": 9,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 29.231,
+      "end": 32.296
+    },
+    {
+      "id": 10,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 32.646,
+      "end": 35.78
+    },
+    {
+      "id": 11,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 36.13,
+      "end": 39.277
+    },
+    {
+      "id": 12,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 39.627,
+      "end": 42.786
+    },
+    {
+      "id": 13,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 43.136,
+      "end": 46.271
+    },
+    {
+      "id": 14,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 46.621,
+      "end": 50.383
+    },
+    {
+      "id": 15,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 50.733,
+      "end": 53.728
+    },
+    {
+      "id": 16,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 54.078,
+      "end": 56.841
+    },
+    {
+      "id": 17,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 57.191,
+      "end": 60.152
+    },
+    {
+      "id": 18,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 60.502,
+      "end": 63.439
+    },
+    {
+      "id": 19,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 63.789,
+      "end": 66.61
+    },
+    {
+      "id": 20,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 66.96,
+      "end": 70.037
+    },
+    {
+      "id": 21,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 70.387,
+      "end": 73.789
+    },
+    {
+      "id": 22,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 74.139,
+      "end": 75.973
+    },
+    {
+      "id": 23,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 76.323,
+      "end": 78.274
+    },
+    {
+      "id": 24,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 78.624,
+      "end": 80.76
+    },
+    {
+      "id": 25,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 81.11,
+      "end": 83.002
+    },
+    {
+      "id": 26,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 83.352,
+      "end": 85.001
+    },
+    {
+      "id": 27,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 85.351,
+      "end": 86.953
+    },
+    {
+      "id": 28,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 87.303,
+      "end": 89.741
+    },
+    {
+      "id": 29,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 90.091,
+      "end": 91.682
+    },
+    {
+      "id": 30,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 92.032,
+      "end": 93.309
+    },
+    {
+      "id": 31,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 93.659,
+      "end": 95.575
+    },
+    {
+      "id": 32,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 95.925,
+      "end": 98.363
+    },
+    {
+      "id": 33,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 98.713,
+      "end": 100.64
+    },
+    {
+      "id": 34,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 100.99,
+      "end": 102.906
+    },
+    {
+      "id": 35,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 103.256,
+      "end": 105.264
+    },
+    {
+      "id": 36,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 105.614,
+      "end": 108.017
+    },
+    {
+      "id": 37,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 108.367,
+      "end": 110.678
+    },
+    {
+      "id": 38,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 111.028,
+      "end": 113.965
+    },
+    {
+      "id": 39,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 114.315,
+      "end": 116.718
+    },
+    {
+      "id": 40,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 117.068,
+      "end": 119.797
+    },
+    {
+      "id": 41,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 120.147,
+      "end": 121.935
+    },
+    {
+      "id": 42,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 122.285,
+      "end": 124.014
+    },
+    {
+      "id": 43,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 124.364,
+      "end": 126.676
+    },
+    {
+      "id": 44,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 127.026,
+      "end": 128.024
+    },
+    {
+      "id": 45,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 128.374,
+      "end": 129.57
+    },
+    {
+      "id": 46,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 129.92,
+      "end": 132.219
+    },
+    {
+      "id": 47,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 132.569,
+      "end": 134.903
+    },
+    {
+      "id": 48,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 135.253,
+      "end": 137.178
+    },
+    {
+      "id": 49,
+      "section": "munajat_11_sahifat_sajjadiyyah",
+      "start": 137.528,
+      "end": 139.525
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "dua_id": "ayat_ulmulk_32627",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 26.968,
+  "bytes": 115331,
+  "sha256": "022a50cf73aff059681d1bdd02374f2bed016890db8f5f6fc219f2744ddfe4e7",
+  "lines": [
+    {
+      "id": 1,
+      "section": "ayat_ulmulk_32627",
+      "start": 0.0,
+      "end": 2.875
+    },
+    {
+      "id": 2,
+      "section": "ayat_ulmulk_32627",
+      "start": 3.225,
+      "end": 16.636
+    },
+    {
+      "id": 3,
+      "section": "ayat_ulmulk_32627",
+      "start": 16.986,
+      "end": 26.618
+    }
+  ]
+}

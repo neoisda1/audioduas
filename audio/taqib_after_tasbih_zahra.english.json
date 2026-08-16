@@ -1,0 +1,165 @@
+{
+  "dua_id": "taqib_after_tasbih_zahra",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 77.518,
+  "bytes": 369373,
+  "sha256": "c7981924b854d24ec2343f4790ee42017d3674668b27b5d83fea69ed4701771f",
+  "lines": [
+    {
+      "id": 1,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 0.0,
+      "end": 1.975
+    },
+    {
+      "id": 2,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 2.325,
+      "end": 3.572
+    },
+    {
+      "id": 3,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 3.922,
+      "end": 4.978
+    },
+    {
+      "id": 4,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 5.328,
+      "end": 6.965
+    },
+    {
+      "id": 5,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 7.315,
+      "end": 10.623
+    },
+    {
+      "id": 6,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 10.973,
+      "end": 12.379
+    },
+    {
+      "id": 7,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 12.729,
+      "end": 15.296
+    },
+    {
+      "id": 8,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 15.646,
+      "end": 17.541
+    },
+    {
+      "id": 9,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 17.891,
+      "end": 20.328
+    },
+    {
+      "id": 10,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 20.678,
+      "end": 23.537
+    },
+    {
+      "id": 11,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 23.887,
+      "end": 27.401
+    },
+    {
+      "id": 12,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 27.751,
+      "end": 30.921
+    },
+    {
+      "id": 13,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 31.271,
+      "end": 34.072
+    },
+    {
+      "id": 14,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 34.422,
+      "end": 36.62
+    },
+    {
+      "id": 15,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 36.97,
+      "end": 39.304
+    },
+    {
+      "id": 16,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 39.654,
+      "end": 43.52
+    },
+    {
+      "id": 17,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 43.87,
+      "end": 48.164
+    },
+    {
+      "id": 18,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 48.514,
+      "end": 51.659
+    },
+    {
+      "id": 19,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 52.009,
+      "end": 55.599
+    },
+    {
+      "id": 20,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 55.949,
+      "end": 58.703
+    },
+    {
+      "id": 21,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 59.053,
+      "end": 62.117
+    },
+    {
+      "id": 22,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 62.467,
+      "end": 65.043
+    },
+    {
+      "id": 23,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 65.393,
+      "end": 69.568
+    },
+    {
+      "id": 24,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 69.918,
+      "end": 74.798
+    },
+    {
+      "id": 25,
+      "section": "taqib_after_tasbih_zahra",
+      "start": 75.148,
+      "end": 77.168
+    }
+  ]
+}

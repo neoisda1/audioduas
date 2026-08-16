@@ -1,0 +1,51 @@
+{
+  "dua_id": "dua_when_wearing_new_clothes",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 22.858,
+  "bytes": 102873,
+  "sha256": "e7151e4526cde729a52990de76064cc245e2032f3134e0b4c0cd4609eaa1d4db",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_wearing_new_clothes",
+      "start": 0.0,
+      "end": 4.621
+    },
+    {
+      "id": 2,
+      "section": "dua_when_wearing_new_clothes",
+      "start": 4.971,
+      "end": 8.744
+    },
+    {
+      "id": 3,
+      "section": "dua_when_wearing_new_clothes",
+      "start": 9.094,
+      "end": 10.928
+    },
+    {
+      "id": 4,
+      "section": "dua_when_wearing_new_clothes",
+      "start": 11.278,
+      "end": 13.484
+    },
+    {
+      "id": 5,
+      "section": "dua_when_wearing_new_clothes",
+      "start": 13.834,
+      "end": 18.977
+    },
+    {
+      "id": 6,
+      "section": "dua_when_wearing_new_clothes",
+      "start": 19.327,
+      "end": 22.508
+    }
+  ]
+}

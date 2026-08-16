@@ -1,0 +1,1209 @@
+{
+  "dua_id": "taqibat_fajr_combined",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 682.554,
+  "bytes": 3201099,
+  "sha256": "95c24b3f6e4fce04881cb94bac3f2dc80a6a806c47a57be9f5680da897968696",
+  "lines": [
+    {
+      "id": 1,
+      "section": "fajr_misbah",
+      "start": 0.0,
+      "end": 3.651
+    },
+    {
+      "id": 2,
+      "section": "fajr_misbah",
+      "start": 4.001,
+      "end": 6.237
+    },
+    {
+      "id": 3,
+      "section": "fajr_misbah",
+      "start": 6.587,
+      "end": 8.852
+    },
+    {
+      "id": 1,
+      "section": "fajr_blessings_successors",
+      "start": 9.202,
+      "end": 12.833
+    },
+    {
+      "id": 2,
+      "section": "fajr_blessings_successors",
+      "start": 13.183,
+      "end": 16.011
+    },
+    {
+      "id": 3,
+      "section": "fajr_blessings_successors",
+      "start": 16.361,
+      "end": 18.23
+    },
+    {
+      "id": 4,
+      "section": "fajr_blessings_successors",
+      "start": 18.58,
+      "end": 20.902
+    },
+    {
+      "id": 5,
+      "section": "fajr_blessings_successors",
+      "start": 21.252,
+      "end": 22.75
+    },
+    {
+      "id": 6,
+      "section": "fajr_blessings_successors",
+      "start": 23.1,
+      "end": 25.166
+    },
+    {
+      "id": 7,
+      "section": "fajr_blessings_successors",
+      "start": 25.516,
+      "end": 27.885
+    },
+    {
+      "id": 1,
+      "section": "fajr_imam_ali_conduct",
+      "start": 28.235,
+      "end": 32.074
+    },
+    {
+      "id": 2,
+      "section": "fajr_imam_ali_conduct",
+      "start": 32.424,
+      "end": 36.248
+    },
+    {
+      "id": 1,
+      "section": "fajr_ten_statements",
+      "start": 36.598,
+      "end": 39.211
+    },
+    {
+      "id": 2,
+      "section": "fajr_ten_statements",
+      "start": 39.561,
+      "end": 41.457
+    },
+    {
+      "id": 3,
+      "section": "fajr_ten_statements",
+      "start": 41.807,
+      "end": 44.083
+    },
+    {
+      "id": 4,
+      "section": "fajr_ten_statements",
+      "start": 44.433,
+      "end": 46.221
+    },
+    {
+      "id": 5,
+      "section": "fajr_ten_statements",
+      "start": 46.571,
+      "end": 49.624
+    },
+    {
+      "id": 6,
+      "section": "fajr_ten_statements",
+      "start": 49.974,
+      "end": 52.771
+    },
+    {
+      "id": 7,
+      "section": "fajr_ten_statements",
+      "start": 53.121,
+      "end": 56.629
+    },
+    {
+      "id": 8,
+      "section": "fajr_ten_statements",
+      "start": 56.979,
+      "end": 62.93
+    },
+    {
+      "id": 9,
+      "section": "fajr_ten_statements",
+      "start": 63.28,
+      "end": 67.683
+    },
+    {
+      "id": 1,
+      "section": "fajr_protection_dawn",
+      "start": 68.033,
+      "end": 71.161
+    },
+    {
+      "id": 2,
+      "section": "fajr_protection_dawn",
+      "start": 71.511,
+      "end": 74.844
+    },
+    {
+      "id": 1,
+      "section": "fajr_shield_sadiq",
+      "start": 75.194,
+      "end": 78.104
+    },
+    {
+      "id": 2,
+      "section": "fajr_shield_sadiq",
+      "start": 78.454,
+      "end": 81.636
+    },
+    {
+      "id": 1,
+      "section": "fajr_light_certainty",
+      "start": 81.986,
+      "end": 85.544
+    },
+    {
+      "id": 2,
+      "section": "fajr_light_certainty",
+      "start": 85.894,
+      "end": 89.086
+    },
+    {
+      "id": 3,
+      "section": "fajr_light_certainty",
+      "start": 89.436,
+      "end": 91.397
+    },
+    {
+      "id": 4,
+      "section": "fajr_light_certainty",
+      "start": 91.747,
+      "end": 93.604
+    },
+    {
+      "id": 5,
+      "section": "fajr_light_certainty",
+      "start": 93.954,
+      "end": 95.777
+    },
+    {
+      "id": 6,
+      "section": "fajr_light_certainty",
+      "start": 96.127,
+      "end": 98.31
+    },
+    {
+      "id": 7,
+      "section": "fajr_light_certainty",
+      "start": 98.66,
+      "end": 100.645
+    },
+    {
+      "id": 8,
+      "section": "fajr_light_certainty",
+      "start": 100.995,
+      "end": 103.491
+    },
+    {
+      "id": 9,
+      "section": "fajr_light_certainty",
+      "start": 103.841,
+      "end": 106.6
+    },
+    {
+      "id": 1,
+      "section": "fajr_relief_freedom",
+      "start": 106.95,
+      "end": 111.406
+    },
+    {
+      "id": 2,
+      "section": "fajr_relief_freedom",
+      "start": 111.756,
+      "end": 117.812
+    },
+    {
+      "id": 1,
+      "section": "fajr_name_honor",
+      "start": 118.162,
+      "end": 120.008
+    },
+    {
+      "id": 1,
+      "section": "fajr_prayer_abundance",
+      "start": 120.358,
+      "end": 125.033
+    },
+    {
+      "id": 1,
+      "section": "fajr_ya_fattah",
+      "start": 125.383,
+      "end": 126.064
+    },
+    {
+      "id": 1,
+      "section": "fajr_tawakkaltu",
+      "start": 126.414,
+      "end": 128.933
+    },
+    {
+      "id": 2,
+      "section": "fajr_tawakkaltu",
+      "start": 129.283,
+      "end": 132.313
+    },
+    {
+      "id": 3,
+      "section": "fajr_tawakkaltu",
+      "start": 132.663,
+      "end": 135.357
+    },
+    {
+      "id": 4,
+      "section": "fajr_tawakkaltu",
+      "start": 135.707,
+      "end": 137.536
+    },
+    {
+      "id": 5,
+      "section": "fajr_tawakkaltu",
+      "start": 137.886,
+      "end": 140.649
+    },
+    {
+      "id": 6,
+      "section": "fajr_tawakkaltu",
+      "start": 140.999,
+      "end": 143.298
+    },
+    {
+      "id": 1,
+      "section": "dua_after_subh_1",
+      "start": 143.648,
+      "end": 146.765
+    },
+    {
+      "id": 2,
+      "section": "dua_after_subh_1",
+      "start": 147.115,
+      "end": 150.849
+    },
+    {
+      "id": 3,
+      "section": "dua_after_subh_1",
+      "start": 151.199,
+      "end": 152.453
+    },
+    {
+      "id": 4,
+      "section": "dua_after_subh_1",
+      "start": 152.803,
+      "end": 155.404
+    },
+    {
+      "id": 5,
+      "section": "dua_after_subh_1",
+      "start": 155.754,
+      "end": 157.623
+    },
+    {
+      "id": 6,
+      "section": "dua_after_subh_1",
+      "start": 157.973,
+      "end": 160.293
+    },
+    {
+      "id": 7,
+      "section": "dua_after_subh_1",
+      "start": 160.643,
+      "end": 163.569
+    },
+    {
+      "id": 8,
+      "section": "dua_after_subh_1",
+      "start": 163.919,
+      "end": 166.101
+    },
+    {
+      "id": 9,
+      "section": "dua_after_subh_1",
+      "start": 166.451,
+      "end": 168.647
+    },
+    {
+      "id": 10,
+      "section": "dua_after_subh_1",
+      "start": 168.997,
+      "end": 171.737
+    },
+    {
+      "id": 11,
+      "section": "dua_after_subh_1",
+      "start": 172.087,
+      "end": 173.991
+    },
+    {
+      "id": 12,
+      "section": "dua_after_subh_1",
+      "start": 174.341,
+      "end": 177.36
+    },
+    {
+      "id": 13,
+      "section": "dua_after_subh_1",
+      "start": 177.71,
+      "end": 180.357
+    },
+    {
+      "id": 14,
+      "section": "dua_after_subh_1",
+      "start": 180.707,
+      "end": 181.845
+    },
+    {
+      "id": 15,
+      "section": "dua_after_subh_1",
+      "start": 182.195,
+      "end": 183.518
+    },
+    {
+      "id": 16,
+      "section": "dua_after_subh_1",
+      "start": 183.868,
+      "end": 186.248
+    },
+    {
+      "id": 17,
+      "section": "dua_after_subh_1",
+      "start": 186.598,
+      "end": 188.994
+    },
+    {
+      "id": 18,
+      "section": "dua_after_subh_1",
+      "start": 189.344,
+      "end": 192.247
+    },
+    {
+      "id": 19,
+      "section": "dua_after_subh_1",
+      "start": 192.597,
+      "end": 195.07
+    },
+    {
+      "id": 20,
+      "section": "dua_after_subh_1",
+      "start": 195.42,
+      "end": 198.241
+    },
+    {
+      "id": 21,
+      "section": "dua_after_subh_1",
+      "start": 198.591,
+      "end": 202.051
+    },
+    {
+      "id": 22,
+      "section": "dua_after_subh_1",
+      "start": 202.401,
+      "end": 204.79
+    },
+    {
+      "id": 23,
+      "section": "dua_after_subh_1",
+      "start": 205.14,
+      "end": 207.508
+    },
+    {
+      "id": 24,
+      "section": "dua_after_subh_1",
+      "start": 207.858,
+      "end": 210.679
+    },
+    {
+      "id": 25,
+      "section": "dua_after_subh_1",
+      "start": 211.029,
+      "end": 215.72
+    },
+    {
+      "id": 26,
+      "section": "dua_after_subh_1",
+      "start": 216.07,
+      "end": 218.619
+    },
+    {
+      "id": 27,
+      "section": "dua_after_subh_1",
+      "start": 218.969,
+      "end": 220.199
+    },
+    {
+      "id": 28,
+      "section": "dua_after_subh_1",
+      "start": 220.549,
+      "end": 222.442
+    },
+    {
+      "id": 1,
+      "section": "fajr_four_praises",
+      "start": 222.792,
+      "end": 226.915
+    },
+    {
+      "id": 2,
+      "section": "fajr_four_praises",
+      "start": 227.265,
+      "end": 232.444
+    },
+    {
+      "id": 3,
+      "section": "fajr_four_praises",
+      "start": 232.794,
+      "end": 238.156
+    },
+    {
+      "id": 4,
+      "section": "fajr_four_praises",
+      "start": 238.506,
+      "end": 243.332
+    },
+    {
+      "id": 1,
+      "section": "fajr_fatima_tahlil",
+      "start": 243.682,
+      "end": 253.457
+    },
+    {
+      "id": 1,
+      "section": "fajr_hijrah_refuge",
+      "start": 253.807,
+      "end": 257.777
+    },
+    {
+      "id": 2,
+      "section": "fajr_hijrah_refuge",
+      "start": 258.127,
+      "end": 260.46
+    },
+    {
+      "id": 3,
+      "section": "fajr_hijrah_refuge",
+      "start": 260.81,
+      "end": 263.927
+    },
+    {
+      "id": 4,
+      "section": "fajr_hijrah_refuge",
+      "start": 264.277,
+      "end": 267.238
+    },
+    {
+      "id": 5,
+      "section": "fajr_hijrah_refuge",
+      "start": 267.588,
+      "end": 269.911
+    },
+    {
+      "id": 6,
+      "section": "fajr_hijrah_refuge",
+      "start": 270.261,
+      "end": 272.088
+    },
+    {
+      "id": 7,
+      "section": "fajr_hijrah_refuge",
+      "start": 272.438,
+      "end": 273.525
+    },
+    {
+      "id": 8,
+      "section": "fajr_hijrah_refuge",
+      "start": 273.875,
+      "end": 276.081
+    },
+    {
+      "id": 9,
+      "section": "fajr_hijrah_refuge",
+      "start": 276.431,
+      "end": 278.627
+    },
+    {
+      "id": 10,
+      "section": "fajr_hijrah_refuge",
+      "start": 278.977,
+      "end": 280.637
+    },
+    {
+      "id": 11,
+      "section": "fajr_hijrah_refuge",
+      "start": 280.987,
+      "end": 283.065
+    },
+    {
+      "id": 12,
+      "section": "fajr_hijrah_refuge",
+      "start": 283.415,
+      "end": 284.975
+    },
+    {
+      "id": 13,
+      "section": "fajr_hijrah_refuge",
+      "start": 285.325,
+      "end": 287.476
+    },
+    {
+      "id": 14,
+      "section": "fajr_hijrah_refuge",
+      "start": 287.826,
+      "end": 289.138
+    },
+    {
+      "id": 15,
+      "section": "fajr_hijrah_refuge",
+      "start": 289.488,
+      "end": 291.554
+    },
+    {
+      "id": 16,
+      "section": "fajr_hijrah_refuge",
+      "start": 291.904,
+      "end": 294.574
+    },
+    {
+      "id": 17,
+      "section": "fajr_hijrah_refuge",
+      "start": 294.924,
+      "end": 296.944
+    },
+    {
+      "id": 18,
+      "section": "fajr_hijrah_refuge",
+      "start": 297.294,
+      "end": 300.163
+    },
+    {
+      "id": 19,
+      "section": "fajr_hijrah_refuge",
+      "start": 300.513,
+      "end": 304.28
+    },
+    {
+      "id": 20,
+      "section": "fajr_hijrah_refuge",
+      "start": 304.63,
+      "end": 306.51
+    },
+    {
+      "id": 21,
+      "section": "fajr_hijrah_refuge",
+      "start": 306.86,
+      "end": 308.102
+    },
+    {
+      "id": 22,
+      "section": "fajr_hijrah_refuge",
+      "start": 308.452,
+      "end": 310.917
+    },
+    {
+      "id": 1,
+      "section": "fajr_aslih_li",
+      "start": 311.267,
+      "end": 314.838
+    },
+    {
+      "id": 2,
+      "section": "fajr_aslih_li",
+      "start": 315.188,
+      "end": 318.688
+    },
+    {
+      "id": 3,
+      "section": "fajr_aslih_li",
+      "start": 319.038,
+      "end": 322.632
+    },
+    {
+      "id": 4,
+      "section": "fajr_aslih_li",
+      "start": 322.982,
+      "end": 327.869
+    },
+    {
+      "id": 1,
+      "section": "fajr_la_mania",
+      "start": 328.219,
+      "end": 336.025
+    },
+    {
+      "id": 1,
+      "section": "fajr_matti_ni",
+      "start": 336.375,
+      "end": 342.783
+    },
+    {
+      "id": 1,
+      "section": "fajr_hamm_huzn",
+      "start": 343.133,
+      "end": 346.199
+    },
+    {
+      "id": 2,
+      "section": "fajr_hamm_huzn",
+      "start": 346.549,
+      "end": 349.738
+    },
+    {
+      "id": 3,
+      "section": "fajr_hamm_huzn",
+      "start": 350.088,
+      "end": 352.812
+    },
+    {
+      "id": 4,
+      "section": "fajr_hamm_huzn",
+      "start": 353.162,
+      "end": 355.875
+    },
+    {
+      "id": 5,
+      "section": "fajr_hamm_huzn",
+      "start": 356.225,
+      "end": 358.836
+    },
+    {
+      "id": 6,
+      "section": "fajr_hamm_huzn",
+      "start": 359.186,
+      "end": 362.356
+    },
+    {
+      "id": 7,
+      "section": "fajr_hamm_huzn",
+      "start": 362.706,
+      "end": 365.762
+    },
+    {
+      "id": 8,
+      "section": "fajr_hamm_huzn",
+      "start": 366.112,
+      "end": 369.915
+    },
+    {
+      "id": 9,
+      "section": "fajr_hamm_huzn",
+      "start": 370.265,
+      "end": 374.073
+    },
+    {
+      "id": 10,
+      "section": "fajr_hamm_huzn",
+      "start": 374.423,
+      "end": 377.977
+    },
+    {
+      "id": 11,
+      "section": "fajr_hamm_huzn",
+      "start": 378.327,
+      "end": 381.415
+    },
+    {
+      "id": 12,
+      "section": "fajr_hamm_huzn",
+      "start": 381.765,
+      "end": 384.546
+    },
+    {
+      "id": 13,
+      "section": "fajr_hamm_huzn",
+      "start": 384.896,
+      "end": 389.309
+    },
+    {
+      "id": 14,
+      "section": "fajr_hamm_huzn",
+      "start": 389.659,
+      "end": 393.934
+    },
+    {
+      "id": 1,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 394.284,
+      "end": 398.517
+    },
+    {
+      "id": 2,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 398.867,
+      "end": 402.348
+    },
+    {
+      "id": 3,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 402.698,
+      "end": 404.477
+    },
+    {
+      "id": 4,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 404.827,
+      "end": 407.996
+    },
+    {
+      "id": 5,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 408.346,
+      "end": 411.995
+    },
+    {
+      "id": 6,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 412.345,
+      "end": 415.413
+    },
+    {
+      "id": 7,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 415.763,
+      "end": 419.242
+    },
+    {
+      "id": 8,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 419.592,
+      "end": 422.867
+    },
+    {
+      "id": 9,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 423.217,
+      "end": 426.066
+    },
+    {
+      "id": 10,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 426.416,
+      "end": 430.523
+    },
+    {
+      "id": 11,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 430.873,
+      "end": 433.838
+    },
+    {
+      "id": 12,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 434.188,
+      "end": 437.845
+    },
+    {
+      "id": 13,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 438.195,
+      "end": 442.307
+    },
+    {
+      "id": 14,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 442.657,
+      "end": 447.374
+    },
+    {
+      "id": 15,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 447.724,
+      "end": 451.613
+    },
+    {
+      "id": 16,
+      "section": "fajr_kun_li_waliyyika",
+      "start": 451.963,
+      "end": 456.478
+    },
+    {
+      "id": 1,
+      "section": "fajr_hadhihi_salati",
+      "start": 456.828,
+      "end": 460.851
+    },
+    {
+      "id": 2,
+      "section": "fajr_hadhihi_salati",
+      "start": 461.201,
+      "end": 465.644
+    },
+    {
+      "id": 3,
+      "section": "fajr_hadhihi_salati",
+      "start": 465.994,
+      "end": 468.769
+    },
+    {
+      "id": 4,
+      "section": "fajr_hadhihi_salati",
+      "start": 469.119,
+      "end": 471.981
+    },
+    {
+      "id": 5,
+      "section": "fajr_hadhihi_salati",
+      "start": 472.331,
+      "end": 474.203
+    },
+    {
+      "id": 6,
+      "section": "fajr_hadhihi_salati",
+      "start": 474.553,
+      "end": 478.192
+    },
+    {
+      "id": 7,
+      "section": "fajr_hadhihi_salati",
+      "start": 478.542,
+      "end": 481.033
+    },
+    {
+      "id": 1,
+      "section": "fajr_amsaytu",
+      "start": 481.383,
+      "end": 486.608
+    },
+    {
+      "id": 2,
+      "section": "fajr_amsaytu",
+      "start": 486.958,
+      "end": 490.205
+    },
+    {
+      "id": 3,
+      "section": "fajr_amsaytu",
+      "start": 490.555,
+      "end": 498.026
+    },
+    {
+      "id": 4,
+      "section": "fajr_amsaytu",
+      "start": 498.376,
+      "end": 505.155
+    },
+    {
+      "id": 5,
+      "section": "fajr_amsaytu",
+      "start": 505.505,
+      "end": 510.622
+    },
+    {
+      "id": 6,
+      "section": "fajr_amsaytu",
+      "start": 510.972,
+      "end": 515.419
+    },
+    {
+      "id": 7,
+      "section": "fajr_amsaytu",
+      "start": 515.769,
+      "end": 519.403
+    },
+    {
+      "id": 8,
+      "section": "fajr_amsaytu",
+      "start": 519.753,
+      "end": 524.555
+    },
+    {
+      "id": 9,
+      "section": "fajr_amsaytu",
+      "start": 524.905,
+      "end": 527.378
+    },
+    {
+      "id": 10,
+      "section": "fajr_amsaytu",
+      "start": 527.728,
+      "end": 530.282
+    },
+    {
+      "id": 1,
+      "section": "fajr_aqeeq",
+      "start": 530.632,
+      "end": 541.496
+    },
+    {
+      "id": 1,
+      "section": "fajr_sajda_shukr",
+      "start": 541.846,
+      "end": 544.933
+    },
+    {
+      "id": 2,
+      "section": "fajr_sajda_shukr",
+      "start": 545.283,
+      "end": 549.071
+    },
+    {
+      "id": 3,
+      "section": "fajr_sajda_shukr",
+      "start": 549.421,
+      "end": 551.782
+    },
+    {
+      "id": 4,
+      "section": "fajr_sajda_shukr",
+      "start": 552.132,
+      "end": 554.343
+    },
+    {
+      "id": 5,
+      "section": "fajr_sajda_shukr",
+      "start": 554.693,
+      "end": 556.876
+    },
+    {
+      "id": 6,
+      "section": "fajr_sajda_shukr",
+      "start": 557.226,
+      "end": 559.338
+    },
+    {
+      "id": 7,
+      "section": "fajr_sajda_shukr",
+      "start": 559.688,
+      "end": 562.173
+    },
+    {
+      "id": 8,
+      "section": "fajr_sajda_shukr",
+      "start": 562.523,
+      "end": 566.027
+    },
+    {
+      "id": 9,
+      "section": "fajr_sajda_shukr",
+      "start": 566.377,
+      "end": 569.141
+    },
+    {
+      "id": 10,
+      "section": "fajr_sajda_shukr",
+      "start": 569.491,
+      "end": 571.836
+    },
+    {
+      "id": 11,
+      "section": "fajr_sajda_shukr",
+      "start": 572.186,
+      "end": 575.696
+    },
+    {
+      "id": 12,
+      "section": "fajr_sajda_shukr",
+      "start": 576.046,
+      "end": 577.253
+    },
+    {
+      "id": 13,
+      "section": "fajr_sajda_shukr",
+      "start": 577.603,
+      "end": 580.198
+    },
+    {
+      "id": 14,
+      "section": "fajr_sajda_shukr",
+      "start": 580.548,
+      "end": 584.417
+    },
+    {
+      "id": 15,
+      "section": "fajr_sajda_shukr",
+      "start": 584.767,
+      "end": 586.928
+    },
+    {
+      "id": 16,
+      "section": "fajr_sajda_shukr",
+      "start": 587.278,
+      "end": 589.774
+    },
+    {
+      "id": 17,
+      "section": "fajr_sajda_shukr",
+      "start": 590.124,
+      "end": 593.693
+    },
+    {
+      "id": 18,
+      "section": "fajr_sajda_shukr",
+      "start": 594.043,
+      "end": 596.329
+    },
+    {
+      "id": 19,
+      "section": "fajr_sajda_shukr",
+      "start": 596.679,
+      "end": 599.686
+    },
+    {
+      "id": 20,
+      "section": "fajr_sajda_shukr",
+      "start": 600.036,
+      "end": 604.05
+    },
+    {
+      "id": 1,
+      "section": "dua_after_subh_2",
+      "start": 604.4,
+      "end": 607.649
+    },
+    {
+      "id": 2,
+      "section": "dua_after_subh_2",
+      "start": 607.999,
+      "end": 611.649
+    },
+    {
+      "id": 3,
+      "section": "dua_after_subh_2",
+      "start": 611.999,
+      "end": 614.901
+    },
+    {
+      "id": 4,
+      "section": "dua_after_subh_2",
+      "start": 615.251,
+      "end": 617.981
+    },
+    {
+      "id": 5,
+      "section": "dua_after_subh_2",
+      "start": 618.331,
+      "end": 620.814
+    },
+    {
+      "id": 6,
+      "section": "dua_after_subh_2",
+      "start": 621.164,
+      "end": 624.429
+    },
+    {
+      "id": 7,
+      "section": "dua_after_subh_2",
+      "start": 624.779,
+      "end": 626.826
+    },
+    {
+      "id": 8,
+      "section": "dua_after_subh_2",
+      "start": 627.176,
+      "end": 630.431
+    },
+    {
+      "id": 9,
+      "section": "dua_after_subh_2",
+      "start": 630.781,
+      "end": 632.786
+    },
+    {
+      "id": 10,
+      "section": "dua_after_subh_2",
+      "start": 633.136,
+      "end": 636.348
+    },
+    {
+      "id": 11,
+      "section": "dua_after_subh_2",
+      "start": 636.698,
+      "end": 638.73
+    },
+    {
+      "id": 12,
+      "section": "dua_after_subh_2",
+      "start": 639.08,
+      "end": 640.647
+    },
+    {
+      "id": 13,
+      "section": "dua_after_subh_2",
+      "start": 640.997,
+      "end": 643.145
+    },
+    {
+      "id": 14,
+      "section": "dua_after_subh_2",
+      "start": 643.495,
+      "end": 645.875
+    },
+    {
+      "id": 15,
+      "section": "dua_after_subh_2",
+      "start": 646.225,
+      "end": 649.406
+    },
+    {
+      "id": 16,
+      "section": "dua_after_subh_2",
+      "start": 649.756,
+      "end": 651.915
+    },
+    {
+      "id": 17,
+      "section": "dua_after_subh_2",
+      "start": 652.265,
+      "end": 655.319
+    },
+    {
+      "id": 18,
+      "section": "dua_after_subh_2",
+      "start": 655.669,
+      "end": 658.584
+    },
+    {
+      "id": 19,
+      "section": "dua_after_subh_2",
+      "start": 658.934,
+      "end": 661.601
+    },
+    {
+      "id": 20,
+      "section": "dua_after_subh_2",
+      "start": 661.951,
+      "end": 664.123
+    },
+    {
+      "id": 1,
+      "section": "fajr_further_reading",
+      "start": 664.473,
+      "end": 667.062
+    },
+    {
+      "id": 2,
+      "section": "fajr_further_reading",
+      "start": 667.412,
+      "end": 671.011
+    },
+    {
+      "id": 3,
+      "section": "fajr_further_reading",
+      "start": 671.361,
+      "end": 673.694
+    },
+    {
+      "id": 4,
+      "section": "fajr_further_reading",
+      "start": 674.044,
+      "end": 679.242
+    },
+    {
+      "id": 5,
+      "section": "fajr_further_reading",
+      "start": 679.592,
+      "end": 682.204
+    }
+  ]
+}

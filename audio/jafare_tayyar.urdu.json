@@ -1,0 +1,915 @@
+{
+  "dua_id": "jafare_tayyar",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 519.82,
+  "bytes": 2440381,
+  "sha256": "b0082605b000f906e788821876ad50b478b70be25f585e7923043154fd92a11f",
+  "lines": [
+    {
+      "id": 3,
+      "section": "jafare_tayyar",
+      "start": 0.0,
+      "end": 3.696
+    },
+    {
+      "id": 4,
+      "section": "jafare_tayyar",
+      "start": 4.046,
+      "end": 8.087
+    },
+    {
+      "id": 5,
+      "section": "jafare_tayyar",
+      "start": 8.437,
+      "end": 11.316
+    },
+    {
+      "id": 6,
+      "section": "jafare_tayyar",
+      "start": 11.666,
+      "end": 13.175
+    },
+    {
+      "id": 7,
+      "section": "jafare_tayyar",
+      "start": 13.525,
+      "end": 17.302
+    },
+    {
+      "id": 8,
+      "section": "jafare_tayyar",
+      "start": 17.652,
+      "end": 19.58
+    },
+    {
+      "id": 9,
+      "section": "jafare_tayyar",
+      "start": 19.93,
+      "end": 25.507
+    },
+    {
+      "id": 11,
+      "section": "jafare_tayyar",
+      "start": 25.857,
+      "end": 29.805
+    },
+    {
+      "id": 12,
+      "section": "jafare_tayyar",
+      "start": 30.155,
+      "end": 33.092
+    },
+    {
+      "id": 13,
+      "section": "jafare_tayyar",
+      "start": 33.442,
+      "end": 35.764
+    },
+    {
+      "id": 14,
+      "section": "jafare_tayyar",
+      "start": 36.114,
+      "end": 38.401
+    },
+    {
+      "id": 15,
+      "section": "jafare_tayyar",
+      "start": 38.751,
+      "end": 41.573
+    },
+    {
+      "id": 16,
+      "section": "jafare_tayyar",
+      "start": 41.923,
+      "end": 43.629
+    },
+    {
+      "id": 17,
+      "section": "jafare_tayyar",
+      "start": 43.979,
+      "end": 48.733
+    },
+    {
+      "id": 18,
+      "section": "jafare_tayyar",
+      "start": 49.083,
+      "end": 52.304
+    },
+    {
+      "id": 19,
+      "section": "jafare_tayyar",
+      "start": 52.654,
+      "end": 55.881
+    },
+    {
+      "id": 21,
+      "section": "jafare_tayyar",
+      "start": 56.231,
+      "end": 58.832
+    },
+    {
+      "id": 22,
+      "section": "jafare_tayyar",
+      "start": 59.182,
+      "end": 62.584
+    },
+    {
+      "id": 25,
+      "section": "jafare_tayyar",
+      "start": 62.934,
+      "end": 65.816
+    },
+    {
+      "id": 26,
+      "section": "jafare_tayyar",
+      "start": 66.166,
+      "end": 69.579
+    },
+    {
+      "id": 29,
+      "section": "jafare_tayyar",
+      "start": 69.929,
+      "end": 72.96
+    },
+    {
+      "id": 30,
+      "section": "jafare_tayyar",
+      "start": 73.31,
+      "end": 76.758
+    },
+    {
+      "id": 33,
+      "section": "jafare_tayyar",
+      "start": 77.108,
+      "end": 80.196
+    },
+    {
+      "id": 34,
+      "section": "jafare_tayyar",
+      "start": 80.546,
+      "end": 84.07
+    },
+    {
+      "id": 37,
+      "section": "jafare_tayyar",
+      "start": 84.42,
+      "end": 87.288
+    },
+    {
+      "id": 38,
+      "section": "jafare_tayyar",
+      "start": 87.638,
+      "end": 91.156
+    },
+    {
+      "id": 41,
+      "section": "jafare_tayyar",
+      "start": 91.506,
+      "end": 94.49
+    },
+    {
+      "id": 42,
+      "section": "jafare_tayyar",
+      "start": 94.84,
+      "end": 98.125
+    },
+    {
+      "id": 45,
+      "section": "jafare_tayyar",
+      "start": 98.475,
+      "end": 101.402
+    },
+    {
+      "id": 46,
+      "section": "jafare_tayyar",
+      "start": 101.752,
+      "end": 105.393
+    },
+    {
+      "id": 51,
+      "section": "jafare_tayyar",
+      "start": 105.743,
+      "end": 109.282
+    },
+    {
+      "id": 52,
+      "section": "jafare_tayyar",
+      "start": 109.632,
+      "end": 113.684
+    },
+    {
+      "id": 53,
+      "section": "jafare_tayyar",
+      "start": 114.034,
+      "end": 115.338
+    },
+    {
+      "id": 54,
+      "section": "jafare_tayyar",
+      "start": 115.688,
+      "end": 117.035
+    },
+    {
+      "id": 55,
+      "section": "jafare_tayyar",
+      "start": 117.385,
+      "end": 120.975
+    },
+    {
+      "id": 56,
+      "section": "jafare_tayyar",
+      "start": 121.325,
+      "end": 123.264
+    },
+    {
+      "id": 57,
+      "section": "jafare_tayyar",
+      "start": 123.614,
+      "end": 129.454
+    },
+    {
+      "id": 59,
+      "section": "jafare_tayyar",
+      "start": 129.804,
+      "end": 133.833
+    },
+    {
+      "id": 60,
+      "section": "jafare_tayyar",
+      "start": 134.183,
+      "end": 136.4
+    },
+    {
+      "id": 61,
+      "section": "jafare_tayyar",
+      "start": 136.75,
+      "end": 139.165
+    },
+    {
+      "id": 62,
+      "section": "jafare_tayyar",
+      "start": 139.515,
+      "end": 142.516
+    },
+    {
+      "id": 63,
+      "section": "jafare_tayyar",
+      "start": 142.866,
+      "end": 144.781
+    },
+    {
+      "id": 64,
+      "section": "jafare_tayyar",
+      "start": 145.131,
+      "end": 147.912
+    },
+    {
+      "id": 65,
+      "section": "jafare_tayyar",
+      "start": 148.262,
+      "end": 151.002
+    },
+    {
+      "id": 66,
+      "section": "jafare_tayyar",
+      "start": 151.352,
+      "end": 153.21
+    },
+    {
+      "id": 67,
+      "section": "jafare_tayyar",
+      "start": 153.56,
+      "end": 156.126
+    },
+    {
+      "id": 68,
+      "section": "jafare_tayyar",
+      "start": 156.476,
+      "end": 161.457
+    },
+    {
+      "id": 69,
+      "section": "jafare_tayyar",
+      "start": 161.807,
+      "end": 164.292
+    },
+    {
+      "id": 70,
+      "section": "jafare_tayyar",
+      "start": 164.642,
+      "end": 167.928
+    },
+    {
+      "id": 72,
+      "section": "jafare_tayyar",
+      "start": 168.278,
+      "end": 171.167
+    },
+    {
+      "id": 73,
+      "section": "jafare_tayyar",
+      "start": 171.517,
+      "end": 175.063
+    },
+    {
+      "id": 76,
+      "section": "jafare_tayyar",
+      "start": 175.413,
+      "end": 178.525
+    },
+    {
+      "id": 77,
+      "section": "jafare_tayyar",
+      "start": 178.875,
+      "end": 182.648
+    },
+    {
+      "id": 80,
+      "section": "jafare_tayyar",
+      "start": 182.998,
+      "end": 185.97
+    },
+    {
+      "id": 81,
+      "section": "jafare_tayyar",
+      "start": 186.32,
+      "end": 189.739
+    },
+    {
+      "id": 84,
+      "section": "jafare_tayyar",
+      "start": 190.089,
+      "end": 193.096
+    },
+    {
+      "id": 85,
+      "section": "jafare_tayyar",
+      "start": 193.446,
+      "end": 196.87
+    },
+    {
+      "id": 88,
+      "section": "jafare_tayyar",
+      "start": 197.22,
+      "end": 200.193
+    },
+    {
+      "id": 89,
+      "section": "jafare_tayyar",
+      "start": 200.543,
+      "end": 204.037
+    },
+    {
+      "id": 92,
+      "section": "jafare_tayyar",
+      "start": 204.387,
+      "end": 207.699
+    },
+    {
+      "id": 93,
+      "section": "jafare_tayyar",
+      "start": 208.049,
+      "end": 211.672
+    },
+    {
+      "id": 96,
+      "section": "jafare_tayyar",
+      "start": 212.022,
+      "end": 215.179
+    },
+    {
+      "id": 97,
+      "section": "jafare_tayyar",
+      "start": 215.529,
+      "end": 218.921
+    },
+    {
+      "id": 102,
+      "section": "jafare_tayyar",
+      "start": 219.271,
+      "end": 222.894
+    },
+    {
+      "id": 103,
+      "section": "jafare_tayyar",
+      "start": 223.244,
+      "end": 227.168
+    },
+    {
+      "id": 104,
+      "section": "jafare_tayyar",
+      "start": 227.518,
+      "end": 228.807
+    },
+    {
+      "id": 105,
+      "section": "jafare_tayyar",
+      "start": 229.157,
+      "end": 230.608
+    },
+    {
+      "id": 106,
+      "section": "jafare_tayyar",
+      "start": 230.958,
+      "end": 234.679
+    },
+    {
+      "id": 107,
+      "section": "jafare_tayyar",
+      "start": 235.029,
+      "end": 237.131
+    },
+    {
+      "id": 108,
+      "section": "jafare_tayyar",
+      "start": 237.481,
+      "end": 244.11
+    },
+    {
+      "id": 110,
+      "section": "jafare_tayyar",
+      "start": 244.46,
+      "end": 248.059
+    },
+    {
+      "id": 111,
+      "section": "jafare_tayyar",
+      "start": 248.409,
+      "end": 250.441
+    },
+    {
+      "id": 112,
+      "section": "jafare_tayyar",
+      "start": 250.791,
+      "end": 255.098
+    },
+    {
+      "id": 113,
+      "section": "jafare_tayyar",
+      "start": 255.448,
+      "end": 261.381
+    },
+    {
+      "id": 115,
+      "section": "jafare_tayyar",
+      "start": 261.731,
+      "end": 264.938
+    },
+    {
+      "id": 116,
+      "section": "jafare_tayyar",
+      "start": 265.288,
+      "end": 268.643
+    },
+    {
+      "id": 119,
+      "section": "jafare_tayyar",
+      "start": 268.993,
+      "end": 271.93
+    },
+    {
+      "id": 120,
+      "section": "jafare_tayyar",
+      "start": 272.28,
+      "end": 276.085
+    },
+    {
+      "id": 123,
+      "section": "jafare_tayyar",
+      "start": 276.435,
+      "end": 279.396
+    },
+    {
+      "id": 124,
+      "section": "jafare_tayyar",
+      "start": 279.746,
+      "end": 283.09
+    },
+    {
+      "id": 127,
+      "section": "jafare_tayyar",
+      "start": 283.44,
+      "end": 286.888
+    },
+    {
+      "id": 128,
+      "section": "jafare_tayyar",
+      "start": 287.238,
+      "end": 290.501
+    },
+    {
+      "id": 131,
+      "section": "jafare_tayyar",
+      "start": 290.851,
+      "end": 293.765
+    },
+    {
+      "id": 132,
+      "section": "jafare_tayyar",
+      "start": 294.115,
+      "end": 297.775
+    },
+    {
+      "id": 135,
+      "section": "jafare_tayyar",
+      "start": 298.125,
+      "end": 301.004
+    },
+    {
+      "id": 136,
+      "section": "jafare_tayyar",
+      "start": 301.354,
+      "end": 304.705
+    },
+    {
+      "id": 139,
+      "section": "jafare_tayyar",
+      "start": 305.055,
+      "end": 307.78
+    },
+    {
+      "id": 140,
+      "section": "jafare_tayyar",
+      "start": 308.13,
+      "end": 311.573
+    },
+    {
+      "id": 145,
+      "section": "jafare_tayyar",
+      "start": 311.923,
+      "end": 315.719
+    },
+    {
+      "id": 146,
+      "section": "jafare_tayyar",
+      "start": 316.069,
+      "end": 319.912
+    },
+    {
+      "id": 147,
+      "section": "jafare_tayyar",
+      "start": 320.262,
+      "end": 322.677
+    },
+    {
+      "id": 148,
+      "section": "jafare_tayyar",
+      "start": 323.027,
+      "end": 324.444
+    },
+    {
+      "id": 149,
+      "section": "jafare_tayyar",
+      "start": 324.794,
+      "end": 328.636
+    },
+    {
+      "id": 150,
+      "section": "jafare_tayyar",
+      "start": 328.986,
+      "end": 330.949
+    },
+    {
+      "id": 151,
+      "section": "jafare_tayyar",
+      "start": 331.299,
+      "end": 337.498
+    },
+    {
+      "id": 153,
+      "section": "jafare_tayyar",
+      "start": 337.848,
+      "end": 341.57
+    },
+    {
+      "id": 154,
+      "section": "jafare_tayyar",
+      "start": 341.92,
+      "end": 343.813
+    },
+    {
+      "id": 155,
+      "section": "jafare_tayyar",
+      "start": 344.163,
+      "end": 346.659
+    },
+    {
+      "id": 156,
+      "section": "jafare_tayyar",
+      "start": 347.009,
+      "end": 349.357
+    },
+    {
+      "id": 157,
+      "section": "jafare_tayyar",
+      "start": 349.707,
+      "end": 351.622
+    },
+    {
+      "id": 159,
+      "section": "jafare_tayyar",
+      "start": 351.972,
+      "end": 354.976
+    },
+    {
+      "id": 160,
+      "section": "jafare_tayyar",
+      "start": 355.326,
+      "end": 358.635
+    },
+    {
+      "id": 163,
+      "section": "jafare_tayyar",
+      "start": 358.985,
+      "end": 362.178
+    },
+    {
+      "id": 164,
+      "section": "jafare_tayyar",
+      "start": 362.528,
+      "end": 366.124
+    },
+    {
+      "id": 167,
+      "section": "jafare_tayyar",
+      "start": 366.474,
+      "end": 369.214
+    },
+    {
+      "id": 168,
+      "section": "jafare_tayyar",
+      "start": 369.564,
+      "end": 373.012
+    },
+    {
+      "id": 171,
+      "section": "jafare_tayyar",
+      "start": 373.362,
+      "end": 376.415
+    },
+    {
+      "id": 172,
+      "section": "jafare_tayyar",
+      "start": 376.765,
+      "end": 380.515
+    },
+    {
+      "id": 175,
+      "section": "jafare_tayyar",
+      "start": 380.865,
+      "end": 384.35
+    },
+    {
+      "id": 176,
+      "section": "jafare_tayyar",
+      "start": 384.7,
+      "end": 387.998
+    },
+    {
+      "id": 179,
+      "section": "jafare_tayyar",
+      "start": 388.348,
+      "end": 391.669
+    },
+    {
+      "id": 180,
+      "section": "jafare_tayyar",
+      "start": 392.019,
+      "end": 395.378
+    },
+    {
+      "id": 183,
+      "section": "jafare_tayyar",
+      "start": 395.728,
+      "end": 398.99
+    },
+    {
+      "id": 184,
+      "section": "jafare_tayyar",
+      "start": 399.34,
+      "end": 404.762
+    },
+    {
+      "id": 185,
+      "section": "jafare_tayyar",
+      "start": 405.112,
+      "end": 408.719
+    },
+    {
+      "id": 186,
+      "section": "jafare_tayyar",
+      "start": 409.069,
+      "end": 412.145
+    },
+    {
+      "id": 187,
+      "section": "jafare_tayyar",
+      "start": 412.495,
+      "end": 415.107
+    },
+    {
+      "id": 188,
+      "section": "jafare_tayyar",
+      "start": 415.457,
+      "end": 417.976
+    },
+    {
+      "id": 189,
+      "section": "jafare_tayyar",
+      "start": 418.326,
+      "end": 423.295
+    },
+    {
+      "id": 190,
+      "section": "jafare_tayyar",
+      "start": 423.645,
+      "end": 426.768
+    },
+    {
+      "id": 191,
+      "section": "jafare_tayyar",
+      "start": 427.118,
+      "end": 428.93
+    },
+    {
+      "id": 192,
+      "section": "jafare_tayyar",
+      "start": 429.28,
+      "end": 431.16
+    },
+    {
+      "id": 193,
+      "section": "jafare_tayyar",
+      "start": 431.51,
+      "end": 434.123
+    },
+    {
+      "id": 194,
+      "section": "jafare_tayyar",
+      "start": 434.473,
+      "end": 437.166
+    },
+    {
+      "id": 197,
+      "section": "jafare_tayyar",
+      "start": 437.516,
+      "end": 440.314
+    },
+    {
+      "id": 198,
+      "section": "jafare_tayyar",
+      "start": 440.664,
+      "end": 444.101
+    },
+    {
+      "id": 202,
+      "section": "jafare_tayyar",
+      "start": 444.451,
+      "end": 446.424
+    },
+    {
+      "id": 205,
+      "section": "jafare_tayyar",
+      "start": 446.774,
+      "end": 448.446
+    },
+    {
+      "id": 208,
+      "section": "jafare_tayyar",
+      "start": 448.796,
+      "end": 450.456
+    },
+    {
+      "id": 211,
+      "section": "jafare_tayyar",
+      "start": 450.806,
+      "end": 452.409
+    },
+    {
+      "id": 214,
+      "section": "jafare_tayyar",
+      "start": 452.759,
+      "end": 454.091
+    },
+    {
+      "id": 217,
+      "section": "jafare_tayyar",
+      "start": 454.441,
+      "end": 455.98
+    },
+    {
+      "id": 220,
+      "section": "jafare_tayyar",
+      "start": 456.33,
+      "end": 457.909
+    },
+    {
+      "id": 223,
+      "section": "jafare_tayyar",
+      "start": 458.259,
+      "end": 461.528
+    },
+    {
+      "id": 226,
+      "section": "jafare_tayyar",
+      "start": 461.878,
+      "end": 465.524
+    },
+    {
+      "id": 227,
+      "section": "jafare_tayyar",
+      "start": 465.874,
+      "end": 469.714
+    },
+    {
+      "id": 228,
+      "section": "jafare_tayyar",
+      "start": 470.064,
+      "end": 473.082
+    },
+    {
+      "id": 229,
+      "section": "jafare_tayyar",
+      "start": 473.432,
+      "end": 475.186
+    },
+    {
+      "id": 230,
+      "section": "jafare_tayyar",
+      "start": 475.536,
+      "end": 478.916
+    },
+    {
+      "id": 231,
+      "section": "jafare_tayyar",
+      "start": 479.266,
+      "end": 485.071
+    },
+    {
+      "id": 232,
+      "section": "jafare_tayyar",
+      "start": 485.421,
+      "end": 489.902
+    },
+    {
+      "id": 233,
+      "section": "jafare_tayyar",
+      "start": 490.252,
+      "end": 494.99
+    },
+    {
+      "id": 234,
+      "section": "jafare_tayyar",
+      "start": 495.34,
+      "end": 496.861
+    },
+    {
+      "id": 235,
+      "section": "jafare_tayyar",
+      "start": 497.211,
+      "end": 501.31
+    },
+    {
+      "id": 236,
+      "section": "jafare_tayyar",
+      "start": 501.66,
+      "end": 504.516
+    },
+    {
+      "id": 237,
+      "section": "jafare_tayyar",
+      "start": 504.866,
+      "end": 507.757
+    },
+    {
+      "id": 238,
+      "section": "jafare_tayyar",
+      "start": 508.107,
+      "end": 510.394
+    },
+    {
+      "id": 239,
+      "section": "jafare_tayyar",
+      "start": 510.744,
+      "end": 513.36
+    },
+    {
+      "id": 240,
+      "section": "jafare_tayyar",
+      "start": 513.71,
+      "end": 517.634
+    },
+    {
+      "id": 241,
+      "section": "jafare_tayyar",
+      "start": 517.984,
+      "end": 519.47
+    }
+  ]
+}

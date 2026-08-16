@@ -1,0 +1,693 @@
+{
+  "dua_id": "dua_sabah",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 386.914,
+  "bytes": 1784879,
+  "sha256": "d4ff973e71c839d2cd36563459260d1f54c18a16dd4f6829dfedb93f850a1729",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_sabah",
+      "start": 0.0,
+      "end": 3.009
+    },
+    {
+      "id": 2,
+      "section": "dua_sabah",
+      "start": 3.359,
+      "end": 7.121
+    },
+    {
+      "id": 3,
+      "section": "dua_sabah",
+      "start": 7.471,
+      "end": 11.627
+    },
+    {
+      "id": 4,
+      "section": "dua_sabah",
+      "start": 11.977,
+      "end": 15.368
+    },
+    {
+      "id": 5,
+      "section": "dua_sabah",
+      "start": 15.718,
+      "end": 19.247
+    },
+    {
+      "id": 6,
+      "section": "dua_sabah",
+      "start": 19.597,
+      "end": 21.923
+    },
+    {
+      "id": 7,
+      "section": "dua_sabah",
+      "start": 22.273,
+      "end": 25.164
+    },
+    {
+      "id": 8,
+      "section": "dua_sabah",
+      "start": 25.514,
+      "end": 29.171
+    },
+    {
+      "id": 9,
+      "section": "dua_sabah",
+      "start": 29.521,
+      "end": 32.238
+    },
+    {
+      "id": 10,
+      "section": "dua_sabah",
+      "start": 32.588,
+      "end": 34.863
+    },
+    {
+      "id": 11,
+      "section": "dua_sabah",
+      "start": 35.213,
+      "end": 37.559
+    },
+    {
+      "id": 12,
+      "section": "dua_sabah",
+      "start": 37.909,
+      "end": 41.018
+    },
+    {
+      "id": 13,
+      "section": "dua_sabah",
+      "start": 41.368,
+      "end": 44.512
+    },
+    {
+      "id": 14,
+      "section": "dua_sabah",
+      "start": 44.862,
+      "end": 48.682
+    },
+    {
+      "id": 15,
+      "section": "dua_sabah",
+      "start": 49.032,
+      "end": 53.853
+    },
+    {
+      "id": 16,
+      "section": "dua_sabah",
+      "start": 54.203,
+      "end": 56.897
+    },
+    {
+      "id": 17,
+      "section": "dua_sabah",
+      "start": 57.247,
+      "end": 60.074
+    },
+    {
+      "id": 18,
+      "section": "dua_sabah",
+      "start": 60.424,
+      "end": 64.615
+    },
+    {
+      "id": 19,
+      "section": "dua_sabah",
+      "start": 64.965,
+      "end": 67.426
+    },
+    {
+      "id": 20,
+      "section": "dua_sabah",
+      "start": 67.776,
+      "end": 71.083
+    },
+    {
+      "id": 21,
+      "section": "dua_sabah",
+      "start": 71.433,
+      "end": 73.721
+    },
+    {
+      "id": 22,
+      "section": "dua_sabah",
+      "start": 74.071,
+      "end": 77.34
+    },
+    {
+      "id": 23,
+      "section": "dua_sabah",
+      "start": 77.69,
+      "end": 81.726
+    },
+    {
+      "id": 24,
+      "section": "dua_sabah",
+      "start": 82.076,
+      "end": 85.13
+    },
+    {
+      "id": 25,
+      "section": "dua_sabah",
+      "start": 85.48,
+      "end": 88.381
+    },
+    {
+      "id": 26,
+      "section": "dua_sabah",
+      "start": 88.731,
+      "end": 91.577
+    },
+    {
+      "id": 27,
+      "section": "dua_sabah",
+      "start": 91.927,
+      "end": 94.086
+    },
+    {
+      "id": 28,
+      "section": "dua_sabah",
+      "start": 94.436,
+      "end": 97.236
+    },
+    {
+      "id": 29,
+      "section": "dua_sabah",
+      "start": 97.586,
+      "end": 100.755
+    },
+    {
+      "id": 30,
+      "section": "dua_sabah",
+      "start": 101.105,
+      "end": 103.944
+    },
+    {
+      "id": 31,
+      "section": "dua_sabah",
+      "start": 104.294,
+      "end": 108.544
+    },
+    {
+      "id": 32,
+      "section": "dua_sabah",
+      "start": 108.894,
+      "end": 111.897
+    },
+    {
+      "id": 33,
+      "section": "dua_sabah",
+      "start": 112.247,
+      "end": 117.39
+    },
+    {
+      "id": 34,
+      "section": "dua_sabah",
+      "start": 117.74,
+      "end": 121.537
+    },
+    {
+      "id": 35,
+      "section": "dua_sabah",
+      "start": 121.887,
+      "end": 124.429
+    },
+    {
+      "id": 36,
+      "section": "dua_sabah",
+      "start": 124.779,
+      "end": 128.541
+    },
+    {
+      "id": 37,
+      "section": "dua_sabah",
+      "start": 128.891,
+      "end": 132.248
+    },
+    {
+      "id": 38,
+      "section": "dua_sabah",
+      "start": 132.598,
+      "end": 135.942
+    },
+    {
+      "id": 39,
+      "section": "dua_sabah",
+      "start": 136.292,
+      "end": 140.146
+    },
+    {
+      "id": 40,
+      "section": "dua_sabah",
+      "start": 140.496,
+      "end": 144.236
+    },
+    {
+      "id": 41,
+      "section": "dua_sabah",
+      "start": 144.586,
+      "end": 146.142
+    },
+    {
+      "id": 42,
+      "section": "dua_sabah",
+      "start": 146.492,
+      "end": 149.704
+    },
+    {
+      "id": 43,
+      "section": "dua_sabah",
+      "start": 150.054,
+      "end": 154.958
+    },
+    {
+      "id": 44,
+      "section": "dua_sabah",
+      "start": 155.308,
+      "end": 159.34
+    },
+    {
+      "id": 45,
+      "section": "dua_sabah",
+      "start": 159.69,
+      "end": 162.987
+    },
+    {
+      "id": 46,
+      "section": "dua_sabah",
+      "start": 163.337,
+      "end": 166.685
+    },
+    {
+      "id": 47,
+      "section": "dua_sabah",
+      "start": 167.035,
+      "end": 171.48
+    },
+    {
+      "id": 48,
+      "section": "dua_sabah",
+      "start": 171.83,
+      "end": 174.907
+    },
+    {
+      "id": 49,
+      "section": "dua_sabah",
+      "start": 175.257,
+      "end": 177.881
+    },
+    {
+      "id": 50,
+      "section": "dua_sabah",
+      "start": 178.231,
+      "end": 181.096
+    },
+    {
+      "id": 51,
+      "section": "dua_sabah",
+      "start": 181.446,
+      "end": 185.643
+    },
+    {
+      "id": 52,
+      "section": "dua_sabah",
+      "start": 185.993,
+      "end": 191.16
+    },
+    {
+      "id": 53,
+      "section": "dua_sabah",
+      "start": 191.51,
+      "end": 194.975
+    },
+    {
+      "id": 54,
+      "section": "dua_sabah",
+      "start": 195.325,
+      "end": 197.856
+    },
+    {
+      "id": 55,
+      "section": "dua_sabah",
+      "start": 198.206,
+      "end": 201.387
+    },
+    {
+      "id": 56,
+      "section": "dua_sabah",
+      "start": 201.737,
+      "end": 204.5
+    },
+    {
+      "id": 57,
+      "section": "dua_sabah",
+      "start": 204.85,
+      "end": 207.381
+    },
+    {
+      "id": 58,
+      "section": "dua_sabah",
+      "start": 207.731,
+      "end": 209.333
+    },
+    {
+      "id": 59,
+      "section": "dua_sabah",
+      "start": 209.683,
+      "end": 211.831
+    },
+    {
+      "id": 60,
+      "section": "dua_sabah",
+      "start": 212.181,
+      "end": 213.609
+    },
+    {
+      "id": 61,
+      "section": "dua_sabah",
+      "start": 213.959,
+      "end": 215.701
+    },
+    {
+      "id": 62,
+      "section": "dua_sabah",
+      "start": 216.051,
+      "end": 217.931
+    },
+    {
+      "id": 63,
+      "section": "dua_sabah",
+      "start": 218.281,
+      "end": 220.497
+    },
+    {
+      "id": 64,
+      "section": "dua_sabah",
+      "start": 220.847,
+      "end": 222.376
+    },
+    {
+      "id": 65,
+      "section": "dua_sabah",
+      "start": 222.726,
+      "end": 224.416
+    },
+    {
+      "id": 66,
+      "section": "dua_sabah",
+      "start": 224.766,
+      "end": 226.345
+    },
+    {
+      "id": 67,
+      "section": "dua_sabah",
+      "start": 226.695,
+      "end": 228.588
+    },
+    {
+      "id": 68,
+      "section": "dua_sabah",
+      "start": 228.938,
+      "end": 231.743
+    },
+    {
+      "id": 69,
+      "section": "dua_sabah",
+      "start": 232.093,
+      "end": 233.51
+    },
+    {
+      "id": 70,
+      "section": "dua_sabah",
+      "start": 233.86,
+      "end": 236.174
+    },
+    {
+      "id": 71,
+      "section": "dua_sabah",
+      "start": 236.524,
+      "end": 239.338
+    },
+    {
+      "id": 72,
+      "section": "dua_sabah",
+      "start": 239.688,
+      "end": 242.208
+    },
+    {
+      "id": 73,
+      "section": "dua_sabah",
+      "start": 242.558,
+      "end": 244.833
+    },
+    {
+      "id": 74,
+      "section": "dua_sabah",
+      "start": 245.183,
+      "end": 247.403
+    },
+    {
+      "id": 75,
+      "section": "dua_sabah",
+      "start": 247.753,
+      "end": 250.115
+    },
+    {
+      "id": 76,
+      "section": "dua_sabah",
+      "start": 250.465,
+      "end": 253.805
+    },
+    {
+      "id": 77,
+      "section": "dua_sabah",
+      "start": 254.155,
+      "end": 256.755
+    },
+    {
+      "id": 78,
+      "section": "dua_sabah",
+      "start": 257.105,
+      "end": 259.927
+    },
+    {
+      "id": 79,
+      "section": "dua_sabah",
+      "start": 260.277,
+      "end": 262.761
+    },
+    {
+      "id": 80,
+      "section": "dua_sabah",
+      "start": 263.111,
+      "end": 266.826
+    },
+    {
+      "id": 81,
+      "section": "dua_sabah",
+      "start": 267.176,
+      "end": 270.648
+    },
+    {
+      "id": 82,
+      "section": "dua_sabah",
+      "start": 270.998,
+      "end": 273.806
+    },
+    {
+      "id": 83,
+      "section": "dua_sabah",
+      "start": 274.156,
+      "end": 276.729
+    },
+    {
+      "id": 84,
+      "section": "dua_sabah",
+      "start": 277.079,
+      "end": 279.865
+    },
+    {
+      "id": 85,
+      "section": "dua_sabah",
+      "start": 280.215,
+      "end": 282.259
+    },
+    {
+      "id": 86,
+      "section": "dua_sabah",
+      "start": 282.609,
+      "end": 285.72
+    },
+    {
+      "id": 87,
+      "section": "dua_sabah",
+      "start": 286.07,
+      "end": 290.643
+    },
+    {
+      "id": 88,
+      "section": "dua_sabah",
+      "start": 290.993,
+      "end": 294.29
+    },
+    {
+      "id": 89,
+      "section": "dua_sabah",
+      "start": 294.64,
+      "end": 297.462
+    },
+    {
+      "id": 90,
+      "section": "dua_sabah",
+      "start": 297.812,
+      "end": 300.854
+    },
+    {
+      "id": 91,
+      "section": "dua_sabah",
+      "start": 301.204,
+      "end": 303.467
+    },
+    {
+      "id": 92,
+      "section": "dua_sabah",
+      "start": 303.817,
+      "end": 307.388
+    },
+    {
+      "id": 93,
+      "section": "dua_sabah",
+      "start": 307.738,
+      "end": 309.573
+    },
+    {
+      "id": 94,
+      "section": "dua_sabah",
+      "start": 309.923,
+      "end": 311.611
+    },
+    {
+      "id": 95,
+      "section": "dua_sabah",
+      "start": 311.961,
+      "end": 313.997
+    },
+    {
+      "id": 96,
+      "section": "dua_sabah",
+      "start": 314.347,
+      "end": 316.042
+    },
+    {
+      "id": 97,
+      "section": "dua_sabah",
+      "start": 316.392,
+      "end": 318.308
+    },
+    {
+      "id": 98,
+      "section": "dua_sabah",
+      "start": 318.658,
+      "end": 320.701
+    },
+    {
+      "id": 99,
+      "section": "dua_sabah",
+      "start": 321.051,
+      "end": 322.154
+    },
+    {
+      "id": 100,
+      "section": "dua_sabah",
+      "start": 322.504,
+      "end": 324.211
+    },
+    {
+      "id": 101,
+      "section": "dua_sabah",
+      "start": 324.561,
+      "end": 326.353
+    },
+    {
+      "id": 102,
+      "section": "dua_sabah",
+      "start": 326.703,
+      "end": 328.885
+    },
+    {
+      "id": 103,
+      "section": "dua_sabah",
+      "start": 329.235,
+      "end": 331.0
+    },
+    {
+      "id": 104,
+      "section": "dua_sabah",
+      "start": 331.35,
+      "end": 334.139
+    },
+    {
+      "id": 105,
+      "section": "dua_sabah",
+      "start": 334.489,
+      "end": 336.792
+    },
+    {
+      "id": 106,
+      "section": "dua_sabah",
+      "start": 337.142,
+      "end": 340.095
+    },
+    {
+      "id": 107,
+      "section": "dua_sabah",
+      "start": 340.445,
+      "end": 342.755
+    },
+    {
+      "id": 108,
+      "section": "dua_sabah",
+      "start": 343.105,
+      "end": 344.081
+    },
+    {
+      "id": 109,
+      "section": "dua_sabah",
+      "start": 344.431,
+      "end": 346.238
+    },
+    {
+      "id": 110,
+      "section": "dua_sabah",
+      "start": 346.588,
+      "end": 347.54
+    },
+    {
+      "id": 111,
+      "section": "dua_sabah",
+      "start": 347.89,
+      "end": 349.933
+    },
+    {
+      "id": 112,
+      "section": "dua_sabah",
+      "start": 350.283,
+      "end": 361.462
+    },
+    {
+      "id": 113,
+      "section": "dua_sabah",
+      "start": 361.812,
+      "end": 386.564
+    }
+  ]
+}

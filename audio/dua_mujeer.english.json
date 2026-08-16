@@ -1,0 +1,1665 @@
+{
+  "dua_id": "dua_mujeer",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 629.95,
+  "bytes": 2917512,
+  "sha256": "2ff7df016ea9b66d3855cf0f299e628de75bcf10d28a8e77d9c27f98fd1b55d5",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_mujeer",
+      "start": 0.0,
+      "end": 3.281
+    },
+    {
+      "id": 2,
+      "section": "dua_mujeer",
+      "start": 3.631,
+      "end": 5.291
+    },
+    {
+      "id": 3,
+      "section": "dua_mujeer",
+      "start": 5.641,
+      "end": 7.919
+    },
+    {
+      "id": 4,
+      "section": "dua_mujeer",
+      "start": 8.269,
+      "end": 10.414
+    },
+    {
+      "id": 5,
+      "section": "dua_mujeer",
+      "start": 10.764,
+      "end": 12.842
+    },
+    {
+      "id": 6,
+      "section": "dua_mujeer",
+      "start": 13.192,
+      "end": 15.208
+    },
+    {
+      "id": 7,
+      "section": "dua_mujeer",
+      "start": 15.558,
+      "end": 17.75
+    },
+    {
+      "id": 8,
+      "section": "dua_mujeer",
+      "start": 18.1,
+      "end": 19.595
+    },
+    {
+      "id": 9,
+      "section": "dua_mujeer",
+      "start": 19.945,
+      "end": 21.773
+    },
+    {
+      "id": 10,
+      "section": "dua_mujeer",
+      "start": 22.123,
+      "end": 24.232
+    },
+    {
+      "id": 11,
+      "section": "dua_mujeer",
+      "start": 24.582,
+      "end": 26.297
+    },
+    {
+      "id": 12,
+      "section": "dua_mujeer",
+      "start": 26.647,
+      "end": 28.705
+    },
+    {
+      "id": 13,
+      "section": "dua_mujeer",
+      "start": 29.055,
+      "end": 31.161
+    },
+    {
+      "id": 14,
+      "section": "dua_mujeer",
+      "start": 31.511,
+      "end": 33.959
+    },
+    {
+      "id": 15,
+      "section": "dua_mujeer",
+      "start": 34.309,
+      "end": 36.122
+    },
+    {
+      "id": 16,
+      "section": "dua_mujeer",
+      "start": 36.472,
+      "end": 38.567
+    },
+    {
+      "id": 17,
+      "section": "dua_mujeer",
+      "start": 38.917,
+      "end": 40.406
+    },
+    {
+      "id": 18,
+      "section": "dua_mujeer",
+      "start": 40.756,
+      "end": 42.564
+    },
+    {
+      "id": 19,
+      "section": "dua_mujeer",
+      "start": 42.914,
+      "end": 45.024
+    },
+    {
+      "id": 20,
+      "section": "dua_mujeer",
+      "start": 45.374,
+      "end": 47.069
+    },
+    {
+      "id": 21,
+      "section": "dua_mujeer",
+      "start": 47.419,
+      "end": 49.135
+    },
+    {
+      "id": 22,
+      "section": "dua_mujeer",
+      "start": 49.485,
+      "end": 51.659
+    },
+    {
+      "id": 23,
+      "section": "dua_mujeer",
+      "start": 52.009,
+      "end": 53.739
+    },
+    {
+      "id": 24,
+      "section": "dua_mujeer",
+      "start": 54.089,
+      "end": 55.727
+    },
+    {
+      "id": 25,
+      "section": "dua_mujeer",
+      "start": 56.077,
+      "end": 58.241
+    },
+    {
+      "id": 26,
+      "section": "dua_mujeer",
+      "start": 58.591,
+      "end": 60.255
+    },
+    {
+      "id": 27,
+      "section": "dua_mujeer",
+      "start": 60.605,
+      "end": 62.385
+    },
+    {
+      "id": 28,
+      "section": "dua_mujeer",
+      "start": 62.735,
+      "end": 64.889
+    },
+    {
+      "id": 29,
+      "section": "dua_mujeer",
+      "start": 65.239,
+      "end": 66.76
+    },
+    {
+      "id": 30,
+      "section": "dua_mujeer",
+      "start": 67.11,
+      "end": 69.167
+    },
+    {
+      "id": 31,
+      "section": "dua_mujeer",
+      "start": 69.517,
+      "end": 71.7
+    },
+    {
+      "id": 32,
+      "section": "dua_mujeer",
+      "start": 72.05,
+      "end": 73.797
+    },
+    {
+      "id": 33,
+      "section": "dua_mujeer",
+      "start": 74.147,
+      "end": 76.59
+    },
+    {
+      "id": 34,
+      "section": "dua_mujeer",
+      "start": 76.94,
+      "end": 79.103
+    },
+    {
+      "id": 35,
+      "section": "dua_mujeer",
+      "start": 79.453,
+      "end": 81.22
+    },
+    {
+      "id": 36,
+      "section": "dua_mujeer",
+      "start": 81.57,
+      "end": 83.378
+    },
+    {
+      "id": 37,
+      "section": "dua_mujeer",
+      "start": 83.728,
+      "end": 85.888
+    },
+    {
+      "id": 38,
+      "section": "dua_mujeer",
+      "start": 86.238,
+      "end": 88.076
+    },
+    {
+      "id": 39,
+      "section": "dua_mujeer",
+      "start": 88.426,
+      "end": 90.075
+    },
+    {
+      "id": 40,
+      "section": "dua_mujeer",
+      "start": 90.425,
+      "end": 92.589
+    },
+    {
+      "id": 41,
+      "section": "dua_mujeer",
+      "start": 92.939,
+      "end": 94.602
+    },
+    {
+      "id": 42,
+      "section": "dua_mujeer",
+      "start": 94.952,
+      "end": 96.582
+    },
+    {
+      "id": 43,
+      "section": "dua_mujeer",
+      "start": 96.932,
+      "end": 99.103
+    },
+    {
+      "id": 44,
+      "section": "dua_mujeer",
+      "start": 99.453,
+      "end": 101.447
+    },
+    {
+      "id": 45,
+      "section": "dua_mujeer",
+      "start": 101.797,
+      "end": 103.547
+    },
+    {
+      "id": 46,
+      "section": "dua_mujeer",
+      "start": 103.897,
+      "end": 106.089
+    },
+    {
+      "id": 47,
+      "section": "dua_mujeer",
+      "start": 106.439,
+      "end": 108.344
+    },
+    {
+      "id": 48,
+      "section": "dua_mujeer",
+      "start": 108.694,
+      "end": 110.567
+    },
+    {
+      "id": 49,
+      "section": "dua_mujeer",
+      "start": 110.917,
+      "end": 113.056
+    },
+    {
+      "id": 50,
+      "section": "dua_mujeer",
+      "start": 113.406,
+      "end": 114.877
+    },
+    {
+      "id": 51,
+      "section": "dua_mujeer",
+      "start": 115.227,
+      "end": 117.133
+    },
+    {
+      "id": 52,
+      "section": "dua_mujeer",
+      "start": 117.483,
+      "end": 119.615
+    },
+    {
+      "id": 53,
+      "section": "dua_mujeer",
+      "start": 119.965,
+      "end": 121.749
+    },
+    {
+      "id": 54,
+      "section": "dua_mujeer",
+      "start": 122.099,
+      "end": 123.906
+    },
+    {
+      "id": 55,
+      "section": "dua_mujeer",
+      "start": 124.256,
+      "end": 126.404
+    },
+    {
+      "id": 56,
+      "section": "dua_mujeer",
+      "start": 126.754,
+      "end": 128.442
+    },
+    {
+      "id": 57,
+      "section": "dua_mujeer",
+      "start": 128.792,
+      "end": 130.75
+    },
+    {
+      "id": 58,
+      "section": "dua_mujeer",
+      "start": 131.1,
+      "end": 133.303
+    },
+    {
+      "id": 59,
+      "section": "dua_mujeer",
+      "start": 133.653,
+      "end": 135.509
+    },
+    {
+      "id": 60,
+      "section": "dua_mujeer",
+      "start": 135.859,
+      "end": 137.826
+    },
+    {
+      "id": 61,
+      "section": "dua_mujeer",
+      "start": 138.176,
+      "end": 140.401
+    },
+    {
+      "id": 62,
+      "section": "dua_mujeer",
+      "start": 140.751,
+      "end": 142.684
+    },
+    {
+      "id": 63,
+      "section": "dua_mujeer",
+      "start": 143.034,
+      "end": 144.814
+    },
+    {
+      "id": 64,
+      "section": "dua_mujeer",
+      "start": 145.164,
+      "end": 147.334
+    },
+    {
+      "id": 65,
+      "section": "dua_mujeer",
+      "start": 147.684,
+      "end": 149.58
+    },
+    {
+      "id": 66,
+      "section": "dua_mujeer",
+      "start": 149.93,
+      "end": 151.951
+    },
+    {
+      "id": 67,
+      "section": "dua_mujeer",
+      "start": 152.301,
+      "end": 154.47
+    },
+    {
+      "id": 68,
+      "section": "dua_mujeer",
+      "start": 154.82,
+      "end": 156.45
+    },
+    {
+      "id": 69,
+      "section": "dua_mujeer",
+      "start": 156.8,
+      "end": 158.846
+    },
+    {
+      "id": 70,
+      "section": "dua_mujeer",
+      "start": 159.196,
+      "end": 161.379
+    },
+    {
+      "id": 71,
+      "section": "dua_mujeer",
+      "start": 161.729,
+      "end": 163.835
+    },
+    {
+      "id": 72,
+      "section": "dua_mujeer",
+      "start": 164.185,
+      "end": 165.854
+    },
+    {
+      "id": 73,
+      "section": "dua_mujeer",
+      "start": 166.204,
+      "end": 168.307
+    },
+    {
+      "id": 74,
+      "section": "dua_mujeer",
+      "start": 168.657,
+      "end": 170.397
+    },
+    {
+      "id": 75,
+      "section": "dua_mujeer",
+      "start": 170.747,
+      "end": 172.377
+    },
+    {
+      "id": 76,
+      "section": "dua_mujeer",
+      "start": 172.727,
+      "end": 174.923
+    },
+    {
+      "id": 77,
+      "section": "dua_mujeer",
+      "start": 175.273,
+      "end": 176.971
+    },
+    {
+      "id": 78,
+      "section": "dua_mujeer",
+      "start": 177.321,
+      "end": 179.141
+    },
+    {
+      "id": 79,
+      "section": "dua_mujeer",
+      "start": 179.491,
+      "end": 181.64
+    },
+    {
+      "id": 80,
+      "section": "dua_mujeer",
+      "start": 181.99,
+      "end": 183.846
+    },
+    {
+      "id": 81,
+      "section": "dua_mujeer",
+      "start": 184.196,
+      "end": 186.01
+    },
+    {
+      "id": 82,
+      "section": "dua_mujeer",
+      "start": 186.36,
+      "end": 188.5
+    },
+    {
+      "id": 83,
+      "section": "dua_mujeer",
+      "start": 188.85,
+      "end": 190.44
+    },
+    {
+      "id": 84,
+      "section": "dua_mujeer",
+      "start": 190.79,
+      "end": 192.801
+    },
+    {
+      "id": 85,
+      "section": "dua_mujeer",
+      "start": 193.151,
+      "end": 195.281
+    },
+    {
+      "id": 86,
+      "section": "dua_mujeer",
+      "start": 195.631,
+      "end": 197.471
+    },
+    {
+      "id": 87,
+      "section": "dua_mujeer",
+      "start": 197.821,
+      "end": 199.448
+    },
+    {
+      "id": 88,
+      "section": "dua_mujeer",
+      "start": 199.798,
+      "end": 201.985
+    },
+    {
+      "id": 89,
+      "section": "dua_mujeer",
+      "start": 202.335,
+      "end": 204.23
+    },
+    {
+      "id": 90,
+      "section": "dua_mujeer",
+      "start": 204.58,
+      "end": 206.706
+    },
+    {
+      "id": 91,
+      "section": "dua_mujeer",
+      "start": 207.056,
+      "end": 209.217
+    },
+    {
+      "id": 92,
+      "section": "dua_mujeer",
+      "start": 209.567,
+      "end": 211.361
+    },
+    {
+      "id": 93,
+      "section": "dua_mujeer",
+      "start": 211.711,
+      "end": 213.482
+    },
+    {
+      "id": 94,
+      "section": "dua_mujeer",
+      "start": 213.832,
+      "end": 215.952
+    },
+    {
+      "id": 95,
+      "section": "dua_mujeer",
+      "start": 216.302,
+      "end": 217.868
+    },
+    {
+      "id": 96,
+      "section": "dua_mujeer",
+      "start": 218.218,
+      "end": 219.98
+    },
+    {
+      "id": 97,
+      "section": "dua_mujeer",
+      "start": 220.33,
+      "end": 222.533
+    },
+    {
+      "id": 98,
+      "section": "dua_mujeer",
+      "start": 222.883,
+      "end": 224.612
+    },
+    {
+      "id": 99,
+      "section": "dua_mujeer",
+      "start": 224.962,
+      "end": 226.738
+    },
+    {
+      "id": 100,
+      "section": "dua_mujeer",
+      "start": 227.088,
+      "end": 229.214
+    },
+    {
+      "id": 101,
+      "section": "dua_mujeer",
+      "start": 229.564,
+      "end": 231.287
+    },
+    {
+      "id": 102,
+      "section": "dua_mujeer",
+      "start": 231.637,
+      "end": 233.33
+    },
+    {
+      "id": 103,
+      "section": "dua_mujeer",
+      "start": 233.68,
+      "end": 235.813
+    },
+    {
+      "id": 104,
+      "section": "dua_mujeer",
+      "start": 236.163,
+      "end": 237.849
+    },
+    {
+      "id": 105,
+      "section": "dua_mujeer",
+      "start": 238.199,
+      "end": 239.717
+    },
+    {
+      "id": 106,
+      "section": "dua_mujeer",
+      "start": 240.067,
+      "end": 242.233
+    },
+    {
+      "id": 107,
+      "section": "dua_mujeer",
+      "start": 242.583,
+      "end": 244.427
+    },
+    {
+      "id": 108,
+      "section": "dua_mujeer",
+      "start": 244.777,
+      "end": 246.72
+    },
+    {
+      "id": 109,
+      "section": "dua_mujeer",
+      "start": 247.07,
+      "end": 249.215
+    },
+    {
+      "id": 110,
+      "section": "dua_mujeer",
+      "start": 249.565,
+      "end": 251.123
+    },
+    {
+      "id": 111,
+      "section": "dua_mujeer",
+      "start": 251.473,
+      "end": 253.21
+    },
+    {
+      "id": 112,
+      "section": "dua_mujeer",
+      "start": 253.56,
+      "end": 255.753
+    },
+    {
+      "id": 113,
+      "section": "dua_mujeer",
+      "start": 256.103,
+      "end": 257.667
+    },
+    {
+      "id": 114,
+      "section": "dua_mujeer",
+      "start": 258.017,
+      "end": 259.878
+    },
+    {
+      "id": 115,
+      "section": "dua_mujeer",
+      "start": 260.228,
+      "end": 262.467
+    },
+    {
+      "id": 116,
+      "section": "dua_mujeer",
+      "start": 262.817,
+      "end": 264.552
+    },
+    {
+      "id": 117,
+      "section": "dua_mujeer",
+      "start": 264.902,
+      "end": 266.656
+    },
+    {
+      "id": 118,
+      "section": "dua_mujeer",
+      "start": 267.006,
+      "end": 269.147
+    },
+    {
+      "id": 119,
+      "section": "dua_mujeer",
+      "start": 269.497,
+      "end": 271.077
+    },
+    {
+      "id": 120,
+      "section": "dua_mujeer",
+      "start": 271.427,
+      "end": 273.143
+    },
+    {
+      "id": 121,
+      "section": "dua_mujeer",
+      "start": 273.493,
+      "end": 275.651
+    },
+    {
+      "id": 122,
+      "section": "dua_mujeer",
+      "start": 276.001,
+      "end": 277.67
+    },
+    {
+      "id": 123,
+      "section": "dua_mujeer",
+      "start": 278.02,
+      "end": 280.321
+    },
+    {
+      "id": 124,
+      "section": "dua_mujeer",
+      "start": 280.671,
+      "end": 282.896
+    },
+    {
+      "id": 125,
+      "section": "dua_mujeer",
+      "start": 283.246,
+      "end": 285.064
+    },
+    {
+      "id": 126,
+      "section": "dua_mujeer",
+      "start": 285.414,
+      "end": 287.288
+    },
+    {
+      "id": 127,
+      "section": "dua_mujeer",
+      "start": 287.638,
+      "end": 289.781
+    },
+    {
+      "id": 128,
+      "section": "dua_mujeer",
+      "start": 290.131,
+      "end": 292.122
+    },
+    {
+      "id": 129,
+      "section": "dua_mujeer",
+      "start": 292.472,
+      "end": 294.254
+    },
+    {
+      "id": 130,
+      "section": "dua_mujeer",
+      "start": 294.604,
+      "end": 296.783
+    },
+    {
+      "id": 131,
+      "section": "dua_mujeer",
+      "start": 297.133,
+      "end": 298.811
+    },
+    {
+      "id": 132,
+      "section": "dua_mujeer",
+      "start": 299.161,
+      "end": 300.82
+    },
+    {
+      "id": 133,
+      "section": "dua_mujeer",
+      "start": 301.17,
+      "end": 303.36
+    },
+    {
+      "id": 134,
+      "section": "dua_mujeer",
+      "start": 303.71,
+      "end": 305.314
+    },
+    {
+      "id": 135,
+      "section": "dua_mujeer",
+      "start": 305.664,
+      "end": 307.367
+    },
+    {
+      "id": 136,
+      "section": "dua_mujeer",
+      "start": 307.717,
+      "end": 309.836
+    },
+    {
+      "id": 137,
+      "section": "dua_mujeer",
+      "start": 310.186,
+      "end": 312.0
+    },
+    {
+      "id": 138,
+      "section": "dua_mujeer",
+      "start": 312.35,
+      "end": 314.108
+    },
+    {
+      "id": 139,
+      "section": "dua_mujeer",
+      "start": 314.458,
+      "end": 316.607
+    },
+    {
+      "id": 140,
+      "section": "dua_mujeer",
+      "start": 316.957,
+      "end": 318.668
+    },
+    {
+      "id": 141,
+      "section": "dua_mujeer",
+      "start": 319.018,
+      "end": 320.757
+    },
+    {
+      "id": 142,
+      "section": "dua_mujeer",
+      "start": 321.107,
+      "end": 323.289
+    },
+    {
+      "id": 143,
+      "section": "dua_mujeer",
+      "start": 323.639,
+      "end": 325.525
+    },
+    {
+      "id": 144,
+      "section": "dua_mujeer",
+      "start": 325.875,
+      "end": 327.455
+    },
+    {
+      "id": 145,
+      "section": "dua_mujeer",
+      "start": 327.805,
+      "end": 329.99
+    },
+    {
+      "id": 146,
+      "section": "dua_mujeer",
+      "start": 330.34,
+      "end": 331.653
+    },
+    {
+      "id": 147,
+      "section": "dua_mujeer",
+      "start": 332.003,
+      "end": 333.722
+    },
+    {
+      "id": 148,
+      "section": "dua_mujeer",
+      "start": 334.072,
+      "end": 336.365
+    },
+    {
+      "id": 149,
+      "section": "dua_mujeer",
+      "start": 336.715,
+      "end": 338.955
+    },
+    {
+      "id": 150,
+      "section": "dua_mujeer",
+      "start": 339.305,
+      "end": 341.621
+    },
+    {
+      "id": 151,
+      "section": "dua_mujeer",
+      "start": 341.971,
+      "end": 344.149
+    },
+    {
+      "id": 152,
+      "section": "dua_mujeer",
+      "start": 344.499,
+      "end": 346.264
+    },
+    {
+      "id": 153,
+      "section": "dua_mujeer",
+      "start": 346.614,
+      "end": 348.823
+    },
+    {
+      "id": 154,
+      "section": "dua_mujeer",
+      "start": 349.173,
+      "end": 351.366
+    },
+    {
+      "id": 155,
+      "section": "dua_mujeer",
+      "start": 351.716,
+      "end": 353.158
+    },
+    {
+      "id": 156,
+      "section": "dua_mujeer",
+      "start": 353.508,
+      "end": 355.012
+    },
+    {
+      "id": 157,
+      "section": "dua_mujeer",
+      "start": 355.362,
+      "end": 357.412
+    },
+    {
+      "id": 158,
+      "section": "dua_mujeer",
+      "start": 357.762,
+      "end": 359.49
+    },
+    {
+      "id": 159,
+      "section": "dua_mujeer",
+      "start": 359.84,
+      "end": 361.97
+    },
+    {
+      "id": 160,
+      "section": "dua_mujeer",
+      "start": 362.32,
+      "end": 364.484
+    },
+    {
+      "id": 161,
+      "section": "dua_mujeer",
+      "start": 364.834,
+      "end": 366.508
+    },
+    {
+      "id": 162,
+      "section": "dua_mujeer",
+      "start": 366.858,
+      "end": 368.3
+    },
+    {
+      "id": 163,
+      "section": "dua_mujeer",
+      "start": 368.65,
+      "end": 370.78
+    },
+    {
+      "id": 164,
+      "section": "dua_mujeer",
+      "start": 371.13,
+      "end": 372.819
+    },
+    {
+      "id": 165,
+      "section": "dua_mujeer",
+      "start": 373.169,
+      "end": 374.833
+    },
+    {
+      "id": 166,
+      "section": "dua_mujeer",
+      "start": 375.183,
+      "end": 377.333
+    },
+    {
+      "id": 167,
+      "section": "dua_mujeer",
+      "start": 377.683,
+      "end": 379.267
+    },
+    {
+      "id": 168,
+      "section": "dua_mujeer",
+      "start": 379.617,
+      "end": 381.786
+    },
+    {
+      "id": 169,
+      "section": "dua_mujeer",
+      "start": 382.136,
+      "end": 384.257
+    },
+    {
+      "id": 170,
+      "section": "dua_mujeer",
+      "start": 384.607,
+      "end": 386.35
+    },
+    {
+      "id": 171,
+      "section": "dua_mujeer",
+      "start": 386.7,
+      "end": 388.486
+    },
+    {
+      "id": 172,
+      "section": "dua_mujeer",
+      "start": 388.836,
+      "end": 391.013
+    },
+    {
+      "id": 173,
+      "section": "dua_mujeer",
+      "start": 391.363,
+      "end": 393.099
+    },
+    {
+      "id": 174,
+      "section": "dua_mujeer",
+      "start": 393.449,
+      "end": 395.044
+    },
+    {
+      "id": 175,
+      "section": "dua_mujeer",
+      "start": 395.394,
+      "end": 397.563
+    },
+    {
+      "id": 176,
+      "section": "dua_mujeer",
+      "start": 397.913,
+      "end": 399.606
+    },
+    {
+      "id": 177,
+      "section": "dua_mujeer",
+      "start": 399.956,
+      "end": 401.846
+    },
+    {
+      "id": 178,
+      "section": "dua_mujeer",
+      "start": 402.196,
+      "end": 404.295
+    },
+    {
+      "id": 179,
+      "section": "dua_mujeer",
+      "start": 404.645,
+      "end": 406.409
+    },
+    {
+      "id": 180,
+      "section": "dua_mujeer",
+      "start": 406.759,
+      "end": 408.544
+    },
+    {
+      "id": 181,
+      "section": "dua_mujeer",
+      "start": 408.894,
+      "end": 411.0
+    },
+    {
+      "id": 182,
+      "section": "dua_mujeer",
+      "start": 411.35,
+      "end": 413.124
+    },
+    {
+      "id": 183,
+      "section": "dua_mujeer",
+      "start": 413.474,
+      "end": 415.413
+    },
+    {
+      "id": 184,
+      "section": "dua_mujeer",
+      "start": 415.763,
+      "end": 417.977
+    },
+    {
+      "id": 185,
+      "section": "dua_mujeer",
+      "start": 418.327,
+      "end": 420.205
+    },
+    {
+      "id": 186,
+      "section": "dua_mujeer",
+      "start": 420.555,
+      "end": 422.299
+    },
+    {
+      "id": 187,
+      "section": "dua_mujeer",
+      "start": 422.649,
+      "end": 424.863
+    },
+    {
+      "id": 188,
+      "section": "dua_mujeer",
+      "start": 425.213,
+      "end": 426.911
+    },
+    {
+      "id": 189,
+      "section": "dua_mujeer",
+      "start": 427.261,
+      "end": 429.169
+    },
+    {
+      "id": 190,
+      "section": "dua_mujeer",
+      "start": 429.519,
+      "end": 431.712
+    },
+    {
+      "id": 191,
+      "section": "dua_mujeer",
+      "start": 432.062,
+      "end": 433.847
+    },
+    {
+      "id": 192,
+      "section": "dua_mujeer",
+      "start": 434.197,
+      "end": 435.986
+    },
+    {
+      "id": 193,
+      "section": "dua_mujeer",
+      "start": 436.336,
+      "end": 438.415
+    },
+    {
+      "id": 194,
+      "section": "dua_mujeer",
+      "start": 438.765,
+      "end": 440.379
+    },
+    {
+      "id": 195,
+      "section": "dua_mujeer",
+      "start": 440.729,
+      "end": 442.517
+    },
+    {
+      "id": 196,
+      "section": "dua_mujeer",
+      "start": 442.867,
+      "end": 444.99
+    },
+    {
+      "id": 197,
+      "section": "dua_mujeer",
+      "start": 445.34,
+      "end": 446.974
+    },
+    {
+      "id": 198,
+      "section": "dua_mujeer",
+      "start": 447.324,
+      "end": 449.048
+    },
+    {
+      "id": 199,
+      "section": "dua_mujeer",
+      "start": 449.398,
+      "end": 451.634
+    },
+    {
+      "id": 200,
+      "section": "dua_mujeer",
+      "start": 451.984,
+      "end": 453.95
+    },
+    {
+      "id": 201,
+      "section": "dua_mujeer",
+      "start": 454.3,
+      "end": 456.291
+    },
+    {
+      "id": 202,
+      "section": "dua_mujeer",
+      "start": 456.641,
+      "end": 458.743
+    },
+    {
+      "id": 203,
+      "section": "dua_mujeer",
+      "start": 459.093,
+      "end": 460.803
+    },
+    {
+      "id": 204,
+      "section": "dua_mujeer",
+      "start": 461.153,
+      "end": 462.951
+    },
+    {
+      "id": 205,
+      "section": "dua_mujeer",
+      "start": 463.301,
+      "end": 465.47
+    },
+    {
+      "id": 206,
+      "section": "dua_mujeer",
+      "start": 465.82,
+      "end": 467.425
+    },
+    {
+      "id": 207,
+      "section": "dua_mujeer",
+      "start": 467.775,
+      "end": 469.635
+    },
+    {
+      "id": 208,
+      "section": "dua_mujeer",
+      "start": 469.985,
+      "end": 472.181
+    },
+    {
+      "id": 209,
+      "section": "dua_mujeer",
+      "start": 472.531,
+      "end": 474.129
+    },
+    {
+      "id": 210,
+      "section": "dua_mujeer",
+      "start": 474.479,
+      "end": 475.994
+    },
+    {
+      "id": 211,
+      "section": "dua_mujeer",
+      "start": 476.344,
+      "end": 478.433
+    },
+    {
+      "id": 212,
+      "section": "dua_mujeer",
+      "start": 478.783,
+      "end": 480.325
+    },
+    {
+      "id": 213,
+      "section": "dua_mujeer",
+      "start": 480.675,
+      "end": 482.217
+    },
+    {
+      "id": 214,
+      "section": "dua_mujeer",
+      "start": 482.567,
+      "end": 484.691
+    },
+    {
+      "id": 215,
+      "section": "dua_mujeer",
+      "start": 485.041,
+      "end": 486.942
+    },
+    {
+      "id": 216,
+      "section": "dua_mujeer",
+      "start": 487.292,
+      "end": 488.833
+    },
+    {
+      "id": 217,
+      "section": "dua_mujeer",
+      "start": 489.183,
+      "end": 491.397
+    },
+    {
+      "id": 218,
+      "section": "dua_mujeer",
+      "start": 491.747,
+      "end": 493.487
+    },
+    {
+      "id": 219,
+      "section": "dua_mujeer",
+      "start": 493.837,
+      "end": 495.565
+    },
+    {
+      "id": 220,
+      "section": "dua_mujeer",
+      "start": 495.915,
+      "end": 498.1
+    },
+    {
+      "id": 221,
+      "section": "dua_mujeer",
+      "start": 498.45,
+      "end": 500.146
+    },
+    {
+      "id": 222,
+      "section": "dua_mujeer",
+      "start": 500.496,
+      "end": 502.331
+    },
+    {
+      "id": 223,
+      "section": "dua_mujeer",
+      "start": 502.681,
+      "end": 504.854
+    },
+    {
+      "id": 224,
+      "section": "dua_mujeer",
+      "start": 505.204,
+      "end": 506.67
+    },
+    {
+      "id": 225,
+      "section": "dua_mujeer",
+      "start": 507.02,
+      "end": 508.788
+    },
+    {
+      "id": 226,
+      "section": "dua_mujeer",
+      "start": 509.138,
+      "end": 511.305
+    },
+    {
+      "id": 227,
+      "section": "dua_mujeer",
+      "start": 511.655,
+      "end": 513.393
+    },
+    {
+      "id": 228,
+      "section": "dua_mujeer",
+      "start": 513.743,
+      "end": 515.43
+    },
+    {
+      "id": 229,
+      "section": "dua_mujeer",
+      "start": 515.78,
+      "end": 518.027
+    },
+    {
+      "id": 230,
+      "section": "dua_mujeer",
+      "start": 518.377,
+      "end": 520.209
+    },
+    {
+      "id": 231,
+      "section": "dua_mujeer",
+      "start": 520.559,
+      "end": 522.453
+    },
+    {
+      "id": 232,
+      "section": "dua_mujeer",
+      "start": 522.803,
+      "end": 524.966
+    },
+    {
+      "id": 233,
+      "section": "dua_mujeer",
+      "start": 525.316,
+      "end": 527.121
+    },
+    {
+      "id": 234,
+      "section": "dua_mujeer",
+      "start": 527.471,
+      "end": 529.182
+    },
+    {
+      "id": 235,
+      "section": "dua_mujeer",
+      "start": 529.532,
+      "end": 531.648
+    },
+    {
+      "id": 236,
+      "section": "dua_mujeer",
+      "start": 531.998,
+      "end": 533.747
+    },
+    {
+      "id": 237,
+      "section": "dua_mujeer",
+      "start": 534.097,
+      "end": 535.67
+    },
+    {
+      "id": 238,
+      "section": "dua_mujeer",
+      "start": 536.02,
+      "end": 538.128
+    },
+    {
+      "id": 239,
+      "section": "dua_mujeer",
+      "start": 538.478,
+      "end": 540.083
+    },
+    {
+      "id": 240,
+      "section": "dua_mujeer",
+      "start": 540.433,
+      "end": 542.049
+    },
+    {
+      "id": 241,
+      "section": "dua_mujeer",
+      "start": 542.399,
+      "end": 544.524
+    },
+    {
+      "id": 242,
+      "section": "dua_mujeer",
+      "start": 544.874,
+      "end": 546.887
+    },
+    {
+      "id": 243,
+      "section": "dua_mujeer",
+      "start": 547.237,
+      "end": 549.101
+    },
+    {
+      "id": 244,
+      "section": "dua_mujeer",
+      "start": 549.451,
+      "end": 551.625
+    },
+    {
+      "id": 245,
+      "section": "dua_mujeer",
+      "start": 551.975,
+      "end": 553.251
+    },
+    {
+      "id": 246,
+      "section": "dua_mujeer",
+      "start": 553.601,
+      "end": 555.491
+    },
+    {
+      "id": 247,
+      "section": "dua_mujeer",
+      "start": 555.841,
+      "end": 558.011
+    },
+    {
+      "id": 248,
+      "section": "dua_mujeer",
+      "start": 558.361,
+      "end": 559.911
+    },
+    {
+      "id": 249,
+      "section": "dua_mujeer",
+      "start": 560.261,
+      "end": 561.971
+    },
+    {
+      "id": 250,
+      "section": "dua_mujeer",
+      "start": 562.321,
+      "end": 564.543
+    },
+    {
+      "id": 251,
+      "section": "dua_mujeer",
+      "start": 564.893,
+      "end": 566.493
+    },
+    {
+      "id": 252,
+      "section": "dua_mujeer",
+      "start": 566.843,
+      "end": 568.591
+    },
+    {
+      "id": 253,
+      "section": "dua_mujeer",
+      "start": 568.941,
+      "end": 571.075
+    },
+    {
+      "id": 254,
+      "section": "dua_mujeer",
+      "start": 571.425,
+      "end": 573.039
+    },
+    {
+      "id": 255,
+      "section": "dua_mujeer",
+      "start": 573.389,
+      "end": 575.297
+    },
+    {
+      "id": 256,
+      "section": "dua_mujeer",
+      "start": 575.647,
+      "end": 577.712
+    },
+    {
+      "id": 257,
+      "section": "dua_mujeer",
+      "start": 578.062,
+      "end": 579.836
+    },
+    {
+      "id": 258,
+      "section": "dua_mujeer",
+      "start": 580.186,
+      "end": 581.763
+    },
+    {
+      "id": 259,
+      "section": "dua_mujeer",
+      "start": 582.113,
+      "end": 584.315
+    },
+    {
+      "id": 260,
+      "section": "dua_mujeer",
+      "start": 584.665,
+      "end": 586.428
+    },
+    {
+      "id": 261,
+      "section": "dua_mujeer",
+      "start": 586.778,
+      "end": 588.511
+    },
+    {
+      "id": 262,
+      "section": "dua_mujeer",
+      "start": 588.861,
+      "end": 591.001
+    },
+    {
+      "id": 263,
+      "section": "dua_mujeer",
+      "start": 591.351,
+      "end": 593.361
+    },
+    {
+      "id": 264,
+      "section": "dua_mujeer",
+      "start": 593.711,
+      "end": 595.57
+    },
+    {
+      "id": 265,
+      "section": "dua_mujeer",
+      "start": 595.92,
+      "end": 598.056
+    },
+    {
+      "id": 266,
+      "section": "dua_mujeer",
+      "start": 598.406,
+      "end": 600.998
+    },
+    {
+      "id": 267,
+      "section": "dua_mujeer",
+      "start": 601.348,
+      "end": 604.119
+    },
+    {
+      "id": 268,
+      "section": "dua_mujeer",
+      "start": 604.469,
+      "end": 606.577
+    },
+    {
+      "id": 269,
+      "section": "dua_mujeer",
+      "start": 606.927,
+      "end": 609.54
+    },
+    {
+      "id": 270,
+      "section": "dua_mujeer",
+      "start": 609.89,
+      "end": 612.781
+    },
+    {
+      "id": 271,
+      "section": "dua_mujeer",
+      "start": 613.131,
+      "end": 615.139
+    },
+    {
+      "id": 272,
+      "section": "dua_mujeer",
+      "start": 615.489,
+      "end": 618.926
+    },
+    {
+      "id": 273,
+      "section": "dua_mujeer",
+      "start": 619.276,
+      "end": 621.607
+    },
+    {
+      "id": 274,
+      "section": "dua_mujeer",
+      "start": 621.957,
+      "end": 625.697
+    },
+    {
+      "id": 275,
+      "section": "dua_mujeer",
+      "start": 626.047,
+      "end": 629.6
+    }
+  ]
+}

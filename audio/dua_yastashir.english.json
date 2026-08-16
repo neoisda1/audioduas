@@ -1,0 +1,843 @@
+{
+  "dua_id": "dua_yastashir",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 311.758,
+  "bytes": 1503873,
+  "sha256": "26f9b9986c63d6d4b06756d253e2a9563c6c8cbf37b732c73fa8a16f1a6efab2",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_yastashir",
+      "start": 0.0,
+      "end": 3.281
+    },
+    {
+      "id": 2,
+      "section": "dua_yastashir",
+      "start": 3.631,
+      "end": 7.273
+    },
+    {
+      "id": 3,
+      "section": "dua_yastashir",
+      "start": 7.623,
+      "end": 9.236
+    },
+    {
+      "id": 4,
+      "section": "dua_yastashir",
+      "start": 9.586,
+      "end": 10.933
+    },
+    {
+      "id": 5,
+      "section": "dua_yastashir",
+      "start": 11.283,
+      "end": 13.286
+    },
+    {
+      "id": 6,
+      "section": "dua_yastashir",
+      "start": 13.636,
+      "end": 15.795
+    },
+    {
+      "id": 7,
+      "section": "dua_yastashir",
+      "start": 16.145,
+      "end": 18.688
+    },
+    {
+      "id": 8,
+      "section": "dua_yastashir",
+      "start": 19.038,
+      "end": 20.582
+    },
+    {
+      "id": 9,
+      "section": "dua_yastashir",
+      "start": 20.932,
+      "end": 24.136
+    },
+    {
+      "id": 10,
+      "section": "dua_yastashir",
+      "start": 24.486,
+      "end": 25.705
+    },
+    {
+      "id": 11,
+      "section": "dua_yastashir",
+      "start": 26.055,
+      "end": 27.739
+    },
+    {
+      "id": 12,
+      "section": "dua_yastashir",
+      "start": 28.089,
+      "end": 29.981
+    },
+    {
+      "id": 13,
+      "section": "dua_yastashir",
+      "start": 30.331,
+      "end": 33.129
+    },
+    {
+      "id": 14,
+      "section": "dua_yastashir",
+      "start": 33.479,
+      "end": 36.103
+    },
+    {
+      "id": 15,
+      "section": "dua_yastashir",
+      "start": 36.453,
+      "end": 38.972
+    },
+    {
+      "id": 16,
+      "section": "dua_yastashir",
+      "start": 39.322,
+      "end": 41.726
+    },
+    {
+      "id": 17,
+      "section": "dua_yastashir",
+      "start": 42.076,
+      "end": 44.804
+    },
+    {
+      "id": 18,
+      "section": "dua_yastashir",
+      "start": 45.154,
+      "end": 48.612
+    },
+    {
+      "id": 19,
+      "section": "dua_yastashir",
+      "start": 48.962,
+      "end": 52.387
+    },
+    {
+      "id": 20,
+      "section": "dua_yastashir",
+      "start": 52.737,
+      "end": 54.374
+    },
+    {
+      "id": 21,
+      "section": "dua_yastashir",
+      "start": 54.724,
+      "end": 56.733
+    },
+    {
+      "id": 22,
+      "section": "dua_yastashir",
+      "start": 57.083,
+      "end": 59.312
+    },
+    {
+      "id": 23,
+      "section": "dua_yastashir",
+      "start": 59.662,
+      "end": 62.077
+    },
+    {
+      "id": 24,
+      "section": "dua_yastashir",
+      "start": 62.427,
+      "end": 64.795
+    },
+    {
+      "id": 25,
+      "section": "dua_yastashir",
+      "start": 65.145,
+      "end": 67.293
+    },
+    {
+      "id": 26,
+      "section": "dua_yastashir",
+      "start": 67.643,
+      "end": 69.57
+    },
+    {
+      "id": 27,
+      "section": "dua_yastashir",
+      "start": 69.92,
+      "end": 72.005
+    },
+    {
+      "id": 28,
+      "section": "dua_yastashir",
+      "start": 72.355,
+      "end": 74.561
+    },
+    {
+      "id": 29,
+      "section": "dua_yastashir",
+      "start": 74.911,
+      "end": 75.941
+    },
+    {
+      "id": 30,
+      "section": "dua_yastashir",
+      "start": 76.291,
+      "end": 77.579
+    },
+    {
+      "id": 31,
+      "section": "dua_yastashir",
+      "start": 77.929,
+      "end": 79.001
+    },
+    {
+      "id": 32,
+      "section": "dua_yastashir",
+      "start": 79.351,
+      "end": 80.558
+    },
+    {
+      "id": 33,
+      "section": "dua_yastashir",
+      "start": 80.908,
+      "end": 82.162
+    },
+    {
+      "id": 34,
+      "section": "dua_yastashir",
+      "start": 82.512,
+      "end": 83.685
+    },
+    {
+      "id": 35,
+      "section": "dua_yastashir",
+      "start": 84.035,
+      "end": 85.265
+    },
+    {
+      "id": 36,
+      "section": "dua_yastashir",
+      "start": 85.615,
+      "end": 87.043
+    },
+    {
+      "id": 37,
+      "section": "dua_yastashir",
+      "start": 87.393,
+      "end": 88.659
+    },
+    {
+      "id": 38,
+      "section": "dua_yastashir",
+      "start": 89.009,
+      "end": 90.286
+    },
+    {
+      "id": 39,
+      "section": "dua_yastashir",
+      "start": 90.636,
+      "end": 92.052
+    },
+    {
+      "id": 40,
+      "section": "dua_yastashir",
+      "start": 92.402,
+      "end": 94.004
+    },
+    {
+      "id": 41,
+      "section": "dua_yastashir",
+      "start": 94.354,
+      "end": 95.562
+    },
+    {
+      "id": 42,
+      "section": "dua_yastashir",
+      "start": 95.912,
+      "end": 97.119
+    },
+    {
+      "id": 43,
+      "section": "dua_yastashir",
+      "start": 97.469,
+      "end": 98.932
+    },
+    {
+      "id": 44,
+      "section": "dua_yastashir",
+      "start": 99.282,
+      "end": 100.594
+    },
+    {
+      "id": 45,
+      "section": "dua_yastashir",
+      "start": 100.944,
+      "end": 102.837
+    },
+    {
+      "id": 46,
+      "section": "dua_yastashir",
+      "start": 103.187,
+      "end": 105.056
+    },
+    {
+      "id": 47,
+      "section": "dua_yastashir",
+      "start": 105.406,
+      "end": 107.333
+    },
+    {
+      "id": 48,
+      "section": "dua_yastashir",
+      "start": 107.683,
+      "end": 109.483
+    },
+    {
+      "id": 49,
+      "section": "dua_yastashir",
+      "start": 109.833,
+      "end": 111.493
+    },
+    {
+      "id": 50,
+      "section": "dua_yastashir",
+      "start": 111.843,
+      "end": 113.605
+    },
+    {
+      "id": 51,
+      "section": "dua_yastashir",
+      "start": 113.955,
+      "end": 115.545
+    },
+    {
+      "id": 52,
+      "section": "dua_yastashir",
+      "start": 115.895,
+      "end": 117.939
+    },
+    {
+      "id": 53,
+      "section": "dua_yastashir",
+      "start": 118.289,
+      "end": 120.419
+    },
+    {
+      "id": 54,
+      "section": "dua_yastashir",
+      "start": 120.769,
+      "end": 122.729
+    },
+    {
+      "id": 55,
+      "section": "dua_yastashir",
+      "start": 123.079,
+      "end": 124.364
+    },
+    {
+      "id": 56,
+      "section": "dua_yastashir",
+      "start": 124.714,
+      "end": 126.084
+    },
+    {
+      "id": 57,
+      "section": "dua_yastashir",
+      "start": 126.434,
+      "end": 128.071
+    },
+    {
+      "id": 58,
+      "section": "dua_yastashir",
+      "start": 128.421,
+      "end": 130.056
+    },
+    {
+      "id": 59,
+      "section": "dua_yastashir",
+      "start": 130.406,
+      "end": 131.822
+    },
+    {
+      "id": 60,
+      "section": "dua_yastashir",
+      "start": 132.172,
+      "end": 133.283
+    },
+    {
+      "id": 61,
+      "section": "dua_yastashir",
+      "start": 133.633,
+      "end": 135.188
+    },
+    {
+      "id": 62,
+      "section": "dua_yastashir",
+      "start": 135.538,
+      "end": 137.187
+    },
+    {
+      "id": 63,
+      "section": "dua_yastashir",
+      "start": 137.537,
+      "end": 139.209
+    },
+    {
+      "id": 64,
+      "section": "dua_yastashir",
+      "start": 139.559,
+      "end": 141.033
+    },
+    {
+      "id": 65,
+      "section": "dua_yastashir",
+      "start": 141.383,
+      "end": 142.928
+    },
+    {
+      "id": 66,
+      "section": "dua_yastashir",
+      "start": 143.278,
+      "end": 144.822
+    },
+    {
+      "id": 67,
+      "section": "dua_yastashir",
+      "start": 145.172,
+      "end": 146.681
+    },
+    {
+      "id": 68,
+      "section": "dua_yastashir",
+      "start": 147.031,
+      "end": 148.308
+    },
+    {
+      "id": 69,
+      "section": "dua_yastashir",
+      "start": 148.658,
+      "end": 149.935
+    },
+    {
+      "id": 70,
+      "section": "dua_yastashir",
+      "start": 150.285,
+      "end": 151.934
+    },
+    {
+      "id": 71,
+      "section": "dua_yastashir",
+      "start": 152.284,
+      "end": 153.886
+    },
+    {
+      "id": 72,
+      "section": "dua_yastashir",
+      "start": 154.236,
+      "end": 155.513
+    },
+    {
+      "id": 73,
+      "section": "dua_yastashir",
+      "start": 155.863,
+      "end": 158.17
+    },
+    {
+      "id": 74,
+      "section": "dua_yastashir",
+      "start": 158.52,
+      "end": 160.284
+    },
+    {
+      "id": 75,
+      "section": "dua_yastashir",
+      "start": 160.634,
+      "end": 163.119
+    },
+    {
+      "id": 76,
+      "section": "dua_yastashir",
+      "start": 163.469,
+      "end": 165.28
+    },
+    {
+      "id": 77,
+      "section": "dua_yastashir",
+      "start": 165.63,
+      "end": 167.383
+    },
+    {
+      "id": 78,
+      "section": "dua_yastashir",
+      "start": 167.733,
+      "end": 169.358
+    },
+    {
+      "id": 79,
+      "section": "dua_yastashir",
+      "start": 169.708,
+      "end": 171.462
+    },
+    {
+      "id": 80,
+      "section": "dua_yastashir",
+      "start": 171.812,
+      "end": 173.844
+    },
+    {
+      "id": 81,
+      "section": "dua_yastashir",
+      "start": 174.194,
+      "end": 175.471
+    },
+    {
+      "id": 82,
+      "section": "dua_yastashir",
+      "start": 175.821,
+      "end": 176.935
+    },
+    {
+      "id": 83,
+      "section": "dua_yastashir",
+      "start": 177.285,
+      "end": 178.853
+    },
+    {
+      "id": 84,
+      "section": "dua_yastashir",
+      "start": 179.203,
+      "end": 180.724
+    },
+    {
+      "id": 85,
+      "section": "dua_yastashir",
+      "start": 181.074,
+      "end": 183.722
+    },
+    {
+      "id": 86,
+      "section": "dua_yastashir",
+      "start": 184.072,
+      "end": 186.823
+    },
+    {
+      "id": 87,
+      "section": "dua_yastashir",
+      "start": 187.173,
+      "end": 190.227
+    },
+    {
+      "id": 88,
+      "section": "dua_yastashir",
+      "start": 190.577,
+      "end": 192.806
+    },
+    {
+      "id": 89,
+      "section": "dua_yastashir",
+      "start": 193.156,
+      "end": 195.431
+    },
+    {
+      "id": 90,
+      "section": "dua_yastashir",
+      "start": 195.781,
+      "end": 198.73
+    },
+    {
+      "id": 91,
+      "section": "dua_yastashir",
+      "start": 199.08,
+      "end": 200.531
+    },
+    {
+      "id": 92,
+      "section": "dua_yastashir",
+      "start": 200.881,
+      "end": 202.135
+    },
+    {
+      "id": 93,
+      "section": "dua_yastashir",
+      "start": 202.485,
+      "end": 203.902
+    },
+    {
+      "id": 94,
+      "section": "dua_yastashir",
+      "start": 204.252,
+      "end": 205.819
+    },
+    {
+      "id": 95,
+      "section": "dua_yastashir",
+      "start": 206.169,
+      "end": 207.318
+    },
+    {
+      "id": 96,
+      "section": "dua_yastashir",
+      "start": 207.668,
+      "end": 209.648
+    },
+    {
+      "id": 97,
+      "section": "dua_yastashir",
+      "start": 209.998,
+      "end": 211.716
+    },
+    {
+      "id": 98,
+      "section": "dua_yastashir",
+      "start": 212.066,
+      "end": 214.126
+    },
+    {
+      "id": 99,
+      "section": "dua_yastashir",
+      "start": 214.476,
+      "end": 215.927
+    },
+    {
+      "id": 100,
+      "section": "dua_yastashir",
+      "start": 216.277,
+      "end": 217.624
+    },
+    {
+      "id": 101,
+      "section": "dua_yastashir",
+      "start": 217.974,
+      "end": 219.448
+    },
+    {
+      "id": 102,
+      "section": "dua_yastashir",
+      "start": 219.798,
+      "end": 221.25
+    },
+    {
+      "id": 103,
+      "section": "dua_yastashir",
+      "start": 221.6,
+      "end": 223.469
+    },
+    {
+      "id": 104,
+      "section": "dua_yastashir",
+      "start": 223.819,
+      "end": 225.119
+    },
+    {
+      "id": 105,
+      "section": "dua_yastashir",
+      "start": 225.469,
+      "end": 227.498
+    },
+    {
+      "id": 106,
+      "section": "dua_yastashir",
+      "start": 227.848,
+      "end": 229.346
+    },
+    {
+      "id": 107,
+      "section": "dua_yastashir",
+      "start": 229.696,
+      "end": 231.683
+    },
+    {
+      "id": 108,
+      "section": "dua_yastashir",
+      "start": 232.033,
+      "end": 233.252
+    },
+    {
+      "id": 109,
+      "section": "dua_yastashir",
+      "start": 233.602,
+      "end": 235.739
+    },
+    {
+      "id": 110,
+      "section": "dua_yastashir",
+      "start": 236.089,
+      "end": 237.865
+    },
+    {
+      "id": 111,
+      "section": "dua_yastashir",
+      "start": 238.215,
+      "end": 239.907
+    },
+    {
+      "id": 112,
+      "section": "dua_yastashir",
+      "start": 240.257,
+      "end": 242.695
+    },
+    {
+      "id": 113,
+      "section": "dua_yastashir",
+      "start": 243.045,
+      "end": 245.019
+    },
+    {
+      "id": 114,
+      "section": "dua_yastashir",
+      "start": 245.369,
+      "end": 247.412
+    },
+    {
+      "id": 115,
+      "section": "dua_yastashir",
+      "start": 247.762,
+      "end": 249.561
+    },
+    {
+      "id": 116,
+      "section": "dua_yastashir",
+      "start": 249.911,
+      "end": 251.723
+    },
+    {
+      "id": 117,
+      "section": "dua_yastashir",
+      "start": 252.073,
+      "end": 253.86
+    },
+    {
+      "id": 118,
+      "section": "dua_yastashir",
+      "start": 254.21,
+      "end": 256.095
+    },
+    {
+      "id": 119,
+      "section": "dua_yastashir",
+      "start": 256.445,
+      "end": 258.511
+    },
+    {
+      "id": 120,
+      "section": "dua_yastashir",
+      "start": 258.861,
+      "end": 260.941
+    },
+    {
+      "id": 121,
+      "section": "dua_yastashir",
+      "start": 261.291,
+      "end": 263.497
+    },
+    {
+      "id": 122,
+      "section": "dua_yastashir",
+      "start": 263.847,
+      "end": 266.645
+    },
+    {
+      "id": 123,
+      "section": "dua_yastashir",
+      "start": 266.995,
+      "end": 269.654
+    },
+    {
+      "id": 124,
+      "section": "dua_yastashir",
+      "start": 270.004,
+      "end": 272.198
+    },
+    {
+      "id": 125,
+      "section": "dua_yastashir",
+      "start": 272.548,
+      "end": 274.452
+    },
+    {
+      "id": 126,
+      "section": "dua_yastashir",
+      "start": 274.802,
+      "end": 276.137
+    },
+    {
+      "id": 127,
+      "section": "dua_yastashir",
+      "start": 276.487,
+      "end": 278.751
+    },
+    {
+      "id": 128,
+      "section": "dua_yastashir",
+      "start": 279.101,
+      "end": 281.029
+    },
+    {
+      "id": 129,
+      "section": "dua_yastashir",
+      "start": 281.379,
+      "end": 284.481
+    },
+    {
+      "id": 130,
+      "section": "dua_yastashir",
+      "start": 284.831,
+      "end": 286.514
+    },
+    {
+      "id": 131,
+      "section": "dua_yastashir",
+      "start": 286.864,
+      "end": 290.941
+    },
+    {
+      "id": 132,
+      "section": "dua_yastashir",
+      "start": 291.291,
+      "end": 292.603
+    },
+    {
+      "id": 133,
+      "section": "dua_yastashir",
+      "start": 292.953,
+      "end": 294.358
+    },
+    {
+      "id": 134,
+      "section": "dua_yastashir",
+      "start": 294.708,
+      "end": 297.808
+    },
+    {
+      "id": 135,
+      "section": "dua_yastashir",
+      "start": 298.158,
+      "end": 300.039
+    },
+    {
+      "id": 136,
+      "section": "dua_yastashir",
+      "start": 300.389,
+      "end": 303.049
+    },
+    {
+      "id": 137,
+      "section": "dua_yastashir",
+      "start": 303.399,
+      "end": 307.161
+    },
+    {
+      "id": 138,
+      "section": "dua_yastashir",
+      "start": 307.511,
+      "end": 311.408
+    }
+  ]
+}

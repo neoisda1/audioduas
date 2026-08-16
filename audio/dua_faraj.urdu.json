@@ -1,0 +1,123 @@
+{
+  "dua_id": "dua_faraj",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 73.044,
+  "bytes": 343179,
+  "sha256": "e3ecc8c42c3807b5516d5de71380280a86652c60bd530822d170454b3c194aa3",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_faraj",
+      "start": 0.0,
+      "end": 3.795
+    },
+    {
+      "id": 2,
+      "section": "dua_faraj",
+      "start": 4.145,
+      "end": 8.139
+    },
+    {
+      "id": 3,
+      "section": "dua_faraj",
+      "start": 8.489,
+      "end": 14.108
+    },
+    {
+      "id": 4,
+      "section": "dua_faraj",
+      "start": 14.458,
+      "end": 16.734
+    },
+    {
+      "id": 5,
+      "section": "dua_faraj",
+      "start": 17.084,
+      "end": 20.211
+    },
+    {
+      "id": 6,
+      "section": "dua_faraj",
+      "start": 20.561,
+      "end": 25.286
+    },
+    {
+      "id": 7,
+      "section": "dua_faraj",
+      "start": 25.636,
+      "end": 27.935
+    },
+    {
+      "id": 8,
+      "section": "dua_faraj",
+      "start": 28.285,
+      "end": 32.257
+    },
+    {
+      "id": 9,
+      "section": "dua_faraj",
+      "start": 32.607,
+      "end": 36.45
+    },
+    {
+      "id": 10,
+      "section": "dua_faraj",
+      "start": 36.8,
+      "end": 39.563
+    },
+    {
+      "id": 11,
+      "section": "dua_faraj",
+      "start": 39.913,
+      "end": 47.38
+    },
+    {
+      "id": 13,
+      "section": "dua_faraj",
+      "start": 47.73,
+      "end": 54.1
+    },
+    {
+      "id": 14,
+      "section": "dua_faraj",
+      "start": 54.45,
+      "end": 56.981
+    },
+    {
+      "id": 15,
+      "section": "dua_faraj",
+      "start": 57.331,
+      "end": 59.181
+    },
+    {
+      "id": 16,
+      "section": "dua_faraj",
+      "start": 59.531,
+      "end": 63.246
+    },
+    {
+      "id": 17,
+      "section": "dua_faraj",
+      "start": 63.596,
+      "end": 64.803
+    },
+    {
+      "id": 18,
+      "section": "dua_faraj",
+      "start": 65.153,
+      "end": 67.104
+    },
+    {
+      "id": 19,
+      "section": "dua_faraj",
+      "start": 67.454,
+      "end": 72.694
+    }
+  ]
+}

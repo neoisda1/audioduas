@@ -1,0 +1,153 @@
+{
+  "dua_id": "taqibat_asr_combined",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 70.189,
+  "bytes": 351159,
+  "sha256": "297aaad2e76a3a9b992a3bcd86d1a4ed66c1b2c1aac3c6e1092fcce971ab05d7",
+  "lines": [
+    {
+      "id": 1,
+      "section": "asr_forgiveness_77",
+      "start": 0.0,
+      "end": 1.892
+    },
+    {
+      "id": 1,
+      "section": "asr_forgiveness_misbah",
+      "start": 2.242,
+      "end": 5.875
+    },
+    {
+      "id": 2,
+      "section": "asr_forgiveness_misbah",
+      "start": 6.225,
+      "end": 9.232
+    },
+    {
+      "id": 3,
+      "section": "asr_forgiveness_misbah",
+      "start": 9.582,
+      "end": 12.31
+    },
+    {
+      "id": 4,
+      "section": "asr_forgiveness_misbah",
+      "start": 12.66,
+      "end": 14.262
+    },
+    {
+      "id": 5,
+      "section": "asr_forgiveness_misbah",
+      "start": 14.612,
+      "end": 18.309
+    },
+    {
+      "id": 6,
+      "section": "asr_forgiveness_misbah",
+      "start": 18.659,
+      "end": 20.796
+    },
+    {
+      "id": 7,
+      "section": "asr_forgiveness_misbah",
+      "start": 21.146,
+      "end": 22.899
+    },
+    {
+      "id": 8,
+      "section": "asr_forgiveness_misbah",
+      "start": 23.249,
+      "end": 26.871
+    },
+    {
+      "id": 9,
+      "section": "asr_forgiveness_misbah",
+      "start": 27.221,
+      "end": 30.983
+    },
+    {
+      "id": 10,
+      "section": "asr_forgiveness_misbah",
+      "start": 31.333,
+      "end": 35.119
+    },
+    {
+      "id": 1,
+      "section": "asr_protection_ease",
+      "start": 35.469,
+      "end": 39.568
+    },
+    {
+      "id": 2,
+      "section": "asr_protection_ease",
+      "start": 39.918,
+      "end": 43.54
+    },
+    {
+      "id": 3,
+      "section": "asr_protection_ease",
+      "start": 43.89,
+      "end": 45.957
+    },
+    {
+      "id": 4,
+      "section": "asr_protection_ease",
+      "start": 46.307,
+      "end": 48.35
+    },
+    {
+      "id": 5,
+      "section": "asr_protection_ease",
+      "start": 48.7,
+      "end": 50.5
+    },
+    {
+      "id": 6,
+      "section": "asr_protection_ease",
+      "start": 50.85,
+      "end": 54.159
+    },
+    {
+      "id": 7,
+      "section": "asr_protection_ease",
+      "start": 54.509,
+      "end": 56.691
+    },
+    {
+      "id": 8,
+      "section": "asr_protection_ease",
+      "start": 57.041,
+      "end": 58.655
+    },
+    {
+      "id": 9,
+      "section": "asr_protection_ease",
+      "start": 59.005,
+      "end": 62.752
+    },
+    {
+      "id": 10,
+      "section": "asr_protection_ease",
+      "start": 63.102,
+      "end": 65.029
+    },
+    {
+      "id": 11,
+      "section": "asr_protection_ease",
+      "start": 65.379,
+      "end": 68.49
+    },
+    {
+      "id": 1,
+      "section": "asr_imam_reza_gratitude",
+      "start": 68.84,
+      "end": 69.839
+    }
+  ]
+}

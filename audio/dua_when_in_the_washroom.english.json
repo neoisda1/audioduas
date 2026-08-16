@@ -1,0 +1,57 @@
+{
+  "dua_id": "dua_when_in_the_washroom",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 15.064,
+  "bytes": 68646,
+  "sha256": "b0b5884fd7dad134536e9d07d73222a3f6fed0e201c640468d6a90776080025b",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_in_the_washroom",
+      "start": 0.0,
+      "end": 3.32
+    },
+    {
+      "id": 2,
+      "section": "dua_when_in_the_washroom",
+      "start": 3.67,
+      "end": 5.516
+    },
+    {
+      "id": 3,
+      "section": "dua_when_in_the_washroom",
+      "start": 5.866,
+      "end": 7.422
+    },
+    {
+      "id": 4,
+      "section": "dua_when_in_the_washroom",
+      "start": 7.772,
+      "end": 9.165
+    },
+    {
+      "id": 5,
+      "section": "dua_when_in_the_washroom",
+      "start": 9.515,
+      "end": 10.885
+    },
+    {
+      "id": 6,
+      "section": "dua_when_in_the_washroom",
+      "start": 11.235,
+      "end": 12.652
+    },
+    {
+      "id": 7,
+      "section": "dua_when_in_the_washroom",
+      "start": 13.002,
+      "end": 14.714
+    }
+  ]
+}

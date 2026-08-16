@@ -1,0 +1,93 @@
+{
+  "dua_id": "dua_57_sahifat_sajjadiyyah",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 51.205,
+  "bytes": 250619,
+  "sha256": "d792cc99cc79271a6f36084050fd21ca24c7c8526d002d906b4880b64e79cdea",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 0.0,
+      "end": 3.669
+    },
+    {
+      "id": 2,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 4.019,
+      "end": 8.09
+    },
+    {
+      "id": 3,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 8.44,
+      "end": 10.959
+    },
+    {
+      "id": 4,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 11.309,
+      "end": 17.753
+    },
+    {
+      "id": 5,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 18.103,
+      "end": 19.962
+    },
+    {
+      "id": 6,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 20.312,
+      "end": 24.573
+    },
+    {
+      "id": 7,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 24.923,
+      "end": 27.652
+    },
+    {
+      "id": 8,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 28.002,
+      "end": 31.357
+    },
+    {
+      "id": 9,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 31.707,
+      "end": 35.587
+    },
+    {
+      "id": 10,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 35.937,
+      "end": 38.805
+    },
+    {
+      "id": 11,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 39.155,
+      "end": 42.57
+    },
+    {
+      "id": 12,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 42.92,
+      "end": 48.59
+    },
+    {
+      "id": 13,
+      "section": "dua_57_sahifat_sajjadiyyah",
+      "start": 48.94,
+      "end": 50.855
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dua_id": "dua_in_the_evening",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 18.174,
+  "bytes": 81796,
+  "sha256": "beb6d3b0bba430420b905b2b81a5e89ce9d836652def8a3ee023f153ef39acc6",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_in_the_evening",
+      "start": 0.0,
+      "end": 3.878
+    },
+    {
+      "id": 2,
+      "section": "dua_in_the_evening",
+      "start": 4.228,
+      "end": 5.737
+    },
+    {
+      "id": 3,
+      "section": "dua_in_the_evening",
+      "start": 6.087,
+      "end": 8.049
+    },
+    {
+      "id": 4,
+      "section": "dua_in_the_evening",
+      "start": 8.399,
+      "end": 10.483
+    },
+    {
+      "id": 5,
+      "section": "dua_in_the_evening",
+      "start": 10.833,
+      "end": 14.908
+    },
+    {
+      "id": 6,
+      "section": "dua_in_the_evening",
+      "start": 15.258,
+      "end": 17.824
+    }
+  ]
+}

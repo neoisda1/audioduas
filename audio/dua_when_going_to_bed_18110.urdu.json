@@ -1,0 +1,27 @@
+{
+  "dua_id": "dua_when_going_to_bed_18110",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 18.047,
+  "bytes": 74575,
+  "sha256": "b48114c07a315c2904d4017e25218cf8305b2ac19262e9b9144605e84fd52fe0",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_going_to_bed_18110",
+      "start": 0.0,
+      "end": 3.696
+    },
+    {
+      "id": 2,
+      "section": "dua_when_going_to_bed_18110",
+      "start": 4.046,
+      "end": 17.697
+    }
+  ]
+}

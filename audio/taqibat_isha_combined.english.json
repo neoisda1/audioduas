@@ -1,0 +1,741 @@
+{
+  "dua_id": "taqibat_isha_combined",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 388.782,
+  "bytes": 1839736,
+  "sha256": "9c0cfd8e3eace686943e15add5c0a655cd4e654cdbae93e1e6e009a2b3175586",
+  "lines": [
+    {
+      "id": 1,
+      "section": "isha_rizq_sadiq",
+      "start": 0.0,
+      "end": 3.483
+    },
+    {
+      "id": 2,
+      "section": "isha_rizq_sadiq",
+      "start": 3.833,
+      "end": 6.329
+    },
+    {
+      "id": 3,
+      "section": "isha_rizq_sadiq",
+      "start": 6.679,
+      "end": 8.931
+    },
+    {
+      "id": 4,
+      "section": "isha_rizq_sadiq",
+      "start": 9.281,
+      "end": 11.952
+    },
+    {
+      "id": 5,
+      "section": "isha_rizq_sadiq",
+      "start": 12.302,
+      "end": 15.866
+    },
+    {
+      "id": 6,
+      "section": "isha_rizq_sadiq",
+      "start": 16.216,
+      "end": 18.608
+    },
+    {
+      "id": 7,
+      "section": "isha_rizq_sadiq",
+      "start": 18.958,
+      "end": 21.447
+    },
+    {
+      "id": 8,
+      "section": "isha_rizq_sadiq",
+      "start": 21.797,
+      "end": 23.434
+    },
+    {
+      "id": 9,
+      "section": "isha_rizq_sadiq",
+      "start": 23.784,
+      "end": 25.142
+    },
+    {
+      "id": 10,
+      "section": "isha_rizq_sadiq",
+      "start": 25.492,
+      "end": 27.843
+    },
+    {
+      "id": 11,
+      "section": "isha_rizq_sadiq",
+      "start": 28.193,
+      "end": 30.399
+    },
+    {
+      "id": 12,
+      "section": "isha_rizq_sadiq",
+      "start": 30.749,
+      "end": 33.396
+    },
+    {
+      "id": 13,
+      "section": "isha_rizq_sadiq",
+      "start": 33.746,
+      "end": 35.355
+    },
+    {
+      "id": 14,
+      "section": "isha_rizq_sadiq",
+      "start": 35.705,
+      "end": 38.854
+    },
+    {
+      "id": 15,
+      "section": "isha_rizq_sadiq",
+      "start": 39.204,
+      "end": 42.417
+    },
+    {
+      "id": 16,
+      "section": "isha_rizq_sadiq",
+      "start": 42.767,
+      "end": 44.752
+    },
+    {
+      "id": 17,
+      "section": "isha_rizq_sadiq",
+      "start": 45.102,
+      "end": 46.612
+    },
+    {
+      "id": 18,
+      "section": "isha_rizq_sadiq",
+      "start": 46.962,
+      "end": 50.282
+    },
+    {
+      "id": 19,
+      "section": "isha_rizq_sadiq",
+      "start": 50.632,
+      "end": 52.429
+    },
+    {
+      "id": 20,
+      "section": "isha_rizq_sadiq",
+      "start": 52.779,
+      "end": 54.331
+    },
+    {
+      "id": 21,
+      "section": "isha_rizq_sadiq",
+      "start": 54.681,
+      "end": 57.361
+    },
+    {
+      "id": 22,
+      "section": "isha_rizq_sadiq",
+      "start": 57.711,
+      "end": 60.068
+    },
+    {
+      "id": 23,
+      "section": "isha_rizq_sadiq",
+      "start": 60.418,
+      "end": 62.383
+    },
+    {
+      "id": 1,
+      "section": "isha_rabba_samawati",
+      "start": 62.733,
+      "end": 65.573
+    },
+    {
+      "id": 2,
+      "section": "isha_rabba_samawati",
+      "start": 65.923,
+      "end": 68.349
+    },
+    {
+      "id": 3,
+      "section": "isha_rabba_samawati",
+      "start": 68.699,
+      "end": 71.58
+    },
+    {
+      "id": 4,
+      "section": "isha_rabba_samawati",
+      "start": 71.93,
+      "end": 74.589
+    },
+    {
+      "id": 5,
+      "section": "isha_rabba_samawati",
+      "start": 74.939,
+      "end": 77.14
+    },
+    {
+      "id": 6,
+      "section": "isha_rabba_samawati",
+      "start": 77.49,
+      "end": 79.371
+    },
+    {
+      "id": 7,
+      "section": "isha_rabba_samawati",
+      "start": 79.721,
+      "end": 81.648
+    },
+    {
+      "id": 8,
+      "section": "isha_rabba_samawati",
+      "start": 81.998,
+      "end": 85.054
+    },
+    {
+      "id": 9,
+      "section": "isha_rabba_samawati",
+      "start": 85.404,
+      "end": 88.034
+    },
+    {
+      "id": 10,
+      "section": "isha_rabba_samawati",
+      "start": 88.384,
+      "end": 90.952
+    },
+    {
+      "id": 11,
+      "section": "isha_rabba_samawati",
+      "start": 91.302,
+      "end": 93.65
+    },
+    {
+      "id": 12,
+      "section": "isha_rabba_samawati",
+      "start": 94.0,
+      "end": 96.357
+    },
+    {
+      "id": 13,
+      "section": "isha_rabba_samawati",
+      "start": 96.707,
+      "end": 98.807
+    },
+    {
+      "id": 14,
+      "section": "isha_rabba_samawati",
+      "start": 99.157,
+      "end": 101.119
+    },
+    {
+      "id": 15,
+      "section": "isha_rabba_samawati",
+      "start": 101.469,
+      "end": 103.713
+    },
+    {
+      "id": 16,
+      "section": "isha_rabba_samawati",
+      "start": 104.063,
+      "end": 107.813
+    },
+    {
+      "id": 17,
+      "section": "isha_rabba_samawati",
+      "start": 108.163,
+      "end": 109.876
+    },
+    {
+      "id": 18,
+      "section": "isha_rabba_samawati",
+      "start": 110.226,
+      "end": 112.879
+    },
+    {
+      "id": 19,
+      "section": "isha_rabba_samawati",
+      "start": 113.229,
+      "end": 115.11
+    },
+    {
+      "id": 20,
+      "section": "isha_rabba_samawati",
+      "start": 115.46,
+      "end": 117.921
+    },
+    {
+      "id": 21,
+      "section": "isha_rabba_samawati",
+      "start": 118.271,
+      "end": 120.93
+    },
+    {
+      "id": 22,
+      "section": "isha_rabba_samawati",
+      "start": 121.28,
+      "end": 125.448
+    },
+    {
+      "id": 23,
+      "section": "isha_rabba_samawati",
+      "start": 125.798,
+      "end": 127.133
+    },
+    {
+      "id": 24,
+      "section": "isha_rabba_samawati",
+      "start": 127.483,
+      "end": 130.219
+    },
+    {
+      "id": 1,
+      "section": "isha_mudhill_jabbar",
+      "start": 130.569,
+      "end": 135.776
+    },
+    {
+      "id": 1,
+      "section": "isha_la_tarahu_uyun",
+      "start": 136.126,
+      "end": 140.231
+    },
+    {
+      "id": 2,
+      "section": "isha_la_tarahu_uyun",
+      "start": 140.581,
+      "end": 142.81
+    },
+    {
+      "id": 3,
+      "section": "isha_la_tarahu_uyun",
+      "start": 143.16,
+      "end": 147.982
+    },
+    {
+      "id": 4,
+      "section": "isha_la_tarahu_uyun",
+      "start": 148.332,
+      "end": 151.42
+    },
+    {
+      "id": 5,
+      "section": "isha_la_tarahu_uyun",
+      "start": 151.77,
+      "end": 155.303
+    },
+    {
+      "id": 6,
+      "section": "isha_la_tarahu_uyun",
+      "start": 155.653,
+      "end": 158.224
+    },
+    {
+      "id": 7,
+      "section": "isha_la_tarahu_uyun",
+      "start": 158.574,
+      "end": 163.512
+    },
+    {
+      "id": 1,
+      "section": "isha_afina",
+      "start": 163.862,
+      "end": 167.375
+    },
+    {
+      "id": 2,
+      "section": "isha_afina",
+      "start": 167.725,
+      "end": 171.809
+    },
+    {
+      "id": 3,
+      "section": "isha_afina",
+      "start": 172.159,
+      "end": 175.477
+    },
+    {
+      "id": 4,
+      "section": "isha_afina",
+      "start": 175.827,
+      "end": 179.014
+    },
+    {
+      "id": 1,
+      "section": "isha_hadhihi_salati",
+      "start": 179.364,
+      "end": 183.344
+    },
+    {
+      "id": 2,
+      "section": "isha_hadhihi_salati",
+      "start": 183.694,
+      "end": 188.156
+    },
+    {
+      "id": 3,
+      "section": "isha_hadhihi_salati",
+      "start": 188.506,
+      "end": 190.904
+    },
+    {
+      "id": 4,
+      "section": "isha_hadhihi_salati",
+      "start": 191.254,
+      "end": 194.135
+    },
+    {
+      "id": 5,
+      "section": "isha_hadhihi_salati",
+      "start": 194.485,
+      "end": 197.44
+    },
+    {
+      "id": 6,
+      "section": "isha_hadhihi_salati",
+      "start": 197.79,
+      "end": 201.447
+    },
+    {
+      "id": 7,
+      "section": "isha_hadhihi_salati",
+      "start": 201.797,
+      "end": 204.338
+    },
+    {
+      "id": 1,
+      "section": "isha_izzatillah",
+      "start": 204.688,
+      "end": 207.699
+    },
+    {
+      "id": 2,
+      "section": "isha_izzatillah",
+      "start": 208.049,
+      "end": 212.269
+    },
+    {
+      "id": 3,
+      "section": "isha_izzatillah",
+      "start": 212.619,
+      "end": 217.02
+    },
+    {
+      "id": 4,
+      "section": "isha_izzatillah",
+      "start": 217.37,
+      "end": 221.076
+    },
+    {
+      "id": 5,
+      "section": "isha_izzatillah",
+      "start": 221.426,
+      "end": 226.24
+    },
+    {
+      "id": 6,
+      "section": "isha_izzatillah",
+      "start": 226.59,
+      "end": 230.062
+    },
+    {
+      "id": 7,
+      "section": "isha_izzatillah",
+      "start": 230.412,
+      "end": 233.245
+    },
+    {
+      "id": 8,
+      "section": "isha_izzatillah",
+      "start": 233.595,
+      "end": 237.317
+    },
+    {
+      "id": 9,
+      "section": "isha_izzatillah",
+      "start": 237.667,
+      "end": 241.489
+    },
+    {
+      "id": 10,
+      "section": "isha_izzatillah",
+      "start": 241.839,
+      "end": 246.136
+    },
+    {
+      "id": 11,
+      "section": "isha_izzatillah",
+      "start": 246.486,
+      "end": 249.725
+    },
+    {
+      "id": 12,
+      "section": "isha_izzatillah",
+      "start": 250.075,
+      "end": 253.453
+    },
+    {
+      "id": 13,
+      "section": "isha_izzatillah",
+      "start": 253.803,
+      "end": 256.008
+    },
+    {
+      "id": 1,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 256.358,
+      "end": 259.267
+    },
+    {
+      "id": 2,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 259.617,
+      "end": 262.693
+    },
+    {
+      "id": 3,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 263.043,
+      "end": 267.112
+    },
+    {
+      "id": 4,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 267.462,
+      "end": 269.517
+    },
+    {
+      "id": 5,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 269.867,
+      "end": 273.253
+    },
+    {
+      "id": 6,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 273.603,
+      "end": 277.229
+    },
+    {
+      "id": 7,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 277.579,
+      "end": 281.219
+    },
+    {
+      "id": 8,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 281.569,
+      "end": 283.809
+    },
+    {
+      "id": 9,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 284.159,
+      "end": 286.441
+    },
+    {
+      "id": 10,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 286.791,
+      "end": 288.157
+    },
+    {
+      "id": 11,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 288.507,
+      "end": 290.439
+    },
+    {
+      "id": 12,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 290.789,
+      "end": 292.795
+    },
+    {
+      "id": 13,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 293.145,
+      "end": 295.699
+    },
+    {
+      "id": 14,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 296.049,
+      "end": 299.029
+    },
+    {
+      "id": 15,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 299.379,
+      "end": 301.113
+    },
+    {
+      "id": 16,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 301.463,
+      "end": 303.003
+    },
+    {
+      "id": 17,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 303.353,
+      "end": 306.033
+    },
+    {
+      "id": 18,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 306.383,
+      "end": 308.96
+    },
+    {
+      "id": 19,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 309.31,
+      "end": 311.627
+    },
+    {
+      "id": 20,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 311.977,
+      "end": 313.532
+    },
+    {
+      "id": 21,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 313.882,
+      "end": 315.852
+    },
+    {
+      "id": 22,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 316.202,
+      "end": 317.33
+    },
+    {
+      "id": 23,
+      "section": "isha_bihaqqi_muhammad",
+      "start": 317.68,
+      "end": 320.153
+    },
+    {
+      "id": 1,
+      "section": "isha_ya_rabba_muhammad",
+      "start": 320.503,
+      "end": 323.655
+    },
+    {
+      "id": 2,
+      "section": "isha_ya_rabba_muhammad",
+      "start": 324.005,
+      "end": 326.923
+    },
+    {
+      "id": 3,
+      "section": "isha_ya_rabba_muhammad",
+      "start": 327.273,
+      "end": 330.94
+    },
+    {
+      "id": 1,
+      "section": "isha_rasulaka_al_sadiq",
+      "start": 331.29,
+      "end": 334.788
+    },
+    {
+      "id": 2,
+      "section": "isha_rasulaka_al_sadiq",
+      "start": 335.138,
+      "end": 340.08
+    },
+    {
+      "id": 3,
+      "section": "isha_rasulaka_al_sadiq",
+      "start": 340.43,
+      "end": 343.433
+    },
+    {
+      "id": 4,
+      "section": "isha_rasulaka_al_sadiq",
+      "start": 343.783,
+      "end": 346.716
+    },
+    {
+      "id": 5,
+      "section": "isha_rasulaka_al_sadiq",
+      "start": 347.066,
+      "end": 350.119
+    },
+    {
+      "id": 6,
+      "section": "isha_rasulaka_al_sadiq",
+      "start": 350.469,
+      "end": 354.167
+    },
+    {
+      "id": 7,
+      "section": "isha_rasulaka_al_sadiq",
+      "start": 354.517,
+      "end": 357.788
+    },
+    {
+      "id": 8,
+      "section": "isha_rasulaka_al_sadiq",
+      "start": 358.138,
+      "end": 361.854
+    },
+    {
+      "id": 1,
+      "section": "isha_sabran_jamilan",
+      "start": 362.204,
+      "end": 365.427
+    },
+    {
+      "id": 2,
+      "section": "isha_sabran_jamilan",
+      "start": 365.777,
+      "end": 369.419
+    },
+    {
+      "id": 3,
+      "section": "isha_sabran_jamilan",
+      "start": 369.769,
+      "end": 373.078
+    },
+    {
+      "id": 4,
+      "section": "isha_sabran_jamilan",
+      "start": 373.428,
+      "end": 376.974
+    },
+    {
+      "id": 5,
+      "section": "isha_sabran_jamilan",
+      "start": 377.324,
+      "end": 380.294
+    },
+    {
+      "id": 6,
+      "section": "isha_sabran_jamilan",
+      "start": 380.644,
+      "end": 383.303
+    },
+    {
+      "id": 7,
+      "section": "isha_sabran_jamilan",
+      "start": 383.653,
+      "end": 385.569
+    },
+    {
+      "id": 8,
+      "section": "isha_sabran_jamilan",
+      "start": 385.919,
+      "end": 388.432
+    }
+  ]
+}

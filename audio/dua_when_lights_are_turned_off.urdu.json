@@ -1,0 +1,21 @@
+{
+  "dua_id": "dua_when_lights_are_turned_off",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 4.007,
+  "bytes": 16355,
+  "sha256": "6e33fb07de630ccf16d06c3ec02d0402cf6f27662a7db279264abc97bb68cd78",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_lights_are_turned_off",
+      "start": 0.0,
+      "end": 3.657
+    }
+  ]
+}

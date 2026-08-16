@@ -1,0 +1,63 @@
+{
+  "dua_id": "dua_wahdah",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 39.546,
+  "bytes": 178311,
+  "sha256": "62f1283bb646775aeb8cb4eb5cff1b2c7ff98ad101720c330862cdafeff36aa6",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_wahdah",
+      "start": 0.0,
+      "end": 3.281
+    },
+    {
+      "id": 2,
+      "section": "dua_wahdah",
+      "start": 3.631,
+      "end": 7.14
+    },
+    {
+      "id": 3,
+      "section": "dua_wahdah",
+      "start": 7.49,
+      "end": 13.799
+    },
+    {
+      "id": 4,
+      "section": "dua_wahdah",
+      "start": 14.149,
+      "end": 17.805
+    },
+    {
+      "id": 5,
+      "section": "dua_wahdah",
+      "start": 18.155,
+      "end": 24.476
+    },
+    {
+      "id": 6,
+      "section": "dua_wahdah",
+      "start": 24.826,
+      "end": 30.061
+    },
+    {
+      "id": 7,
+      "section": "dua_wahdah",
+      "start": 30.411,
+      "end": 33.819
+    },
+    {
+      "id": 8,
+      "section": "dua_wahdah",
+      "start": 34.169,
+      "end": 39.196
+    }
+  ]
+}

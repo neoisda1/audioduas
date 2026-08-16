@@ -1,0 +1,5031 @@
+{
+  "dua_id": "dua_arafah_imam_hussain",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 2672.046,
+  "bytes": 12672177,
+  "sha256": "f9a3abcc9bc2f5bad53d4ec6890b15a970deb187d2f564b12609456c5b07e8b6",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_arafah_imam_hussain",
+      "start": 0.0,
+      "end": 3.82
+    },
+    {
+      "id": 2,
+      "section": "dua_arafah_imam_hussain",
+      "start": 4.17,
+      "end": 8.059
+    },
+    {
+      "id": 3,
+      "section": "dua_arafah_imam_hussain",
+      "start": 8.409,
+      "end": 12.589
+    },
+    {
+      "id": 4,
+      "section": "dua_arafah_imam_hussain",
+      "start": 12.939,
+      "end": 15.052
+    },
+    {
+      "id": 5,
+      "section": "dua_arafah_imam_hussain",
+      "start": 15.402,
+      "end": 19.245
+    },
+    {
+      "id": 6,
+      "section": "dua_arafah_imam_hussain",
+      "start": 19.595,
+      "end": 22.149
+    },
+    {
+      "id": 7,
+      "section": "dua_arafah_imam_hussain",
+      "start": 22.499,
+      "end": 26.704
+    },
+    {
+      "id": 8,
+      "section": "dua_arafah_imam_hussain",
+      "start": 27.054,
+      "end": 30.224
+    },
+    {
+      "id": 9,
+      "section": "dua_arafah_imam_hussain",
+      "start": 30.574,
+      "end": 35.859
+    },
+    {
+      "id": 10,
+      "section": "dua_arafah_imam_hussain",
+      "start": 36.209,
+      "end": 38.356
+    },
+    {
+      "id": 11,
+      "section": "dua_arafah_imam_hussain",
+      "start": 38.706,
+      "end": 40.611
+    },
+    {
+      "id": 12,
+      "section": "dua_arafah_imam_hussain",
+      "start": 40.961,
+      "end": 43.805
+    },
+    {
+      "id": 13,
+      "section": "dua_arafah_imam_hussain",
+      "start": 44.155,
+      "end": 47.603
+    },
+    {
+      "id": 14,
+      "section": "dua_arafah_imam_hussain",
+      "start": 47.953,
+      "end": 49.683
+    },
+    {
+      "id": 15,
+      "section": "dua_arafah_imam_hussain",
+      "start": 50.033,
+      "end": 53.249
+    },
+    {
+      "id": 16,
+      "section": "dua_arafah_imam_hussain",
+      "start": 53.599,
+      "end": 55.282
+    },
+    {
+      "id": 17,
+      "section": "dua_arafah_imam_hussain",
+      "start": 55.632,
+      "end": 58.303
+    },
+    {
+      "id": 18,
+      "section": "dua_arafah_imam_hussain",
+      "start": 58.653,
+      "end": 60.743
+    },
+    {
+      "id": 19,
+      "section": "dua_arafah_imam_hussain",
+      "start": 61.093,
+      "end": 62.753
+    },
+    {
+      "id": 20,
+      "section": "dua_arafah_imam_hussain",
+      "start": 63.103,
+      "end": 65.088
+    },
+    {
+      "id": 21,
+      "section": "dua_arafah_imam_hussain",
+      "start": 65.438,
+      "end": 67.272
+    },
+    {
+      "id": 22,
+      "section": "dua_arafah_imam_hussain",
+      "start": 67.622,
+      "end": 69.596
+    },
+    {
+      "id": 23,
+      "section": "dua_arafah_imam_hussain",
+      "start": 69.946,
+      "end": 72.976
+    },
+    {
+      "id": 24,
+      "section": "dua_arafah_imam_hussain",
+      "start": 73.326,
+      "end": 75.962
+    },
+    {
+      "id": 25,
+      "section": "dua_arafah_imam_hussain",
+      "start": 76.312,
+      "end": 77.949
+    },
+    {
+      "id": 26,
+      "section": "dua_arafah_imam_hussain",
+      "start": 78.299,
+      "end": 80.818
+    },
+    {
+      "id": 27,
+      "section": "dua_arafah_imam_hussain",
+      "start": 81.168,
+      "end": 83.559
+    },
+    {
+      "id": 28,
+      "section": "dua_arafah_imam_hussain",
+      "start": 83.909,
+      "end": 86.928
+    },
+    {
+      "id": 29,
+      "section": "dua_arafah_imam_hussain",
+      "start": 87.278,
+      "end": 89.345
+    },
+    {
+      "id": 30,
+      "section": "dua_arafah_imam_hussain",
+      "start": 89.695,
+      "end": 91.784
+    },
+    {
+      "id": 31,
+      "section": "dua_arafah_imam_hussain",
+      "start": 92.134,
+      "end": 94.944
+    },
+    {
+      "id": 32,
+      "section": "dua_arafah_imam_hussain",
+      "start": 95.294,
+      "end": 97.21
+    },
+    {
+      "id": 33,
+      "section": "dua_arafah_imam_hussain",
+      "start": 97.56,
+      "end": 99.359
+    },
+    {
+      "id": 34,
+      "section": "dua_arafah_imam_hussain",
+      "start": 99.709,
+      "end": 101.625
+    },
+    {
+      "id": 35,
+      "section": "dua_arafah_imam_hussain",
+      "start": 101.975,
+      "end": 104.308
+    },
+    {
+      "id": 36,
+      "section": "dua_arafah_imam_hussain",
+      "start": 104.658,
+      "end": 107.468
+    },
+    {
+      "id": 37,
+      "section": "dua_arafah_imam_hussain",
+      "start": 107.818,
+      "end": 110.047
+    },
+    {
+      "id": 38,
+      "section": "dua_arafah_imam_hussain",
+      "start": 110.397,
+      "end": 111.988
+    },
+    {
+      "id": 39,
+      "section": "dua_arafah_imam_hussain",
+      "start": 112.338,
+      "end": 114.822
+    },
+    {
+      "id": 40,
+      "section": "dua_arafah_imam_hussain",
+      "start": 115.172,
+      "end": 116.658
+    },
+    {
+      "id": 41,
+      "section": "dua_arafah_imam_hussain",
+      "start": 117.008,
+      "end": 118.576
+    },
+    {
+      "id": 42,
+      "section": "dua_arafah_imam_hussain",
+      "start": 118.926,
+      "end": 120.957
+    },
+    {
+      "id": 43,
+      "section": "dua_arafah_imam_hussain",
+      "start": 121.307,
+      "end": 123.13
+    },
+    {
+      "id": 44,
+      "section": "dua_arafah_imam_hussain",
+      "start": 123.48,
+      "end": 125.326
+    },
+    {
+      "id": 45,
+      "section": "dua_arafah_imam_hussain",
+      "start": 125.676,
+      "end": 132.077
+    },
+    {
+      "id": 46,
+      "section": "dua_arafah_imam_hussain",
+      "start": 132.427,
+      "end": 134.563
+    },
+    {
+      "id": 47,
+      "section": "dua_arafah_imam_hussain",
+      "start": 134.913,
+      "end": 136.829
+    },
+    {
+      "id": 48,
+      "section": "dua_arafah_imam_hussain",
+      "start": 137.179,
+      "end": 139.454
+    },
+    {
+      "id": 49,
+      "section": "dua_arafah_imam_hussain",
+      "start": 139.804,
+      "end": 142.022
+    },
+    {
+      "id": 50,
+      "section": "dua_arafah_imam_hussain",
+      "start": 142.372,
+      "end": 144.171
+    },
+    {
+      "id": 51,
+      "section": "dua_arafah_imam_hussain",
+      "start": 144.521,
+      "end": 147.983
+    },
+    {
+      "id": 52,
+      "section": "dua_arafah_imam_hussain",
+      "start": 148.333,
+      "end": 150.585
+    },
+    {
+      "id": 53,
+      "section": "dua_arafah_imam_hussain",
+      "start": 150.935,
+      "end": 153.373
+    },
+    {
+      "id": 54,
+      "section": "dua_arafah_imam_hussain",
+      "start": 153.723,
+      "end": 156.301
+    },
+    {
+      "id": 55,
+      "section": "dua_arafah_imam_hussain",
+      "start": 156.651,
+      "end": 159.785
+    },
+    {
+      "id": 56,
+      "section": "dua_arafah_imam_hussain",
+      "start": 160.135,
+      "end": 165.012
+    },
+    {
+      "id": 57,
+      "section": "dua_arafah_imam_hussain",
+      "start": 165.362,
+      "end": 167.208
+    },
+    {
+      "id": 58,
+      "section": "dua_arafah_imam_hussain",
+      "start": 167.558,
+      "end": 171.238
+    },
+    {
+      "id": 59,
+      "section": "dua_arafah_imam_hussain",
+      "start": 171.588,
+      "end": 175.419
+    },
+    {
+      "id": 60,
+      "section": "dua_arafah_imam_hussain",
+      "start": 175.769,
+      "end": 179.554
+    },
+    {
+      "id": 61,
+      "section": "dua_arafah_imam_hussain",
+      "start": 179.904,
+      "end": 182.667
+    },
+    {
+      "id": 62,
+      "section": "dua_arafah_imam_hussain",
+      "start": 183.017,
+      "end": 185.92
+    },
+    {
+      "id": 63,
+      "section": "dua_arafah_imam_hussain",
+      "start": 186.27,
+      "end": 188.905
+    },
+    {
+      "id": 64,
+      "section": "dua_arafah_imam_hussain",
+      "start": 189.255,
+      "end": 192.239
+    },
+    {
+      "id": 65,
+      "section": "dua_arafah_imam_hussain",
+      "start": 192.589,
+      "end": 195.201
+    },
+    {
+      "id": 66,
+      "section": "dua_arafah_imam_hussain",
+      "start": 195.551,
+      "end": 197.966
+    },
+    {
+      "id": 67,
+      "section": "dua_arafah_imam_hussain",
+      "start": 198.316,
+      "end": 201.497
+    },
+    {
+      "id": 68,
+      "section": "dua_arafah_imam_hussain",
+      "start": 201.847,
+      "end": 204.297
+    },
+    {
+      "id": 69,
+      "section": "dua_arafah_imam_hussain",
+      "start": 204.647,
+      "end": 206.122
+    },
+    {
+      "id": 70,
+      "section": "dua_arafah_imam_hussain",
+      "start": 206.472,
+      "end": 208.55
+    },
+    {
+      "id": 71,
+      "section": "dua_arafah_imam_hussain",
+      "start": 208.9,
+      "end": 211.339
+    },
+    {
+      "id": 72,
+      "section": "dua_arafah_imam_hussain",
+      "start": 211.689,
+      "end": 214.556
+    },
+    {
+      "id": 73,
+      "section": "dua_arafah_imam_hussain",
+      "start": 214.906,
+      "end": 220.667
+    },
+    {
+      "id": 74,
+      "section": "dua_arafah_imam_hussain",
+      "start": 221.017,
+      "end": 222.967
+    },
+    {
+      "id": 75,
+      "section": "dua_arafah_imam_hussain",
+      "start": 223.317,
+      "end": 227.427
+    },
+    {
+      "id": 76,
+      "section": "dua_arafah_imam_hussain",
+      "start": 227.777,
+      "end": 231.0
+    },
+    {
+      "id": 77,
+      "section": "dua_arafah_imam_hussain",
+      "start": 231.35,
+      "end": 234.415
+    },
+    {
+      "id": 78,
+      "section": "dua_arafah_imam_hussain",
+      "start": 234.765,
+      "end": 238.318
+    },
+    {
+      "id": 79,
+      "section": "dua_arafah_imam_hussain",
+      "start": 238.668,
+      "end": 241.211
+    },
+    {
+      "id": 80,
+      "section": "dua_arafah_imam_hussain",
+      "start": 241.561,
+      "end": 243.325
+    },
+    {
+      "id": 81,
+      "section": "dua_arafah_imam_hussain",
+      "start": 243.675,
+      "end": 246.229
+    },
+    {
+      "id": 82,
+      "section": "dua_arafah_imam_hussain",
+      "start": 246.579,
+      "end": 250.91
+    },
+    {
+      "id": 83,
+      "section": "dua_arafah_imam_hussain",
+      "start": 251.26,
+      "end": 254.778
+    },
+    {
+      "id": 84,
+      "section": "dua_arafah_imam_hussain",
+      "start": 255.128,
+      "end": 256.846
+    },
+    {
+      "id": 85,
+      "section": "dua_arafah_imam_hussain",
+      "start": 257.196,
+      "end": 260.551
+    },
+    {
+      "id": 86,
+      "section": "dua_arafah_imam_hussain",
+      "start": 260.901,
+      "end": 263.827
+    },
+    {
+      "id": 87,
+      "section": "dua_arafah_imam_hussain",
+      "start": 264.177,
+      "end": 267.254
+    },
+    {
+      "id": 88,
+      "section": "dua_arafah_imam_hussain",
+      "start": 267.604,
+      "end": 271.295
+    },
+    {
+      "id": 89,
+      "section": "dua_arafah_imam_hussain",
+      "start": 271.645,
+      "end": 274.803
+    },
+    {
+      "id": 90,
+      "section": "dua_arafah_imam_hussain",
+      "start": 275.153,
+      "end": 278.776
+    },
+    {
+      "id": 91,
+      "section": "dua_arafah_imam_hussain",
+      "start": 279.126,
+      "end": 282.667
+    },
+    {
+      "id": 92,
+      "section": "dua_arafah_imam_hussain",
+      "start": 283.017,
+      "end": 285.792
+    },
+    {
+      "id": 93,
+      "section": "dua_arafah_imam_hussain",
+      "start": 286.142,
+      "end": 288.707
+    },
+    {
+      "id": 94,
+      "section": "dua_arafah_imam_hussain",
+      "start": 289.057,
+      "end": 292.378
+    },
+    {
+      "id": 95,
+      "section": "dua_arafah_imam_hussain",
+      "start": 292.728,
+      "end": 296.211
+    },
+    {
+      "id": 96,
+      "section": "dua_arafah_imam_hussain",
+      "start": 296.561,
+      "end": 298.941
+    },
+    {
+      "id": 97,
+      "section": "dua_arafah_imam_hussain",
+      "start": 299.291,
+      "end": 300.939
+    },
+    {
+      "id": 98,
+      "section": "dua_arafah_imam_hussain",
+      "start": 301.289,
+      "end": 302.844
+    },
+    {
+      "id": 99,
+      "section": "dua_arafah_imam_hussain",
+      "start": 303.194,
+      "end": 305.783
+    },
+    {
+      "id": 100,
+      "section": "dua_arafah_imam_hussain",
+      "start": 306.133,
+      "end": 309.415
+    },
+    {
+      "id": 101,
+      "section": "dua_arafah_imam_hussain",
+      "start": 309.765,
+      "end": 311.855
+    },
+    {
+      "id": 102,
+      "section": "dua_arafah_imam_hussain",
+      "start": 312.205,
+      "end": 313.888
+    },
+    {
+      "id": 103,
+      "section": "dua_arafah_imam_hussain",
+      "start": 314.238,
+      "end": 319.045
+    },
+    {
+      "id": 104,
+      "section": "dua_arafah_imam_hussain",
+      "start": 319.395,
+      "end": 322.576
+    },
+    {
+      "id": 105,
+      "section": "dua_arafah_imam_hussain",
+      "start": 322.926,
+      "end": 326.734
+    },
+    {
+      "id": 106,
+      "section": "dua_arafah_imam_hussain",
+      "start": 327.084,
+      "end": 330.056
+    },
+    {
+      "id": 107,
+      "section": "dua_arafah_imam_hussain",
+      "start": 330.406,
+      "end": 333.065
+    },
+    {
+      "id": 108,
+      "section": "dua_arafah_imam_hussain",
+      "start": 333.415,
+      "end": 335.958
+    },
+    {
+      "id": 109,
+      "section": "dua_arafah_imam_hussain",
+      "start": 336.308,
+      "end": 340.281
+    },
+    {
+      "id": 110,
+      "section": "dua_arafah_imam_hussain",
+      "start": 340.631,
+      "end": 344.909
+    },
+    {
+      "id": 111,
+      "section": "dua_arafah_imam_hussain",
+      "start": 345.259,
+      "end": 347.627
+    },
+    {
+      "id": 112,
+      "section": "dua_arafah_imam_hussain",
+      "start": 347.977,
+      "end": 350.38
+    },
+    {
+      "id": 113,
+      "section": "dua_arafah_imam_hussain",
+      "start": 350.73,
+      "end": 353.408
+    },
+    {
+      "id": 114,
+      "section": "dua_arafah_imam_hussain",
+      "start": 353.758,
+      "end": 356.602
+    },
+    {
+      "id": 115,
+      "section": "dua_arafah_imam_hussain",
+      "start": 356.952,
+      "end": 359.135
+    },
+    {
+      "id": 116,
+      "section": "dua_arafah_imam_hussain",
+      "start": 359.485,
+      "end": 361.482
+    },
+    {
+      "id": 117,
+      "section": "dua_arafah_imam_hussain",
+      "start": 361.832,
+      "end": 365.264
+    },
+    {
+      "id": 118,
+      "section": "dua_arafah_imam_hussain",
+      "start": 365.614,
+      "end": 367.669
+    },
+    {
+      "id": 119,
+      "section": "dua_arafah_imam_hussain",
+      "start": 368.019,
+      "end": 371.188
+    },
+    {
+      "id": 120,
+      "section": "dua_arafah_imam_hussain",
+      "start": 371.538,
+      "end": 373.86
+    },
+    {
+      "id": 121,
+      "section": "dua_arafah_imam_hussain",
+      "start": 374.21,
+      "end": 377.136
+    },
+    {
+      "id": 122,
+      "section": "dua_arafah_imam_hussain",
+      "start": 377.486,
+      "end": 379.518
+    },
+    {
+      "id": 123,
+      "section": "dua_arafah_imam_hussain",
+      "start": 379.868,
+      "end": 382.26
+    },
+    {
+      "id": 124,
+      "section": "dua_arafah_imam_hussain",
+      "start": 382.61,
+      "end": 385.013
+    },
+    {
+      "id": 125,
+      "section": "dua_arafah_imam_hussain",
+      "start": 385.363,
+      "end": 387.72
+    },
+    {
+      "id": 126,
+      "section": "dua_arafah_imam_hussain",
+      "start": 388.07,
+      "end": 390.949
+    },
+    {
+      "id": 127,
+      "section": "dua_arafah_imam_hussain",
+      "start": 391.299,
+      "end": 393.783
+    },
+    {
+      "id": 128,
+      "section": "dua_arafah_imam_hussain",
+      "start": 394.133,
+      "end": 395.863
+    },
+    {
+      "id": 129,
+      "section": "dua_arafah_imam_hussain",
+      "start": 396.213,
+      "end": 398.245
+    },
+    {
+      "id": 130,
+      "section": "dua_arafah_imam_hussain",
+      "start": 398.595,
+      "end": 402.334
+    },
+    {
+      "id": 131,
+      "section": "dua_arafah_imam_hussain",
+      "start": 402.684,
+      "end": 404.274
+    },
+    {
+      "id": 132,
+      "section": "dua_arafah_imam_hussain",
+      "start": 404.624,
+      "end": 407.213
+    },
+    {
+      "id": 133,
+      "section": "dua_arafah_imam_hussain",
+      "start": 407.563,
+      "end": 409.072
+    },
+    {
+      "id": 134,
+      "section": "dua_arafah_imam_hussain",
+      "start": 409.422,
+      "end": 410.897
+    },
+    {
+      "id": 135,
+      "section": "dua_arafah_imam_hussain",
+      "start": 411.247,
+      "end": 413.186
+    },
+    {
+      "id": 136,
+      "section": "dua_arafah_imam_hussain",
+      "start": 413.536,
+      "end": 415.417
+    },
+    {
+      "id": 137,
+      "section": "dua_arafah_imam_hussain",
+      "start": 415.767,
+      "end": 418.454
+    },
+    {
+      "id": 138,
+      "section": "dua_arafah_imam_hussain",
+      "start": 418.804,
+      "end": 420.22
+    },
+    {
+      "id": 139,
+      "section": "dua_arafah_imam_hussain",
+      "start": 420.57,
+      "end": 423.67
+    },
+    {
+      "id": 140,
+      "section": "dua_arafah_imam_hussain",
+      "start": 424.02,
+      "end": 426.423
+    },
+    {
+      "id": 141,
+      "section": "dua_arafah_imam_hussain",
+      "start": 426.773,
+      "end": 429.7
+    },
+    {
+      "id": 142,
+      "section": "dua_arafah_imam_hussain",
+      "start": 430.05,
+      "end": 432.046
+    },
+    {
+      "id": 143,
+      "section": "dua_arafah_imam_hussain",
+      "start": 432.396,
+      "end": 435.938
+    },
+    {
+      "id": 144,
+      "section": "dua_arafah_imam_hussain",
+      "start": 436.288,
+      "end": 439.155
+    },
+    {
+      "id": 145,
+      "section": "dua_arafah_imam_hussain",
+      "start": 439.505,
+      "end": 442.535
+    },
+    {
+      "id": 146,
+      "section": "dua_arafah_imam_hussain",
+      "start": 442.885,
+      "end": 444.255
+    },
+    {
+      "id": 147,
+      "section": "dua_arafah_imam_hussain",
+      "start": 444.605,
+      "end": 448.866
+    },
+    {
+      "id": 148,
+      "section": "dua_arafah_imam_hussain",
+      "start": 449.216,
+      "end": 450.4
+    },
+    {
+      "id": 149,
+      "section": "dua_arafah_imam_hussain",
+      "start": 450.75,
+      "end": 453.165
+    },
+    {
+      "id": 150,
+      "section": "dua_arafah_imam_hussain",
+      "start": 453.515,
+      "end": 455.617
+    },
+    {
+      "id": 151,
+      "section": "dua_arafah_imam_hussain",
+      "start": 455.967,
+      "end": 458.591
+    },
+    {
+      "id": 152,
+      "section": "dua_arafah_imam_hussain",
+      "start": 458.941,
+      "end": 461.495
+    },
+    {
+      "id": 153,
+      "section": "dua_arafah_imam_hussain",
+      "start": 461.845,
+      "end": 463.447
+    },
+    {
+      "id": 154,
+      "section": "dua_arafah_imam_hussain",
+      "start": 463.797,
+      "end": 465.875
+    },
+    {
+      "id": 155,
+      "section": "dua_arafah_imam_hussain",
+      "start": 466.225,
+      "end": 468.257
+    },
+    {
+      "id": 156,
+      "section": "dua_arafah_imam_hussain",
+      "start": 468.607,
+      "end": 470.952
+    },
+    {
+      "id": 157,
+      "section": "dua_arafah_imam_hussain",
+      "start": 471.302,
+      "end": 474.646
+    },
+    {
+      "id": 158,
+      "section": "dua_arafah_imam_hussain",
+      "start": 474.996,
+      "end": 476.586
+    },
+    {
+      "id": 159,
+      "section": "dua_arafah_imam_hussain",
+      "start": 476.936,
+      "end": 481.139
+    },
+    {
+      "id": 160,
+      "section": "dua_arafah_imam_hussain",
+      "start": 481.489,
+      "end": 484.983
+    },
+    {
+      "id": 161,
+      "section": "dua_arafah_imam_hussain",
+      "start": 485.333,
+      "end": 488.108
+    },
+    {
+      "id": 162,
+      "section": "dua_arafah_imam_hussain",
+      "start": 488.458,
+      "end": 491.348
+    },
+    {
+      "id": 163,
+      "section": "dua_arafah_imam_hussain",
+      "start": 491.698,
+      "end": 495.63
+    },
+    {
+      "id": 164,
+      "section": "dua_arafah_imam_hussain",
+      "start": 495.98,
+      "end": 497.57
+    },
+    {
+      "id": 165,
+      "section": "dua_arafah_imam_hussain",
+      "start": 497.92,
+      "end": 501.334
+    },
+    {
+      "id": 166,
+      "section": "dua_arafah_imam_hussain",
+      "start": 501.684,
+      "end": 504.412
+    },
+    {
+      "id": 167,
+      "section": "dua_arafah_imam_hussain",
+      "start": 504.762,
+      "end": 506.933
+    },
+    {
+      "id": 168,
+      "section": "dua_arafah_imam_hussain",
+      "start": 507.283,
+      "end": 510.739
+    },
+    {
+      "id": 169,
+      "section": "dua_arafah_imam_hussain",
+      "start": 511.089,
+      "end": 512.75
+    },
+    {
+      "id": 170,
+      "section": "dua_arafah_imam_hussain",
+      "start": 513.1,
+      "end": 515.584
+    },
+    {
+      "id": 171,
+      "section": "dua_arafah_imam_hussain",
+      "start": 515.934,
+      "end": 519.437
+    },
+    {
+      "id": 172,
+      "section": "dua_arafah_imam_hussain",
+      "start": 519.787,
+      "end": 522.957
+    },
+    {
+      "id": 173,
+      "section": "dua_arafah_imam_hussain",
+      "start": 523.307,
+      "end": 526.082
+    },
+    {
+      "id": 174,
+      "section": "dua_arafah_imam_hussain",
+      "start": 526.432,
+      "end": 528.324
+    },
+    {
+      "id": 175,
+      "section": "dua_arafah_imam_hussain",
+      "start": 528.674,
+      "end": 535.746
+    },
+    {
+      "id": 176,
+      "section": "dua_arafah_imam_hussain",
+      "start": 536.096,
+      "end": 539.482
+    },
+    {
+      "id": 177,
+      "section": "dua_arafah_imam_hussain",
+      "start": 539.832,
+      "end": 542.35
+    },
+    {
+      "id": 178,
+      "section": "dua_arafah_imam_hussain",
+      "start": 542.7,
+      "end": 544.488
+    },
+    {
+      "id": 179,
+      "section": "dua_arafah_imam_hussain",
+      "start": 544.838,
+      "end": 550.155
+    },
+    {
+      "id": 180,
+      "section": "dua_arafah_imam_hussain",
+      "start": 550.505,
+      "end": 552.073
+    },
+    {
+      "id": 181,
+      "section": "dua_arafah_imam_hussain",
+      "start": 552.423,
+      "end": 555.587
+    },
+    {
+      "id": 182,
+      "section": "dua_arafah_imam_hussain",
+      "start": 555.937,
+      "end": 560.283
+    },
+    {
+      "id": 183,
+      "section": "dua_arafah_imam_hussain",
+      "start": 560.633,
+      "end": 565.402
+    },
+    {
+      "id": 185,
+      "section": "dua_arafah_imam_hussain",
+      "start": 565.752,
+      "end": 570.026
+    },
+    {
+      "id": 186,
+      "section": "dua_arafah_imam_hussain",
+      "start": 570.376,
+      "end": 572.953
+    },
+    {
+      "id": 187,
+      "section": "dua_arafah_imam_hussain",
+      "start": 573.303,
+      "end": 576.09
+    },
+    {
+      "id": 188,
+      "section": "dua_arafah_imam_hussain",
+      "start": 576.44,
+      "end": 579.481
+    },
+    {
+      "id": 189,
+      "section": "dua_arafah_imam_hussain",
+      "start": 579.831,
+      "end": 582.165
+    },
+    {
+      "id": 190,
+      "section": "dua_arafah_imam_hussain",
+      "start": 582.515,
+      "end": 586.903
+    },
+    {
+      "id": 191,
+      "section": "dua_arafah_imam_hussain",
+      "start": 587.253,
+      "end": 590.818
+    },
+    {
+      "id": 192,
+      "section": "dua_arafah_imam_hussain",
+      "start": 591.168,
+      "end": 593.954
+    },
+    {
+      "id": 193,
+      "section": "dua_arafah_imam_hussain",
+      "start": 594.304,
+      "end": 595.86
+    },
+    {
+      "id": 194,
+      "section": "dua_arafah_imam_hussain",
+      "start": 596.21,
+      "end": 597.731
+    },
+    {
+      "id": 195,
+      "section": "dua_arafah_imam_hussain",
+      "start": 598.081,
+      "end": 599.671
+    },
+    {
+      "id": 196,
+      "section": "dua_arafah_imam_hussain",
+      "start": 600.021,
+      "end": 601.554
+    },
+    {
+      "id": 197,
+      "section": "dua_arafah_imam_hussain",
+      "start": 601.904,
+      "end": 604.203
+    },
+    {
+      "id": 198,
+      "section": "dua_arafah_imam_hussain",
+      "start": 604.553,
+      "end": 607.502
+    },
+    {
+      "id": 199,
+      "section": "dua_arafah_imam_hussain",
+      "start": 607.852,
+      "end": 611.346
+    },
+    {
+      "id": 200,
+      "section": "dua_arafah_imam_hussain",
+      "start": 611.696,
+      "end": 615.543
+    },
+    {
+      "id": 201,
+      "section": "dua_arafah_imam_hussain",
+      "start": 615.893,
+      "end": 617.994
+    },
+    {
+      "id": 202,
+      "section": "dua_arafah_imam_hussain",
+      "start": 618.344,
+      "end": 621.055
+    },
+    {
+      "id": 203,
+      "section": "dua_arafah_imam_hussain",
+      "start": 621.405,
+      "end": 623.158
+    },
+    {
+      "id": 204,
+      "section": "dua_arafah_imam_hussain",
+      "start": 623.508,
+      "end": 625.226
+    },
+    {
+      "id": 205,
+      "section": "dua_arafah_imam_hussain",
+      "start": 625.576,
+      "end": 627.527
+    },
+    {
+      "id": 206,
+      "section": "dua_arafah_imam_hussain",
+      "start": 627.877,
+      "end": 629.142
+    },
+    {
+      "id": 207,
+      "section": "dua_arafah_imam_hussain",
+      "start": 629.492,
+      "end": 632.801
+    },
+    {
+      "id": 208,
+      "section": "dua_arafah_imam_hussain",
+      "start": 633.151,
+      "end": 635.032
+    },
+    {
+      "id": 209,
+      "section": "dua_arafah_imam_hussain",
+      "start": 635.382,
+      "end": 639.457
+    },
+    {
+      "id": 210,
+      "section": "dua_arafah_imam_hussain",
+      "start": 639.807,
+      "end": 642.477
+    },
+    {
+      "id": 211,
+      "section": "dua_arafah_imam_hussain",
+      "start": 642.827,
+      "end": 646.287
+    },
+    {
+      "id": 212,
+      "section": "dua_arafah_imam_hussain",
+      "start": 646.637,
+      "end": 651.602
+    },
+    {
+      "id": 213,
+      "section": "dua_arafah_imam_hussain",
+      "start": 651.952,
+      "end": 654.575
+    },
+    {
+      "id": 214,
+      "section": "dua_arafah_imam_hussain",
+      "start": 654.925,
+      "end": 660.84
+    },
+    {
+      "id": 215,
+      "section": "dua_arafah_imam_hussain",
+      "start": 661.19,
+      "end": 665.578
+    },
+    {
+      "id": 216,
+      "section": "dua_arafah_imam_hussain",
+      "start": 665.928,
+      "end": 670.317
+    },
+    {
+      "id": 217,
+      "section": "dua_arafah_imam_hussain",
+      "start": 670.667,
+      "end": 674.949
+    },
+    {
+      "id": 218,
+      "section": "dua_arafah_imam_hussain",
+      "start": 675.299,
+      "end": 679.153
+    },
+    {
+      "id": 219,
+      "section": "dua_arafah_imam_hussain",
+      "start": 679.503,
+      "end": 685.139
+    },
+    {
+      "id": 220,
+      "section": "dua_arafah_imam_hussain",
+      "start": 685.489,
+      "end": 689.262
+    },
+    {
+      "id": 221,
+      "section": "dua_arafah_imam_hussain",
+      "start": 689.612,
+      "end": 695.638
+    },
+    {
+      "id": 222,
+      "section": "dua_arafah_imam_hussain",
+      "start": 695.988,
+      "end": 699.161
+    },
+    {
+      "id": 223,
+      "section": "dua_arafah_imam_hussain",
+      "start": 699.511,
+      "end": 703.54
+    },
+    {
+      "id": 224,
+      "section": "dua_arafah_imam_hussain",
+      "start": 703.89,
+      "end": 706.676
+    },
+    {
+      "id": 225,
+      "section": "dua_arafah_imam_hussain",
+      "start": 707.026,
+      "end": 709.975
+    },
+    {
+      "id": 226,
+      "section": "dua_arafah_imam_hussain",
+      "start": 710.325,
+      "end": 713.982
+    },
+    {
+      "id": 227,
+      "section": "dua_arafah_imam_hussain",
+      "start": 714.332,
+      "end": 716.48
+    },
+    {
+      "id": 228,
+      "section": "dua_arafah_imam_hussain",
+      "start": 716.83,
+      "end": 719.442
+    },
+    {
+      "id": 229,
+      "section": "dua_arafah_imam_hussain",
+      "start": 719.792,
+      "end": 721.278
+    },
+    {
+      "id": 230,
+      "section": "dua_arafah_imam_hussain",
+      "start": 721.628,
+      "end": 724.754
+    },
+    {
+      "id": 231,
+      "section": "dua_arafah_imam_hussain",
+      "start": 725.104,
+      "end": 729.458
+    },
+    {
+      "id": 232,
+      "section": "dua_arafah_imam_hussain",
+      "start": 729.808,
+      "end": 732.675
+    },
+    {
+      "id": 233,
+      "section": "dua_arafah_imam_hussain",
+      "start": 733.025,
+      "end": 736.16
+    },
+    {
+      "id": 234,
+      "section": "dua_arafah_imam_hussain",
+      "start": 736.51,
+      "end": 738.762
+    },
+    {
+      "id": 235,
+      "section": "dua_arafah_imam_hussain",
+      "start": 739.112,
+      "end": 742.294
+    },
+    {
+      "id": 236,
+      "section": "dua_arafah_imam_hussain",
+      "start": 742.644,
+      "end": 746.127
+    },
+    {
+      "id": 237,
+      "section": "dua_arafah_imam_hussain",
+      "start": 746.477,
+      "end": 748.845
+    },
+    {
+      "id": 238,
+      "section": "dua_arafah_imam_hussain",
+      "start": 749.195,
+      "end": 751.807
+    },
+    {
+      "id": 239,
+      "section": "dua_arafah_imam_hussain",
+      "start": 752.157,
+      "end": 754.816
+    },
+    {
+      "id": 240,
+      "section": "dua_arafah_imam_hussain",
+      "start": 755.166,
+      "end": 757.65
+    },
+    {
+      "id": 241,
+      "section": "dua_arafah_imam_hussain",
+      "start": 758.0,
+      "end": 761.274
+    },
+    {
+      "id": 242,
+      "section": "dua_arafah_imam_hussain",
+      "start": 761.624,
+      "end": 764.724
+    },
+    {
+      "id": 243,
+      "section": "dua_arafah_imam_hussain",
+      "start": 765.074,
+      "end": 766.677
+    },
+    {
+      "id": 244,
+      "section": "dua_arafah_imam_hussain",
+      "start": 767.027,
+      "end": 769.759
+    },
+    {
+      "id": 245,
+      "section": "dua_arafah_imam_hussain",
+      "start": 770.109,
+      "end": 772.701
+    },
+    {
+      "id": 246,
+      "section": "dua_arafah_imam_hussain",
+      "start": 773.051,
+      "end": 776.046
+    },
+    {
+      "id": 247,
+      "section": "dua_arafah_imam_hussain",
+      "start": 776.396,
+      "end": 779.763
+    },
+    {
+      "id": 248,
+      "section": "dua_arafah_imam_hussain",
+      "start": 780.113,
+      "end": 783.271
+    },
+    {
+      "id": 249,
+      "section": "dua_arafah_imam_hussain",
+      "start": 783.621,
+      "end": 786.548
+    },
+    {
+      "id": 250,
+      "section": "dua_arafah_imam_hussain",
+      "start": 786.898,
+      "end": 790.218
+    },
+    {
+      "id": 251,
+      "section": "dua_arafah_imam_hussain",
+      "start": 790.568,
+      "end": 794.829
+    },
+    {
+      "id": 252,
+      "section": "dua_arafah_imam_hussain",
+      "start": 795.179,
+      "end": 798.803
+    },
+    {
+      "id": 253,
+      "section": "dua_arafah_imam_hussain",
+      "start": 799.153,
+      "end": 803.216
+    },
+    {
+      "id": 254,
+      "section": "dua_arafah_imam_hussain",
+      "start": 803.566,
+      "end": 807.287
+    },
+    {
+      "id": 255,
+      "section": "dua_arafah_imam_hussain",
+      "start": 807.637,
+      "end": 811.933
+    },
+    {
+      "id": 256,
+      "section": "dua_arafah_imam_hussain",
+      "start": 812.283,
+      "end": 815.52
+    },
+    {
+      "id": 257,
+      "section": "dua_arafah_imam_hussain",
+      "start": 815.87,
+      "end": 818.099
+    },
+    {
+      "id": 258,
+      "section": "dua_arafah_imam_hussain",
+      "start": 818.449,
+      "end": 821.765
+    },
+    {
+      "id": 259,
+      "section": "dua_arafah_imam_hussain",
+      "start": 822.115,
+      "end": 824.669
+    },
+    {
+      "id": 260,
+      "section": "dua_arafah_imam_hussain",
+      "start": 825.019,
+      "end": 827.387
+    },
+    {
+      "id": 261,
+      "section": "dua_arafah_imam_hussain",
+      "start": 827.737,
+      "end": 830.305
+    },
+    {
+      "id": 262,
+      "section": "dua_arafah_imam_hussain",
+      "start": 830.655,
+      "end": 833.082
+    },
+    {
+      "id": 263,
+      "section": "dua_arafah_imam_hussain",
+      "start": 833.432,
+      "end": 835.452
+    },
+    {
+      "id": 264,
+      "section": "dua_arafah_imam_hussain",
+      "start": 835.802,
+      "end": 837.578
+    },
+    {
+      "id": 265,
+      "section": "dua_arafah_imam_hussain",
+      "start": 837.928,
+      "end": 839.38
+    },
+    {
+      "id": 266,
+      "section": "dua_arafah_imam_hussain",
+      "start": 839.73,
+      "end": 841.378
+    },
+    {
+      "id": 267,
+      "section": "dua_arafah_imam_hussain",
+      "start": 841.728,
+      "end": 843.435
+    },
+    {
+      "id": 268,
+      "section": "dua_arafah_imam_hussain",
+      "start": 843.785,
+      "end": 846.246
+    },
+    {
+      "id": 269,
+      "section": "dua_arafah_imam_hussain",
+      "start": 846.596,
+      "end": 851.205
+    },
+    {
+      "id": 270,
+      "section": "dua_arafah_imam_hussain",
+      "start": 851.555,
+      "end": 855.522
+    },
+    {
+      "id": 271,
+      "section": "dua_arafah_imam_hussain",
+      "start": 855.872,
+      "end": 858.612
+    },
+    {
+      "id": 272,
+      "section": "dua_arafah_imam_hussain",
+      "start": 858.962,
+      "end": 860.831
+    },
+    {
+      "id": 273,
+      "section": "dua_arafah_imam_hussain",
+      "start": 861.181,
+      "end": 863.062
+    },
+    {
+      "id": 274,
+      "section": "dua_arafah_imam_hussain",
+      "start": 863.412,
+      "end": 865.804
+    },
+    {
+      "id": 275,
+      "section": "dua_arafah_imam_hussain",
+      "start": 866.154,
+      "end": 867.663
+    },
+    {
+      "id": 276,
+      "section": "dua_arafah_imam_hussain",
+      "start": 868.013,
+      "end": 870.556
+    },
+    {
+      "id": 277,
+      "section": "dua_arafah_imam_hussain",
+      "start": 870.906,
+      "end": 872.624
+    },
+    {
+      "id": 278,
+      "section": "dua_arafah_imam_hussain",
+      "start": 872.974,
+      "end": 875.598
+    },
+    {
+      "id": 279,
+      "section": "dua_arafah_imam_hussain",
+      "start": 875.948,
+      "end": 878.316
+    },
+    {
+      "id": 280,
+      "section": "dua_arafah_imam_hussain",
+      "start": 878.666,
+      "end": 880.698
+    },
+    {
+      "id": 281,
+      "section": "dua_arafah_imam_hussain",
+      "start": 881.048,
+      "end": 882.639
+    },
+    {
+      "id": 282,
+      "section": "dua_arafah_imam_hussain",
+      "start": 882.989,
+      "end": 885.589
+    },
+    {
+      "id": 283,
+      "section": "dua_arafah_imam_hussain",
+      "start": 885.939,
+      "end": 887.681
+    },
+    {
+      "id": 284,
+      "section": "dua_arafah_imam_hussain",
+      "start": 888.031,
+      "end": 891.108
+    },
+    {
+      "id": 285,
+      "section": "dua_arafah_imam_hussain",
+      "start": 891.458,
+      "end": 893.176
+    },
+    {
+      "id": 286,
+      "section": "dua_arafah_imam_hussain",
+      "start": 893.526,
+      "end": 897.972
+    },
+    {
+      "id": 287,
+      "section": "dua_arafah_imam_hussain",
+      "start": 898.322,
+      "end": 901.875
+    },
+    {
+      "id": 288,
+      "section": "dua_arafah_imam_hussain",
+      "start": 902.225,
+      "end": 905.371
+    },
+    {
+      "id": 289,
+      "section": "dua_arafah_imam_hussain",
+      "start": 905.721,
+      "end": 908.392
+    },
+    {
+      "id": 290,
+      "section": "dua_arafah_imam_hussain",
+      "start": 908.742,
+      "end": 912.376
+    },
+    {
+      "id": 291,
+      "section": "dua_arafah_imam_hussain",
+      "start": 912.726,
+      "end": 916.243
+    },
+    {
+      "id": 292,
+      "section": "dua_arafah_imam_hussain",
+      "start": 916.593,
+      "end": 920.587
+    },
+    {
+      "id": 293,
+      "section": "dua_arafah_imam_hussain",
+      "start": 920.937,
+      "end": 924.269
+    },
+    {
+      "id": 294,
+      "section": "dua_arafah_imam_hussain",
+      "start": 924.619,
+      "end": 927.533
+    },
+    {
+      "id": 295,
+      "section": "dua_arafah_imam_hussain",
+      "start": 927.883,
+      "end": 932.616
+    },
+    {
+      "id": 296,
+      "section": "dua_arafah_imam_hussain",
+      "start": 932.966,
+      "end": 935.37
+    },
+    {
+      "id": 297,
+      "section": "dua_arafah_imam_hussain",
+      "start": 935.72,
+      "end": 938.97
+    },
+    {
+      "id": 298,
+      "section": "dua_arafah_imam_hussain",
+      "start": 939.32,
+      "end": 942.536
+    },
+    {
+      "id": 299,
+      "section": "dua_arafah_imam_hussain",
+      "start": 942.886,
+      "end": 947.066
+    },
+    {
+      "id": 300,
+      "section": "dua_arafah_imam_hussain",
+      "start": 947.416,
+      "end": 951.12
+    },
+    {
+      "id": 301,
+      "section": "dua_arafah_imam_hussain",
+      "start": 951.47,
+      "end": 954.047
+    },
+    {
+      "id": 302,
+      "section": "dua_arafah_imam_hussain",
+      "start": 954.397,
+      "end": 957.648
+    },
+    {
+      "id": 303,
+      "section": "dua_arafah_imam_hussain",
+      "start": 957.998,
+      "end": 960.238
+    },
+    {
+      "id": 304,
+      "section": "dua_arafah_imam_hussain",
+      "start": 960.588,
+      "end": 963.746
+    },
+    {
+      "id": 305,
+      "section": "dua_arafah_imam_hussain",
+      "start": 964.096,
+      "end": 967.266
+    },
+    {
+      "id": 306,
+      "section": "dua_arafah_imam_hussain",
+      "start": 967.616,
+      "end": 972.213
+    },
+    {
+      "id": 307,
+      "section": "dua_arafah_imam_hussain",
+      "start": 972.563,
+      "end": 974.409
+    },
+    {
+      "id": 308,
+      "section": "dua_arafah_imam_hussain",
+      "start": 974.759,
+      "end": 977.314
+    },
+    {
+      "id": 309,
+      "section": "dua_arafah_imam_hussain",
+      "start": 977.664,
+      "end": 981.689
+    },
+    {
+      "id": 310,
+      "section": "dua_arafah_imam_hussain",
+      "start": 982.039,
+      "end": 986.962
+    },
+    {
+      "id": 311,
+      "section": "dua_arafah_imam_hussain",
+      "start": 987.312,
+      "end": 990.788
+    },
+    {
+      "id": 312,
+      "section": "dua_arafah_imam_hussain",
+      "start": 991.138,
+      "end": 995.364
+    },
+    {
+      "id": 313,
+      "section": "dua_arafah_imam_hussain",
+      "start": 995.714,
+      "end": 999.023
+    },
+    {
+      "id": 314,
+      "section": "dua_arafah_imam_hussain",
+      "start": 999.373,
+      "end": 1003.239
+    },
+    {
+      "id": 315,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1003.589,
+      "end": 1005.783
+    },
+    {
+      "id": 316,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1006.133,
+      "end": 1008.223
+    },
+    {
+      "id": 317,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1008.573,
+      "end": 1012.335
+    },
+    {
+      "id": 318,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1012.685,
+      "end": 1016.795
+    },
+    {
+      "id": 319,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1017.145,
+      "end": 1022.602
+    },
+    {
+      "id": 320,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1022.952,
+      "end": 1027.201
+    },
+    {
+      "id": 321,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1027.551,
+      "end": 1033.414
+    },
+    {
+      "id": 322,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1033.764,
+      "end": 1037.56
+    },
+    {
+      "id": 323,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1037.91,
+      "end": 1040.685
+    },
+    {
+      "id": 324,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1041.035,
+      "end": 1045.301
+    },
+    {
+      "id": 325,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1045.651,
+      "end": 1049.039
+    },
+    {
+      "id": 326,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1049.389,
+      "end": 1051.096
+    },
+    {
+      "id": 327,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1051.446,
+      "end": 1053.547
+    },
+    {
+      "id": 328,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1053.897,
+      "end": 1056.8
+    },
+    {
+      "id": 329,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1057.15,
+      "end": 1060.087
+    },
+    {
+      "id": 330,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1060.437,
+      "end": 1062.84
+    },
+    {
+      "id": 331,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1063.19,
+      "end": 1064.862
+    },
+    {
+      "id": 332,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1065.212,
+      "end": 1068.892
+    },
+    {
+      "id": 333,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1069.242,
+      "end": 1073.898
+    },
+    {
+      "id": 334,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1074.248,
+      "end": 1077.824
+    },
+    {
+      "id": 335,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1078.174,
+      "end": 1082.065
+    },
+    {
+      "id": 336,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1082.415,
+      "end": 1085.456
+    },
+    {
+      "id": 337,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1085.806,
+      "end": 1087.973
+    },
+    {
+      "id": 338,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1088.323,
+      "end": 1091.284
+    },
+    {
+      "id": 339,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1091.634,
+      "end": 1093.979
+    },
+    {
+      "id": 340,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1094.329,
+      "end": 1097.789
+    },
+    {
+      "id": 341,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1098.139,
+      "end": 1101.413
+    },
+    {
+      "id": 342,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1101.763,
+      "end": 1104.294
+    },
+    {
+      "id": 343,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1104.644,
+      "end": 1107.639
+    },
+    {
+      "id": 344,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1107.989,
+      "end": 1112.343
+    },
+    {
+      "id": 345,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1112.693,
+      "end": 1115.34
+    },
+    {
+      "id": 346,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1115.69,
+      "end": 1118.14
+    },
+    {
+      "id": 347,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1118.49,
+      "end": 1120.95
+    },
+    {
+      "id": 348,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1121.3,
+      "end": 1123.831
+    },
+    {
+      "id": 349,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1124.181,
+      "end": 1126.874
+    },
+    {
+      "id": 350,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1127.224,
+      "end": 1129.619
+    },
+    {
+      "id": 351,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1129.969,
+      "end": 1132.732
+    },
+    {
+      "id": 352,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1133.082,
+      "end": 1135.996
+    },
+    {
+      "id": 353,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1136.346,
+      "end": 1139.899
+    },
+    {
+      "id": 354,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1140.249,
+      "end": 1143.198
+    },
+    {
+      "id": 355,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1143.548,
+      "end": 1147.898
+    },
+    {
+      "id": 356,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1148.248,
+      "end": 1150.651
+    },
+    {
+      "id": 357,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1151.001,
+      "end": 1153.204
+    },
+    {
+      "id": 358,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1153.554,
+      "end": 1155.411
+    },
+    {
+      "id": 359,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1155.761,
+      "end": 1157.735
+    },
+    {
+      "id": 360,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1158.085,
+      "end": 1160.651
+    },
+    {
+      "id": 361,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1161.001,
+      "end": 1162.673
+    },
+    {
+      "id": 362,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1163.023,
+      "end": 1165.089
+    },
+    {
+      "id": 363,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1165.439,
+      "end": 1168.249
+    },
+    {
+      "id": 364,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1168.599,
+      "end": 1171.536
+    },
+    {
+      "id": 365,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1171.886,
+      "end": 1175.323
+    },
+    {
+      "id": 366,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1175.673,
+      "end": 1179.225
+    },
+    {
+      "id": 367,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1179.575,
+      "end": 1181.932
+    },
+    {
+      "id": 368,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1182.282,
+      "end": 1184.384
+    },
+    {
+      "id": 369,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1184.734,
+      "end": 1187.09
+    },
+    {
+      "id": 370,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1187.44,
+      "end": 1189.402
+    },
+    {
+      "id": 371,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1189.752,
+      "end": 1191.807
+    },
+    {
+      "id": 372,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1192.157,
+      "end": 1193.887
+    },
+    {
+      "id": 373,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1194.237,
+      "end": 1196.513
+    },
+    {
+      "id": 374,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1196.863,
+      "end": 1198.535
+    },
+    {
+      "id": 375,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1198.885,
+      "end": 1200.847
+    },
+    {
+      "id": 376,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1201.197,
+      "end": 1203.136
+    },
+    {
+      "id": 377,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1203.486,
+      "end": 1204.856
+    },
+    {
+      "id": 378,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1205.206,
+      "end": 1207.098
+    },
+    {
+      "id": 379,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1207.448,
+      "end": 1209.287
+    },
+    {
+      "id": 380,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1209.637,
+      "end": 1211.321
+    },
+    {
+      "id": 381,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1211.671,
+      "end": 1213.575
+    },
+    {
+      "id": 382,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1213.925,
+      "end": 1215.597
+    },
+    {
+      "id": 383,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1215.947,
+      "end": 1218.164
+    },
+    {
+      "id": 384,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1218.514,
+      "end": 1220.43
+    },
+    {
+      "id": 385,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1220.78,
+      "end": 1222.765
+    },
+    {
+      "id": 386,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1223.115,
+      "end": 1225.031
+    },
+    {
+      "id": 387,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1225.381,
+      "end": 1227.204
+    },
+    {
+      "id": 388,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1227.554,
+      "end": 1229.469
+    },
+    {
+      "id": 389,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1229.819,
+      "end": 1231.83
+    },
+    {
+      "id": 390,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1232.18,
+      "end": 1233.759
+    },
+    {
+      "id": 391,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1234.109,
+      "end": 1236.117
+    },
+    {
+      "id": 392,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1236.467,
+      "end": 1238.488
+    },
+    {
+      "id": 393,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1238.838,
+      "end": 1241.558
+    },
+    {
+      "id": 394,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1241.908,
+      "end": 1243.765
+    },
+    {
+      "id": 395,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1244.115,
+      "end": 1246.449
+    },
+    {
+      "id": 396,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1246.799,
+      "end": 1250.479
+    },
+    {
+      "id": 397,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1250.829,
+      "end": 1252.478
+    },
+    {
+      "id": 398,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1252.828,
+      "end": 1254.639
+    },
+    {
+      "id": 399,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1254.989,
+      "end": 1256.823
+    },
+    {
+      "id": 400,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1257.173,
+      "end": 1259.076
+    },
+    {
+      "id": 401,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1259.426,
+      "end": 1261.133
+    },
+    {
+      "id": 402,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1261.483,
+      "end": 1263.224
+    },
+    {
+      "id": 403,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1263.574,
+      "end": 1265.153
+    },
+    {
+      "id": 404,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1265.503,
+      "end": 1267.245
+    },
+    {
+      "id": 405,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1267.595,
+      "end": 1269.626
+    },
+    {
+      "id": 406,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1269.976,
+      "end": 1271.683
+    },
+    {
+      "id": 407,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1272.033,
+      "end": 1274.203
+    },
+    {
+      "id": 408,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1274.553,
+      "end": 1276.503
+    },
+    {
+      "id": 409,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1276.853,
+      "end": 1278.571
+    },
+    {
+      "id": 410,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1278.921,
+      "end": 1282.812
+    },
+    {
+      "id": 411,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1283.162,
+      "end": 1286.633
+    },
+    {
+      "id": 412,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1286.983,
+      "end": 1290.605
+    },
+    {
+      "id": 413,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1290.955,
+      "end": 1292.848
+    },
+    {
+      "id": 414,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1293.198,
+      "end": 1296.207
+    },
+    {
+      "id": 415,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1296.557,
+      "end": 1298.832
+    },
+    {
+      "id": 416,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1299.182,
+      "end": 1302.816
+    },
+    {
+      "id": 417,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1303.166,
+      "end": 1306.765
+    },
+    {
+      "id": 418,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1307.115,
+      "end": 1311.144
+    },
+    {
+      "id": 419,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1311.494,
+      "end": 1316.484
+    },
+    {
+      "id": 420,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1316.834,
+      "end": 1319.516
+    },
+    {
+      "id": 421,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1319.866,
+      "end": 1323.209
+    },
+    {
+      "id": 422,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1323.559,
+      "end": 1325.846
+    },
+    {
+      "id": 423,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1326.196,
+      "end": 1329.857
+    },
+    {
+      "id": 424,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1330.207,
+      "end": 1332.529
+    },
+    {
+      "id": 425,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1332.879,
+      "end": 1336.187
+    },
+    {
+      "id": 426,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1336.537,
+      "end": 1340.716
+    },
+    {
+      "id": 427,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1341.066,
+      "end": 1345.656
+    },
+    {
+      "id": 428,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1346.006,
+      "end": 1348.664
+    },
+    {
+      "id": 429,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1349.014,
+      "end": 1351.569
+    },
+    {
+      "id": 430,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1351.919,
+      "end": 1354.612
+    },
+    {
+      "id": 431,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1354.962,
+      "end": 1357.389
+    },
+    {
+      "id": 432,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1357.739,
+      "end": 1359.434
+    },
+    {
+      "id": 433,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1359.784,
+      "end": 1362.863
+    },
+    {
+      "id": 434,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1363.213,
+      "end": 1365.535
+    },
+    {
+      "id": 435,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1365.885,
+      "end": 1367.951
+    },
+    {
+      "id": 436,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1368.301,
+      "end": 1369.752
+    },
+    {
+      "id": 437,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1370.102,
+      "end": 1371.189
+    },
+    {
+      "id": 438,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1371.539,
+      "end": 1374.082
+    },
+    {
+      "id": 439,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1374.432,
+      "end": 1377.506
+    },
+    {
+      "id": 440,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1377.856,
+      "end": 1380.387
+    },
+    {
+      "id": 441,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1380.737,
+      "end": 1384.89
+    },
+    {
+      "id": 442,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1385.24,
+      "end": 1389.786
+    },
+    {
+      "id": 443,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1390.136,
+      "end": 1391.704
+    },
+    {
+      "id": 444,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1392.054,
+      "end": 1395.539
+    },
+    {
+      "id": 445,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1395.889,
+      "end": 1399.225
+    },
+    {
+      "id": 446,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1399.575,
+      "end": 1402.872
+    },
+    {
+      "id": 447,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1403.222,
+      "end": 1406.726
+    },
+    {
+      "id": 448,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1407.076,
+      "end": 1409.061
+    },
+    {
+      "id": 449,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1409.411,
+      "end": 1411.385
+    },
+    {
+      "id": 450,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1411.735,
+      "end": 1414.301
+    },
+    {
+      "id": 451,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1414.651,
+      "end": 1419.306
+    },
+    {
+      "id": 452,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1419.656,
+      "end": 1421.061
+    },
+    {
+      "id": 453,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1421.411,
+      "end": 1424.293
+    },
+    {
+      "id": 454,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1424.643,
+      "end": 1427.023
+    },
+    {
+      "id": 455,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1427.373,
+      "end": 1428.883
+    },
+    {
+      "id": 456,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1429.233,
+      "end": 1431.616
+    },
+    {
+      "id": 457,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1431.966,
+      "end": 1434.207
+    },
+    {
+      "id": 458,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1434.557,
+      "end": 1436.852
+    },
+    {
+      "id": 459,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1437.202,
+      "end": 1440.092
+    },
+    {
+      "id": 460,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1440.442,
+      "end": 1442.939
+    },
+    {
+      "id": 461,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1443.289,
+      "end": 1445.135
+    },
+    {
+      "id": 462,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1445.485,
+      "end": 1447.633
+    },
+    {
+      "id": 463,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1447.983,
+      "end": 1449.794
+    },
+    {
+      "id": 464,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1450.144,
+      "end": 1452.489
+    },
+    {
+      "id": 465,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1452.839,
+      "end": 1454.639
+    },
+    {
+      "id": 466,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1454.989,
+      "end": 1457.22
+    },
+    {
+      "id": 467,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1457.57,
+      "end": 1459.37
+    },
+    {
+      "id": 468,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1459.72,
+      "end": 1462.239
+    },
+    {
+      "id": 469,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1462.589,
+      "end": 1466.037
+    },
+    {
+      "id": 470,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1466.387,
+      "end": 1468.86
+    },
+    {
+      "id": 471,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1469.21,
+      "end": 1471.195
+    },
+    {
+      "id": 472,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1471.545,
+      "end": 1473.74
+    },
+    {
+      "id": 473,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1474.09,
+      "end": 1476.179
+    },
+    {
+      "id": 474,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1476.529,
+      "end": 1478.782
+    },
+    {
+      "id": 475,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1479.132,
+      "end": 1481.779
+    },
+    {
+      "id": 476,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1482.129,
+      "end": 1484.509
+    },
+    {
+      "id": 477,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1484.859,
+      "end": 1487.595
+    },
+    {
+      "id": 478,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1487.945,
+      "end": 1492.977
+    },
+    {
+      "id": 479,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1493.327,
+      "end": 1497.669
+    },
+    {
+      "id": 480,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1498.019,
+      "end": 1501.746
+    },
+    {
+      "id": 481,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1502.096,
+      "end": 1505.196
+    },
+    {
+      "id": 482,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1505.546,
+      "end": 1507.833
+    },
+    {
+      "id": 483,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1508.183,
+      "end": 1513.953
+    },
+    {
+      "id": 484,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1514.303,
+      "end": 1518.483
+    },
+    {
+      "id": 485,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1518.833,
+      "end": 1521.712
+    },
+    {
+      "id": 486,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1522.062,
+      "end": 1523.292
+    },
+    {
+      "id": 487,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1523.642,
+      "end": 1526.313
+    },
+    {
+      "id": 488,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1526.663,
+      "end": 1528.602
+    },
+    {
+      "id": 489,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1528.952,
+      "end": 1530.995
+    },
+    {
+      "id": 490,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1531.345,
+      "end": 1533.156
+    },
+    {
+      "id": 491,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1533.506,
+      "end": 1535.875
+    },
+    {
+      "id": 492,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1536.225,
+      "end": 1537.525
+    },
+    {
+      "id": 493,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1537.875,
+      "end": 1539.268
+    },
+    {
+      "id": 494,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1539.618,
+      "end": 1544.476
+    },
+    {
+      "id": 495,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1544.826,
+      "end": 1546.266
+    },
+    {
+      "id": 496,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1546.616,
+      "end": 1548.775
+    },
+    {
+      "id": 497,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1549.125,
+      "end": 1551.172
+    },
+    {
+      "id": 498,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1551.522,
+      "end": 1554.564
+    },
+    {
+      "id": 499,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1554.914,
+      "end": 1557.154
+    },
+    {
+      "id": 500,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1557.504,
+      "end": 1560.744
+    },
+    {
+      "id": 501,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1561.094,
+      "end": 1563.636
+    },
+    {
+      "id": 502,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1563.986,
+      "end": 1566.61
+    },
+    {
+      "id": 503,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1566.96,
+      "end": 1568.806
+    },
+    {
+      "id": 504,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1569.156,
+      "end": 1571.884
+    },
+    {
+      "id": 505,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1572.234,
+      "end": 1575.009
+    },
+    {
+      "id": 506,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1575.359,
+      "end": 1579.748
+    },
+    {
+      "id": 507,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1580.098,
+      "end": 1581.967
+    },
+    {
+      "id": 508,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1582.317,
+      "end": 1584.79
+    },
+    {
+      "id": 509,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1585.14,
+      "end": 1586.986
+    },
+    {
+      "id": 510,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1587.336,
+      "end": 1589.147
+    },
+    {
+      "id": 511,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1589.497,
+      "end": 1591.587
+    },
+    {
+      "id": 512,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1591.937,
+      "end": 1593.748
+    },
+    {
+      "id": 513,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1594.098,
+      "end": 1595.932
+    },
+    {
+      "id": 514,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1596.282,
+      "end": 1598.543
+    },
+    {
+      "id": 515,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1598.893,
+      "end": 1601.133
+    },
+    {
+      "id": 516,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1601.483,
+      "end": 1604.421
+    },
+    {
+      "id": 517,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1604.771,
+      "end": 1607.987
+    },
+    {
+      "id": 518,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1608.337,
+      "end": 1610.31
+    },
+    {
+      "id": 519,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1610.66,
+      "end": 1613.447
+    },
+    {
+      "id": 520,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1613.797,
+      "end": 1616.606
+    },
+    {
+      "id": 521,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1616.956,
+      "end": 1620.532
+    },
+    {
+      "id": 522,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1620.882,
+      "end": 1622.542
+    },
+    {
+      "id": 523,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1622.892,
+      "end": 1625.911
+    },
+    {
+      "id": 524,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1626.261,
+      "end": 1628.084
+    },
+    {
+      "id": 525,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1628.434,
+      "end": 1630.477
+    },
+    {
+      "id": 526,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1630.827,
+      "end": 1633.242
+    },
+    {
+      "id": 527,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1633.592,
+      "end": 1635.702
+    },
+    {
+      "id": 528,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1636.052,
+      "end": 1638.521
+    },
+    {
+      "id": 529,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1638.871,
+      "end": 1640.761
+    },
+    {
+      "id": 530,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1641.111,
+      "end": 1643.224
+    },
+    {
+      "id": 531,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1643.574,
+      "end": 1645.745
+    },
+    {
+      "id": 532,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1646.095,
+      "end": 1651.134
+    },
+    {
+      "id": 533,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1651.484,
+      "end": 1653.167
+    },
+    {
+      "id": 534,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1653.517,
+      "end": 1657.882
+    },
+    {
+      "id": 535,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1658.232,
+      "end": 1660.601
+    },
+    {
+      "id": 536,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1660.951,
+      "end": 1663.459
+    },
+    {
+      "id": 537,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1663.809,
+      "end": 1666.618
+    },
+    {
+      "id": 538,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1666.968,
+      "end": 1670.44
+    },
+    {
+      "id": 539,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1670.79,
+      "end": 1673.936
+    },
+    {
+      "id": 540,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1674.286,
+      "end": 1676.654
+    },
+    {
+      "id": 541,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1677.004,
+      "end": 1679.651
+    },
+    {
+      "id": 542,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1680.001,
+      "end": 1682.323
+    },
+    {
+      "id": 543,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1682.673,
+      "end": 1685.321
+    },
+    {
+      "id": 544,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1685.671,
+      "end": 1688.817
+    },
+    {
+      "id": 545,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1689.167,
+      "end": 1692.302
+    },
+    {
+      "id": 546,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1692.652,
+      "end": 1696.181
+    },
+    {
+      "id": 547,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1696.531,
+      "end": 1699.422
+    },
+    {
+      "id": 548,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1699.772,
+      "end": 1702.593
+    },
+    {
+      "id": 549,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1702.943,
+      "end": 1705.625
+    },
+    {
+      "id": 550,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1705.975,
+      "end": 1708.519
+    },
+    {
+      "id": 551,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1708.869,
+      "end": 1711.493
+    },
+    {
+      "id": 552,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1711.843,
+      "end": 1713.631
+    },
+    {
+      "id": 553,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1713.981,
+      "end": 1716.152
+    },
+    {
+      "id": 554,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1716.502,
+      "end": 1719.649
+    },
+    {
+      "id": 555,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1719.999,
+      "end": 1724.342
+    },
+    {
+      "id": 556,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1724.692,
+      "end": 1727.06
+    },
+    {
+      "id": 557,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1727.41,
+      "end": 1730.435
+    },
+    {
+      "id": 558,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1730.785,
+      "end": 1733.525
+    },
+    {
+      "id": 559,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1733.875,
+      "end": 1737.579
+    },
+    {
+      "id": 560,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1737.929,
+      "end": 1740.146
+    },
+    {
+      "id": 561,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1740.496,
+      "end": 1743.445
+    },
+    {
+      "id": 562,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1743.795,
+      "end": 1748.095
+    },
+    {
+      "id": 563,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1748.445,
+      "end": 1751.533
+    },
+    {
+      "id": 564,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1751.883,
+      "end": 1754.263
+    },
+    {
+      "id": 565,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1754.613,
+      "end": 1757.678
+    },
+    {
+      "id": 566,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1758.028,
+      "end": 1760.408
+    },
+    {
+      "id": 567,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1760.758,
+      "end": 1762.518
+    },
+    {
+      "id": 568,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1762.868,
+      "end": 1764.725
+    },
+    {
+      "id": 569,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1765.075,
+      "end": 1766.233
+    },
+    {
+      "id": 570,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1766.583,
+      "end": 1768.835
+    },
+    {
+      "id": 571,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1769.185,
+      "end": 1772.143
+    },
+    {
+      "id": 572,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1772.493,
+      "end": 1775.955
+    },
+    {
+      "id": 573,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1776.305,
+      "end": 1780.055
+    },
+    {
+      "id": 574,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1780.405,
+      "end": 1784.097
+    },
+    {
+      "id": 575,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1784.447,
+      "end": 1787.487
+    },
+    {
+      "id": 576,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1787.837,
+      "end": 1789.625
+    },
+    {
+      "id": 577,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1789.975,
+      "end": 1792.946
+    },
+    {
+      "id": 578,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1793.296,
+      "end": 1796.675
+    },
+    {
+      "id": 579,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1797.025,
+      "end": 1801.46
+    },
+    {
+      "id": 580,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1801.81,
+      "end": 1804.225
+    },
+    {
+      "id": 581,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1804.575,
+      "end": 1806.862
+    },
+    {
+      "id": 582,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1807.212,
+      "end": 1809.894
+    },
+    {
+      "id": 583,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1810.244,
+      "end": 1812.101
+    },
+    {
+      "id": 584,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1812.451,
+      "end": 1814.527
+    },
+    {
+      "id": 585,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1814.877,
+      "end": 1817.675
+    },
+    {
+      "id": 586,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1818.025,
+      "end": 1820.428
+    },
+    {
+      "id": 587,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1820.778,
+      "end": 1822.612
+    },
+    {
+      "id": 588,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1822.962,
+      "end": 1824.695
+    },
+    {
+      "id": 589,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1825.045,
+      "end": 1827.471
+    },
+    {
+      "id": 590,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1827.821,
+      "end": 1829.725
+    },
+    {
+      "id": 591,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1830.075,
+      "end": 1833.673
+    },
+    {
+      "id": 592,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1834.023,
+      "end": 1836.02
+    },
+    {
+      "id": 593,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1836.37,
+      "end": 1840.77
+    },
+    {
+      "id": 594,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1841.12,
+      "end": 1842.745
+    },
+    {
+      "id": 595,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1843.095,
+      "end": 1845.22
+    },
+    {
+      "id": 596,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1845.57,
+      "end": 1848.298
+    },
+    {
+      "id": 597,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1848.648,
+      "end": 1850.541
+    },
+    {
+      "id": 598,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1850.891,
+      "end": 1854.118
+    },
+    {
+      "id": 599,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1854.468,
+      "end": 1857.928
+    },
+    {
+      "id": 600,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1858.278,
+      "end": 1861.365
+    },
+    {
+      "id": 601,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1861.715,
+      "end": 1864.025
+    },
+    {
+      "id": 602,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1864.375,
+      "end": 1867.289
+    },
+    {
+      "id": 603,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1867.639,
+      "end": 1870.344
+    },
+    {
+      "id": 604,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1870.694,
+      "end": 1873.191
+    },
+    {
+      "id": 605,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1873.541,
+      "end": 1877.709
+    },
+    {
+      "id": 606,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1878.059,
+      "end": 1881.971
+    },
+    {
+      "id": 607,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1882.321,
+      "end": 1884.55
+    },
+    {
+      "id": 608,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1884.9,
+      "end": 1886.851
+    },
+    {
+      "id": 609,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1887.201,
+      "end": 1889.14
+    },
+    {
+      "id": 610,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1889.49,
+      "end": 1891.823
+    },
+    {
+      "id": 611,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1892.173,
+      "end": 1894.368
+    },
+    {
+      "id": 612,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1894.718,
+      "end": 1897.016
+    },
+    {
+      "id": 613,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1897.366,
+      "end": 1899.386
+    },
+    {
+      "id": 614,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1899.736,
+      "end": 1904.288
+    },
+    {
+      "id": 615,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1904.638,
+      "end": 1906.193
+    },
+    {
+      "id": 616,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1906.543,
+      "end": 1908.517
+    },
+    {
+      "id": 617,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1908.867,
+      "end": 1911.247
+    },
+    {
+      "id": 618,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1911.597,
+      "end": 1914.209
+    },
+    {
+      "id": 619,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1914.559,
+      "end": 1916.904
+    },
+    {
+      "id": 620,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1917.254,
+      "end": 1920.052
+    },
+    {
+      "id": 621,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1920.402,
+      "end": 1926.084
+    },
+    {
+      "id": 622,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1926.434,
+      "end": 1929.905
+    },
+    {
+      "id": 623,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1930.255,
+      "end": 1933.517
+    },
+    {
+      "id": 624,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1933.867,
+      "end": 1938.79
+    },
+    {
+      "id": 625,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1939.14,
+      "end": 1940.881
+    },
+    {
+      "id": 626,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1941.231,
+      "end": 1945.156
+    },
+    {
+      "id": 627,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1945.506,
+      "end": 1947.688
+    },
+    {
+      "id": 628,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1948.038,
+      "end": 1951.092
+    },
+    {
+      "id": 629,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1951.442,
+      "end": 1955.308
+    },
+    {
+      "id": 630,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1955.658,
+      "end": 1958.317
+    },
+    {
+      "id": 631,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1958.667,
+      "end": 1960.338
+    },
+    {
+      "id": 632,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1960.688,
+      "end": 1963.115
+    },
+    {
+      "id": 633,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1963.465,
+      "end": 1966.377
+    },
+    {
+      "id": 634,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1966.727,
+      "end": 1969.676
+    },
+    {
+      "id": 635,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1970.026,
+      "end": 1972.175
+    },
+    {
+      "id": 636,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1972.525,
+      "end": 1976.647
+    },
+    {
+      "id": 637,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1976.997,
+      "end": 1978.61
+    },
+    {
+      "id": 638,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1978.96,
+      "end": 1981.142
+    },
+    {
+      "id": 639,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1981.492,
+      "end": 1983.594
+    },
+    {
+      "id": 640,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1983.944,
+      "end": 1988.205
+    },
+    {
+      "id": 641,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1988.555,
+      "end": 1991.369
+    },
+    {
+      "id": 642,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1991.719,
+      "end": 1993.449
+    },
+    {
+      "id": 643,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1993.799,
+      "end": 1995.761
+    },
+    {
+      "id": 644,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1996.111,
+      "end": 1997.527
+    },
+    {
+      "id": 645,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1997.877,
+      "end": 1999.317
+    },
+    {
+      "id": 646,
+      "section": "dua_arafah_imam_hussain",
+      "start": 1999.667,
+      "end": 2001.849
+    },
+    {
+      "id": 647,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2002.199,
+      "end": 2005.439
+    },
+    {
+      "id": 648,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2005.789,
+      "end": 2009.423
+    },
+    {
+      "id": 649,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2009.773,
+      "end": 2012.757
+    },
+    {
+      "id": 650,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2013.107,
+      "end": 2015.151
+    },
+    {
+      "id": 651,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2015.501,
+      "end": 2018.148
+    },
+    {
+      "id": 652,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2018.498,
+      "end": 2020.971
+    },
+    {
+      "id": 653,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2021.321,
+      "end": 2024.873
+    },
+    {
+      "id": 654,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2025.223,
+      "end": 2026.605
+    },
+    {
+      "id": 655,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2026.955,
+      "end": 2031.204
+    },
+    {
+      "id": 657,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2031.554,
+      "end": 2033.992
+    },
+    {
+      "id": 658,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2034.342,
+      "end": 2036.688
+    },
+    {
+      "id": 659,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2037.038,
+      "end": 2039.592
+    },
+    {
+      "id": 660,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2039.942,
+      "end": 2042.647
+    },
+    {
+      "id": 661,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2042.997,
+      "end": 2046.561
+    },
+    {
+      "id": 662,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2046.911,
+      "end": 2048.676
+    },
+    {
+      "id": 663,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2049.026,
+      "end": 2051.894
+    },
+    {
+      "id": 664,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2052.244,
+      "end": 2056.829
+    },
+    {
+      "id": 665,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2057.179,
+      "end": 2062.028
+    },
+    {
+      "id": 666,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2062.378,
+      "end": 2065.803
+    },
+    {
+      "id": 667,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2066.153,
+      "end": 2067.662
+    },
+    {
+      "id": 668,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2068.012,
+      "end": 2069.981
+    },
+    {
+      "id": 669,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2070.331,
+      "end": 2073.895
+    },
+    {
+      "id": 670,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2074.245,
+      "end": 2076.137
+    },
+    {
+      "id": 671,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2076.487,
+      "end": 2078.345
+    },
+    {
+      "id": 674,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2078.695,
+      "end": 2081.307
+    },
+    {
+      "id": 675,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2081.657,
+      "end": 2083.677
+    },
+    {
+      "id": 676,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2084.027,
+      "end": 2086.734
+    },
+    {
+      "id": 677,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2087.084,
+      "end": 2089.65
+    },
+    {
+      "id": 678,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2090.0,
+      "end": 2093.099
+    },
+    {
+      "id": 679,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2093.449,
+      "end": 2095.934
+    },
+    {
+      "id": 680,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2096.284,
+      "end": 2099.154
+    },
+    {
+      "id": 681,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2099.504,
+      "end": 2101.593
+    },
+    {
+      "id": 682,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2101.943,
+      "end": 2104.892
+    },
+    {
+      "id": 683,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2105.242,
+      "end": 2110.306
+    },
+    {
+      "id": 684,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2110.656,
+      "end": 2114.011
+    },
+    {
+      "id": 685,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2114.361,
+      "end": 2118.855
+    },
+    {
+      "id": 686,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2119.205,
+      "end": 2121.538
+    },
+    {
+      "id": 687,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2121.888,
+      "end": 2126.3
+    },
+    {
+      "id": 688,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2126.65,
+      "end": 2129.262
+    },
+    {
+      "id": 689,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2129.612,
+      "end": 2133.188
+    },
+    {
+      "id": 690,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2133.538,
+      "end": 2135.639
+    },
+    {
+      "id": 691,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2135.989,
+      "end": 2139.809
+    },
+    {
+      "id": 692,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2140.159,
+      "end": 2145.987
+    },
+    {
+      "id": 693,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2146.337,
+      "end": 2149.6
+    },
+    {
+      "id": 694,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2149.95,
+      "end": 2155.078
+    },
+    {
+      "id": 695,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2155.428,
+      "end": 2161.236
+    },
+    {
+      "id": 696,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2161.586,
+      "end": 2164.396
+    },
+    {
+      "id": 697,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2164.746,
+      "end": 2167.764
+    },
+    {
+      "id": 698,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2168.114,
+      "end": 2170.564
+    },
+    {
+      "id": 699,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2170.914,
+      "end": 2172.934
+    },
+    {
+      "id": 700,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2173.284,
+      "end": 2175.87
+    },
+    {
+      "id": 701,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2176.22,
+      "end": 2178.96
+    },
+    {
+      "id": 702,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2179.31,
+      "end": 2181.899
+    },
+    {
+      "id": 703,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2182.249,
+      "end": 2184.942
+    },
+    {
+      "id": 704,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2185.292,
+      "end": 2187.556
+    },
+    {
+      "id": 705,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2187.906,
+      "end": 2189.729
+    },
+    {
+      "id": 706,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2190.079,
+      "end": 2192.629
+    },
+    {
+      "id": 707,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2192.979,
+      "end": 2195.022
+    },
+    {
+      "id": 708,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2195.372,
+      "end": 2197.195
+    },
+    {
+      "id": 709,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2197.545,
+      "end": 2199.356
+    },
+    {
+      "id": 710,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2199.706,
+      "end": 2202.19
+    },
+    {
+      "id": 711,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2202.54,
+      "end": 2204.293
+    },
+    {
+      "id": 712,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2204.643,
+      "end": 2206.675
+    },
+    {
+      "id": 713,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2207.025,
+      "end": 2210.057
+    },
+    {
+      "id": 714,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2210.407,
+      "end": 2214.714
+    },
+    {
+      "id": 715,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2215.064,
+      "end": 2217.351
+    },
+    {
+      "id": 716,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2217.701,
+      "end": 2221.532
+    },
+    {
+      "id": 717,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2221.882,
+      "end": 2224.553
+    },
+    {
+      "id": 718,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2224.903,
+      "end": 2228.49
+    },
+    {
+      "id": 719,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2228.84,
+      "end": 2231.081
+    },
+    {
+      "id": 720,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2231.431,
+      "end": 2233.927
+    },
+    {
+      "id": 721,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2234.277,
+      "end": 2236.088
+    },
+    {
+      "id": 722,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2236.438,
+      "end": 2239.48
+    },
+    {
+      "id": 723,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2239.83,
+      "end": 2241.804
+    },
+    {
+      "id": 724,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2242.154,
+      "end": 2244.812
+    },
+    {
+      "id": 725,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2245.162,
+      "end": 2247.008
+    },
+    {
+      "id": 726,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2247.358,
+      "end": 2251.877
+    },
+    {
+      "id": 727,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2252.227,
+      "end": 2255.977
+    },
+    {
+      "id": 728,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2256.327,
+      "end": 2258.638
+    },
+    {
+      "id": 729,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2258.988,
+      "end": 2262.169
+    },
+    {
+      "id": 730,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2262.519,
+      "end": 2264.748
+    },
+    {
+      "id": 731,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2265.098,
+      "end": 2267.501
+    },
+    {
+      "id": 732,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2267.851,
+      "end": 2270.301
+    },
+    {
+      "id": 733,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2270.651,
+      "end": 2272.892
+    },
+    {
+      "id": 734,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2273.242,
+      "end": 2277.897
+    },
+    {
+      "id": 735,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2278.247,
+      "end": 2280.941
+    },
+    {
+      "id": 736,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2281.291,
+      "end": 2286.33
+    },
+    {
+      "id": 737,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2286.68,
+      "end": 2290.244
+    },
+    {
+      "id": 738,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2290.594,
+      "end": 2294.146
+    },
+    {
+      "id": 739,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2294.496,
+      "end": 2297.12
+    },
+    {
+      "id": 740,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2297.47,
+      "end": 2301.685
+    },
+    {
+      "id": 741,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2302.035,
+      "end": 2307.155
+    },
+    {
+      "id": 742,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2307.505,
+      "end": 2310.987
+    },
+    {
+      "id": 743,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2311.337,
+      "end": 2313.891
+    },
+    {
+      "id": 744,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2314.241,
+      "end": 2318.678
+    },
+    {
+      "id": 745,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2319.028,
+      "end": 2321.872
+    },
+    {
+      "id": 746,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2322.222,
+      "end": 2325.218
+    },
+    {
+      "id": 747,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2325.568,
+      "end": 2330.223
+    },
+    {
+      "id": 748,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2330.573,
+      "end": 2334.242
+    },
+    {
+      "id": 749,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2334.592,
+      "end": 2337.193
+    },
+    {
+      "id": 750,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2337.543,
+      "end": 2339.087
+    },
+    {
+      "id": 751,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2339.437,
+      "end": 2343.579
+    },
+    {
+      "id": 752,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2343.929,
+      "end": 2346.263
+    },
+    {
+      "id": 753,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2346.613,
+      "end": 2349.295
+    },
+    {
+      "id": 754,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2349.645,
+      "end": 2352.327
+    },
+    {
+      "id": 755,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2352.677,
+      "end": 2356.264
+    },
+    {
+      "id": 756,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2356.614,
+      "end": 2359.122
+    },
+    {
+      "id": 757,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2359.472,
+      "end": 2362.038
+    },
+    {
+      "id": 758,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2362.388,
+      "end": 2365.0
+    },
+    {
+      "id": 759,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2365.35,
+      "end": 2367.962
+    },
+    {
+      "id": 760,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2368.312,
+      "end": 2371.18
+    },
+    {
+      "id": 761,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2371.53,
+      "end": 2374.665
+    },
+    {
+      "id": 762,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2375.015,
+      "end": 2378.254
+    },
+    {
+      "id": 763,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2378.604,
+      "end": 2383.329
+    },
+    {
+      "id": 764,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2383.679,
+      "end": 2387.417
+    },
+    {
+      "id": 765,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2387.767,
+      "end": 2393.119
+    },
+    {
+      "id": 766,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2393.469,
+      "end": 2396.79
+    },
+    {
+      "id": 767,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2397.14,
+      "end": 2400.729
+    },
+    {
+      "id": 768,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2401.079,
+      "end": 2404.353
+    },
+    {
+      "id": 769,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2404.703,
+      "end": 2406.793
+    },
+    {
+      "id": 770,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2407.143,
+      "end": 2409.65
+    },
+    {
+      "id": 771,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2410.0,
+      "end": 2412.996
+    },
+    {
+      "id": 772,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2413.346,
+      "end": 2416.898
+    },
+    {
+      "id": 773,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2417.248,
+      "end": 2420.255
+    },
+    {
+      "id": 774,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2420.605,
+      "end": 2424.169
+    },
+    {
+      "id": 775,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2424.519,
+      "end": 2427.979
+    },
+    {
+      "id": 776,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2428.329,
+      "end": 2431.777
+    },
+    {
+      "id": 777,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2432.127,
+      "end": 2437.955
+    },
+    {
+      "id": 778,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2438.305,
+      "end": 2440.731
+    },
+    {
+      "id": 779,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2441.081,
+      "end": 2446.293
+    },
+    {
+      "id": 780,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2446.643,
+      "end": 2448.443
+    },
+    {
+      "id": 781,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2448.793,
+      "end": 2452.194
+    },
+    {
+      "id": 782,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2452.544,
+      "end": 2456.352
+    },
+    {
+      "id": 783,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2456.702,
+      "end": 2458.781
+    },
+    {
+      "id": 784,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2459.131,
+      "end": 2462.579
+    },
+    {
+      "id": 785,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2462.929,
+      "end": 2465.088
+    },
+    {
+      "id": 786,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2465.438,
+      "end": 2468.492
+    },
+    {
+      "id": 787,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2468.842,
+      "end": 2472.113
+    },
+    {
+      "id": 788,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2472.463,
+      "end": 2476.39
+    },
+    {
+      "id": 789,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2476.74,
+      "end": 2480.711
+    },
+    {
+      "id": 790,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2481.061,
+      "end": 2484.156
+    },
+    {
+      "id": 791,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2484.506,
+      "end": 2486.884
+    },
+    {
+      "id": 792,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2487.234,
+      "end": 2488.569
+    },
+    {
+      "id": 793,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2488.919,
+      "end": 2491.927
+    },
+    {
+      "id": 794,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2492.277,
+      "end": 2494.349
+    },
+    {
+      "id": 795,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2494.699,
+      "end": 2497.3
+    },
+    {
+      "id": 796,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2497.65,
+      "end": 2499.67
+    },
+    {
+      "id": 797,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2500.02,
+      "end": 2502.284
+    },
+    {
+      "id": 798,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2502.634,
+      "end": 2506.997
+    },
+    {
+      "id": 799,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2507.347,
+      "end": 2511.114
+    },
+    {
+      "id": 800,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2511.464,
+      "end": 2513.437
+    },
+    {
+      "id": 801,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2513.787,
+      "end": 2516.783
+    },
+    {
+      "id": 802,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2517.133,
+      "end": 2519.838
+    },
+    {
+      "id": 803,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2520.188,
+      "end": 2523.381
+    },
+    {
+      "id": 804,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2523.731,
+      "end": 2527.285
+    },
+    {
+      "id": 805,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2527.635,
+      "end": 2530.271
+    },
+    {
+      "id": 806,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2530.621,
+      "end": 2533.884
+    },
+    {
+      "id": 807,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2534.234,
+      "end": 2537.392
+    },
+    {
+      "id": 808,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2537.742,
+      "end": 2540.494
+    },
+    {
+      "id": 809,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2540.844,
+      "end": 2546.51
+    },
+    {
+      "id": 810,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2546.86,
+      "end": 2550.343
+    },
+    {
+      "id": 811,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2550.693,
+      "end": 2557.38
+    },
+    {
+      "id": 812,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2557.73,
+      "end": 2562.694
+    },
+    {
+      "id": 813,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2563.044,
+      "end": 2568.844
+    },
+    {
+      "id": 814,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2569.194,
+      "end": 2574.14
+    },
+    {
+      "id": 815,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2574.49,
+      "end": 2578.531
+    },
+    {
+      "id": 816,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2578.881,
+      "end": 2581.795
+    },
+    {
+      "id": 817,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2582.145,
+      "end": 2585.918
+    },
+    {
+      "id": 818,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2586.268,
+      "end": 2590.807
+    },
+    {
+      "id": 819,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2591.157,
+      "end": 2594.164
+    },
+    {
+      "id": 820,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2594.514,
+      "end": 2598.889
+    },
+    {
+      "id": 821,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2599.239,
+      "end": 2602.571
+    },
+    {
+      "id": 822,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2602.921,
+      "end": 2607.499
+    },
+    {
+      "id": 823,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2607.849,
+      "end": 2612.679
+    },
+    {
+      "id": 824,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2613.029,
+      "end": 2615.939
+    },
+    {
+      "id": 825,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2616.289,
+      "end": 2620.496
+    },
+    {
+      "id": 826,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2620.846,
+      "end": 2624.236
+    },
+    {
+      "id": 827,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2624.586,
+      "end": 2627.465
+    },
+    {
+      "id": 828,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2627.815,
+      "end": 2629.603
+    },
+    {
+      "id": 829,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2629.953,
+      "end": 2633.285
+    },
+    {
+      "id": 830,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2633.635,
+      "end": 2635.969
+    },
+    {
+      "id": 831,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2636.319,
+      "end": 2638.618
+    },
+    {
+      "id": 832,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2638.968,
+      "end": 2643.855
+    },
+    {
+      "id": 833,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2644.205,
+      "end": 2647.909
+    },
+    {
+      "id": 834,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2648.259,
+      "end": 2650.244
+    },
+    {
+      "id": 835,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2650.594,
+      "end": 2654.017
+    },
+    {
+      "id": 836,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2654.367,
+      "end": 2658.268
+    },
+    {
+      "id": 837,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2658.618,
+      "end": 2661.543
+    },
+    {
+      "id": 838,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2661.893,
+      "end": 2666.259
+    },
+    {
+      "id": 839,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2666.609,
+      "end": 2668.513
+    },
+    {
+      "id": 840,
+      "section": "dua_arafah_imam_hussain",
+      "start": 2668.863,
+      "end": 2671.696
+    }
+  ]
+}

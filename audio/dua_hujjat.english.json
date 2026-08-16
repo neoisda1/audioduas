@@ -1,0 +1,75 @@
+{
+  "dua_id": "dua_hujjat",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 28.16,
+  "bytes": 137352,
+  "sha256": "34fb0f8afc80da3924e6337d117d976e022bcaa130c98305df48314a696cdc5c",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_hujjat",
+      "start": 0.0,
+      "end": 2.981
+    },
+    {
+      "id": 2,
+      "section": "dua_hujjat",
+      "start": 3.331,
+      "end": 7.255
+    },
+    {
+      "id": 3,
+      "section": "dua_hujjat",
+      "start": 7.605,
+      "end": 11.243
+    },
+    {
+      "id": 4,
+      "section": "dua_hujjat",
+      "start": 11.593,
+      "end": 14.541
+    },
+    {
+      "id": 5,
+      "section": "dua_hujjat",
+      "start": 14.891,
+      "end": 16.819
+    },
+    {
+      "id": 6,
+      "section": "dua_hujjat",
+      "start": 17.169,
+      "end": 18.829
+    },
+    {
+      "id": 7,
+      "section": "dua_hujjat",
+      "start": 19.179,
+      "end": 20.491
+    },
+    {
+      "id": 8,
+      "section": "dua_hujjat",
+      "start": 20.841,
+      "end": 22.408
+    },
+    {
+      "id": 9,
+      "section": "dua_hujjat",
+      "start": 22.758,
+      "end": 25.103
+    },
+    {
+      "id": 10,
+      "section": "dua_hujjat",
+      "start": 25.453,
+      "end": 27.81
+    }
+  ]
+}

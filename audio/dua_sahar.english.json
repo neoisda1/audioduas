@@ -1,0 +1,123 @@
+{
+  "dua_id": "dua_sahar",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 63.125,
+  "bytes": 280319,
+  "sha256": "a1e10399573453cc4bfab42c85ffb8310d0fd2f818b859bbac1f10dc2a571cba",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_sahar",
+      "start": 0.0,
+      "end": 2.981
+    },
+    {
+      "id": 2,
+      "section": "dua_sahar",
+      "start": 3.331,
+      "end": 6.937
+    },
+    {
+      "id": 3,
+      "section": "dua_sahar",
+      "start": 7.287,
+      "end": 9.74
+    },
+    {
+      "id": 4,
+      "section": "dua_sahar",
+      "start": 10.09,
+      "end": 12.412
+    },
+    {
+      "id": 5,
+      "section": "dua_sahar",
+      "start": 12.762,
+      "end": 15.444
+    },
+    {
+      "id": 6,
+      "section": "dua_sahar",
+      "start": 15.794,
+      "end": 18.163
+    },
+    {
+      "id": 7,
+      "section": "dua_sahar",
+      "start": 18.513,
+      "end": 21.682
+    },
+    {
+      "id": 8,
+      "section": "dua_sahar",
+      "start": 22.032,
+      "end": 24.595
+    },
+    {
+      "id": 9,
+      "section": "dua_sahar",
+      "start": 24.945,
+      "end": 27.743
+    },
+    {
+      "id": 10,
+      "section": "dua_sahar",
+      "start": 28.093,
+      "end": 30.531
+    },
+    {
+      "id": 11,
+      "section": "dua_sahar",
+      "start": 30.881,
+      "end": 33.83
+    },
+    {
+      "id": 12,
+      "section": "dua_sahar",
+      "start": 34.18,
+      "end": 38.648
+    },
+    {
+      "id": 13,
+      "section": "dua_sahar",
+      "start": 38.998,
+      "end": 43.276
+    },
+    {
+      "id": 14,
+      "section": "dua_sahar",
+      "start": 43.626,
+      "end": 47.537
+    },
+    {
+      "id": 15,
+      "section": "dua_sahar",
+      "start": 47.887,
+      "end": 51.237
+    },
+    {
+      "id": 16,
+      "section": "dua_sahar",
+      "start": 51.587,
+      "end": 56.13
+    },
+    {
+      "id": 17,
+      "section": "dua_sahar",
+      "start": 56.48,
+      "end": 58.86
+    },
+    {
+      "id": 18,
+      "section": "dua_sahar",
+      "start": 59.21,
+      "end": 62.775
+    }
+  ]
+}

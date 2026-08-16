@@ -1,0 +1,1173 @@
+{
+  "dua_id": "dua_alqama",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 512.78,
+  "bytes": 2443680,
+  "sha256": "f33ab75556f1988be27a73f9764397a8ee2c743952ee05d1b56094fe417f6804",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_alqama",
+      "start": 0.0,
+      "end": 3.181
+    },
+    {
+      "id": 2,
+      "section": "dua_alqama",
+      "start": 3.531,
+      "end": 7.048
+    },
+    {
+      "id": 3,
+      "section": "dua_alqama",
+      "start": 7.398,
+      "end": 9.363
+    },
+    {
+      "id": 4,
+      "section": "dua_alqama",
+      "start": 9.713,
+      "end": 12.013
+    },
+    {
+      "id": 5,
+      "section": "dua_alqama",
+      "start": 12.363,
+      "end": 14.524
+    },
+    {
+      "id": 6,
+      "section": "dua_alqama",
+      "start": 14.874,
+      "end": 16.778
+    },
+    {
+      "id": 7,
+      "section": "dua_alqama",
+      "start": 17.128,
+      "end": 19.101
+    },
+    {
+      "id": 8,
+      "section": "dua_alqama",
+      "start": 19.451,
+      "end": 21.924
+    },
+    {
+      "id": 9,
+      "section": "dua_alqama",
+      "start": 22.274,
+      "end": 24.794
+    },
+    {
+      "id": 10,
+      "section": "dua_alqama",
+      "start": 25.144,
+      "end": 28.081
+    },
+    {
+      "id": 11,
+      "section": "dua_alqama",
+      "start": 28.431,
+      "end": 32.147
+    },
+    {
+      "id": 12,
+      "section": "dua_alqama",
+      "start": 32.497,
+      "end": 35.933
+    },
+    {
+      "id": 13,
+      "section": "dua_alqama",
+      "start": 36.283,
+      "end": 37.978
+    },
+    {
+      "id": 14,
+      "section": "dua_alqama",
+      "start": 38.328,
+      "end": 40.604
+    },
+    {
+      "id": 15,
+      "section": "dua_alqama",
+      "start": 40.954,
+      "end": 42.951
+    },
+    {
+      "id": 16,
+      "section": "dua_alqama",
+      "start": 43.301,
+      "end": 46.505
+    },
+    {
+      "id": 17,
+      "section": "dua_alqama",
+      "start": 46.855,
+      "end": 48.585
+    },
+    {
+      "id": 18,
+      "section": "dua_alqama",
+      "start": 48.935,
+      "end": 50.793
+    },
+    {
+      "id": 19,
+      "section": "dua_alqama",
+      "start": 51.143,
+      "end": 52.981
+    },
+    {
+      "id": 20,
+      "section": "dua_alqama",
+      "start": 53.331,
+      "end": 55.886
+    },
+    {
+      "id": 21,
+      "section": "dua_alqama",
+      "start": 56.236,
+      "end": 57.698
+    },
+    {
+      "id": 22,
+      "section": "dua_alqama",
+      "start": 58.048,
+      "end": 59.627
+    },
+    {
+      "id": 23,
+      "section": "dua_alqama",
+      "start": 59.977,
+      "end": 61.405
+    },
+    {
+      "id": 24,
+      "section": "dua_alqama",
+      "start": 61.755,
+      "end": 63.313
+    },
+    {
+      "id": 25,
+      "section": "dua_alqama",
+      "start": 63.663,
+      "end": 65.973
+    },
+    {
+      "id": 26,
+      "section": "dua_alqama",
+      "start": 66.323,
+      "end": 68.402
+    },
+    {
+      "id": 27,
+      "section": "dua_alqama",
+      "start": 68.752,
+      "end": 71.305
+    },
+    {
+      "id": 28,
+      "section": "dua_alqama",
+      "start": 71.655,
+      "end": 74.569
+    },
+    {
+      "id": 29,
+      "section": "dua_alqama",
+      "start": 74.919,
+      "end": 77.003
+    },
+    {
+      "id": 30,
+      "section": "dua_alqama",
+      "start": 77.353,
+      "end": 79.914
+    },
+    {
+      "id": 31,
+      "section": "dua_alqama",
+      "start": 80.264,
+      "end": 82.353
+    },
+    {
+      "id": 32,
+      "section": "dua_alqama",
+      "start": 82.703,
+      "end": 85.687
+    },
+    {
+      "id": 33,
+      "section": "dua_alqama",
+      "start": 86.037,
+      "end": 87.953
+    },
+    {
+      "id": 34,
+      "section": "dua_alqama",
+      "start": 88.303,
+      "end": 90.439
+    },
+    {
+      "id": 35,
+      "section": "dua_alqama",
+      "start": 90.789,
+      "end": 93.39
+    },
+    {
+      "id": 36,
+      "section": "dua_alqama",
+      "start": 93.74,
+      "end": 95.644
+    },
+    {
+      "id": 37,
+      "section": "dua_alqama",
+      "start": 95.994,
+      "end": 97.758
+    },
+    {
+      "id": 38,
+      "section": "dua_alqama",
+      "start": 98.108,
+      "end": 101.057
+    },
+    {
+      "id": 39,
+      "section": "dua_alqama",
+      "start": 101.407,
+      "end": 103.393
+    },
+    {
+      "id": 40,
+      "section": "dua_alqama",
+      "start": 103.743,
+      "end": 106.343
+    },
+    {
+      "id": 41,
+      "section": "dua_alqama",
+      "start": 106.693,
+      "end": 108.412
+    },
+    {
+      "id": 42,
+      "section": "dua_alqama",
+      "start": 108.762,
+      "end": 111.815
+    },
+    {
+      "id": 43,
+      "section": "dua_alqama",
+      "start": 112.165,
+      "end": 115.741
+    },
+    {
+      "id": 44,
+      "section": "dua_alqama",
+      "start": 116.091,
+      "end": 119.713
+    },
+    {
+      "id": 45,
+      "section": "dua_alqama",
+      "start": 120.063,
+      "end": 121.598
+    },
+    {
+      "id": 46,
+      "section": "dua_alqama",
+      "start": 121.948,
+      "end": 123.713
+    },
+    {
+      "id": 47,
+      "section": "dua_alqama",
+      "start": 124.063,
+      "end": 127.162
+    },
+    {
+      "id": 48,
+      "section": "dua_alqama",
+      "start": 127.512,
+      "end": 128.755
+    },
+    {
+      "id": 49,
+      "section": "dua_alqama",
+      "start": 129.105,
+      "end": 130.788
+    },
+    {
+      "id": 50,
+      "section": "dua_alqama",
+      "start": 131.138,
+      "end": 133.077
+    },
+    {
+      "id": 51,
+      "section": "dua_alqama",
+      "start": 133.427,
+      "end": 136.213
+    },
+    {
+      "id": 52,
+      "section": "dua_alqama",
+      "start": 136.563,
+      "end": 139.28
+    },
+    {
+      "id": 53,
+      "section": "dua_alqama",
+      "start": 139.63,
+      "end": 141.917
+    },
+    {
+      "id": 54,
+      "section": "dua_alqama",
+      "start": 142.267,
+      "end": 144.868
+    },
+    {
+      "id": 55,
+      "section": "dua_alqama",
+      "start": 145.218,
+      "end": 147.633
+    },
+    {
+      "id": 56,
+      "section": "dua_alqama",
+      "start": 147.983,
+      "end": 150.316
+    },
+    {
+      "id": 57,
+      "section": "dua_alqama",
+      "start": 150.666,
+      "end": 153.105
+    },
+    {
+      "id": 58,
+      "section": "dua_alqama",
+      "start": 153.455,
+      "end": 155.788
+    },
+    {
+      "id": 59,
+      "section": "dua_alqama",
+      "start": 156.138,
+      "end": 158.646
+    },
+    {
+      "id": 60,
+      "section": "dua_alqama",
+      "start": 158.996,
+      "end": 161.248
+    },
+    {
+      "id": 61,
+      "section": "dua_alqama",
+      "start": 161.598,
+      "end": 164.245
+    },
+    {
+      "id": 62,
+      "section": "dua_alqama",
+      "start": 164.595,
+      "end": 166.987
+    },
+    {
+      "id": 63,
+      "section": "dua_alqama",
+      "start": 167.337,
+      "end": 168.951
+    },
+    {
+      "id": 64,
+      "section": "dua_alqama",
+      "start": 169.301,
+      "end": 172.762
+    },
+    {
+      "id": 65,
+      "section": "dua_alqama",
+      "start": 173.112,
+      "end": 175.803
+    },
+    {
+      "id": 66,
+      "section": "dua_alqama",
+      "start": 176.153,
+      "end": 178.835
+    },
+    {
+      "id": 67,
+      "section": "dua_alqama",
+      "start": 179.185,
+      "end": 180.857
+    },
+    {
+      "id": 68,
+      "section": "dua_alqama",
+      "start": 181.207,
+      "end": 184.539
+    },
+    {
+      "id": 69,
+      "section": "dua_alqama",
+      "start": 184.889,
+      "end": 187.42
+    },
+    {
+      "id": 70,
+      "section": "dua_alqama",
+      "start": 187.77,
+      "end": 189.465
+    },
+    {
+      "id": 71,
+      "section": "dua_alqama",
+      "start": 189.815,
+      "end": 191.905
+    },
+    {
+      "id": 72,
+      "section": "dua_alqama",
+      "start": 192.255,
+      "end": 194.438
+    },
+    {
+      "id": 73,
+      "section": "dua_alqama",
+      "start": 194.788,
+      "end": 196.599
+    },
+    {
+      "id": 74,
+      "section": "dua_alqama",
+      "start": 196.949,
+      "end": 199.166
+    },
+    {
+      "id": 75,
+      "section": "dua_alqama",
+      "start": 199.516,
+      "end": 201.56
+    },
+    {
+      "id": 76,
+      "section": "dua_alqama",
+      "start": 201.91,
+      "end": 204.736
+    },
+    {
+      "id": 77,
+      "section": "dua_alqama",
+      "start": 205.086,
+      "end": 207.013
+    },
+    {
+      "id": 78,
+      "section": "dua_alqama",
+      "start": 207.363,
+      "end": 209.743
+    },
+    {
+      "id": 79,
+      "section": "dua_alqama",
+      "start": 210.093,
+      "end": 214.103
+    },
+    {
+      "id": 80,
+      "section": "dua_alqama",
+      "start": 214.453,
+      "end": 217.669
+    },
+    {
+      "id": 81,
+      "section": "dua_alqama",
+      "start": 218.019,
+      "end": 220.05
+    },
+    {
+      "id": 82,
+      "section": "dua_alqama",
+      "start": 220.4,
+      "end": 221.851
+    },
+    {
+      "id": 83,
+      "section": "dua_alqama",
+      "start": 222.201,
+      "end": 223.5
+    },
+    {
+      "id": 84,
+      "section": "dua_alqama",
+      "start": 223.85,
+      "end": 224.941
+    },
+    {
+      "id": 85,
+      "section": "dua_alqama",
+      "start": 225.291,
+      "end": 227.439
+    },
+    {
+      "id": 86,
+      "section": "dua_alqama",
+      "start": 227.789,
+      "end": 230.842
+    },
+    {
+      "id": 87,
+      "section": "dua_alqama",
+      "start": 231.192,
+      "end": 232.516
+    },
+    {
+      "id": 88,
+      "section": "dua_alqama",
+      "start": 232.866,
+      "end": 236.61
+    },
+    {
+      "id": 89,
+      "section": "dua_alqama",
+      "start": 236.96,
+      "end": 240.222
+    },
+    {
+      "id": 90,
+      "section": "dua_alqama",
+      "start": 240.572,
+      "end": 243.509
+    },
+    {
+      "id": 91,
+      "section": "dua_alqama",
+      "start": 243.859,
+      "end": 246.437
+    },
+    {
+      "id": 92,
+      "section": "dua_alqama",
+      "start": 246.787,
+      "end": 249.689
+    },
+    {
+      "id": 93,
+      "section": "dua_alqama",
+      "start": 250.039,
+      "end": 252.582
+    },
+    {
+      "id": 94,
+      "section": "dua_alqama",
+      "start": 252.932,
+      "end": 254.615
+    },
+    {
+      "id": 95,
+      "section": "dua_alqama",
+      "start": 254.965,
+      "end": 256.846
+    },
+    {
+      "id": 96,
+      "section": "dua_alqama",
+      "start": 257.196,
+      "end": 259.135
+    },
+    {
+      "id": 97,
+      "section": "dua_alqama",
+      "start": 259.485,
+      "end": 261.459
+    },
+    {
+      "id": 98,
+      "section": "dua_alqama",
+      "start": 261.809,
+      "end": 264.63
+    },
+    {
+      "id": 99,
+      "section": "dua_alqama",
+      "start": 264.98,
+      "end": 266.71
+    },
+    {
+      "id": 100,
+      "section": "dua_alqama",
+      "start": 267.06,
+      "end": 268.894
+    },
+    {
+      "id": 101,
+      "section": "dua_alqama",
+      "start": 269.244,
+      "end": 271.054
+    },
+    {
+      "id": 102,
+      "section": "dua_alqama",
+      "start": 271.404,
+      "end": 272.879
+    },
+    {
+      "id": 103,
+      "section": "dua_alqama",
+      "start": 273.229,
+      "end": 274.9
+    },
+    {
+      "id": 104,
+      "section": "dua_alqama",
+      "start": 275.25,
+      "end": 277.723
+    },
+    {
+      "id": 105,
+      "section": "dua_alqama",
+      "start": 278.073,
+      "end": 280.767
+    },
+    {
+      "id": 106,
+      "section": "dua_alqama",
+      "start": 281.117,
+      "end": 283.898
+    },
+    {
+      "id": 107,
+      "section": "dua_alqama",
+      "start": 284.248,
+      "end": 287.058
+    },
+    {
+      "id": 108,
+      "section": "dua_alqama",
+      "start": 287.408,
+      "end": 290.322
+    },
+    {
+      "id": 109,
+      "section": "dua_alqama",
+      "start": 290.672,
+      "end": 293.447
+    },
+    {
+      "id": 110,
+      "section": "dua_alqama",
+      "start": 293.797,
+      "end": 296.293
+    },
+    {
+      "id": 111,
+      "section": "dua_alqama",
+      "start": 296.643,
+      "end": 299.836
+    },
+    {
+      "id": 112,
+      "section": "dua_alqama",
+      "start": 300.186,
+      "end": 303.135
+    },
+    {
+      "id": 113,
+      "section": "dua_alqama",
+      "start": 303.485,
+      "end": 305.02
+    },
+    {
+      "id": 114,
+      "section": "dua_alqama",
+      "start": 305.37,
+      "end": 309.573
+    },
+    {
+      "id": 115,
+      "section": "dua_alqama",
+      "start": 309.923,
+      "end": 312.465
+    },
+    {
+      "id": 116,
+      "section": "dua_alqama",
+      "start": 312.815,
+      "end": 314.928
+    },
+    {
+      "id": 117,
+      "section": "dua_alqama",
+      "start": 315.278,
+      "end": 317.322
+    },
+    {
+      "id": 118,
+      "section": "dua_alqama",
+      "start": 317.672,
+      "end": 319.553
+    },
+    {
+      "id": 119,
+      "section": "dua_alqama",
+      "start": 319.903,
+      "end": 322.608
+    },
+    {
+      "id": 120,
+      "section": "dua_alqama",
+      "start": 322.958,
+      "end": 324.85
+    },
+    {
+      "id": 121,
+      "section": "dua_alqama",
+      "start": 325.2,
+      "end": 327.139
+    },
+    {
+      "id": 122,
+      "section": "dua_alqama",
+      "start": 327.489,
+      "end": 329.614
+    },
+    {
+      "id": 123,
+      "section": "dua_alqama",
+      "start": 329.964,
+      "end": 332.181
+    },
+    {
+      "id": 124,
+      "section": "dua_alqama",
+      "start": 332.531,
+      "end": 335.352
+    },
+    {
+      "id": 125,
+      "section": "dua_alqama",
+      "start": 335.702,
+      "end": 337.908
+    },
+    {
+      "id": 126,
+      "section": "dua_alqama",
+      "start": 338.258,
+      "end": 339.872
+    },
+    {
+      "id": 127,
+      "section": "dua_alqama",
+      "start": 340.222,
+      "end": 341.743
+    },
+    {
+      "id": 128,
+      "section": "dua_alqama",
+      "start": 342.093,
+      "end": 344.949
+    },
+    {
+      "id": 129,
+      "section": "dua_alqama",
+      "start": 345.299,
+      "end": 347.946
+    },
+    {
+      "id": 130,
+      "section": "dua_alqama",
+      "start": 348.296,
+      "end": 351.268
+    },
+    {
+      "id": 131,
+      "section": "dua_alqama",
+      "start": 351.618,
+      "end": 353.876
+    },
+    {
+      "id": 132,
+      "section": "dua_alqama",
+      "start": 354.226,
+      "end": 357.439
+    },
+    {
+      "id": 133,
+      "section": "dua_alqama",
+      "start": 357.789,
+      "end": 359.287
+    },
+    {
+      "id": 134,
+      "section": "dua_alqama",
+      "start": 359.637,
+      "end": 362.075
+    },
+    {
+      "id": 135,
+      "section": "dua_alqama",
+      "start": 362.425,
+      "end": 363.958
+    },
+    {
+      "id": 136,
+      "section": "dua_alqama",
+      "start": 364.308,
+      "end": 366.525
+    },
+    {
+      "id": 137,
+      "section": "dua_alqama",
+      "start": 366.875,
+      "end": 368.367
+    },
+    {
+      "id": 138,
+      "section": "dua_alqama",
+      "start": 368.717,
+      "end": 370.435
+    },
+    {
+      "id": 139,
+      "section": "dua_alqama",
+      "start": 370.785,
+      "end": 372.364
+    },
+    {
+      "id": 140,
+      "section": "dua_alqama",
+      "start": 372.714,
+      "end": 374.223
+    },
+    {
+      "id": 141,
+      "section": "dua_alqama",
+      "start": 374.573,
+      "end": 376.292
+    },
+    {
+      "id": 142,
+      "section": "dua_alqama",
+      "start": 376.642,
+      "end": 379.497
+    },
+    {
+      "id": 143,
+      "section": "dua_alqama",
+      "start": 379.847,
+      "end": 381.258
+    },
+    {
+      "id": 144,
+      "section": "dua_alqama",
+      "start": 381.608,
+      "end": 385.103
+    },
+    {
+      "id": 145,
+      "section": "dua_alqama",
+      "start": 385.453,
+      "end": 386.753
+    },
+    {
+      "id": 146,
+      "section": "dua_alqama",
+      "start": 387.103,
+      "end": 390.11
+    },
+    {
+      "id": 147,
+      "section": "dua_alqama",
+      "start": 390.46,
+      "end": 392.062
+    },
+    {
+      "id": 148,
+      "section": "dua_alqama",
+      "start": 392.412,
+      "end": 394.119
+    },
+    {
+      "id": 149,
+      "section": "dua_alqama",
+      "start": 394.469,
+      "end": 395.805
+    },
+    {
+      "id": 150,
+      "section": "dua_alqama",
+      "start": 396.155,
+      "end": 397.862
+    },
+    {
+      "id": 151,
+      "section": "dua_alqama",
+      "start": 398.212,
+      "end": 400.859
+    },
+    {
+      "id": 152,
+      "section": "dua_alqama",
+      "start": 401.209,
+      "end": 403.508
+    },
+    {
+      "id": 153,
+      "section": "dua_alqama",
+      "start": 403.858,
+      "end": 405.576
+    },
+    {
+      "id": 154,
+      "section": "dua_alqama",
+      "start": 405.926,
+      "end": 409.274
+    },
+    {
+      "id": 155,
+      "section": "dua_alqama",
+      "start": 409.624,
+      "end": 412.561
+    },
+    {
+      "id": 156,
+      "section": "dua_alqama",
+      "start": 412.911,
+      "end": 415.049
+    },
+    {
+      "id": 157,
+      "section": "dua_alqama",
+      "start": 415.399,
+      "end": 417.303
+    },
+    {
+      "id": 158,
+      "section": "dua_alqama",
+      "start": 417.653,
+      "end": 419.441
+    },
+    {
+      "id": 159,
+      "section": "dua_alqama",
+      "start": 419.791,
+      "end": 422.043
+    },
+    {
+      "id": 160,
+      "section": "dua_alqama",
+      "start": 422.393,
+      "end": 425.226
+    },
+    {
+      "id": 161,
+      "section": "dua_alqama",
+      "start": 425.576,
+      "end": 427.283
+    },
+    {
+      "id": 162,
+      "section": "dua_alqama",
+      "start": 427.633,
+      "end": 429.13
+    },
+    {
+      "id": 163,
+      "section": "dua_alqama",
+      "start": 429.48,
+      "end": 430.804
+    },
+    {
+      "id": 164,
+      "section": "dua_alqama",
+      "start": 431.154,
+      "end": 433.447
+    },
+    {
+      "id": 165,
+      "section": "dua_alqama",
+      "start": 433.797,
+      "end": 435.899
+    },
+    {
+      "id": 166,
+      "section": "dua_alqama",
+      "start": 436.249,
+      "end": 438.176
+    },
+    {
+      "id": 167,
+      "section": "dua_alqama",
+      "start": 438.526,
+      "end": 441.607
+    },
+    {
+      "id": 168,
+      "section": "dua_alqama",
+      "start": 441.957,
+      "end": 443.873
+    },
+    {
+      "id": 169,
+      "section": "dua_alqama",
+      "start": 444.223,
+      "end": 446.382
+    },
+    {
+      "id": 170,
+      "section": "dua_alqama",
+      "start": 446.732,
+      "end": 449.542
+    },
+    {
+      "id": 171,
+      "section": "dua_alqama",
+      "start": 449.892,
+      "end": 451.738
+    },
+    {
+      "id": 172,
+      "section": "dua_alqama",
+      "start": 452.088,
+      "end": 454.949
+    },
+    {
+      "id": 173,
+      "section": "dua_alqama",
+      "start": 455.299,
+      "end": 459.126
+    },
+    {
+      "id": 174,
+      "section": "dua_alqama",
+      "start": 459.476,
+      "end": 461.775
+    },
+    {
+      "id": 175,
+      "section": "dua_alqama",
+      "start": 462.125,
+      "end": 464.672
+    },
+    {
+      "id": 176,
+      "section": "dua_alqama",
+      "start": 465.022,
+      "end": 467.077
+    },
+    {
+      "id": 177,
+      "section": "dua_alqama",
+      "start": 467.427,
+      "end": 468.376
+    },
+    {
+      "id": 178,
+      "section": "dua_alqama",
+      "start": 468.726,
+      "end": 470.62
+    },
+    {
+      "id": 179,
+      "section": "dua_alqama",
+      "start": 470.97,
+      "end": 472.05
+    },
+    {
+      "id": 180,
+      "section": "dua_alqama",
+      "start": 472.4,
+      "end": 474.931
+    },
+    {
+      "id": 181,
+      "section": "dua_alqama",
+      "start": 475.281,
+      "end": 477.305
+    },
+    {
+      "id": 182,
+      "section": "dua_alqama",
+      "start": 477.655,
+      "end": 479.931
+    },
+    {
+      "id": 183,
+      "section": "dua_alqama",
+      "start": 480.281,
+      "end": 481.876
+    },
+    {
+      "id": 184,
+      "section": "dua_alqama",
+      "start": 482.226,
+      "end": 483.874
+    },
+    {
+      "id": 185,
+      "section": "dua_alqama",
+      "start": 484.224,
+      "end": 485.942
+    },
+    {
+      "id": 186,
+      "section": "dua_alqama",
+      "start": 486.292,
+      "end": 488.674
+    },
+    {
+      "id": 187,
+      "section": "dua_alqama",
+      "start": 489.024,
+      "end": 491.73
+    },
+    {
+      "id": 188,
+      "section": "dua_alqama",
+      "start": 492.08,
+      "end": 494.478
+    },
+    {
+      "id": 189,
+      "section": "dua_alqama",
+      "start": 494.828,
+      "end": 497.603
+    },
+    {
+      "id": 190,
+      "section": "dua_alqama",
+      "start": 497.953,
+      "end": 501.355
+    },
+    {
+      "id": 191,
+      "section": "dua_alqama",
+      "start": 501.705,
+      "end": 506.094
+    },
+    {
+      "id": 192,
+      "section": "dua_alqama",
+      "start": 506.444,
+      "end": 510.356
+    },
+    {
+      "id": 193,
+      "section": "dua_alqama",
+      "start": 510.706,
+      "end": 512.43
+    }
+  ]
+}

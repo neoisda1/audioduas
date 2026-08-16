@@ -1,0 +1,51 @@
+{
+  "dua_id": "after_waking_up_3190194",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 46.189,
+  "bytes": 202026,
+  "sha256": "a73da40ddeda4b04a76072ed4d99c14425938a7b12d9fb253df2cc20b1d061ea",
+  "lines": [
+    {
+      "id": 1,
+      "section": "after_waking_up_3190194",
+      "start": 0.0,
+      "end": 3.181
+    },
+    {
+      "id": 2,
+      "section": "after_waking_up_3190194",
+      "start": 3.531,
+      "end": 9.77
+    },
+    {
+      "id": 3,
+      "section": "after_waking_up_3190194",
+      "start": 10.12,
+      "end": 22.406
+    },
+    {
+      "id": 4,
+      "section": "after_waking_up_3190194",
+      "start": 22.756,
+      "end": 27.664
+    },
+    {
+      "id": 5,
+      "section": "after_waking_up_3190194",
+      "start": 28.014,
+      "end": 38.097
+    },
+    {
+      "id": 6,
+      "section": "after_waking_up_3190194",
+      "start": 38.447,
+      "end": 45.839
+    }
+  ]
+}

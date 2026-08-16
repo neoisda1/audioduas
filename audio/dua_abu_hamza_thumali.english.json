@@ -1,0 +1,4059 @@
+{
+  "dua_id": "dua_abu_hamza_thumali",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 1903.951,
+  "bytes": 8954234,
+  "sha256": "afc3f68be218983f8c3c09bf40fc3f78f3fb43485b3b9f3a30e5108953dfa73f",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_abu_hamza_thumali",
+      "start": 0.0,
+      "end": 3.281
+    },
+    {
+      "id": 2,
+      "section": "dua_abu_hamza_thumali",
+      "start": 3.631,
+      "end": 7.273
+    },
+    {
+      "id": 3,
+      "section": "dua_abu_hamza_thumali",
+      "start": 7.623,
+      "end": 10.27
+    },
+    {
+      "id": 4,
+      "section": "dua_abu_hamza_thumali",
+      "start": 10.62,
+      "end": 12.965
+    },
+    {
+      "id": 5,
+      "section": "dua_abu_hamza_thumali",
+      "start": 13.315,
+      "end": 15.305
+    },
+    {
+      "id": 6,
+      "section": "dua_abu_hamza_thumali",
+      "start": 15.655,
+      "end": 17.292
+    },
+    {
+      "id": 7,
+      "section": "dua_abu_hamza_thumali",
+      "start": 17.642,
+      "end": 19.79
+    },
+    {
+      "id": 8,
+      "section": "dua_abu_hamza_thumali",
+      "start": 20.14,
+      "end": 22.229
+    },
+    {
+      "id": 9,
+      "section": "dua_abu_hamza_thumali",
+      "start": 22.579,
+      "end": 25.54
+    },
+    {
+      "id": 10,
+      "section": "dua_abu_hamza_thumali",
+      "start": 25.89,
+      "end": 28.34
+    },
+    {
+      "id": 11,
+      "section": "dua_abu_hamza_thumali",
+      "start": 28.69,
+      "end": 29.862
+    },
+    {
+      "id": 12,
+      "section": "dua_abu_hamza_thumali",
+      "start": 30.212,
+      "end": 33.655
+    },
+    {
+      "id": 13,
+      "section": "dua_abu_hamza_thumali",
+      "start": 34.005,
+      "end": 34.724
+    },
+    {
+      "id": 14,
+      "section": "dua_abu_hamza_thumali",
+      "start": 35.074,
+      "end": 35.992
+    },
+    {
+      "id": 15,
+      "section": "dua_abu_hamza_thumali",
+      "start": 36.342,
+      "end": 37.537
+    },
+    {
+      "id": 16,
+      "section": "dua_abu_hamza_thumali",
+      "start": 37.887,
+      "end": 39.643
+    },
+    {
+      "id": 17,
+      "section": "dua_abu_hamza_thumali",
+      "start": 39.993,
+      "end": 41.27
+    },
+    {
+      "id": 18,
+      "section": "dua_abu_hamza_thumali",
+      "start": 41.62,
+      "end": 44.074
+    },
+    {
+      "id": 19,
+      "section": "dua_abu_hamza_thumali",
+      "start": 44.424,
+      "end": 47.512
+    },
+    {
+      "id": 20,
+      "section": "dua_abu_hamza_thumali",
+      "start": 47.862,
+      "end": 50.463
+    },
+    {
+      "id": 21,
+      "section": "dua_abu_hamza_thumali",
+      "start": 50.813,
+      "end": 53.692
+    },
+    {
+      "id": 22,
+      "section": "dua_abu_hamza_thumali",
+      "start": 54.042,
+      "end": 56.712
+    },
+    {
+      "id": 23,
+      "section": "dua_abu_hamza_thumali",
+      "start": 57.062,
+      "end": 60.476
+    },
+    {
+      "id": 24,
+      "section": "dua_abu_hamza_thumali",
+      "start": 60.826,
+      "end": 64.982
+    },
+    {
+      "id": 25,
+      "section": "dua_abu_hamza_thumali",
+      "start": 65.332,
+      "end": 66.713
+    },
+    {
+      "id": 26,
+      "section": "dua_abu_hamza_thumali",
+      "start": 67.063,
+      "end": 70.407
+    },
+    {
+      "id": 27,
+      "section": "dua_abu_hamza_thumali",
+      "start": 70.757,
+      "end": 73.848
+    },
+    {
+      "id": 28,
+      "section": "dua_abu_hamza_thumali",
+      "start": 74.198,
+      "end": 77.484
+    },
+    {
+      "id": 29,
+      "section": "dua_abu_hamza_thumali",
+      "start": 77.834,
+      "end": 80.459
+    },
+    {
+      "id": 30,
+      "section": "dua_abu_hamza_thumali",
+      "start": 80.809,
+      "end": 83.874
+    },
+    {
+      "id": 31,
+      "section": "dua_abu_hamza_thumali",
+      "start": 84.224,
+      "end": 86.882
+    },
+    {
+      "id": 32,
+      "section": "dua_abu_hamza_thumali",
+      "start": 87.232,
+      "end": 90.019
+    },
+    {
+      "id": 33,
+      "section": "dua_abu_hamza_thumali",
+      "start": 90.369,
+      "end": 92.284
+    },
+    {
+      "id": 34,
+      "section": "dua_abu_hamza_thumali",
+      "start": 92.634,
+      "end": 95.397
+    },
+    {
+      "id": 35,
+      "section": "dua_abu_hamza_thumali",
+      "start": 95.747,
+      "end": 97.234
+    },
+    {
+      "id": 36,
+      "section": "dua_abu_hamza_thumali",
+      "start": 97.584,
+      "end": 100.056
+    },
+    {
+      "id": 37,
+      "section": "dua_abu_hamza_thumali",
+      "start": 100.406,
+      "end": 102.229
+    },
+    {
+      "id": 38,
+      "section": "dua_abu_hamza_thumali",
+      "start": 102.579,
+      "end": 105.652
+    },
+    {
+      "id": 39,
+      "section": "dua_abu_hamza_thumali",
+      "start": 106.002,
+      "end": 108.045
+    },
+    {
+      "id": 40,
+      "section": "dua_abu_hamza_thumali",
+      "start": 108.395,
+      "end": 111.6
+    },
+    {
+      "id": 41,
+      "section": "dua_abu_hamza_thumali",
+      "start": 111.95,
+      "end": 114.643
+    },
+    {
+      "id": 42,
+      "section": "dua_abu_hamza_thumali",
+      "start": 114.993,
+      "end": 118.163
+    },
+    {
+      "id": 43,
+      "section": "dua_abu_hamza_thumali",
+      "start": 118.513,
+      "end": 120.928
+    },
+    {
+      "id": 44,
+      "section": "dua_abu_hamza_thumali",
+      "start": 121.278,
+      "end": 123.321
+    },
+    {
+      "id": 45,
+      "section": "dua_abu_hamza_thumali",
+      "start": 123.671,
+      "end": 125.47
+    },
+    {
+      "id": 46,
+      "section": "dua_abu_hamza_thumali",
+      "start": 125.82,
+      "end": 128.259
+    },
+    {
+      "id": 47,
+      "section": "dua_abu_hamza_thumali",
+      "start": 128.609,
+      "end": 131.302
+    },
+    {
+      "id": 48,
+      "section": "dua_abu_hamza_thumali",
+      "start": 131.652,
+      "end": 134.067
+    },
+    {
+      "id": 49,
+      "section": "dua_abu_hamza_thumali",
+      "start": 134.417,
+      "end": 136.913
+    },
+    {
+      "id": 50,
+      "section": "dua_abu_hamza_thumali",
+      "start": 137.263,
+      "end": 139.817
+    },
+    {
+      "id": 51,
+      "section": "dua_abu_hamza_thumali",
+      "start": 140.167,
+      "end": 142.617
+    },
+    {
+      "id": 52,
+      "section": "dua_abu_hamza_thumali",
+      "start": 142.967,
+      "end": 144.523
+    },
+    {
+      "id": 53,
+      "section": "dua_abu_hamza_thumali",
+      "start": 144.873,
+      "end": 146.696
+    },
+    {
+      "id": 54,
+      "section": "dua_abu_hamza_thumali",
+      "start": 147.046,
+      "end": 150.203
+    },
+    {
+      "id": 55,
+      "section": "dua_abu_hamza_thumali",
+      "start": 150.553,
+      "end": 152.817
+    },
+    {
+      "id": 56,
+      "section": "dua_abu_hamza_thumali",
+      "start": 153.167,
+      "end": 155.025
+    },
+    {
+      "id": 57,
+      "section": "dua_abu_hamza_thumali",
+      "start": 155.375,
+      "end": 157.569
+    },
+    {
+      "id": 58,
+      "section": "dua_abu_hamza_thumali",
+      "start": 157.919,
+      "end": 160.59
+    },
+    {
+      "id": 59,
+      "section": "dua_abu_hamza_thumali",
+      "start": 160.94,
+      "end": 163.54
+    },
+    {
+      "id": 60,
+      "section": "dua_abu_hamza_thumali",
+      "start": 163.89,
+      "end": 165.771
+    },
+    {
+      "id": 61,
+      "section": "dua_abu_hamza_thumali",
+      "start": 166.121,
+      "end": 167.445
+    },
+    {
+      "id": 62,
+      "section": "dua_abu_hamza_thumali",
+      "start": 167.795,
+      "end": 169.641
+    },
+    {
+      "id": 63,
+      "section": "dua_abu_hamza_thumali",
+      "start": 169.991,
+      "end": 171.488
+    },
+    {
+      "id": 64,
+      "section": "dua_abu_hamza_thumali",
+      "start": 171.838,
+      "end": 174.569
+    },
+    {
+      "id": 65,
+      "section": "dua_abu_hamza_thumali",
+      "start": 174.919,
+      "end": 176.532
+    },
+    {
+      "id": 66,
+      "section": "dua_abu_hamza_thumali",
+      "start": 176.882,
+      "end": 178.496
+    },
+    {
+      "id": 67,
+      "section": "dua_abu_hamza_thumali",
+      "start": 178.846,
+      "end": 180.936
+    },
+    {
+      "id": 68,
+      "section": "dua_abu_hamza_thumali",
+      "start": 181.286,
+      "end": 183.95
+    },
+    {
+      "id": 69,
+      "section": "dua_abu_hamza_thumali",
+      "start": 184.3,
+      "end": 186.587
+    },
+    {
+      "id": 70,
+      "section": "dua_abu_hamza_thumali",
+      "start": 186.937,
+      "end": 189.956
+    },
+    {
+      "id": 71,
+      "section": "dua_abu_hamza_thumali",
+      "start": 190.306,
+      "end": 193.417
+    },
+    {
+      "id": 72,
+      "section": "dua_abu_hamza_thumali",
+      "start": 193.767,
+      "end": 197.166
+    },
+    {
+      "id": 73,
+      "section": "dua_abu_hamza_thumali",
+      "start": 197.516,
+      "end": 199.583
+    },
+    {
+      "id": 74,
+      "section": "dua_abu_hamza_thumali",
+      "start": 199.933,
+      "end": 202.789
+    },
+    {
+      "id": 75,
+      "section": "dua_abu_hamza_thumali",
+      "start": 203.139,
+      "end": 205.007
+    },
+    {
+      "id": 76,
+      "section": "dua_abu_hamza_thumali",
+      "start": 205.357,
+      "end": 208.573
+    },
+    {
+      "id": 77,
+      "section": "dua_abu_hamza_thumali",
+      "start": 208.923,
+      "end": 211.746
+    },
+    {
+      "id": 78,
+      "section": "dua_abu_hamza_thumali",
+      "start": 212.096,
+      "end": 214.279
+    },
+    {
+      "id": 79,
+      "section": "dua_abu_hamza_thumali",
+      "start": 214.629,
+      "end": 217.462
+    },
+    {
+      "id": 80,
+      "section": "dua_abu_hamza_thumali",
+      "start": 217.812,
+      "end": 220.714
+    },
+    {
+      "id": 81,
+      "section": "dua_abu_hamza_thumali",
+      "start": 221.064,
+      "end": 225.163
+    },
+    {
+      "id": 82,
+      "section": "dua_abu_hamza_thumali",
+      "start": 225.513,
+      "end": 229.075
+    },
+    {
+      "id": 83,
+      "section": "dua_abu_hamza_thumali",
+      "start": 229.425,
+      "end": 232.018
+    },
+    {
+      "id": 84,
+      "section": "dua_abu_hamza_thumali",
+      "start": 232.368,
+      "end": 233.517
+    },
+    {
+      "id": 85,
+      "section": "dua_abu_hamza_thumali",
+      "start": 233.867,
+      "end": 236.836
+    },
+    {
+      "id": 86,
+      "section": "dua_abu_hamza_thumali",
+      "start": 237.186,
+      "end": 239.706
+    },
+    {
+      "id": 87,
+      "section": "dua_abu_hamza_thumali",
+      "start": 240.056,
+      "end": 242.885
+    },
+    {
+      "id": 88,
+      "section": "dua_abu_hamza_thumali",
+      "start": 243.235,
+      "end": 245.468
+    },
+    {
+      "id": 89,
+      "section": "dua_abu_hamza_thumali",
+      "start": 245.818,
+      "end": 248.437
+    },
+    {
+      "id": 90,
+      "section": "dua_abu_hamza_thumali",
+      "start": 248.787,
+      "end": 252.646
+    },
+    {
+      "id": 91,
+      "section": "dua_abu_hamza_thumali",
+      "start": 252.996,
+      "end": 257.896
+    },
+    {
+      "id": 92,
+      "section": "dua_abu_hamza_thumali",
+      "start": 258.246,
+      "end": 261.45
+    },
+    {
+      "id": 93,
+      "section": "dua_abu_hamza_thumali",
+      "start": 261.8,
+      "end": 262.938
+    },
+    {
+      "id": 94,
+      "section": "dua_abu_hamza_thumali",
+      "start": 263.288,
+      "end": 264.368
+    },
+    {
+      "id": 95,
+      "section": "dua_abu_hamza_thumali",
+      "start": 264.718,
+      "end": 266.993
+    },
+    {
+      "id": 96,
+      "section": "dua_abu_hamza_thumali",
+      "start": 267.343,
+      "end": 269.963
+    },
+    {
+      "id": 97,
+      "section": "dua_abu_hamza_thumali",
+      "start": 270.313,
+      "end": 273.248
+    },
+    {
+      "id": 98,
+      "section": "dua_abu_hamza_thumali",
+      "start": 273.598,
+      "end": 276.605
+    },
+    {
+      "id": 99,
+      "section": "dua_abu_hamza_thumali",
+      "start": 276.955,
+      "end": 279.764
+    },
+    {
+      "id": 100,
+      "section": "dua_abu_hamza_thumali",
+      "start": 280.114,
+      "end": 283.04
+    },
+    {
+      "id": 101,
+      "section": "dua_abu_hamza_thumali",
+      "start": 283.39,
+      "end": 286.374
+    },
+    {
+      "id": 102,
+      "section": "dua_abu_hamza_thumali",
+      "start": 286.724,
+      "end": 289.535
+    },
+    {
+      "id": 103,
+      "section": "dua_abu_hamza_thumali",
+      "start": 289.885,
+      "end": 291.104
+    },
+    {
+      "id": 104,
+      "section": "dua_abu_hamza_thumali",
+      "start": 291.454,
+      "end": 295.889
+    },
+    {
+      "id": 105,
+      "section": "dua_abu_hamza_thumali",
+      "start": 296.239,
+      "end": 299.124
+    },
+    {
+      "id": 106,
+      "section": "dua_abu_hamza_thumali",
+      "start": 299.474,
+      "end": 300.856
+    },
+    {
+      "id": 107,
+      "section": "dua_abu_hamza_thumali",
+      "start": 301.206,
+      "end": 303.191
+    },
+    {
+      "id": 108,
+      "section": "dua_abu_hamza_thumali",
+      "start": 303.541,
+      "end": 305.329
+    },
+    {
+      "id": 109,
+      "section": "dua_abu_hamza_thumali",
+      "start": 305.679,
+      "end": 308.547
+    },
+    {
+      "id": 110,
+      "section": "dua_abu_hamza_thumali",
+      "start": 308.897,
+      "end": 312.608
+    },
+    {
+      "id": 111,
+      "section": "dua_abu_hamza_thumali",
+      "start": 312.958,
+      "end": 316.02
+    },
+    {
+      "id": 112,
+      "section": "dua_abu_hamza_thumali",
+      "start": 316.37,
+      "end": 319.249
+    },
+    {
+      "id": 113,
+      "section": "dua_abu_hamza_thumali",
+      "start": 319.599,
+      "end": 321.584
+    },
+    {
+      "id": 114,
+      "section": "dua_abu_hamza_thumali",
+      "start": 321.934,
+      "end": 324.578
+    },
+    {
+      "id": 115,
+      "section": "dua_abu_hamza_thumali",
+      "start": 324.928,
+      "end": 326.438
+    },
+    {
+      "id": 116,
+      "section": "dua_abu_hamza_thumali",
+      "start": 326.788,
+      "end": 328.668
+    },
+    {
+      "id": 117,
+      "section": "dua_abu_hamza_thumali",
+      "start": 329.018,
+      "end": 330.261
+    },
+    {
+      "id": 118,
+      "section": "dua_abu_hamza_thumali",
+      "start": 330.611,
+      "end": 331.864
+    },
+    {
+      "id": 119,
+      "section": "dua_abu_hamza_thumali",
+      "start": 332.214,
+      "end": 333.503
+    },
+    {
+      "id": 120,
+      "section": "dua_abu_hamza_thumali",
+      "start": 333.853,
+      "end": 335.862
+    },
+    {
+      "id": 121,
+      "section": "dua_abu_hamza_thumali",
+      "start": 336.212,
+      "end": 338.673
+    },
+    {
+      "id": 122,
+      "section": "dua_abu_hamza_thumali",
+      "start": 339.023,
+      "end": 342.123
+    },
+    {
+      "id": 123,
+      "section": "dua_abu_hamza_thumali",
+      "start": 342.473,
+      "end": 344.47
+    },
+    {
+      "id": 124,
+      "section": "dua_abu_hamza_thumali",
+      "start": 344.82,
+      "end": 348.059
+    },
+    {
+      "id": 125,
+      "section": "dua_abu_hamza_thumali",
+      "start": 348.409,
+      "end": 352.055
+    },
+    {
+      "id": 126,
+      "section": "dua_abu_hamza_thumali",
+      "start": 352.405,
+      "end": 358.059
+    },
+    {
+      "id": 127,
+      "section": "dua_abu_hamza_thumali",
+      "start": 358.409,
+      "end": 360.258
+    },
+    {
+      "id": 128,
+      "section": "dua_abu_hamza_thumali",
+      "start": 360.608,
+      "end": 362.393
+    },
+    {
+      "id": 129,
+      "section": "dua_abu_hamza_thumali",
+      "start": 362.743,
+      "end": 364.079
+    },
+    {
+      "id": 130,
+      "section": "dua_abu_hamza_thumali",
+      "start": 364.429,
+      "end": 366.042
+    },
+    {
+      "id": 131,
+      "section": "dua_abu_hamza_thumali",
+      "start": 366.392,
+      "end": 367.937
+    },
+    {
+      "id": 132,
+      "section": "dua_abu_hamza_thumali",
+      "start": 368.287,
+      "end": 369.668
+    },
+    {
+      "id": 133,
+      "section": "dua_abu_hamza_thumali",
+      "start": 370.018,
+      "end": 371.562
+    },
+    {
+      "id": 134,
+      "section": "dua_abu_hamza_thumali",
+      "start": 371.912,
+      "end": 373.445
+    },
+    {
+      "id": 135,
+      "section": "dua_abu_hamza_thumali",
+      "start": 373.795,
+      "end": 375.141
+    },
+    {
+      "id": 136,
+      "section": "dua_abu_hamza_thumali",
+      "start": 375.491,
+      "end": 376.641
+    },
+    {
+      "id": 137,
+      "section": "dua_abu_hamza_thumali",
+      "start": 376.991,
+      "end": 378.407
+    },
+    {
+      "id": 138,
+      "section": "dua_abu_hamza_thumali",
+      "start": 378.757,
+      "end": 380.313
+    },
+    {
+      "id": 139,
+      "section": "dua_abu_hamza_thumali",
+      "start": 380.663,
+      "end": 382.312
+    },
+    {
+      "id": 140,
+      "section": "dua_abu_hamza_thumali",
+      "start": 382.662,
+      "end": 383.846
+    },
+    {
+      "id": 141,
+      "section": "dua_abu_hamza_thumali",
+      "start": 384.196,
+      "end": 385.589
+    },
+    {
+      "id": 142,
+      "section": "dua_abu_hamza_thumali",
+      "start": 385.939,
+      "end": 387.367
+    },
+    {
+      "id": 143,
+      "section": "dua_abu_hamza_thumali",
+      "start": 387.717,
+      "end": 389.586
+    },
+    {
+      "id": 144,
+      "section": "dua_abu_hamza_thumali",
+      "start": 389.936,
+      "end": 392.09
+    },
+    {
+      "id": 145,
+      "section": "dua_abu_hamza_thumali",
+      "start": 392.44,
+      "end": 395.053
+    },
+    {
+      "id": 146,
+      "section": "dua_abu_hamza_thumali",
+      "start": 395.403,
+      "end": 396.983
+    },
+    {
+      "id": 147,
+      "section": "dua_abu_hamza_thumali",
+      "start": 397.333,
+      "end": 398.25
+    },
+    {
+      "id": 148,
+      "section": "dua_abu_hamza_thumali",
+      "start": 398.6,
+      "end": 399.657
+    },
+    {
+      "id": 149,
+      "section": "dua_abu_hamza_thumali",
+      "start": 400.007,
+      "end": 402.37
+    },
+    {
+      "id": 150,
+      "section": "dua_abu_hamza_thumali",
+      "start": 402.72,
+      "end": 406.447
+    },
+    {
+      "id": 151,
+      "section": "dua_abu_hamza_thumali",
+      "start": 406.797,
+      "end": 408.457
+    },
+    {
+      "id": 152,
+      "section": "dua_abu_hamza_thumali",
+      "start": 408.807,
+      "end": 411.64
+    },
+    {
+      "id": 153,
+      "section": "dua_abu_hamza_thumali",
+      "start": 411.99,
+      "end": 414.103
+    },
+    {
+      "id": 154,
+      "section": "dua_abu_hamza_thumali",
+      "start": 414.453,
+      "end": 416.462
+    },
+    {
+      "id": 155,
+      "section": "dua_abu_hamza_thumali",
+      "start": 416.812,
+      "end": 418.6
+    },
+    {
+      "id": 156,
+      "section": "dua_abu_hamza_thumali",
+      "start": 418.95,
+      "end": 421.957
+    },
+    {
+      "id": 157,
+      "section": "dua_abu_hamza_thumali",
+      "start": 422.307,
+      "end": 424.826
+    },
+    {
+      "id": 158,
+      "section": "dua_abu_hamza_thumali",
+      "start": 425.176,
+      "end": 428.218
+    },
+    {
+      "id": 159,
+      "section": "dua_abu_hamza_thumali",
+      "start": 428.568,
+      "end": 430.332
+    },
+    {
+      "id": 160,
+      "section": "dua_abu_hamza_thumali",
+      "start": 430.682,
+      "end": 435.094
+    },
+    {
+      "id": 161,
+      "section": "dua_abu_hamza_thumali",
+      "start": 435.444,
+      "end": 437.789
+    },
+    {
+      "id": 162,
+      "section": "dua_abu_hamza_thumali",
+      "start": 438.139,
+      "end": 441.805
+    },
+    {
+      "id": 163,
+      "section": "dua_abu_hamza_thumali",
+      "start": 442.155,
+      "end": 445.828
+    },
+    {
+      "id": 164,
+      "section": "dua_abu_hamza_thumali",
+      "start": 446.178,
+      "end": 448.454
+    },
+    {
+      "id": 165,
+      "section": "dua_abu_hamza_thumali",
+      "start": 448.804,
+      "end": 452.147
+    },
+    {
+      "id": 166,
+      "section": "dua_abu_hamza_thumali",
+      "start": 452.497,
+      "end": 456.491
+    },
+    {
+      "id": 167,
+      "section": "dua_abu_hamza_thumali",
+      "start": 456.841,
+      "end": 459.813
+    },
+    {
+      "id": 168,
+      "section": "dua_abu_hamza_thumali",
+      "start": 460.163,
+      "end": 462.218
+    },
+    {
+      "id": 169,
+      "section": "dua_abu_hamza_thumali",
+      "start": 462.568,
+      "end": 465.029
+    },
+    {
+      "id": 170,
+      "section": "dua_abu_hamza_thumali",
+      "start": 465.379,
+      "end": 469.25
+    },
+    {
+      "id": 171,
+      "section": "dua_abu_hamza_thumali",
+      "start": 469.6,
+      "end": 471.411
+    },
+    {
+      "id": 172,
+      "section": "dua_abu_hamza_thumali",
+      "start": 471.761,
+      "end": 475.337
+    },
+    {
+      "id": 173,
+      "section": "dua_abu_hamza_thumali",
+      "start": 475.687,
+      "end": 477.335
+    },
+    {
+      "id": 174,
+      "section": "dua_abu_hamza_thumali",
+      "start": 477.685,
+      "end": 480.53
+    },
+    {
+      "id": 175,
+      "section": "dua_abu_hamza_thumali",
+      "start": 480.88,
+      "end": 484.102
+    },
+    {
+      "id": 176,
+      "section": "dua_abu_hamza_thumali",
+      "start": 484.452,
+      "end": 486.415
+    },
+    {
+      "id": 177,
+      "section": "dua_abu_hamza_thumali",
+      "start": 486.765,
+      "end": 488.537
+    },
+    {
+      "id": 178,
+      "section": "dua_abu_hamza_thumali",
+      "start": 488.887,
+      "end": 490.918
+    },
+    {
+      "id": 179,
+      "section": "dua_abu_hamza_thumali",
+      "start": 491.268,
+      "end": 493.161
+    },
+    {
+      "id": 180,
+      "section": "dua_abu_hamza_thumali",
+      "start": 493.511,
+      "end": 496.007
+    },
+    {
+      "id": 181,
+      "section": "dua_abu_hamza_thumali",
+      "start": 496.357,
+      "end": 498.354
+    },
+    {
+      "id": 182,
+      "section": "dua_abu_hamza_thumali",
+      "start": 498.704,
+      "end": 500.648
+    },
+    {
+      "id": 183,
+      "section": "dua_abu_hamza_thumali",
+      "start": 500.998,
+      "end": 504.262
+    },
+    {
+      "id": 184,
+      "section": "dua_abu_hamza_thumali",
+      "start": 504.612,
+      "end": 506.633
+    },
+    {
+      "id": 185,
+      "section": "dua_abu_hamza_thumali",
+      "start": 506.983,
+      "end": 509.606
+    },
+    {
+      "id": 186,
+      "section": "dua_abu_hamza_thumali",
+      "start": 509.956,
+      "end": 512.94
+    },
+    {
+      "id": 187,
+      "section": "dua_abu_hamza_thumali",
+      "start": 513.29,
+      "end": 515.229
+    },
+    {
+      "id": 188,
+      "section": "dua_abu_hamza_thumali",
+      "start": 515.579,
+      "end": 517.418
+    },
+    {
+      "id": 189,
+      "section": "dua_abu_hamza_thumali",
+      "start": 517.768,
+      "end": 520.345
+    },
+    {
+      "id": 190,
+      "section": "dua_abu_hamza_thumali",
+      "start": 520.695,
+      "end": 522.878
+    },
+    {
+      "id": 191,
+      "section": "dua_abu_hamza_thumali",
+      "start": 523.228,
+      "end": 526.361
+    },
+    {
+      "id": 192,
+      "section": "dua_abu_hamza_thumali",
+      "start": 526.711,
+      "end": 527.93
+    },
+    {
+      "id": 193,
+      "section": "dua_abu_hamza_thumali",
+      "start": 528.28,
+      "end": 530.839
+    },
+    {
+      "id": 194,
+      "section": "dua_abu_hamza_thumali",
+      "start": 531.189,
+      "end": 532.756
+    },
+    {
+      "id": 195,
+      "section": "dua_abu_hamza_thumali",
+      "start": 533.106,
+      "end": 535.707
+    },
+    {
+      "id": 196,
+      "section": "dua_abu_hamza_thumali",
+      "start": 536.057,
+      "end": 537.392
+    },
+    {
+      "id": 197,
+      "section": "dua_abu_hamza_thumali",
+      "start": 537.742,
+      "end": 540.24
+    },
+    {
+      "id": 198,
+      "section": "dua_abu_hamza_thumali",
+      "start": 540.59,
+      "end": 543.492
+    },
+    {
+      "id": 199,
+      "section": "dua_abu_hamza_thumali",
+      "start": 543.842,
+      "end": 545.682
+    },
+    {
+      "id": 200,
+      "section": "dua_abu_hamza_thumali",
+      "start": 546.032,
+      "end": 548.261
+    },
+    {
+      "id": 201,
+      "section": "dua_abu_hamza_thumali",
+      "start": 548.611,
+      "end": 551.839
+    },
+    {
+      "id": 202,
+      "section": "dua_abu_hamza_thumali",
+      "start": 552.189,
+      "end": 554.081
+    },
+    {
+      "id": 203,
+      "section": "dua_abu_hamza_thumali",
+      "start": 554.431,
+      "end": 556.707
+    },
+    {
+      "id": 204,
+      "section": "dua_abu_hamza_thumali",
+      "start": 557.057,
+      "end": 561.074
+    },
+    {
+      "id": 205,
+      "section": "dua_abu_hamza_thumali",
+      "start": 561.424,
+      "end": 563.285
+    },
+    {
+      "id": 206,
+      "section": "dua_abu_hamza_thumali",
+      "start": 563.635,
+      "end": 565.847
+    },
+    {
+      "id": 207,
+      "section": "dua_abu_hamza_thumali",
+      "start": 566.197,
+      "end": 568.212
+    },
+    {
+      "id": 208,
+      "section": "dua_abu_hamza_thumali",
+      "start": 568.562,
+      "end": 570.315
+    },
+    {
+      "id": 209,
+      "section": "dua_abu_hamza_thumali",
+      "start": 570.665,
+      "end": 573.602
+    },
+    {
+      "id": 210,
+      "section": "dua_abu_hamza_thumali",
+      "start": 573.952,
+      "end": 575.38
+    },
+    {
+      "id": 211,
+      "section": "dua_abu_hamza_thumali",
+      "start": 575.73,
+      "end": 578.893
+    },
+    {
+      "id": 212,
+      "section": "dua_abu_hamza_thumali",
+      "start": 579.243,
+      "end": 582.703
+    },
+    {
+      "id": 213,
+      "section": "dua_abu_hamza_thumali",
+      "start": 583.053,
+      "end": 584.725
+    },
+    {
+      "id": 214,
+      "section": "dua_abu_hamza_thumali",
+      "start": 585.075,
+      "end": 586.712
+    },
+    {
+      "id": 215,
+      "section": "dua_abu_hamza_thumali",
+      "start": 587.062,
+      "end": 589.988
+    },
+    {
+      "id": 216,
+      "section": "dua_abu_hamza_thumali",
+      "start": 590.338,
+      "end": 593.565
+    },
+    {
+      "id": 217,
+      "section": "dua_abu_hamza_thumali",
+      "start": 593.915,
+      "end": 595.854
+    },
+    {
+      "id": 218,
+      "section": "dua_abu_hamza_thumali",
+      "start": 596.204,
+      "end": 598.787
+    },
+    {
+      "id": 219,
+      "section": "dua_abu_hamza_thumali",
+      "start": 599.137,
+      "end": 601.826
+    },
+    {
+      "id": 220,
+      "section": "dua_abu_hamza_thumali",
+      "start": 602.176,
+      "end": 603.476
+    },
+    {
+      "id": 221,
+      "section": "dua_abu_hamza_thumali",
+      "start": 603.826,
+      "end": 605.394
+    },
+    {
+      "id": 222,
+      "section": "dua_abu_hamza_thumali",
+      "start": 605.744,
+      "end": 607.625
+    },
+    {
+      "id": 223,
+      "section": "dua_abu_hamza_thumali",
+      "start": 607.975,
+      "end": 610.216
+    },
+    {
+      "id": 224,
+      "section": "dua_abu_hamza_thumali",
+      "start": 610.566,
+      "end": 614.073
+    },
+    {
+      "id": 225,
+      "section": "dua_abu_hamza_thumali",
+      "start": 614.423,
+      "end": 615.976
+    },
+    {
+      "id": 226,
+      "section": "dua_abu_hamza_thumali",
+      "start": 616.326,
+      "end": 618.904
+    },
+    {
+      "id": 227,
+      "section": "dua_abu_hamza_thumali",
+      "start": 619.254,
+      "end": 621.741
+    },
+    {
+      "id": 228,
+      "section": "dua_abu_hamza_thumali",
+      "start": 622.091,
+      "end": 623.581
+    },
+    {
+      "id": 229,
+      "section": "dua_abu_hamza_thumali",
+      "start": 623.931,
+      "end": 625.789
+    },
+    {
+      "id": 230,
+      "section": "dua_abu_hamza_thumali",
+      "start": 626.139,
+      "end": 627.961
+    },
+    {
+      "id": 231,
+      "section": "dua_abu_hamza_thumali",
+      "start": 628.311,
+      "end": 630.192
+    },
+    {
+      "id": 232,
+      "section": "dua_abu_hamza_thumali",
+      "start": 630.542,
+      "end": 632.725
+    },
+    {
+      "id": 233,
+      "section": "dua_abu_hamza_thumali",
+      "start": 633.075,
+      "end": 635.408
+    },
+    {
+      "id": 234,
+      "section": "dua_abu_hamza_thumali",
+      "start": 635.758,
+      "end": 637.384
+    },
+    {
+      "id": 235,
+      "section": "dua_abu_hamza_thumali",
+      "start": 637.734,
+      "end": 640.822
+    },
+    {
+      "id": 236,
+      "section": "dua_abu_hamza_thumali",
+      "start": 641.172,
+      "end": 643.106
+    },
+    {
+      "id": 237,
+      "section": "dua_abu_hamza_thumali",
+      "start": 643.456,
+      "end": 645.581
+    },
+    {
+      "id": 238,
+      "section": "dua_abu_hamza_thumali",
+      "start": 645.931,
+      "end": 649.507
+    },
+    {
+      "id": 239,
+      "section": "dua_abu_hamza_thumali",
+      "start": 649.857,
+      "end": 651.831
+    },
+    {
+      "id": 240,
+      "section": "dua_abu_hamza_thumali",
+      "start": 652.181,
+      "end": 654.405
+    },
+    {
+      "id": 241,
+      "section": "dua_abu_hamza_thumali",
+      "start": 654.755,
+      "end": 657.786
+    },
+    {
+      "id": 242,
+      "section": "dua_abu_hamza_thumali",
+      "start": 658.136,
+      "end": 659.993
+    },
+    {
+      "id": 243,
+      "section": "dua_abu_hamza_thumali",
+      "start": 660.343,
+      "end": 662.212
+    },
+    {
+      "id": 244,
+      "section": "dua_abu_hamza_thumali",
+      "start": 662.562,
+      "end": 665.535
+    },
+    {
+      "id": 245,
+      "section": "dua_abu_hamza_thumali",
+      "start": 665.885,
+      "end": 667.79
+    },
+    {
+      "id": 246,
+      "section": "dua_abu_hamza_thumali",
+      "start": 668.14,
+      "end": 670.763
+    },
+    {
+      "id": 247,
+      "section": "dua_abu_hamza_thumali",
+      "start": 671.113,
+      "end": 673.37
+    },
+    {
+      "id": 248,
+      "section": "dua_abu_hamza_thumali",
+      "start": 673.72,
+      "end": 675.216
+    },
+    {
+      "id": 249,
+      "section": "dua_abu_hamza_thumali",
+      "start": 675.566,
+      "end": 677.25
+    },
+    {
+      "id": 250,
+      "section": "dua_abu_hamza_thumali",
+      "start": 677.6,
+      "end": 678.865
+    },
+    {
+      "id": 251,
+      "section": "dua_abu_hamza_thumali",
+      "start": 679.215,
+      "end": 680.473
+    },
+    {
+      "id": 252,
+      "section": "dua_abu_hamza_thumali",
+      "start": 680.823,
+      "end": 683.412
+    },
+    {
+      "id": 253,
+      "section": "dua_abu_hamza_thumali",
+      "start": 683.762,
+      "end": 685.213
+    },
+    {
+      "id": 254,
+      "section": "dua_abu_hamza_thumali",
+      "start": 685.563,
+      "end": 687.513
+    },
+    {
+      "id": 255,
+      "section": "dua_abu_hamza_thumali",
+      "start": 687.863,
+      "end": 691.447
+    },
+    {
+      "id": 256,
+      "section": "dua_abu_hamza_thumali",
+      "start": 691.797,
+      "end": 693.561
+    },
+    {
+      "id": 257,
+      "section": "dua_abu_hamza_thumali",
+      "start": 693.911,
+      "end": 697.789
+    },
+    {
+      "id": 258,
+      "section": "dua_abu_hamza_thumali",
+      "start": 698.139,
+      "end": 701.378
+    },
+    {
+      "id": 259,
+      "section": "dua_abu_hamza_thumali",
+      "start": 701.728,
+      "end": 703.952
+    },
+    {
+      "id": 260,
+      "section": "dua_abu_hamza_thumali",
+      "start": 704.302,
+      "end": 707.042
+    },
+    {
+      "id": 261,
+      "section": "dua_abu_hamza_thumali",
+      "start": 707.392,
+      "end": 710.703
+    },
+    {
+      "id": 262,
+      "section": "dua_abu_hamza_thumali",
+      "start": 711.053,
+      "end": 713.101
+    },
+    {
+      "id": 263,
+      "section": "dua_abu_hamza_thumali",
+      "start": 713.451,
+      "end": 715.343
+    },
+    {
+      "id": 264,
+      "section": "dua_abu_hamza_thumali",
+      "start": 715.693,
+      "end": 717.736
+    },
+    {
+      "id": 265,
+      "section": "dua_abu_hamza_thumali",
+      "start": 718.086,
+      "end": 720.503
+    },
+    {
+      "id": 266,
+      "section": "dua_abu_hamza_thumali",
+      "start": 720.853,
+      "end": 722.386
+    },
+    {
+      "id": 267,
+      "section": "dua_abu_hamza_thumali",
+      "start": 722.736,
+      "end": 727.066
+    },
+    {
+      "id": 268,
+      "section": "dua_abu_hamza_thumali",
+      "start": 727.416,
+      "end": 730.74
+    },
+    {
+      "id": 269,
+      "section": "dua_abu_hamza_thumali",
+      "start": 731.09,
+      "end": 732.646
+    },
+    {
+      "id": 270,
+      "section": "dua_abu_hamza_thumali",
+      "start": 732.996,
+      "end": 736.26
+    },
+    {
+      "id": 271,
+      "section": "dua_abu_hamza_thumali",
+      "start": 736.61,
+      "end": 739.036
+    },
+    {
+      "id": 272,
+      "section": "dua_abu_hamza_thumali",
+      "start": 739.386,
+      "end": 742.556
+    },
+    {
+      "id": 273,
+      "section": "dua_abu_hamza_thumali",
+      "start": 742.906,
+      "end": 744.067
+    },
+    {
+      "id": 274,
+      "section": "dua_abu_hamza_thumali",
+      "start": 744.417,
+      "end": 747.504
+    },
+    {
+      "id": 275,
+      "section": "dua_abu_hamza_thumali",
+      "start": 747.854,
+      "end": 750.234
+    },
+    {
+      "id": 276,
+      "section": "dua_abu_hamza_thumali",
+      "start": 750.584,
+      "end": 752.952
+    },
+    {
+      "id": 277,
+      "section": "dua_abu_hamza_thumali",
+      "start": 753.302,
+      "end": 756.553
+    },
+    {
+      "id": 278,
+      "section": "dua_abu_hamza_thumali",
+      "start": 756.903,
+      "end": 760.154
+    },
+    {
+      "id": 279,
+      "section": "dua_abu_hamza_thumali",
+      "start": 760.504,
+      "end": 763.638
+    },
+    {
+      "id": 280,
+      "section": "dua_abu_hamza_thumali",
+      "start": 763.988,
+      "end": 768.203
+    },
+    {
+      "id": 281,
+      "section": "dua_abu_hamza_thumali",
+      "start": 768.553,
+      "end": 771.601
+    },
+    {
+      "id": 282,
+      "section": "dua_abu_hamza_thumali",
+      "start": 771.951,
+      "end": 773.611
+    },
+    {
+      "id": 283,
+      "section": "dua_abu_hamza_thumali",
+      "start": 773.961,
+      "end": 777.193
+    },
+    {
+      "id": 284,
+      "section": "dua_abu_hamza_thumali",
+      "start": 777.543,
+      "end": 780.604
+    },
+    {
+      "id": 285,
+      "section": "dua_abu_hamza_thumali",
+      "start": 780.954,
+      "end": 784.557
+    },
+    {
+      "id": 286,
+      "section": "dua_abu_hamza_thumali",
+      "start": 784.907,
+      "end": 788.547
+    },
+    {
+      "id": 287,
+      "section": "dua_abu_hamza_thumali",
+      "start": 788.897,
+      "end": 793.091
+    },
+    {
+      "id": 288,
+      "section": "dua_abu_hamza_thumali",
+      "start": 793.441,
+      "end": 797.091
+    },
+    {
+      "id": 289,
+      "section": "dua_abu_hamza_thumali",
+      "start": 797.441,
+      "end": 801.841
+    },
+    {
+      "id": 290,
+      "section": "dua_abu_hamza_thumali",
+      "start": 802.191,
+      "end": 805.968
+    },
+    {
+      "id": 291,
+      "section": "dua_abu_hamza_thumali",
+      "start": 806.318,
+      "end": 808.953
+    },
+    {
+      "id": 292,
+      "section": "dua_abu_hamza_thumali",
+      "start": 809.303,
+      "end": 812.763
+    },
+    {
+      "id": 293,
+      "section": "dua_abu_hamza_thumali",
+      "start": 813.113,
+      "end": 816.761
+    },
+    {
+      "id": 294,
+      "section": "dua_abu_hamza_thumali",
+      "start": 817.111,
+      "end": 820.743
+    },
+    {
+      "id": 295,
+      "section": "dua_abu_hamza_thumali",
+      "start": 821.093,
+      "end": 823.746
+    },
+    {
+      "id": 296,
+      "section": "dua_abu_hamza_thumali",
+      "start": 824.096,
+      "end": 828.333
+    },
+    {
+      "id": 297,
+      "section": "dua_abu_hamza_thumali",
+      "start": 828.683,
+      "end": 830.93
+    },
+    {
+      "id": 298,
+      "section": "dua_abu_hamza_thumali",
+      "start": 831.28,
+      "end": 834.253
+    },
+    {
+      "id": 299,
+      "section": "dua_abu_hamza_thumali",
+      "start": 834.603,
+      "end": 836.692
+    },
+    {
+      "id": 300,
+      "section": "dua_abu_hamza_thumali",
+      "start": 837.042,
+      "end": 840.292
+    },
+    {
+      "id": 301,
+      "section": "dua_abu_hamza_thumali",
+      "start": 840.642,
+      "end": 842.573
+    },
+    {
+      "id": 302,
+      "section": "dua_abu_hamza_thumali",
+      "start": 842.923,
+      "end": 844.978
+    },
+    {
+      "id": 303,
+      "section": "dua_abu_hamza_thumali",
+      "start": 845.328,
+      "end": 846.756
+    },
+    {
+      "id": 304,
+      "section": "dua_abu_hamza_thumali",
+      "start": 847.106,
+      "end": 849.614
+    },
+    {
+      "id": 305,
+      "section": "dua_abu_hamza_thumali",
+      "start": 849.964,
+      "end": 852.531
+    },
+    {
+      "id": 306,
+      "section": "dua_abu_hamza_thumali",
+      "start": 852.881,
+      "end": 854.902
+    },
+    {
+      "id": 307,
+      "section": "dua_abu_hamza_thumali",
+      "start": 855.252,
+      "end": 857.469
+    },
+    {
+      "id": 308,
+      "section": "dua_abu_hamza_thumali",
+      "start": 857.819,
+      "end": 860.071
+    },
+    {
+      "id": 309,
+      "section": "dua_abu_hamza_thumali",
+      "start": 860.421,
+      "end": 862.627
+    },
+    {
+      "id": 310,
+      "section": "dua_abu_hamza_thumali",
+      "start": 862.977,
+      "end": 864.414
+    },
+    {
+      "id": 311,
+      "section": "dua_abu_hamza_thumali",
+      "start": 864.764,
+      "end": 866.563
+    },
+    {
+      "id": 312,
+      "section": "dua_abu_hamza_thumali",
+      "start": 866.913,
+      "end": 868.469
+    },
+    {
+      "id": 313,
+      "section": "dua_abu_hamza_thumali",
+      "start": 868.819,
+      "end": 870.514
+    },
+    {
+      "id": 314,
+      "section": "dua_abu_hamza_thumali",
+      "start": 870.864,
+      "end": 872.582
+    },
+    {
+      "id": 315,
+      "section": "dua_abu_hamza_thumali",
+      "start": 872.932,
+      "end": 874.557
+    },
+    {
+      "id": 316,
+      "section": "dua_abu_hamza_thumali",
+      "start": 874.907,
+      "end": 876.475
+    },
+    {
+      "id": 317,
+      "section": "dua_abu_hamza_thumali",
+      "start": 876.825,
+      "end": 878.589
+    },
+    {
+      "id": 318,
+      "section": "dua_abu_hamza_thumali",
+      "start": 878.939,
+      "end": 881.076
+    },
+    {
+      "id": 319,
+      "section": "dua_abu_hamza_thumali",
+      "start": 881.426,
+      "end": 883.422
+    },
+    {
+      "id": 320,
+      "section": "dua_abu_hamza_thumali",
+      "start": 883.772,
+      "end": 885.677
+    },
+    {
+      "id": 321,
+      "section": "dua_abu_hamza_thumali",
+      "start": 886.027,
+      "end": 887.505
+    },
+    {
+      "id": 322,
+      "section": "dua_abu_hamza_thumali",
+      "start": 887.855,
+      "end": 890.061
+    },
+    {
+      "id": 323,
+      "section": "dua_abu_hamza_thumali",
+      "start": 890.411,
+      "end": 893.472
+    },
+    {
+      "id": 324,
+      "section": "dua_abu_hamza_thumali",
+      "start": 893.822,
+      "end": 895.657
+    },
+    {
+      "id": 325,
+      "section": "dua_abu_hamza_thumali",
+      "start": 896.007,
+      "end": 898.201
+    },
+    {
+      "id": 326,
+      "section": "dua_abu_hamza_thumali",
+      "start": 898.551,
+      "end": 900.908
+    },
+    {
+      "id": 327,
+      "section": "dua_abu_hamza_thumali",
+      "start": 901.258,
+      "end": 904.067
+    },
+    {
+      "id": 328,
+      "section": "dua_abu_hamza_thumali",
+      "start": 904.417,
+      "end": 907.39
+    },
+    {
+      "id": 329,
+      "section": "dua_abu_hamza_thumali",
+      "start": 907.74,
+      "end": 911.995
+    },
+    {
+      "id": 330,
+      "section": "dua_abu_hamza_thumali",
+      "start": 912.345,
+      "end": 915.383
+    },
+    {
+      "id": 331,
+      "section": "dua_abu_hamza_thumali",
+      "start": 915.733,
+      "end": 918.171
+    },
+    {
+      "id": 332,
+      "section": "dua_abu_hamza_thumali",
+      "start": 918.521,
+      "end": 920.774
+    },
+    {
+      "id": 333,
+      "section": "dua_abu_hamza_thumali",
+      "start": 921.124,
+      "end": 923.701
+    },
+    {
+      "id": 334,
+      "section": "dua_abu_hamza_thumali",
+      "start": 924.051,
+      "end": 926.164
+    },
+    {
+      "id": 335,
+      "section": "dua_abu_hamza_thumali",
+      "start": 926.514,
+      "end": 929.939
+    },
+    {
+      "id": 336,
+      "section": "dua_abu_hamza_thumali",
+      "start": 930.289,
+      "end": 934.097
+    },
+    {
+      "id": 337,
+      "section": "dua_abu_hamza_thumali",
+      "start": 934.447,
+      "end": 938.262
+    },
+    {
+      "id": 338,
+      "section": "dua_abu_hamza_thumali",
+      "start": 938.612,
+      "end": 940.156
+    },
+    {
+      "id": 339,
+      "section": "dua_abu_hamza_thumali",
+      "start": 940.506,
+      "end": 942.586
+    },
+    {
+      "id": 340,
+      "section": "dua_abu_hamza_thumali",
+      "start": 942.936,
+      "end": 944.362
+    },
+    {
+      "id": 341,
+      "section": "dua_abu_hamza_thumali",
+      "start": 944.712,
+      "end": 947.443
+    },
+    {
+      "id": 342,
+      "section": "dua_abu_hamza_thumali",
+      "start": 947.793,
+      "end": 949.709
+    },
+    {
+      "id": 343,
+      "section": "dua_abu_hamza_thumali",
+      "start": 950.059,
+      "end": 951.712
+    },
+    {
+      "id": 344,
+      "section": "dua_abu_hamza_thumali",
+      "start": 952.062,
+      "end": 954.454
+    },
+    {
+      "id": 345,
+      "section": "dua_abu_hamza_thumali",
+      "start": 954.804,
+      "end": 957.451
+    },
+    {
+      "id": 346,
+      "section": "dua_abu_hamza_thumali",
+      "start": 957.801,
+      "end": 959.876
+    },
+    {
+      "id": 347,
+      "section": "dua_abu_hamza_thumali",
+      "start": 960.226,
+      "end": 963.535
+    },
+    {
+      "id": 348,
+      "section": "dua_abu_hamza_thumali",
+      "start": 963.885,
+      "end": 966.52
+    },
+    {
+      "id": 349,
+      "section": "dua_abu_hamza_thumali",
+      "start": 966.87,
+      "end": 970.143
+    },
+    {
+      "id": 350,
+      "section": "dua_abu_hamza_thumali",
+      "start": 970.493,
+      "end": 973.546
+    },
+    {
+      "id": 351,
+      "section": "dua_abu_hamza_thumali",
+      "start": 973.896,
+      "end": 978.265
+    },
+    {
+      "id": 352,
+      "section": "dua_abu_hamza_thumali",
+      "start": 978.615,
+      "end": 980.844
+    },
+    {
+      "id": 353,
+      "section": "dua_abu_hamza_thumali",
+      "start": 981.194,
+      "end": 983.823
+    },
+    {
+      "id": 354,
+      "section": "dua_abu_hamza_thumali",
+      "start": 984.173,
+      "end": 986.964
+    },
+    {
+      "id": 355,
+      "section": "dua_abu_hamza_thumali",
+      "start": 987.314,
+      "end": 989.88
+    },
+    {
+      "id": 356,
+      "section": "dua_abu_hamza_thumali",
+      "start": 990.23,
+      "end": 992.087
+    },
+    {
+      "id": 357,
+      "section": "dua_abu_hamza_thumali",
+      "start": 992.437,
+      "end": 993.979
+    },
+    {
+      "id": 358,
+      "section": "dua_abu_hamza_thumali",
+      "start": 994.329,
+      "end": 995.71
+    },
+    {
+      "id": 359,
+      "section": "dua_abu_hamza_thumali",
+      "start": 996.06,
+      "end": 997.278
+    },
+    {
+      "id": 360,
+      "section": "dua_abu_hamza_thumali",
+      "start": 997.628,
+      "end": 998.881
+    },
+    {
+      "id": 361,
+      "section": "dua_abu_hamza_thumali",
+      "start": 999.231,
+      "end": 1001.812
+    },
+    {
+      "id": 362,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1002.162,
+      "end": 1005.54
+    },
+    {
+      "id": 363,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1005.89,
+      "end": 1008.909
+    },
+    {
+      "id": 364,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1009.259,
+      "end": 1010.931
+    },
+    {
+      "id": 365,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1011.281,
+      "end": 1014.764
+    },
+    {
+      "id": 366,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1015.114,
+      "end": 1016.86
+    },
+    {
+      "id": 367,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1017.21,
+      "end": 1019.369
+    },
+    {
+      "id": 368,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1019.719,
+      "end": 1022.982
+    },
+    {
+      "id": 369,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1023.332,
+      "end": 1024.946
+    },
+    {
+      "id": 370,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1025.296,
+      "end": 1026.785
+    },
+    {
+      "id": 371,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1027.135,
+      "end": 1030.006
+    },
+    {
+      "id": 372,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1030.356,
+      "end": 1032.156
+    },
+    {
+      "id": 373,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1032.506,
+      "end": 1037.278
+    },
+    {
+      "id": 374,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1037.628,
+      "end": 1040.112
+    },
+    {
+      "id": 375,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1040.462,
+      "end": 1044.096
+    },
+    {
+      "id": 376,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1044.446,
+      "end": 1046.585
+    },
+    {
+      "id": 377,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1046.935,
+      "end": 1049.872
+    },
+    {
+      "id": 378,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1050.222,
+      "end": 1053.194
+    },
+    {
+      "id": 379,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1053.544,
+      "end": 1054.949
+    },
+    {
+      "id": 380,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1055.299,
+      "end": 1056.959
+    },
+    {
+      "id": 381,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1057.309,
+      "end": 1059.015
+    },
+    {
+      "id": 382,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1059.365,
+      "end": 1061.258
+    },
+    {
+      "id": 383,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1061.608,
+      "end": 1063.419
+    },
+    {
+      "id": 384,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1063.769,
+      "end": 1065.546
+    },
+    {
+      "id": 385,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1065.896,
+      "end": 1068.299
+    },
+    {
+      "id": 386,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1068.649,
+      "end": 1071.497
+    },
+    {
+      "id": 387,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1071.847,
+      "end": 1074.633
+    },
+    {
+      "id": 388,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1074.983,
+      "end": 1077.863
+    },
+    {
+      "id": 389,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1078.213,
+      "end": 1080.7
+    },
+    {
+      "id": 390,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1081.05,
+      "end": 1083.523
+    },
+    {
+      "id": 391,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1083.873,
+      "end": 1086.74
+    },
+    {
+      "id": 392,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1087.09,
+      "end": 1090.248
+    },
+    {
+      "id": 393,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1090.598,
+      "end": 1092.432
+    },
+    {
+      "id": 394,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1092.782,
+      "end": 1095.116
+    },
+    {
+      "id": 395,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1095.466,
+      "end": 1097.869
+    },
+    {
+      "id": 396,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1098.219,
+      "end": 1101.133
+    },
+    {
+      "id": 397,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1101.483,
+      "end": 1102.807
+    },
+    {
+      "id": 398,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1103.157,
+      "end": 1105.154
+    },
+    {
+      "id": 399,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1105.504,
+      "end": 1107.663
+    },
+    {
+      "id": 400,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1108.013,
+      "end": 1109.557
+    },
+    {
+      "id": 401,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1109.907,
+      "end": 1112.194
+    },
+    {
+      "id": 402,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1112.544,
+      "end": 1113.775
+    },
+    {
+      "id": 403,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1114.125,
+      "end": 1115.901
+    },
+    {
+      "id": 404,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1116.251,
+      "end": 1117.884
+    },
+    {
+      "id": 405,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1118.234,
+      "end": 1119.987
+    },
+    {
+      "id": 406,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1120.337,
+      "end": 1123.019
+    },
+    {
+      "id": 407,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1123.369,
+      "end": 1126.422
+    },
+    {
+      "id": 408,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1126.772,
+      "end": 1128.572
+    },
+    {
+      "id": 409,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1128.922,
+      "end": 1131.25
+    },
+    {
+      "id": 410,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1131.6,
+      "end": 1134.375
+    },
+    {
+      "id": 411,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1134.725,
+      "end": 1137.627
+    },
+    {
+      "id": 412,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1137.977,
+      "end": 1140.829
+    },
+    {
+      "id": 413,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1141.179,
+      "end": 1145.473
+    },
+    {
+      "id": 414,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1145.823,
+      "end": 1148.776
+    },
+    {
+      "id": 415,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1149.126,
+      "end": 1150.972
+    },
+    {
+      "id": 416,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1151.322,
+      "end": 1152.947
+    },
+    {
+      "id": 417,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1153.297,
+      "end": 1155.619
+    },
+    {
+      "id": 418,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1155.969,
+      "end": 1158.372
+    },
+    {
+      "id": 419,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1158.722,
+      "end": 1162.01
+    },
+    {
+      "id": 420,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1162.36,
+      "end": 1164.868
+    },
+    {
+      "id": 421,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1165.218,
+      "end": 1167.436
+    },
+    {
+      "id": 422,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1167.786,
+      "end": 1170.827
+    },
+    {
+      "id": 423,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1171.177,
+      "end": 1174.659
+    },
+    {
+      "id": 424,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1175.009,
+      "end": 1178.735
+    },
+    {
+      "id": 425,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1179.085,
+      "end": 1181.8
+    },
+    {
+      "id": 426,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1182.15,
+      "end": 1185.133
+    },
+    {
+      "id": 427,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1185.483,
+      "end": 1187.666
+    },
+    {
+      "id": 428,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1188.016,
+      "end": 1189.27
+    },
+    {
+      "id": 429,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1189.62,
+      "end": 1191.315
+    },
+    {
+      "id": 430,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1191.665,
+      "end": 1193.453
+    },
+    {
+      "id": 431,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1193.803,
+      "end": 1197.121
+    },
+    {
+      "id": 432,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1197.471,
+      "end": 1200.257
+    },
+    {
+      "id": 433,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1200.607,
+      "end": 1202.918
+    },
+    {
+      "id": 434,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1203.268,
+      "end": 1205.241
+    },
+    {
+      "id": 435,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1205.591,
+      "end": 1207.329
+    },
+    {
+      "id": 436,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1207.679,
+      "end": 1210.767
+    },
+    {
+      "id": 437,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1211.117,
+      "end": 1213.909
+    },
+    {
+      "id": 438,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1214.259,
+      "end": 1217.034
+    },
+    {
+      "id": 439,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1217.384,
+      "end": 1220.226
+    },
+    {
+      "id": 440,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1220.576,
+      "end": 1224.21
+    },
+    {
+      "id": 441,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1224.56,
+      "end": 1226.836
+    },
+    {
+      "id": 442,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1227.186,
+      "end": 1228.475
+    },
+    {
+      "id": 443,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1228.825,
+      "end": 1232.563
+    },
+    {
+      "id": 444,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1232.913,
+      "end": 1235.913
+    },
+    {
+      "id": 445,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1236.263,
+      "end": 1239.27
+    },
+    {
+      "id": 446,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1239.62,
+      "end": 1241.408
+    },
+    {
+      "id": 447,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1241.758,
+      "end": 1243.334
+    },
+    {
+      "id": 448,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1243.684,
+      "end": 1246.579
+    },
+    {
+      "id": 449,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1246.929,
+      "end": 1248.728
+    },
+    {
+      "id": 450,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1249.078,
+      "end": 1251.319
+    },
+    {
+      "id": 451,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1251.669,
+      "end": 1255.403
+    },
+    {
+      "id": 452,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1255.753,
+      "end": 1257.935
+    },
+    {
+      "id": 453,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1258.285,
+      "end": 1260.77
+    },
+    {
+      "id": 454,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1261.12,
+      "end": 1262.536
+    },
+    {
+      "id": 455,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1262.886,
+      "end": 1264.895
+    },
+    {
+      "id": 456,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1265.245,
+      "end": 1268.351
+    },
+    {
+      "id": 457,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1268.701,
+      "end": 1270.129
+    },
+    {
+      "id": 458,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1270.479,
+      "end": 1272.174
+    },
+    {
+      "id": 459,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1272.524,
+      "end": 1274.986
+    },
+    {
+      "id": 460,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1275.336,
+      "end": 1277.913
+    },
+    {
+      "id": 461,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1278.263,
+      "end": 1281.474
+    },
+    {
+      "id": 462,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1281.824,
+      "end": 1283.937
+    },
+    {
+      "id": 463,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1284.287,
+      "end": 1286.702
+    },
+    {
+      "id": 464,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1287.052,
+      "end": 1289.618
+    },
+    {
+      "id": 465,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1289.968,
+      "end": 1292.952
+    },
+    {
+      "id": 466,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1293.302,
+      "end": 1295.415
+    },
+    {
+      "id": 467,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1295.765,
+      "end": 1298.759
+    },
+    {
+      "id": 468,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1299.109,
+      "end": 1302.353
+    },
+    {
+      "id": 469,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1302.703,
+      "end": 1305.972
+    },
+    {
+      "id": 470,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1306.322,
+      "end": 1307.669
+    },
+    {
+      "id": 471,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1308.019,
+      "end": 1310.05
+    },
+    {
+      "id": 472,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1310.4,
+      "end": 1312.212
+    },
+    {
+      "id": 473,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1312.562,
+      "end": 1316.176
+    },
+    {
+      "id": 474,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1316.526,
+      "end": 1320.021
+    },
+    {
+      "id": 475,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1320.371,
+      "end": 1323.976
+    },
+    {
+      "id": 476,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1324.326,
+      "end": 1327.122
+    },
+    {
+      "id": 477,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1327.472,
+      "end": 1329.945
+    },
+    {
+      "id": 478,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1330.295,
+      "end": 1331.869
+    },
+    {
+      "id": 479,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1332.219,
+      "end": 1334.135
+    },
+    {
+      "id": 480,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1334.485,
+      "end": 1336.238
+    },
+    {
+      "id": 481,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1336.588,
+      "end": 1340.316
+    },
+    {
+      "id": 482,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1340.666,
+      "end": 1343.626
+    },
+    {
+      "id": 483,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1343.976,
+      "end": 1346.53
+    },
+    {
+      "id": 484,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1346.88,
+      "end": 1351.339
+    },
+    {
+      "id": 485,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1351.689,
+      "end": 1356.692
+    },
+    {
+      "id": 486,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1357.042,
+      "end": 1361.129
+    },
+    {
+      "id": 487,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1361.479,
+      "end": 1365.682
+    },
+    {
+      "id": 488,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1366.032,
+      "end": 1370.328
+    },
+    {
+      "id": 489,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1370.678,
+      "end": 1373.804
+    },
+    {
+      "id": 490,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1374.154,
+      "end": 1377.475
+    },
+    {
+      "id": 491,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1377.825,
+      "end": 1380.901
+    },
+    {
+      "id": 492,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1381.251,
+      "end": 1384.154
+    },
+    {
+      "id": 493,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1384.504,
+      "end": 1385.914
+    },
+    {
+      "id": 494,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1386.264,
+      "end": 1389.225
+    },
+    {
+      "id": 495,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1389.575,
+      "end": 1393.209
+    },
+    {
+      "id": 496,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1393.559,
+      "end": 1396.6
+    },
+    {
+      "id": 497,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1396.95,
+      "end": 1399.622
+    },
+    {
+      "id": 498,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1399.972,
+      "end": 1401.497
+    },
+    {
+      "id": 499,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1401.847,
+      "end": 1403.24
+    },
+    {
+      "id": 500,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1403.59,
+      "end": 1406.899
+    },
+    {
+      "id": 501,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1407.249,
+      "end": 1409.86
+    },
+    {
+      "id": 502,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1410.21,
+      "end": 1412.846
+    },
+    {
+      "id": 503,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1413.196,
+      "end": 1416.795
+    },
+    {
+      "id": 504,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1417.145,
+      "end": 1419.943
+    },
+    {
+      "id": 505,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1420.293,
+      "end": 1422.638
+    },
+    {
+      "id": 506,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1422.988,
+      "end": 1424.277
+    },
+    {
+      "id": 507,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1424.627,
+      "end": 1426.113
+    },
+    {
+      "id": 508,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1426.463,
+      "end": 1430.562
+    },
+    {
+      "id": 509,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1430.912,
+      "end": 1432.793
+    },
+    {
+      "id": 510,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1433.143,
+      "end": 1438.532
+    },
+    {
+      "id": 511,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1438.882,
+      "end": 1441.408
+    },
+    {
+      "id": 512,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1441.758,
+      "end": 1445.892
+    },
+    {
+      "id": 513,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1446.242,
+      "end": 1448.599
+    },
+    {
+      "id": 514,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1448.949,
+      "end": 1451.248
+    },
+    {
+      "id": 515,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1451.598,
+      "end": 1455.14
+    },
+    {
+      "id": 516,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1455.49,
+      "end": 1459.757
+    },
+    {
+      "id": 517,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1460.107,
+      "end": 1462.738
+    },
+    {
+      "id": 518,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1463.088,
+      "end": 1464.98
+    },
+    {
+      "id": 519,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1465.33,
+      "end": 1467.385
+    },
+    {
+      "id": 520,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1467.735,
+      "end": 1470.279
+    },
+    {
+      "id": 521,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1470.629,
+      "end": 1471.639
+    },
+    {
+      "id": 522,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1471.989,
+      "end": 1473.231
+    },
+    {
+      "id": 523,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1473.581,
+      "end": 1474.649
+    },
+    {
+      "id": 524,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1474.999,
+      "end": 1477.222
+    },
+    {
+      "id": 525,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1477.572,
+      "end": 1479.72
+    },
+    {
+      "id": 526,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1480.07,
+      "end": 1483.77
+    },
+    {
+      "id": 527,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1484.12,
+      "end": 1485.624
+    },
+    {
+      "id": 528,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1485.974,
+      "end": 1487.604
+    },
+    {
+      "id": 529,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1487.954,
+      "end": 1490.589
+    },
+    {
+      "id": 530,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1490.939,
+      "end": 1492.855
+    },
+    {
+      "id": 531,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1493.205,
+      "end": 1495.678
+    },
+    {
+      "id": 532,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1496.028,
+      "end": 1497.423
+    },
+    {
+      "id": 533,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1497.773,
+      "end": 1499.283
+    },
+    {
+      "id": 534,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1499.633,
+      "end": 1501.78
+    },
+    {
+      "id": 535,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1502.13,
+      "end": 1504.696
+    },
+    {
+      "id": 536,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1505.046,
+      "end": 1506.927
+    },
+    {
+      "id": 537,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1507.277,
+      "end": 1510.291
+    },
+    {
+      "id": 538,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1510.641,
+      "end": 1513.361
+    },
+    {
+      "id": 539,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1513.711,
+      "end": 1515.986
+    },
+    {
+      "id": 540,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1516.336,
+      "end": 1517.79
+    },
+    {
+      "id": 541,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1518.14,
+      "end": 1520.219
+    },
+    {
+      "id": 542,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1520.569,
+      "end": 1524.118
+    },
+    {
+      "id": 543,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1524.468,
+      "end": 1527.161
+    },
+    {
+      "id": 544,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1527.511,
+      "end": 1529.636
+    },
+    {
+      "id": 545,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1529.986,
+      "end": 1532.168
+    },
+    {
+      "id": 546,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1532.518,
+      "end": 1534.376
+    },
+    {
+      "id": 547,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1534.726,
+      "end": 1537.234
+    },
+    {
+      "id": 548,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1537.584,
+      "end": 1539.794
+    },
+    {
+      "id": 549,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1540.144,
+      "end": 1541.793
+    },
+    {
+      "id": 550,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1542.143,
+      "end": 1544.799
+    },
+    {
+      "id": 551,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1545.149,
+      "end": 1547.413
+    },
+    {
+      "id": 552,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1547.763,
+      "end": 1548.889
+    },
+    {
+      "id": 553,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1549.239,
+      "end": 1550.609
+    },
+    {
+      "id": 554,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1550.959,
+      "end": 1552.329
+    },
+    {
+      "id": 555,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1552.679,
+      "end": 1556.081
+    },
+    {
+      "id": 556,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1556.431,
+      "end": 1560.42
+    },
+    {
+      "id": 557,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1560.77,
+      "end": 1563.568
+    },
+    {
+      "id": 558,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1563.918,
+      "end": 1567.587
+    },
+    {
+      "id": 559,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1567.937,
+      "end": 1569.237
+    },
+    {
+      "id": 560,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1569.587,
+      "end": 1572.455
+    },
+    {
+      "id": 561,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1572.805,
+      "end": 1574.337
+    },
+    {
+      "id": 562,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1574.687,
+      "end": 1576.103
+    },
+    {
+      "id": 563,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1576.453,
+      "end": 1578.241
+    },
+    {
+      "id": 564,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1578.591,
+      "end": 1579.892
+    },
+    {
+      "id": 565,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1580.242,
+      "end": 1583.887
+    },
+    {
+      "id": 566,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1584.237,
+      "end": 1587.14
+    },
+    {
+      "id": 567,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1587.49,
+      "end": 1590.414
+    },
+    {
+      "id": 568,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1590.764,
+      "end": 1594.873
+    },
+    {
+      "id": 569,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1595.223,
+      "end": 1600.645
+    },
+    {
+      "id": 570,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1600.995,
+      "end": 1602.365
+    },
+    {
+      "id": 571,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1602.715,
+      "end": 1604.875
+    },
+    {
+      "id": 572,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1605.225,
+      "end": 1608.302
+    },
+    {
+      "id": 573,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1608.652,
+      "end": 1612.262
+    },
+    {
+      "id": 574,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1612.612,
+      "end": 1614.807
+    },
+    {
+      "id": 575,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1615.157,
+      "end": 1616.689
+    },
+    {
+      "id": 576,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1617.039,
+      "end": 1618.746
+    },
+    {
+      "id": 577,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1619.096,
+      "end": 1621.0
+    },
+    {
+      "id": 578,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1621.35,
+      "end": 1623.323
+    },
+    {
+      "id": 579,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1623.673,
+      "end": 1625.81
+    },
+    {
+      "id": 580,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1626.16,
+      "end": 1629.294
+    },
+    {
+      "id": 581,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1629.644,
+      "end": 1632.86
+    },
+    {
+      "id": 582,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1633.21,
+      "end": 1635.523
+    },
+    {
+      "id": 583,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1635.873,
+      "end": 1641.296
+    },
+    {
+      "id": 584,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1641.646,
+      "end": 1644.389
+    },
+    {
+      "id": 585,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1644.739,
+      "end": 1647.982
+    },
+    {
+      "id": 586,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1648.332,
+      "end": 1652.292
+    },
+    {
+      "id": 587,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1652.642,
+      "end": 1656.653
+    },
+    {
+      "id": 588,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1657.003,
+      "end": 1661.181
+    },
+    {
+      "id": 589,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1661.531,
+      "end": 1663.238
+    },
+    {
+      "id": 590,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1663.588,
+      "end": 1665.805
+    },
+    {
+      "id": 591,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1666.155,
+      "end": 1668.129
+    },
+    {
+      "id": 592,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1668.479,
+      "end": 1671.771
+    },
+    {
+      "id": 593,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1672.121,
+      "end": 1675.408
+    },
+    {
+      "id": 594,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1675.758,
+      "end": 1680.355
+    },
+    {
+      "id": 595,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1680.705,
+      "end": 1683.361
+    },
+    {
+      "id": 596,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1683.711,
+      "end": 1684.779
+    },
+    {
+      "id": 597,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1685.129,
+      "end": 1686.58
+    },
+    {
+      "id": 598,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1686.93,
+      "end": 1688.033
+    },
+    {
+      "id": 599,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1688.383,
+      "end": 1689.452
+    },
+    {
+      "id": 600,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1689.802,
+      "end": 1691.067
+    },
+    {
+      "id": 601,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1691.417,
+      "end": 1694.603
+    },
+    {
+      "id": 602,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1694.953,
+      "end": 1696.055
+    },
+    {
+      "id": 603,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1696.405,
+      "end": 1699.134
+    },
+    {
+      "id": 604,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1699.484,
+      "end": 1702.094
+    },
+    {
+      "id": 605,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1702.444,
+      "end": 1706.414
+    },
+    {
+      "id": 606,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1706.764,
+      "end": 1710.792
+    },
+    {
+      "id": 607,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1711.142,
+      "end": 1713.267
+    },
+    {
+      "id": 608,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1713.617,
+      "end": 1716.276
+    },
+    {
+      "id": 609,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1716.626,
+      "end": 1719.354
+    },
+    {
+      "id": 610,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1719.704,
+      "end": 1724.082
+    },
+    {
+      "id": 611,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1724.432,
+      "end": 1725.57
+    },
+    {
+      "id": 612,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1725.92,
+      "end": 1729.105
+    },
+    {
+      "id": 613,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1729.455,
+      "end": 1732.276
+    },
+    {
+      "id": 614,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1732.626,
+      "end": 1735.133
+    },
+    {
+      "id": 615,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1735.483,
+      "end": 1737.852
+    },
+    {
+      "id": 616,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1738.202,
+      "end": 1742.353
+    },
+    {
+      "id": 617,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1742.703,
+      "end": 1744.525
+    },
+    {
+      "id": 618,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1744.875,
+      "end": 1747.279
+    },
+    {
+      "id": 619,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1747.629,
+      "end": 1749.487
+    },
+    {
+      "id": 620,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1749.837,
+      "end": 1751.602
+    },
+    {
+      "id": 621,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1751.952,
+      "end": 1753.728
+    },
+    {
+      "id": 622,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1754.078,
+      "end": 1756.667
+    },
+    {
+      "id": 623,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1757.017,
+      "end": 1758.7
+    },
+    {
+      "id": 624,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1759.05,
+      "end": 1761.013
+    },
+    {
+      "id": 625,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1761.363,
+      "end": 1764.927
+    },
+    {
+      "id": 626,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1765.277,
+      "end": 1767.309
+    },
+    {
+      "id": 627,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1767.659,
+      "end": 1770.822
+    },
+    {
+      "id": 628,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1771.172,
+      "end": 1773.617
+    },
+    {
+      "id": 629,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1773.967,
+      "end": 1776.898
+    },
+    {
+      "id": 630,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1777.248,
+      "end": 1779.303
+    },
+    {
+      "id": 631,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1779.653,
+      "end": 1784.109
+    },
+    {
+      "id": 632,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1784.459,
+      "end": 1787.57
+    },
+    {
+      "id": 633,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1787.92,
+      "end": 1789.662
+    },
+    {
+      "id": 634,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1790.012,
+      "end": 1791.753
+    },
+    {
+      "id": 635,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1792.103,
+      "end": 1793.624
+    },
+    {
+      "id": 636,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1793.974,
+      "end": 1795.751
+    },
+    {
+      "id": 637,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1796.101,
+      "end": 1800.137
+    },
+    {
+      "id": 638,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1800.487,
+      "end": 1803.5
+    },
+    {
+      "id": 639,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1803.85,
+      "end": 1805.928
+    },
+    {
+      "id": 640,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1806.278,
+      "end": 1808.672
+    },
+    {
+      "id": 641,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1809.022,
+      "end": 1811.808
+    },
+    {
+      "id": 642,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1812.158,
+      "end": 1814.712
+    },
+    {
+      "id": 643,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1815.062,
+      "end": 1817.012
+    },
+    {
+      "id": 644,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1817.362,
+      "end": 1819.499
+    },
+    {
+      "id": 645,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1819.849,
+      "end": 1821.513
+    },
+    {
+      "id": 646,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1821.863,
+      "end": 1823.488
+    },
+    {
+      "id": 647,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1823.838,
+      "end": 1824.941
+    },
+    {
+      "id": 648,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1825.291,
+      "end": 1826.522
+    },
+    {
+      "id": 649,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1826.872,
+      "end": 1828.625
+    },
+    {
+      "id": 650,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1828.975,
+      "end": 1830.681
+    },
+    {
+      "id": 651,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1831.031,
+      "end": 1832.494
+    },
+    {
+      "id": 652,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1832.844,
+      "end": 1836.072
+    },
+    {
+      "id": 653,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1836.422,
+      "end": 1840.412
+    },
+    {
+      "id": 654,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1840.762,
+      "end": 1843.422
+    },
+    {
+      "id": 655,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1843.772,
+      "end": 1847.463
+    },
+    {
+      "id": 656,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1847.813,
+      "end": 1852.006
+    },
+    {
+      "id": 657,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1852.356,
+      "end": 1855.619
+    },
+    {
+      "id": 658,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1855.969,
+      "end": 1860.57
+    },
+    {
+      "id": 659,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1860.92,
+      "end": 1864.263
+    },
+    {
+      "id": 660,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1864.613,
+      "end": 1867.23
+    },
+    {
+      "id": 661,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1867.58,
+      "end": 1869.391
+    },
+    {
+      "id": 662,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1869.741,
+      "end": 1871.356
+    },
+    {
+      "id": 663,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1871.706,
+      "end": 1872.751
+    },
+    {
+      "id": 664,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1873.101,
+      "end": 1875.527
+    },
+    {
+      "id": 665,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1875.877,
+      "end": 1878.153
+    },
+    {
+      "id": 666,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1878.503,
+      "end": 1880.767
+    },
+    {
+      "id": 667,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1881.117,
+      "end": 1882.545
+    },
+    {
+      "id": 668,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1882.895,
+      "end": 1885.135
+    },
+    {
+      "id": 669,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1885.485,
+      "end": 1888.109
+    },
+    {
+      "id": 670,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1888.459,
+      "end": 1890.519
+    },
+    {
+      "id": 671,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1890.869,
+      "end": 1893.798
+    },
+    {
+      "id": 672,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1894.148,
+      "end": 1898.385
+    },
+    {
+      "id": 673,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1898.735,
+      "end": 1901.289
+    },
+    {
+      "id": 674,
+      "section": "dua_abu_hamza_thumali",
+      "start": 1901.639,
+      "end": 1903.601
+    }
+  ]
+}

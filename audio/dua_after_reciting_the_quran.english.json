@@ -1,0 +1,51 @@
+{
+  "dua_id": "dua_after_reciting_the_quran",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 16.062,
+  "bytes": 73998,
+  "sha256": "61feae01284f3f4996ae1217beff53338bf08050ef9afc694f05b5d6c6aa1451",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_after_reciting_the_quran",
+      "start": 0.0,
+      "end": 2.41
+    },
+    {
+      "id": 2,
+      "section": "dua_after_reciting_the_quran",
+      "start": 2.76,
+      "end": 4.827
+    },
+    {
+      "id": 3,
+      "section": "dua_after_reciting_the_quran",
+      "start": 5.177,
+      "end": 7.36
+    },
+    {
+      "id": 4,
+      "section": "dua_after_reciting_the_quran",
+      "start": 7.71,
+      "end": 9.625
+    },
+    {
+      "id": 5,
+      "section": "dua_after_reciting_the_quran",
+      "start": 9.975,
+      "end": 12.646
+    },
+    {
+      "id": 6,
+      "section": "dua_after_reciting_the_quran",
+      "start": 12.996,
+      "end": 15.712
+    }
+  ]
+}

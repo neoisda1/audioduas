@@ -1,0 +1,111 @@
+{
+  "dua_id": "dua_saturday",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 73.962,
+  "bytes": 325641,
+  "sha256": "8d7396752b4952dafea8abec06118821c457f09268ff3b900493f7b7e6a23ac2",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_saturday",
+      "start": 0.0,
+      "end": 3.009
+    },
+    {
+      "id": 2,
+      "section": "dua_saturday",
+      "start": 3.359,
+      "end": 9.406
+    },
+    {
+      "id": 3,
+      "section": "dua_saturday",
+      "start": 9.756,
+      "end": 16.552
+    },
+    {
+      "id": 4,
+      "section": "dua_saturday",
+      "start": 16.902,
+      "end": 20.492
+    },
+    {
+      "id": 5,
+      "section": "dua_saturday",
+      "start": 20.842,
+      "end": 26.373
+    },
+    {
+      "id": 6,
+      "section": "dua_saturday",
+      "start": 26.723,
+      "end": 30.473
+    },
+    {
+      "id": 7,
+      "section": "dua_saturday",
+      "start": 30.823,
+      "end": 33.627
+    },
+    {
+      "id": 8,
+      "section": "dua_saturday",
+      "start": 33.977,
+      "end": 39.434
+    },
+    {
+      "id": 9,
+      "section": "dua_saturday",
+      "start": 39.784,
+      "end": 44.419
+    },
+    {
+      "id": 10,
+      "section": "dua_saturday",
+      "start": 44.769,
+      "end": 49.571
+    },
+    {
+      "id": 11,
+      "section": "dua_saturday",
+      "start": 49.921,
+      "end": 54.028
+    },
+    {
+      "id": 12,
+      "section": "dua_saturday",
+      "start": 54.378,
+      "end": 58.832
+    },
+    {
+      "id": 13,
+      "section": "dua_saturday",
+      "start": 59.182,
+      "end": 61.648
+    },
+    {
+      "id": 14,
+      "section": "dua_saturday",
+      "start": 61.998,
+      "end": 66.293
+    },
+    {
+      "id": 15,
+      "section": "dua_saturday",
+      "start": 66.643,
+      "end": 71.428
+    },
+    {
+      "id": 16,
+      "section": "dua_saturday",
+      "start": 71.778,
+      "end": 73.612
+    }
+  ]
+}

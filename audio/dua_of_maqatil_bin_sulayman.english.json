@@ -1,0 +1,63 @@
+{
+  "dua_id": "dua_of_maqatil_bin_sulayman",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 36.628,
+  "bytes": 159442,
+  "sha256": "7ed2b620945e492c9b58a44cb58fe2576a87bb46da2e43dbcc5f19e2feeadf97",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_of_maqatil_bin_sulayman",
+      "start": 0.0,
+      "end": 5.409
+    },
+    {
+      "id": 2,
+      "section": "dua_of_maqatil_bin_sulayman",
+      "start": 5.759,
+      "end": 9.738
+    },
+    {
+      "id": 3,
+      "section": "dua_of_maqatil_bin_sulayman",
+      "start": 10.088,
+      "end": 14.738
+    },
+    {
+      "id": 4,
+      "section": "dua_of_maqatil_bin_sulayman",
+      "start": 15.088,
+      "end": 20.113
+    },
+    {
+      "id": 5,
+      "section": "dua_of_maqatil_bin_sulayman",
+      "start": 20.463,
+      "end": 24.936
+    },
+    {
+      "id": 6,
+      "section": "dua_of_maqatil_bin_sulayman",
+      "start": 25.286,
+      "end": 28.49
+    },
+    {
+      "id": 7,
+      "section": "dua_of_maqatil_bin_sulayman",
+      "start": 28.84,
+      "end": 32.57
+    },
+    {
+      "id": 8,
+      "section": "dua_of_maqatil_bin_sulayman",
+      "start": 32.92,
+      "end": 36.278
+    }
+  ]
+}

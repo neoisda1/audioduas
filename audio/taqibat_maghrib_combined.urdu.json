@@ -1,0 +1,459 @@
+{
+  "dua_id": "taqibat_maghrib_combined",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 329.004,
+  "bytes": 1504982,
+  "sha256": "3eadfe9a0f25a494197590827f54af890c38197d1fb9debbda86a01990ee1c87",
+  "lines": [
+    {
+      "id": 1,
+      "section": "maghrib_blessings",
+      "start": 0.0,
+      "end": 3.238
+    },
+    {
+      "id": 2,
+      "section": "maghrib_blessings",
+      "start": 3.588,
+      "end": 7.64
+    },
+    {
+      "id": 3,
+      "section": "maghrib_blessings",
+      "start": 7.99,
+      "end": 11.612
+    },
+    {
+      "id": 4,
+      "section": "maghrib_blessings",
+      "start": 11.962,
+      "end": 14.493
+    },
+    {
+      "id": 1,
+      "section": "maghrib_silent_shield",
+      "start": 14.843,
+      "end": 18.28
+    },
+    {
+      "id": 2,
+      "section": "maghrib_silent_shield",
+      "start": 18.63,
+      "end": 24.236
+    },
+    {
+      "id": 1,
+      "section": "maghrib_praise_powerful",
+      "start": 24.586,
+      "end": 27.756
+    },
+    {
+      "id": 2,
+      "section": "maghrib_praise_powerful",
+      "start": 28.106,
+      "end": 31.078
+    },
+    {
+      "id": 1,
+      "section": "maghrib_paradise_peace",
+      "start": 31.428,
+      "end": 35.223
+    },
+    {
+      "id": 2,
+      "section": "maghrib_paradise_peace",
+      "start": 35.573,
+      "end": 38.139
+    },
+    {
+      "id": 3,
+      "section": "maghrib_paradise_peace",
+      "start": 38.489,
+      "end": 40.648
+    },
+    {
+      "id": 4,
+      "section": "maghrib_paradise_peace",
+      "start": 40.998,
+      "end": 44.632
+    },
+    {
+      "id": 5,
+      "section": "maghrib_paradise_peace",
+      "start": 44.982,
+      "end": 48.26
+    },
+    {
+      "id": 6,
+      "section": "maghrib_paradise_peace",
+      "start": 48.61,
+      "end": 51.559
+    },
+    {
+      "id": 7,
+      "section": "maghrib_paradise_peace",
+      "start": 51.909,
+      "end": 53.697
+    },
+    {
+      "id": 8,
+      "section": "maghrib_paradise_peace",
+      "start": 54.047,
+      "end": 57.3
+    },
+    {
+      "id": 1,
+      "section": "maghrib_safe_shelter",
+      "start": 57.65,
+      "end": 64.425
+    },
+    {
+      "id": 2,
+      "section": "maghrib_safe_shelter",
+      "start": 64.775,
+      "end": 73.285
+    },
+    {
+      "id": 1,
+      "section": "maghrib_pure_forgiveness",
+      "start": 73.635,
+      "end": 75.98
+    },
+    {
+      "id": 2,
+      "section": "maghrib_pure_forgiveness",
+      "start": 76.33,
+      "end": 78.954
+    },
+    {
+      "id": 3,
+      "section": "maghrib_pure_forgiveness",
+      "start": 79.304,
+      "end": 83.391
+    },
+    {
+      "id": 1,
+      "section": "maghrib_declaration_faith",
+      "start": 83.741,
+      "end": 85.861
+    },
+    {
+      "id": 1,
+      "section": "maghrib_quran_30_17",
+      "start": 86.211,
+      "end": 90.506
+    },
+    {
+      "id": 2,
+      "section": "maghrib_quran_30_17",
+      "start": 90.856,
+      "end": 97.718
+    },
+    {
+      "id": 1,
+      "section": "maghrib_muqallibal_qulub",
+      "start": 98.068,
+      "end": 103.257
+    },
+    {
+      "id": 2,
+      "section": "maghrib_muqallibal_qulub",
+      "start": 103.607,
+      "end": 111.618
+    },
+    {
+      "id": 3,
+      "section": "maghrib_muqallibal_qulub",
+      "start": 111.968,
+      "end": 114.383
+    },
+    {
+      "id": 4,
+      "section": "maghrib_muqallibal_qulub",
+      "start": 114.733,
+      "end": 120.619
+    },
+    {
+      "id": 5,
+      "section": "maghrib_muqallibal_qulub",
+      "start": 120.969,
+      "end": 126.194
+    },
+    {
+      "id": 6,
+      "section": "maghrib_muqallibal_qulub",
+      "start": 126.544,
+      "end": 133.988
+    },
+    {
+      "id": 1,
+      "section": "fajr_light_certainty",
+      "start": 134.338,
+      "end": 139.528
+    },
+    {
+      "id": 2,
+      "section": "fajr_light_certainty",
+      "start": 139.878,
+      "end": 143.497
+    },
+    {
+      "id": 3,
+      "section": "fajr_light_certainty",
+      "start": 143.847,
+      "end": 145.704
+    },
+    {
+      "id": 4,
+      "section": "fajr_light_certainty",
+      "start": 146.054,
+      "end": 147.75
+    },
+    {
+      "id": 5,
+      "section": "fajr_light_certainty",
+      "start": 148.1,
+      "end": 149.562
+    },
+    {
+      "id": 6,
+      "section": "fajr_light_certainty",
+      "start": 149.912,
+      "end": 151.886
+    },
+    {
+      "id": 7,
+      "section": "fajr_light_certainty",
+      "start": 152.236,
+      "end": 154.546
+    },
+    {
+      "id": 8,
+      "section": "fajr_light_certainty",
+      "start": 154.896,
+      "end": 156.835
+    },
+    {
+      "id": 9,
+      "section": "fajr_light_certainty",
+      "start": 157.185,
+      "end": 160.018
+    },
+    {
+      "id": 1,
+      "section": "maghrib_nafila_amsaytu",
+      "start": 160.368,
+      "end": 165.813
+    },
+    {
+      "id": 2,
+      "section": "maghrib_nafila_amsaytu",
+      "start": 166.163,
+      "end": 169.844
+    },
+    {
+      "id": 3,
+      "section": "maghrib_nafila_amsaytu",
+      "start": 170.194,
+      "end": 176.841
+    },
+    {
+      "id": 4,
+      "section": "maghrib_nafila_amsaytu",
+      "start": 177.191,
+      "end": 183.111
+    },
+    {
+      "id": 5,
+      "section": "maghrib_nafila_amsaytu",
+      "start": 183.461,
+      "end": 187.485
+    },
+    {
+      "id": 6,
+      "section": "maghrib_nafila_amsaytu",
+      "start": 187.835,
+      "end": 192.681
+    },
+    {
+      "id": 7,
+      "section": "maghrib_nafila_amsaytu",
+      "start": 193.031,
+      "end": 197.153
+    },
+    {
+      "id": 8,
+      "section": "maghrib_nafila_amsaytu",
+      "start": 197.503,
+      "end": 210.235
+    },
+    {
+      "id": 9,
+      "section": "maghrib_nafila_amsaytu",
+      "start": 210.585,
+      "end": 213.185
+    },
+    {
+      "id": 10,
+      "section": "maghrib_nafila_amsaytu",
+      "start": 213.535,
+      "end": 216.742
+    },
+    {
+      "id": 1,
+      "section": "maghrib_nafila_yulij",
+      "start": 217.092,
+      "end": 220.726
+    },
+    {
+      "id": 2,
+      "section": "maghrib_nafila_yulij",
+      "start": 221.076,
+      "end": 226.945
+    },
+    {
+      "id": 3,
+      "section": "maghrib_nafila_yulij",
+      "start": 227.295,
+      "end": 235.356
+    },
+    {
+      "id": 1,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 235.706,
+      "end": 239.433
+    },
+    {
+      "id": 2,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 239.783,
+      "end": 243.812
+    },
+    {
+      "id": 3,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 244.162,
+      "end": 248.399
+    },
+    {
+      "id": 4,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 248.749,
+      "end": 252.438
+    },
+    {
+      "id": 5,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 252.788,
+      "end": 258.602
+    },
+    {
+      "id": 6,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 258.952,
+      "end": 262.075
+    },
+    {
+      "id": 7,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 262.425,
+      "end": 267.011
+    },
+    {
+      "id": 8,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 267.361,
+      "end": 273.142
+    },
+    {
+      "id": 9,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 273.492,
+      "end": 277.184
+    },
+    {
+      "id": 10,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 277.534,
+      "end": 281.168
+    },
+    {
+      "id": 11,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 281.518,
+      "end": 284.618
+    },
+    {
+      "id": 12,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 284.968,
+      "end": 288.745
+    },
+    {
+      "id": 13,
+      "section": "maghrib_nafila_izzatillah",
+      "start": 289.095,
+      "end": 291.301
+    },
+    {
+      "id": 1,
+      "section": "maghrib_nafila_uidhu_nafsi",
+      "start": 291.651,
+      "end": 295.157
+    },
+    {
+      "id": 2,
+      "section": "maghrib_nafila_uidhu_nafsi",
+      "start": 295.507,
+      "end": 299.164
+    },
+    {
+      "id": 3,
+      "section": "maghrib_nafila_uidhu_nafsi",
+      "start": 299.514,
+      "end": 302.452
+    },
+    {
+      "id": 4,
+      "section": "maghrib_nafila_uidhu_nafsi",
+      "start": 302.802,
+      "end": 305.263
+    },
+    {
+      "id": 5,
+      "section": "maghrib_nafila_uidhu_nafsi",
+      "start": 305.613,
+      "end": 308.121
+    },
+    {
+      "id": 6,
+      "section": "maghrib_nafila_uidhu_nafsi",
+      "start": 308.471,
+      "end": 317.352
+    },
+    {
+      "id": 1,
+      "section": "maghrib_nafila_shadidal_mahal",
+      "start": 317.702,
+      "end": 319.095
+    },
+    {
+      "id": 2,
+      "section": "maghrib_nafila_shadidal_mahal",
+      "start": 319.445,
+      "end": 325.518
+    },
+    {
+      "id": 3,
+      "section": "maghrib_nafila_shadidal_mahal",
+      "start": 325.868,
+      "end": 328.654
+    }
+  ]
+}

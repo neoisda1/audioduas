@@ -1,0 +1,1065 @@
+{
+  "dua_id": "dua_simaat",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 518.89,
+  "bytes": 2461207,
+  "sha256": "762ae0a476b241661b47b51745de3e43802a537e9e1e0cb76d48dab841ade5d8",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_simaat",
+      "start": 0.0,
+      "end": 3.181
+    },
+    {
+      "id": 2,
+      "section": "dua_simaat",
+      "start": 3.531,
+      "end": 7.048
+    },
+    {
+      "id": 3,
+      "section": "dua_simaat",
+      "start": 7.398,
+      "end": 9.999
+    },
+    {
+      "id": 4,
+      "section": "dua_simaat",
+      "start": 10.349,
+      "end": 13.066
+    },
+    {
+      "id": 5,
+      "section": "dua_simaat",
+      "start": 13.416,
+      "end": 17.597
+    },
+    {
+      "id": 6,
+      "section": "dua_simaat",
+      "start": 17.947,
+      "end": 21.828
+    },
+    {
+      "id": 7,
+      "section": "dua_simaat",
+      "start": 22.178,
+      "end": 25.729
+    },
+    {
+      "id": 8,
+      "section": "dua_simaat",
+      "start": 26.079,
+      "end": 29.479
+    },
+    {
+      "id": 9,
+      "section": "dua_simaat",
+      "start": 29.829,
+      "end": 33.849
+    },
+    {
+      "id": 10,
+      "section": "dua_simaat",
+      "start": 34.199,
+      "end": 36.393
+    },
+    {
+      "id": 11,
+      "section": "dua_simaat",
+      "start": 36.743,
+      "end": 39.367
+    },
+    {
+      "id": 12,
+      "section": "dua_simaat",
+      "start": 39.717,
+      "end": 41.877
+    },
+    {
+      "id": 13,
+      "section": "dua_simaat",
+      "start": 42.227,
+      "end": 43.864
+    },
+    {
+      "id": 14,
+      "section": "dua_simaat",
+      "start": 44.214,
+      "end": 46.245
+    },
+    {
+      "id": 15,
+      "section": "dua_simaat",
+      "start": 46.595,
+      "end": 49.138
+    },
+    {
+      "id": 16,
+      "section": "dua_simaat",
+      "start": 49.488,
+      "end": 50.881
+    },
+    {
+      "id": 17,
+      "section": "dua_simaat",
+      "start": 51.231,
+      "end": 54.61
+    },
+    {
+      "id": 18,
+      "section": "dua_simaat",
+      "start": 54.96,
+      "end": 57.514
+    },
+    {
+      "id": 19,
+      "section": "dua_simaat",
+      "start": 57.864,
+      "end": 59.805
+    },
+    {
+      "id": 20,
+      "section": "dua_simaat",
+      "start": 60.155,
+      "end": 63.197
+    },
+    {
+      "id": 21,
+      "section": "dua_simaat",
+      "start": 63.547,
+      "end": 66.124
+    },
+    {
+      "id": 22,
+      "section": "dua_simaat",
+      "start": 66.474,
+      "end": 68.61
+    },
+    {
+      "id": 23,
+      "section": "dua_simaat",
+      "start": 68.96,
+      "end": 70.597
+    },
+    {
+      "id": 24,
+      "section": "dua_simaat",
+      "start": 70.947,
+      "end": 72.979
+    },
+    {
+      "id": 25,
+      "section": "dua_simaat",
+      "start": 73.329,
+      "end": 76.15
+    },
+    {
+      "id": 26,
+      "section": "dua_simaat",
+      "start": 76.5,
+      "end": 78.915
+    },
+    {
+      "id": 27,
+      "section": "dua_simaat",
+      "start": 79.265,
+      "end": 81.31
+    },
+    {
+      "id": 28,
+      "section": "dua_simaat",
+      "start": 81.66,
+      "end": 83.204
+    },
+    {
+      "id": 29,
+      "section": "dua_simaat",
+      "start": 83.554,
+      "end": 87.37
+    },
+    {
+      "id": 30,
+      "section": "dua_simaat",
+      "start": 87.72,
+      "end": 90.262
+    },
+    {
+      "id": 31,
+      "section": "dua_simaat",
+      "start": 90.612,
+      "end": 93.445
+    },
+    {
+      "id": 32,
+      "section": "dua_simaat",
+      "start": 93.795,
+      "end": 96.001
+    },
+    {
+      "id": 33,
+      "section": "dua_simaat",
+      "start": 96.351,
+      "end": 100.047
+    },
+    {
+      "id": 34,
+      "section": "dua_simaat",
+      "start": 100.397,
+      "end": 102.716
+    },
+    {
+      "id": 35,
+      "section": "dua_simaat",
+      "start": 103.066,
+      "end": 105.55
+    },
+    {
+      "id": 36,
+      "section": "dua_simaat",
+      "start": 105.9,
+      "end": 108.512
+    },
+    {
+      "id": 37,
+      "section": "dua_simaat",
+      "start": 108.862,
+      "end": 112.485
+    },
+    {
+      "id": 38,
+      "section": "dua_simaat",
+      "start": 112.835,
+      "end": 115.296
+    },
+    {
+      "id": 39,
+      "section": "dua_simaat",
+      "start": 115.646,
+      "end": 118.154
+    },
+    {
+      "id": 40,
+      "section": "dua_simaat",
+      "start": 118.504,
+      "end": 120.822
+    },
+    {
+      "id": 41,
+      "section": "dua_simaat",
+      "start": 121.172,
+      "end": 126.874
+    },
+    {
+      "id": 42,
+      "section": "dua_simaat",
+      "start": 127.224,
+      "end": 128.977
+    },
+    {
+      "id": 43,
+      "section": "dua_simaat",
+      "start": 129.327,
+      "end": 130.602
+    },
+    {
+      "id": 44,
+      "section": "dua_simaat",
+      "start": 130.952,
+      "end": 132.542
+    },
+    {
+      "id": 45,
+      "section": "dua_simaat",
+      "start": 132.892,
+      "end": 135.04
+    },
+    {
+      "id": 46,
+      "section": "dua_simaat",
+      "start": 135.39,
+      "end": 136.458
+    },
+    {
+      "id": 47,
+      "section": "dua_simaat",
+      "start": 136.808,
+      "end": 138.074
+    },
+    {
+      "id": 48,
+      "section": "dua_simaat",
+      "start": 138.424,
+      "end": 139.445
+    },
+    {
+      "id": 49,
+      "section": "dua_simaat",
+      "start": 139.795,
+      "end": 141.931
+    },
+    {
+      "id": 50,
+      "section": "dua_simaat",
+      "start": 142.281,
+      "end": 144.87
+    },
+    {
+      "id": 51,
+      "section": "dua_simaat",
+      "start": 145.22,
+      "end": 148.227
+    },
+    {
+      "id": 52,
+      "section": "dua_simaat",
+      "start": 148.577,
+      "end": 152.281
+    },
+    {
+      "id": 53,
+      "section": "dua_simaat",
+      "start": 152.631,
+      "end": 155.94
+    },
+    {
+      "id": 54,
+      "section": "dua_simaat",
+      "start": 156.29,
+      "end": 158.937
+    },
+    {
+      "id": 55,
+      "section": "dua_simaat",
+      "start": 159.287,
+      "end": 162.05
+    },
+    {
+      "id": 56,
+      "section": "dua_simaat",
+      "start": 162.4,
+      "end": 167.102
+    },
+    {
+      "id": 57,
+      "section": "dua_simaat",
+      "start": 167.452,
+      "end": 170.796
+    },
+    {
+      "id": 58,
+      "section": "dua_simaat",
+      "start": 171.146,
+      "end": 172.839
+    },
+    {
+      "id": 59,
+      "section": "dua_simaat",
+      "start": 173.189,
+      "end": 175.971
+    },
+    {
+      "id": 60,
+      "section": "dua_simaat",
+      "start": 176.321,
+      "end": 181.762
+    },
+    {
+      "id": 61,
+      "section": "dua_simaat",
+      "start": 182.112,
+      "end": 186.315
+    },
+    {
+      "id": 62,
+      "section": "dua_simaat",
+      "start": 186.665,
+      "end": 190.322
+    },
+    {
+      "id": 63,
+      "section": "dua_simaat",
+      "start": 190.672,
+      "end": 193.673
+    },
+    {
+      "id": 64,
+      "section": "dua_simaat",
+      "start": 194.023,
+      "end": 197.311
+    },
+    {
+      "id": 65,
+      "section": "dua_simaat",
+      "start": 197.661,
+      "end": 198.926
+    },
+    {
+      "id": 66,
+      "section": "dua_simaat",
+      "start": 199.276,
+      "end": 200.878
+    },
+    {
+      "id": 67,
+      "section": "dua_simaat",
+      "start": 201.228,
+      "end": 203.086
+    },
+    {
+      "id": 68,
+      "section": "dua_simaat",
+      "start": 203.436,
+      "end": 206.42
+    },
+    {
+      "id": 69,
+      "section": "dua_simaat",
+      "start": 206.77,
+      "end": 211.855
+    },
+    {
+      "id": 70,
+      "section": "dua_simaat",
+      "start": 212.205,
+      "end": 214.679
+    },
+    {
+      "id": 71,
+      "section": "dua_simaat",
+      "start": 215.029,
+      "end": 216.632
+    },
+    {
+      "id": 72,
+      "section": "dua_simaat",
+      "start": 216.982,
+      "end": 218.212
+    },
+    {
+      "id": 73,
+      "section": "dua_simaat",
+      "start": 218.562,
+      "end": 220.234
+    },
+    {
+      "id": 74,
+      "section": "dua_simaat",
+      "start": 220.584,
+      "end": 222.012
+    },
+    {
+      "id": 75,
+      "section": "dua_simaat",
+      "start": 222.362,
+      "end": 224.382
+    },
+    {
+      "id": 76,
+      "section": "dua_simaat",
+      "start": 224.732,
+      "end": 228.622
+    },
+    {
+      "id": 77,
+      "section": "dua_simaat",
+      "start": 228.972,
+      "end": 231.979
+    },
+    {
+      "id": 78,
+      "section": "dua_simaat",
+      "start": 232.329,
+      "end": 235.521
+    },
+    {
+      "id": 79,
+      "section": "dua_simaat",
+      "start": 235.871,
+      "end": 238.673
+    },
+    {
+      "id": 80,
+      "section": "dua_simaat",
+      "start": 239.023,
+      "end": 241.948
+    },
+    {
+      "id": 81,
+      "section": "dua_simaat",
+      "start": 242.298,
+      "end": 245.405
+    },
+    {
+      "id": 82,
+      "section": "dua_simaat",
+      "start": 245.755,
+      "end": 248.286
+    },
+    {
+      "id": 83,
+      "section": "dua_simaat",
+      "start": 248.636,
+      "end": 250.725
+    },
+    {
+      "id": 84,
+      "section": "dua_simaat",
+      "start": 251.075,
+      "end": 253.188
+    },
+    {
+      "id": 85,
+      "section": "dua_simaat",
+      "start": 253.538,
+      "end": 255.93
+    },
+    {
+      "id": 86,
+      "section": "dua_simaat",
+      "start": 256.28,
+      "end": 257.789
+    },
+    {
+      "id": 87,
+      "section": "dua_simaat",
+      "start": 258.139,
+      "end": 260.484
+    },
+    {
+      "id": 88,
+      "section": "dua_simaat",
+      "start": 260.834,
+      "end": 262.68
+    },
+    {
+      "id": 89,
+      "section": "dua_simaat",
+      "start": 263.03,
+      "end": 265.109
+    },
+    {
+      "id": 90,
+      "section": "dua_simaat",
+      "start": 265.459,
+      "end": 268.129
+    },
+    {
+      "id": 91,
+      "section": "dua_simaat",
+      "start": 268.479,
+      "end": 272.357
+    },
+    {
+      "id": 92,
+      "section": "dua_simaat",
+      "start": 272.707,
+      "end": 275.249
+    },
+    {
+      "id": 93,
+      "section": "dua_simaat",
+      "start": 275.599,
+      "end": 281.478
+    },
+    {
+      "id": 94,
+      "section": "dua_simaat",
+      "start": 281.828,
+      "end": 284.51
+    },
+    {
+      "id": 95,
+      "section": "dua_simaat",
+      "start": 284.86,
+      "end": 288.099
+    },
+    {
+      "id": 96,
+      "section": "dua_simaat",
+      "start": 288.449,
+      "end": 290.907
+    },
+    {
+      "id": 97,
+      "section": "dua_simaat",
+      "start": 291.257,
+      "end": 293.777
+    },
+    {
+      "id": 98,
+      "section": "dua_simaat",
+      "start": 294.127,
+      "end": 297.563
+    },
+    {
+      "id": 99,
+      "section": "dua_simaat",
+      "start": 297.913,
+      "end": 299.516
+    },
+    {
+      "id": 100,
+      "section": "dua_simaat",
+      "start": 299.866,
+      "end": 303.906
+    },
+    {
+      "id": 101,
+      "section": "dua_simaat",
+      "start": 304.256,
+      "end": 306.079
+    },
+    {
+      "id": 102,
+      "section": "dua_simaat",
+      "start": 306.429,
+      "end": 308.913
+    },
+    {
+      "id": 103,
+      "section": "dua_simaat",
+      "start": 309.263,
+      "end": 313.361
+    },
+    {
+      "id": 104,
+      "section": "dua_simaat",
+      "start": 313.711,
+      "end": 316.82
+    },
+    {
+      "id": 105,
+      "section": "dua_simaat",
+      "start": 317.17,
+      "end": 319.084
+    },
+    {
+      "id": 106,
+      "section": "dua_simaat",
+      "start": 319.434,
+      "end": 322.081
+    },
+    {
+      "id": 107,
+      "section": "dua_simaat",
+      "start": 322.431,
+      "end": 324.272
+    },
+    {
+      "id": 108,
+      "section": "dua_simaat",
+      "start": 324.622,
+      "end": 327.049
+    },
+    {
+      "id": 109,
+      "section": "dua_simaat",
+      "start": 327.399,
+      "end": 331.012
+    },
+    {
+      "id": 110,
+      "section": "dua_simaat",
+      "start": 331.362,
+      "end": 334.226
+    },
+    {
+      "id": 111,
+      "section": "dua_simaat",
+      "start": 334.576,
+      "end": 340.396
+    },
+    {
+      "id": 112,
+      "section": "dua_simaat",
+      "start": 340.746,
+      "end": 343.962
+    },
+    {
+      "id": 113,
+      "section": "dua_simaat",
+      "start": 344.312,
+      "end": 347.04
+    },
+    {
+      "id": 114,
+      "section": "dua_simaat",
+      "start": 347.39,
+      "end": 350.316
+    },
+    {
+      "id": 115,
+      "section": "dua_simaat",
+      "start": 350.666,
+      "end": 356.135
+    },
+    {
+      "id": 116,
+      "section": "dua_simaat",
+      "start": 356.485,
+      "end": 358.646
+    },
+    {
+      "id": 117,
+      "section": "dua_simaat",
+      "start": 358.996,
+      "end": 360.645
+    },
+    {
+      "id": 118,
+      "section": "dua_simaat",
+      "start": 360.995,
+      "end": 362.875
+    },
+    {
+      "id": 119,
+      "section": "dua_simaat",
+      "start": 363.225,
+      "end": 368.141
+    },
+    {
+      "id": 120,
+      "section": "dua_simaat",
+      "start": 368.491,
+      "end": 370.805
+    },
+    {
+      "id": 121,
+      "section": "dua_simaat",
+      "start": 371.155,
+      "end": 372.792
+    },
+    {
+      "id": 122,
+      "section": "dua_simaat",
+      "start": 373.142,
+      "end": 375.034
+    },
+    {
+      "id": 123,
+      "section": "dua_simaat",
+      "start": 375.384,
+      "end": 377.962
+    },
+    {
+      "id": 124,
+      "section": "dua_simaat",
+      "start": 378.312,
+      "end": 381.354
+    },
+    {
+      "id": 125,
+      "section": "dua_simaat",
+      "start": 381.704,
+      "end": 383.666
+    },
+    {
+      "id": 126,
+      "section": "dua_simaat",
+      "start": 384.016,
+      "end": 385.866
+    },
+    {
+      "id": 127,
+      "section": "dua_simaat",
+      "start": 386.216,
+      "end": 388.432
+    },
+    {
+      "id": 128,
+      "section": "dua_simaat",
+      "start": 388.782,
+      "end": 391.045
+    },
+    {
+      "id": 129,
+      "section": "dua_simaat",
+      "start": 391.395,
+      "end": 393.845
+    },
+    {
+      "id": 130,
+      "section": "dua_simaat",
+      "start": 394.195,
+      "end": 395.252
+    },
+    {
+      "id": 131,
+      "section": "dua_simaat",
+      "start": 395.602,
+      "end": 396.996
+    },
+    {
+      "id": 132,
+      "section": "dua_simaat",
+      "start": 397.346,
+      "end": 398.669
+    },
+    {
+      "id": 133,
+      "section": "dua_simaat",
+      "start": 399.019,
+      "end": 401.327
+    },
+    {
+      "id": 134,
+      "section": "dua_simaat",
+      "start": 401.677,
+      "end": 403.628
+    },
+    {
+      "id": 135,
+      "section": "dua_simaat",
+      "start": 403.978,
+      "end": 405.657
+    },
+    {
+      "id": 136,
+      "section": "dua_simaat",
+      "start": 406.007,
+      "end": 409.397
+    },
+    {
+      "id": 137,
+      "section": "dua_simaat",
+      "start": 409.747,
+      "end": 412.086
+    },
+    {
+      "id": 138,
+      "section": "dua_simaat",
+      "start": 412.436,
+      "end": 414.004
+    },
+    {
+      "id": 139,
+      "section": "dua_simaat",
+      "start": 414.354,
+      "end": 417.186
+    },
+    {
+      "id": 140,
+      "section": "dua_simaat",
+      "start": 417.536,
+      "end": 420.718
+    },
+    {
+      "id": 141,
+      "section": "dua_simaat",
+      "start": 421.068,
+      "end": 424.353
+    },
+    {
+      "id": 142,
+      "section": "dua_simaat",
+      "start": 424.703,
+      "end": 427.559
+    },
+    {
+      "id": 143,
+      "section": "dua_simaat",
+      "start": 427.909,
+      "end": 430.58
+    },
+    {
+      "id": 144,
+      "section": "dua_simaat",
+      "start": 430.93,
+      "end": 432.95
+    },
+    {
+      "id": 145,
+      "section": "dua_simaat",
+      "start": 433.3,
+      "end": 435.115
+    },
+    {
+      "id": 146,
+      "section": "dua_simaat",
+      "start": 435.465,
+      "end": 437.59
+    },
+    {
+      "id": 147,
+      "section": "dua_simaat",
+      "start": 437.94,
+      "end": 439.879
+    },
+    {
+      "id": 148,
+      "section": "dua_simaat",
+      "start": 440.229,
+      "end": 442.524
+    },
+    {
+      "id": 149,
+      "section": "dua_simaat",
+      "start": 442.874,
+      "end": 445.626
+    },
+    {
+      "id": 150,
+      "section": "dua_simaat",
+      "start": 445.976,
+      "end": 448.286
+    },
+    {
+      "id": 151,
+      "section": "dua_simaat",
+      "start": 448.636,
+      "end": 451.04
+    },
+    {
+      "id": 152,
+      "section": "dua_simaat",
+      "start": 451.39,
+      "end": 452.585
+    },
+    {
+      "id": 153,
+      "section": "dua_simaat",
+      "start": 452.935,
+      "end": 454.189
+    },
+    {
+      "id": 154,
+      "section": "dua_simaat",
+      "start": 454.539,
+      "end": 455.909
+    },
+    {
+      "id": 155,
+      "section": "dua_simaat",
+      "start": 456.259,
+      "end": 457.502
+    },
+    {
+      "id": 156,
+      "section": "dua_simaat",
+      "start": 457.852,
+      "end": 459.036
+    },
+    {
+      "id": 157,
+      "section": "dua_simaat",
+      "start": 459.386,
+      "end": 462.346
+    },
+    {
+      "id": 158,
+      "section": "dua_simaat",
+      "start": 462.696,
+      "end": 464.449
+    },
+    {
+      "id": 159,
+      "section": "dua_simaat",
+      "start": 464.799,
+      "end": 466.982
+    },
+    {
+      "id": 160,
+      "section": "dua_simaat",
+      "start": 467.332,
+      "end": 469.19
+    },
+    {
+      "id": 161,
+      "section": "dua_simaat",
+      "start": 469.54,
+      "end": 471.467
+    },
+    {
+      "id": 162,
+      "section": "dua_simaat",
+      "start": 471.817,
+      "end": 474.569
+    },
+    {
+      "id": 163,
+      "section": "dua_simaat",
+      "start": 474.919,
+      "end": 477.293
+    },
+    {
+      "id": 164,
+      "section": "dua_simaat",
+      "start": 477.643,
+      "end": 479.57
+    },
+    {
+      "id": 165,
+      "section": "dua_simaat",
+      "start": 479.92,
+      "end": 481.483
+    },
+    {
+      "id": 166,
+      "section": "dua_simaat",
+      "start": 481.833,
+      "end": 483.307
+    },
+    {
+      "id": 167,
+      "section": "dua_simaat",
+      "start": 483.657,
+      "end": 485.879
+    },
+    {
+      "id": 168,
+      "section": "dua_simaat",
+      "start": 486.229,
+      "end": 490.072
+    },
+    {
+      "id": 169,
+      "section": "dua_simaat",
+      "start": 490.422,
+      "end": 493.75
+    },
+    {
+      "id": 170,
+      "section": "dua_simaat",
+      "start": 494.1,
+      "end": 498.012
+    },
+    {
+      "id": 171,
+      "section": "dua_simaat",
+      "start": 498.362,
+      "end": 502.414
+    },
+    {
+      "id": 172,
+      "section": "dua_simaat",
+      "start": 502.764,
+      "end": 508.298
+    },
+    {
+      "id": 173,
+      "section": "dua_simaat",
+      "start": 508.648,
+      "end": 511.553
+    },
+    {
+      "id": 174,
+      "section": "dua_simaat",
+      "start": 511.903,
+      "end": 516.414
+    },
+    {
+      "id": 175,
+      "section": "dua_simaat",
+      "start": 516.764,
+      "end": 518.54
+    }
+  ]
+}

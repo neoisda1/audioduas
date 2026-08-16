@@ -1,0 +1,39 @@
+{
+  "dua_id": "dua_after_rising_from_your_bed",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 10.578,
+  "bytes": 49711,
+  "sha256": "74c84298ea2a23d4631d30a1e06a9827feeefdcf7d39fd915adf673925eafa2c",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_after_rising_from_your_bed",
+      "start": 0.0,
+      "end": 2.145
+    },
+    {
+      "id": 2,
+      "section": "dua_after_rising_from_your_bed",
+      "start": 2.495,
+      "end": 5.154
+    },
+    {
+      "id": 3,
+      "section": "dua_after_rising_from_your_bed",
+      "start": 5.504,
+      "end": 7.725
+    },
+    {
+      "id": 4,
+      "section": "dua_after_rising_from_your_bed",
+      "start": 8.075,
+      "end": 10.228
+    }
+  ]
+}

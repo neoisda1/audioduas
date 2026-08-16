@@ -1,0 +1,27 @@
+{
+  "dua_id": "dua_when_wearing_clothes",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 8.749,
+  "bytes": 36460,
+  "sha256": "c09c491488c4c0966081968d64704bf1466e3c471f074d4e98282217860f97b2",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_wearing_clothes",
+      "start": 0.0,
+      "end": 5.356
+    },
+    {
+      "id": 2,
+      "section": "dua_when_wearing_clothes",
+      "start": 5.706,
+      "end": 8.399
+    }
+  ]
+}

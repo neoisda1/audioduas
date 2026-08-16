@@ -1,0 +1,51 @@
+{
+  "dua_id": "dua_after_reciting_the_quran",
+  "language": "urdu",
+  "voice": "ur_PK-fasih-medium",
+  "voice_licence": "MIT",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 20.359,
+  "bytes": 96523,
+  "sha256": "b0adcc6458167195ad45fe45016025ba50c75d56c08e3e3cd496b92f074a3013",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_after_reciting_the_quran",
+      "start": 0.0,
+      "end": 3.704
+    },
+    {
+      "id": 2,
+      "section": "dua_after_reciting_the_quran",
+      "start": 4.054,
+      "end": 6.724
+    },
+    {
+      "id": 3,
+      "section": "dua_after_reciting_the_quran",
+      "start": 7.074,
+      "end": 9.663
+    },
+    {
+      "id": 4,
+      "section": "dua_after_reciting_the_quran",
+      "start": 10.013,
+      "end": 12.451
+    },
+    {
+      "id": 5,
+      "section": "dua_after_reciting_the_quran",
+      "start": 12.801,
+      "end": 15.808
+    },
+    {
+      "id": 6,
+      "section": "dua_after_reciting_the_quran",
+      "start": 16.158,
+      "end": 20.009
+    }
+  ]
+}

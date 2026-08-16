@@ -1,0 +1,33 @@
+{
+  "dua_id": "dua_when_wearing_shoes",
+  "language": "english",
+  "voice": "en_US-joe-medium",
+  "voice_licence": "CC0",
+  "synthesised": true,
+  "codec": "aac-lc",
+  "bitrate": "32k",
+  "sample_rate": 22050,
+  "duration": 8.26,
+  "bytes": 39379,
+  "sha256": "064810a74c5b3ce2ef84488c245292878593829d7274ec13dd3afdfdba19112e",
+  "lines": [
+    {
+      "id": 1,
+      "section": "dua_when_wearing_shoes",
+      "start": 0.0,
+      "end": 3.355
+    },
+    {
+      "id": 2,
+      "section": "dua_when_wearing_shoes",
+      "start": 3.705,
+      "end": 5.911
+    },
+    {
+      "id": 3,
+      "section": "dua_when_wearing_shoes",
+      "start": 6.261,
+      "end": 7.91
+    }
+  ]
+}
