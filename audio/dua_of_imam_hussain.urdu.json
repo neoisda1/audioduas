@@ -7,273 +7,273 @@
   "codec": "aac-lc",
   "bitrate": "32k",
   "sample_rate": 22050,
-  "duration": 156.206,
-  "bytes": 758313,
-  "sha256": "b4c6b300e9211b80d12b57ace2eb2bd19b4ba5e78facf3627d17dc638bb2c80e",
+  "duration": 151.975,
+  "bytes": 736356,
+  "sha256": "9045703d94c4737cfa6f790c5cadccd8ce438d223f075e88848112c3a6d2848a",
   "lines": [
     {
       "id": 1,
       "section": "dua_of_imam_hussain",
       "start": 0.0,
-      "end": 3.795
+      "end": 3.866
     },
     {
       "id": 2,
       "section": "dua_of_imam_hussain",
-      "start": 4.145,
-      "end": 8.139
+      "start": 4.216,
+      "end": 8.082
     },
     {
       "id": 3,
       "section": "dua_of_imam_hussain",
-      "start": 8.489,
-      "end": 13.635
+      "start": 8.432,
+      "end": 13.469
     },
     {
       "id": 4,
       "section": "dua_of_imam_hussain",
-      "start": 13.985,
-      "end": 18.588
+      "start": 13.819,
+      "end": 18.082
     },
     {
       "id": 5,
       "section": "dua_of_imam_hussain",
-      "start": 18.938,
-      "end": 21.771
+      "start": 18.432,
+      "end": 21.206
     },
     {
       "id": 6,
       "section": "dua_of_imam_hussain",
-      "start": 22.121,
-      "end": 24.118
+      "start": 21.556,
+      "end": 23.437
     },
     {
       "id": 7,
       "section": "dua_of_imam_hussain",
-      "start": 24.468,
-      "end": 29.216
+      "start": 23.787,
+      "end": 28.454
     },
     {
       "id": 8,
       "section": "dua_of_imam_hussain",
-      "start": 29.566,
-      "end": 30.843
+      "start": 28.804,
+      "end": 30.024
     },
     {
       "id": 9,
       "section": "dua_of_imam_hussain",
-      "start": 31.193,
-      "end": 32.807
+      "start": 30.374,
+      "end": 32.011
     },
     {
       "id": 10,
       "section": "dua_of_imam_hussain",
-      "start": 33.157,
-      "end": 35.758
+      "start": 32.361,
+      "end": 34.729
     },
     {
       "id": 11,
       "section": "dua_of_imam_hussain",
-      "start": 36.108,
-      "end": 39.579
+      "start": 35.079,
+      "end": 38.562
     },
     {
       "id": 12,
       "section": "dua_of_imam_hussain",
-      "start": 39.929,
-      "end": 41.636
+      "start": 38.912,
+      "end": 40.41
     },
     {
       "id": 13,
       "section": "dua_of_imam_hussain",
-      "start": 41.986,
-      "end": 44.389
+      "start": 40.76,
+      "end": 42.884
     },
     {
       "id": 14,
       "section": "dua_of_imam_hussain",
-      "start": 44.739,
-      "end": 47.955
+      "start": 43.234,
+      "end": 46.218
     },
     {
       "id": 15,
       "section": "dua_of_imam_hussain",
-      "start": 48.305,
-      "end": 52.02
+      "start": 46.568,
+      "end": 50.459
     },
     {
       "id": 16,
       "section": "dua_of_imam_hussain",
-      "start": 52.37,
-      "end": 54.054
+      "start": 50.809,
+      "end": 52.643
     },
     {
       "id": 17,
       "section": "dua_of_imam_hussain",
-      "start": 54.404,
-      "end": 55.576
+      "start": 52.993,
+      "end": 54.096
     },
     {
       "id": 18,
       "section": "dua_of_imam_hussain",
-      "start": 55.926,
-      "end": 57.993
+      "start": 54.446,
+      "end": 56.455
     },
     {
       "id": 19,
       "section": "dua_of_imam_hussain",
-      "start": 58.343,
-      "end": 60.549
+      "start": 56.805,
+      "end": 58.871
     },
     {
       "id": 20,
       "section": "dua_of_imam_hussain",
-      "start": 60.899,
-      "end": 65.16
+      "start": 59.221,
+      "end": 63.387
     },
     {
       "id": 21,
       "section": "dua_of_imam_hussain",
-      "start": 65.51,
-      "end": 69.491
+      "start": 63.737,
+      "end": 67.278
     },
     {
       "id": 22,
       "section": "dua_of_imam_hussain",
-      "start": 69.841,
-      "end": 74.455
+      "start": 67.628,
+      "end": 71.991
     },
     {
       "id": 23,
       "section": "dua_of_imam_hussain",
-      "start": 74.805,
-      "end": 76.906
+      "start": 72.341,
+      "end": 74.187
     },
     {
       "id": 24,
       "section": "dua_of_imam_hussain",
-      "start": 77.256,
-      "end": 80.925
+      "start": 74.537,
+      "end": 78.298
     },
     {
       "id": 25,
       "section": "dua_of_imam_hussain",
-      "start": 81.275,
-      "end": 84.201
+      "start": 78.648,
+      "end": 81.491
     },
     {
       "id": 26,
       "section": "dua_of_imam_hussain",
-      "start": 84.551,
-      "end": 88.77
+      "start": 81.841,
+      "end": 86.102
     },
     {
       "id": 27,
       "section": "dua_of_imam_hussain",
-      "start": 89.12,
-      "end": 90.456
+      "start": 86.452,
+      "end": 87.961
     },
     {
       "id": 28,
       "section": "dua_of_imam_hussain",
-      "start": 90.806,
-      "end": 94.799
+      "start": 88.311,
+      "end": 92.323
     },
     {
       "id": 29,
       "section": "dua_of_imam_hussain",
-      "start": 95.149,
-      "end": 96.496
+      "start": 92.673,
+      "end": 93.903
     },
     {
       "id": 30,
       "section": "dua_of_imam_hussain",
-      "start": 96.846,
-      "end": 102.338
+      "start": 94.253,
+      "end": 99.838
     },
     {
       "id": 31,
       "section": "dua_of_imam_hussain",
-      "start": 102.688,
-      "end": 106.055
+      "start": 100.188,
+      "end": 103.137
     },
     {
       "id": 32,
       "section": "dua_of_imam_hussain",
-      "start": 106.405,
-      "end": 110.964
+      "start": 103.487,
+      "end": 107.834
     },
     {
       "id": 33,
       "section": "dua_of_imam_hussain",
-      "start": 111.314,
-      "end": 114.681
+      "start": 108.184,
+      "end": 111.598
     },
     {
       "id": 34,
       "section": "dua_of_imam_hussain",
-      "start": 115.031,
-      "end": 118.27
+      "start": 111.948,
+      "end": 115.117
     },
     {
       "id": 35,
       "section": "dua_of_imam_hussain",
-      "start": 118.62,
-      "end": 121.859
+      "start": 115.467,
+      "end": 118.416
     },
     {
       "id": 36,
       "section": "dua_of_imam_hussain",
-      "start": 122.209,
-      "end": 123.359
+      "start": 118.766,
+      "end": 119.881
     },
     {
       "id": 37,
       "section": "dua_of_imam_hussain",
-      "start": 123.709,
-      "end": 125.972
+      "start": 120.231,
+      "end": 122.471
     },
     {
       "id": 38,
       "section": "dua_of_imam_hussain",
-      "start": 126.322,
-      "end": 130.502
+      "start": 122.821,
+      "end": 126.885
     },
     {
       "id": 39,
       "section": "dua_of_imam_hussain",
-      "start": 130.852,
-      "end": 133.151
+      "start": 127.235,
+      "end": 129.441
     },
     {
       "id": 40,
       "section": "dua_of_imam_hussain",
-      "start": 133.501,
-      "end": 141.953
+      "start": 129.791,
+      "end": 138.066
     },
     {
       "id": 41,
       "section": "dua_of_imam_hussain",
-      "start": 142.303,
-      "end": 144.602
+      "start": 138.416,
+      "end": 140.726
     },
     {
       "id": 42,
       "section": "dua_of_imam_hussain",
-      "start": 144.952,
-      "end": 148.237
+      "start": 141.076,
+      "end": 144.014
     },
     {
       "id": 43,
       "section": "dua_of_imam_hussain",
-      "start": 148.587,
-      "end": 152.719
+      "start": 144.364,
+      "end": 148.524
     },
     {
       "id": 44,
       "section": "dua_of_imam_hussain",
-      "start": 153.069,
-      "end": 155.856
+      "start": 148.874,
+      "end": 151.625
     }
   ]
 }
